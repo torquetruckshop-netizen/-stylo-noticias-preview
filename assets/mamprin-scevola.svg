@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
+  <title id="title">Mamprin Scévola</title>
+  <desc id="desc">Identificación gráfica de Mamprin y Scévola para la franja de sponsors.</desc>
+  <rect width="900" height="220" rx="18" fill="#ffffff"/>
+  <g transform="translate(42 55)">
+    <text x="0" y="76" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="800" letter-spacing="2" fill="#153c63">MAMPRIN</text>
+    <g transform="translate(305 17)" fill="none" stroke-linecap="round" stroke-width="14">
+      <path d="M20 37c17-26 48-31 71-9l15 14" stroke="#1e78b3"/>
+      <path d="M106 42l13 12c23 22 18 54-9 71" stroke="#8a9aa6"/>
+      <path d="M109 91c-17 26-48 31-71 9L23 86" stroke="#1e78b3"/>
+      <path d="M23 86L10 74c-23-22-18-54 9-71" stroke="#8a9aa6"/>
+    </g>
+    <text x="458" y="76" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="800" letter-spacing="2" fill="#6e7c87">SCÉVOLA</text>
+  </g>
+</svg>
