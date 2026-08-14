@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Vista previa del Modo Ruta de Stylo Camión Noticias.">
+  <title>Modo Ruta · Stylo Camión® Noticias</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="route-page">
+  <div class="preview-note">VISTA PREVIA · Demostración funcional de Modo Ruta</div>
+  <header class="topbar">
+    <a class="brand" href="https://stylocamion.com/"><span class="brand-mark">SC</span><span>STYLO CAMIÓN<sup>®</sup></span></a>
+    <nav class="menu" aria-label="Navegación de Noticias">
+      <a href="index.html">Noticias</a>
+      <a href="hitos.html">Hitos</a>
+      <a href="boletin.html" class="active">Modo Ruta</a>
+      <a class="menu-home" href="https://stylocamion.com/">Plataforma ↗</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="route-hero">
+      <a class="back-link" href="index.html">← Volver a Noticias</a>
+      <p class="eyebrow" style="margin-top:18px">MODO RUTA · AUDIO</p>
+      <h1>Boletín de Ruta <span>Stylo Camión</span></h1>
+      <p>Una prueba simple del concepto: tocás una vez y el navegador reproduce una selección breve de noticias y datos operativos, una detrás de otra.</p>
+    </section>
+
+    <section class="route-player" aria-label="Reproductor de Modo Ruta">
+      <div class="route-console">
+        <span class="route-now-label">AHORA EN EL BOLETÍN</span>
+        <h2 class="route-now" id="routeNow">Preparando selección…</h2>
+        <div class="route-meta" id="routeMeta"></div>
+        <p class="route-summary" id="routeSummary">Cargando la edición de vista previa.</p>
+        <div class="route-controls">
+          <button type="button" class="route-primary" id="routePlay">▶ Iniciar boletín</button>
+          <button type="button" id="routePause">Pausar</button>
+          <button type="button" id="routeStop">Detener</button>
+        </div>
+        <div class="route-progress"><span id="routeProgress"></span></div>
+        <div class="route-status" id="routeStatus">Listo para iniciar.</div>
+      </div>
+
+      <aside class="route-side">
+        <section class="route-card">
+          <span class="eyebrow">EDICIÓN DE PRUEBA</span>
+          <strong id="routeEdition">Hoy</strong>
+          <p id="routeDuration">5 bloques · aproximadamente 2 minutos.</p>
+        </section>
+        <section class="route-card">
+          <span class="eyebrow">OBJETIVO</span>
+          <strong>Un toque y sigue solo.</strong>
+          <p>La versión final podrá tomar automáticamente la selección del radar regional de Noticias.</p>
+          <small>La voz depende del navegador y del dispositivo. En iPhone puede detenerse al bloquear la pantalla.</small>
+        </section>
+      </aside>
+    </section>
+
+    <section class="route-safety">
+      <div class="route-safety-inner"><strong>Uso seguro:</strong> iniciá o configurá el audio antes de conducir. Durante la marcha utilizá controles manos libres o los controles de audio del vehículo.</div>
+    </section>
+
+    <section class="route-playlist">
+      <p class="eyebrow">SELECCIÓN DE LA VISTA PREVIA</p>
+      <h2>Qué vas a escuchar</h2>
+      <div class="route-list" id="routeList"></div>
+    </section>
+  </main>
+
+  <footer>
+    <div><strong>STYLO CAMIÓN<sup>®</sup></strong><p>Noticias · Hitos · Modo Ruta.</p></div>
+    <div class="footer-links"><a href="index.html">Noticias</a><a href="hitos.html">Hitos</a><a href="boletin.html">Modo Ruta</a></div>
+    <p>2026 · Vista previa</p>
+  </footer>
+  <script src="boletin.js"></script>
+</body>
+</html>
