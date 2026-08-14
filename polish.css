@@ -1,0 +1,26 @@
+/* Pulido visual final · Stylo Camión Noticias */
+a:focus-visible,button:focus-visible{outline:3px solid #27b6ff;outline-offset:3px}
+.radar-card,.tool,.interview,.promo,.route,.status,.sponsor-card,.history-card,.route-console,.route-card{border-radius:12px}
+.radar-card,.tool,.promo,.sponsor-card,.history-card{box-shadow:0 8px 24px rgba(8,17,27,.045)}
+.radar-card,.tool,.sponsor-card{transition:transform .18s ease,border-color .18s ease,box-shadow .18s ease}
+.radar-card:hover,.tool:hover,.sponsor-card:hover{transform:translateY(-3px);box-shadow:0 14px 32px rgba(8,17,27,.09)}
+.button{border-radius:8px;transition:transform .16s ease,filter .16s ease}
+.button:hover{transform:translateY(-1px);filter:brightness(1.04)}
+.section-note{border-radius:999px}
+.status{box-shadow:inset 0 0 0 1px rgba(255,255,255,.015)}
+.interview,.history-card{isolation:isolate}
+.interview-media img{transition:transform .45s ease}.interview-media:hover img{transform:scale(1.015)}
+.sponsors{border-radius:16px 16px 0 0;padding:30px;background:linear-gradient(180deg,#eef2f5 0%,#e9eef2 100%)}
+.sponsors-head{padding-bottom:4px}.sponsors-head>span{max-width:320px;text-align:right;line-height:1.45}
+.sponsors-grid{gap:14px;align-items:stretch}
+.sponsor-card{padding:0;min-height:190px;overflow:hidden;background:#fff;justify-content:space-between;border-top:1px solid #d5dee4}
+.sponsor-card.sponsor-main{border-top:3px solid #27b6ff}
+.sponsor-logo-wrap{height:132px;display:flex;align-items:center;justify-content:center;padding:20px 24px;background:#fff}
+.sponsor-logo-wrap img{display:block;width:100%;height:100%;object-fit:contain;max-width:520px}
+.sponsor-copy{border-top:1px solid #edf1f4;padding:14px 18px 15px;display:flex;align-items:center;justify-content:space-between;gap:14px;background:#fbfcfd}
+.sponsor-copy small{font-size:9px;font-weight:800;letter-spacing:.12em;color:#81909a;white-space:nowrap}
+.sponsor-copy span{font-size:11px;color:#60717d;text-align:right}.sponsor-copy b{color:#0b76ad}
+footer{border-top:1px solid #132330}
+@media(max-width:900px){.sponsors-head>span{text-align:left}.sponsor-logo-wrap{height:125px}.sponsor-copy{align-items:flex-start;flex-direction:column;gap:6px}.sponsor-copy span{text-align:left}}
+@media(max-width:600px){.radar-card,.tool,.interview,.promo,.route,.status,.sponsor-card,.history-card,.route-console,.route-card{border-radius:10px}.sponsors{padding:22px 16px}.sponsor-card{min-height:164px}.sponsor-logo-wrap{height:112px;padding:16px 18px}.sponsor-copy{padding:12px 14px}.sponsors-head h2{font-size:36px}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}.interview-media:hover img{transform:none}}
