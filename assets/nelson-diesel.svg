@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" role="img" aria-labelledby="title desc">
+  <title id="title">Nelson Diesel</title>
+  <desc id="desc">Identificación gráfica de Nelson Diesel para la franja de sponsors.</desc>
+  <rect width="760" height="220" rx="18" fill="#ffffff"/>
+  <g transform="translate(40 42)">
+    <circle cx="66" cy="66" r="58" fill="#0b2030"/>
+    <path d="M31 76h24l11-35h19l-8 25h31l-5 16H72l-11 34H42l8-24H26z" fill="#27b6ff"/>
+    <text x="150" y="66" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="800" letter-spacing="1.5" fill="#0b2030">NELSON</text>
+    <text x="152" y="113" font-family="Arial,Helvetica,sans-serif" font-size="39" font-weight="800" letter-spacing="8" fill="#2987b9">DIESEL</text>
+    <text x="154" y="137" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="4" fill="#798a95">CRESPO · ENTRE RÍOS</text>
+  </g>
+</svg>
