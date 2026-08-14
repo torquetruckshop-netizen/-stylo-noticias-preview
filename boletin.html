@@ -3,15 +3,17 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="Vista previa del Modo Ruta de Stylo Camión Noticias.">
+  <meta name="description" content="Modo Ruta de Stylo Camión Noticias: selección automática de noticias del transporte para escuchar en formato continuo.">
+  <meta name="theme-color" content="#07111b">
   <title>Modo Ruta · Stylo Camión® Noticias</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="polish.css">
 </head>
 <body class="route-page">
-  <div class="preview-note">VISTA PREVIA · Demostración funcional de Modo Ruta</div>
+  <div class="preview-note">VISTA PREVIA · Modo Ruta conectado al radar automático</div>
   <header class="topbar">
     <a class="brand" href="https://stylocamion.com/"><span class="brand-mark">SC</span><span>STYLO CAMIÓN<sup>®</sup></span></a>
     <nav class="menu" aria-label="Navegación de Noticias">
@@ -27,7 +29,7 @@
       <a class="back-link" href="index.html">← Volver a Noticias</a>
       <p class="eyebrow" style="margin-top:18px">MODO RUTA · AUDIO</p>
       <h1>Boletín de Ruta <span>Stylo Camión</span></h1>
-      <p>Una prueba simple del concepto: tocás una vez y el navegador reproduce una selección breve de noticias y datos operativos, una detrás de otra.</p>
+      <p>Una selección automática de las noticias más relevantes del radar regional. Iniciás una vez y el navegador reproduce los temas consecutivamente, con título, resumen, contexto y fuente.</p>
     </section>
 
     <section class="route-player" aria-label="Reproductor de Modo Ruta">
@@ -35,27 +37,27 @@
         <span class="route-now-label">AHORA EN EL BOLETÍN</span>
         <h2 class="route-now" id="routeNow">Preparando selección…</h2>
         <div class="route-meta" id="routeMeta"></div>
-        <p class="route-summary" id="routeSummary">Cargando la edición de vista previa.</p>
+        <p class="route-summary" id="routeSummary">Cargando la edición actual del radar regional.</p>
         <div class="route-controls">
           <button type="button" class="route-primary" id="routePlay">▶ Iniciar boletín</button>
           <button type="button" id="routePause">Pausar</button>
           <button type="button" id="routeStop">Detener</button>
         </div>
-        <div class="route-progress"><span id="routeProgress"></span></div>
-        <div class="route-status" id="routeStatus">Listo para iniciar.</div>
+        <div class="route-progress" aria-hidden="true"><span id="routeProgress"></span></div>
+        <div class="route-status" id="routeStatus" aria-live="polite">Listo para iniciar.</div>
       </div>
 
       <aside class="route-side">
         <section class="route-card">
-          <span class="eyebrow">EDICIÓN DE PRUEBA</span>
-          <strong id="routeEdition">Hoy</strong>
-          <p id="routeDuration">5 bloques · aproximadamente 2 minutos.</p>
+          <span class="eyebrow">EDICIÓN ACTUAL</span>
+          <strong id="routeEdition">Cargando…</strong>
+          <p id="routeDuration">Calculando duración aproximada.</p>
         </section>
         <section class="route-card">
-          <span class="eyebrow">OBJETIVO</span>
+          <span class="eyebrow">PENSADO PARA LA RUTA</span>
           <strong>Un toque y sigue solo.</strong>
-          <p>La versión final podrá tomar automáticamente la selección del radar regional de Noticias.</p>
-          <small>La voz depende del navegador y del dispositivo. En iPhone puede detenerse al bloquear la pantalla.</small>
+          <p>Modo Ruta toma automáticamente la selección de Noticias y avanza de un tema al siguiente.</p>
+          <small>La voz y su funcionamiento con la pantalla bloqueada dependen del navegador y del dispositivo.</small>
         </section>
       </aside>
     </section>
@@ -65,9 +67,9 @@
     </section>
 
     <section class="route-playlist">
-      <p class="eyebrow">SELECCIÓN DE LA VISTA PREVIA</p>
-      <h2>Qué vas a escuchar</h2>
-      <div class="route-list" id="routeList"></div>
+      <p class="eyebrow">SELECCIÓN DE HOY</p>
+      <h2>Noticias del boletín</h2>
+      <div class="route-list" id="routeList"><div class="route-loading">Cargando selección…</div></div>
     </section>
   </main>
 
