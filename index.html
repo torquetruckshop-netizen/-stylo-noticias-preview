@@ -51,26 +51,12 @@
       <div class="section-head">
         <div>
           <p class="eyebrow">RADAR STYLO CAMIÓN</p>
-          <h2 class="section-title" id="radarTitle">Lo que está moviendo al transporte</h2>
+          <h2 class="section-title" id="radarTitle">Lo más importante para el sector</h2>
         </div>
-        <span class="section-note">SELECCIÓN DE LA VISTA PREVIA</span>
+        <span class="section-note" id="newsUpdated">Actualizando radar…</span>
       </div>
-      <div class="radar-grid">
-        <article class="radar-card lead-card">
-          <div class="radar-meta"><span>ARGENTINA</span><span>Transporte Mundial</span></div>
-          <h3>Faltan conductores de camión: un problema que ya condiciona al transporte argentino.</h3>
-          <p>La disponibilidad de choferes vuelve a poner sobre la mesa capacitación, renovación generacional y productividad de las flotas.</p>
-        </article>
-        <article class="radar-card">
-          <div class="radar-meta"><span>LOGÍSTICA</span><span>Infobae</span></div>
-          <h3>Infraestructura, tecnología y capacitación marcan la agenda logística.</h3>
-          <p>Los tres ejes aparecen cada vez más conectados en las decisiones de empresas y operadores.</p>
-        </article>
-        <article class="radar-card">
-          <div class="radar-meta"><span>NORMATIVA</span><span>Radar regional</span></div>
-          <h3>Nuevas reglas para el transporte de cargas: qué mirar antes de salir.</h3>
-          <p>La propuesta de Noticias prioriza cambios que puedan modificar circulación, documentación, costos u operación.</p>
-        </article>
+      <div class="radar-grid" id="newsGrid" aria-live="polite">
+        <article class="radar-card lead-card"><div class="radar-meta"><span>STYLO CAMIÓN</span><span>RADAR</span></div><h3>Cargando noticias del transporte…</h3><p>Seleccionando información reciente de Argentina y Sudamérica.</p></article>
       </div>
     </section>
 
@@ -143,5 +129,6 @@
     <div class="footer-links"><a href="index.html">Noticias</a><a href="hitos.html">Hitos</a><a href="boletin.html">Modo Ruta</a></div>
     <p>2026 · Vista previa</p>
   </footer>
+  <script src="news.js"></script>
 </body>
 </html>
