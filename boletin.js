@@ -1,34 +1,237 @@
-const items=[
-{category:'Argentina',source:'Transporte Mundial',title:'Faltan conductores de camión: un problema que ya condiciona al transporte argentino.',summary:'La falta de choferes vuelve a poner en discusión capacitación, renovación generacional y productividad de las flotas.'},
-{category:'Logística',source:'Infobae',title:'Infraestructura, tecnología y capacitación marcan la agenda logística.',summary:'Los tres ejes aparecen cada vez más conectados en las decisiones de empresas y operadores.'},
-{category:'Rutas',source:'Vialidad Nacional',title:'Antes de salir, revisar el estado de las rutas nacionales.',summary:'La información oficial de transitabilidad permite anticipar cortes, restricciones y cambios de recorrido.'},
-{category:'Clima',source:'Servicio Meteorológico Nacional',title:'Las alertas meteorológicas también forman parte de la operación.',summary:'Tormentas, nieve, viento y otros fenómenos pueden modificar tiempos, seguridad y planificación de un viaje.'},
-{category:'Hitos',source:'Infobae Movant',title:'Stylo Camión y la digitalización del transporte.',summary:'La entrevista a Francisco Spoturno forma parte de la historia documentada del proyecto y de su mirada sobre tecnología y confianza.'}
-];
+const routeNow = document.querySelector('#routeNow');
+const routeMeta = document.querySelector('#routeMeta');
+const routeSummary = document.querySelector('#routeSummary');
+const routeList = document.querySelector('#routeList');
+const routePlay = document.querySelector('#routePlay');
+const routePause = document.querySelector('#routePause');
+const routeStop = document.querySelector('#routeStop');
+const routeStatus = document.querySelector('#routeStatus');
+const routeProgress = document.querySelector('#routeProgress');
+const routeEdition = document.querySelector('#routeEdition');
+const routeDuration = document.querySelector('#routeDuration');
 
-const now=document.querySelector('#routeNow');
-const meta=document.querySelector('#routeMeta');
-const summary=document.querySelector('#routeSummary');
-const list=document.querySelector('#routeList');
-const play=document.querySelector('#routePlay');
-const pause=document.querySelector('#routePause');
-const stop=document.querySelector('#routeStop');
-const status=document.querySelector('#routeStatus');
-const progress=document.querySelector('#routeProgress');
-const edition=document.querySelector('#routeEdition');
-const duration=document.querySelector('#routeDuration');
-let index=0;let started=false;let stopped=true;
+let bulletin = [];
+let currentIndex = 0;
+let started = false;
+let stopped = true;
 
-edition.textContent=new Intl.DateTimeFormat('es-AR',{weekday:'long',day:'numeric',month:'long'}).format(new Date());
-duration.textContent=`${items.length} bloques · aproximadamente 2 minutos.`;
+function escapeHtml(value = '') {
+  return String(value).replace(/[&<>'\"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','\"':'&quot;'}[char]));
+}
 
-function renderList(){list.innerHTML=items.map((item,i)=>`<article class="route-item${i===index?' active':''}"><span class="route-number">${String(i+1).padStart(2,'0')}</span><div><h3>${item.title}</h3><div class="meta">${item.category} · ${item.source}</div></div></article>`).join('')}
-function renderCurrent(){const item=items[index];if(!item){now.textContent='Boletín finalizado';meta.textContent='';summary.textContent='Terminaste la edición de prueba.';progress.style.width='100%';document.querySelectorAll('.route-item').forEach(n=>n.classList.remove('active'));return}now.textContent=item.title;meta.textContent=`${item.category} · ${item.source} · ${index+1} de ${items.length}`;summary.textContent=item.summary;progress.style.width=`${Math.round(index/items.length*100)}%`;renderList()}
-function voice(){const voices=speechSynthesis.getVoices();return voices.find(v=>v.lang.toLowerCase()==='es-ar')||voices.find(v=>v.lang.toLowerCase().startsWith('es'))||null}
-function textFor(item,i){return `Noticia ${i+1} de ${items.length}. ${item.title} ${item.summary} Fuente: ${item.source}.`}
-function speak(){if(index>=items.length){finish();return}speechSynthesis.cancel();renderCurrent();const u=new SpeechSynthesisUtterance(textFor(items[index],index));const v=voice();if(v)u.voice=v;u.lang=v?.lang||'es-AR';u.rate=.95;u.onstart=()=>{stopped=false;status.textContent=`Reproduciendo bloque ${index+1} de ${items.length}`};u.onend=()=>{if(stopped)return;index++;index>=items.length?finish():speak()};u.onerror=()=>{status.textContent='La voz no pudo continuar en este dispositivo.';stopped=true};speechSynthesis.speak(u)}
-function start(){if(!('speechSynthesis'in window)){status.textContent='La lectura por voz no está disponible en este navegador.';return}if(speechSynthesis.paused){speechSynthesis.resume();pause.textContent='Pausar';return}if(index>=items.length)index=0;stopped=false;if(!started){started=true;const intro=new SpeechSynthesisUtterance(`Boletín de Ruta Stylo Camión. Vista previa con ${items.length} bloques. Información para el transporte de Argentina y Sudamérica.`);const v=voice();if(v)intro.voice=v;intro.lang=v?.lang||'es-AR';intro.rate=.95;intro.onend=()=>{if(!stopped)speak()};speechSynthesis.cancel();speechSynthesis.speak(intro)}else{speak()}}
-function togglePause(){if(!('speechSynthesis'in window))return;if(speechSynthesis.paused){speechSynthesis.resume();pause.textContent='Pausar';status.textContent='Reproducción reanudada'}else if(speechSynthesis.speaking){speechSynthesis.pause();pause.textContent='Reanudar';status.textContent='Boletín pausado'}}
-function reset(){if('speechSynthesis'in window)speechSynthesis.cancel();index=0;started=false;stopped=true;pause.textContent='Pausar';status.textContent='Detenido. Listo para comenzar desde el inicio.';renderCurrent()}
-function finish(){if('speechSynthesis'in window)speechSynthesis.cancel();stopped=true;index=items.length;renderCurrent();status.textContent='Boletín finalizado.'}
-play.addEventListener('click',start);pause.addEventListener('click',togglePause);stop.addEventListener('click',reset);window.addEventListener('beforeunload',()=>{'speechSynthesis'in window&&speechSynthesis.cancel()});renderCurrent();
+function contextText(category) {
+  const copy = {
+    'Argentina': 'Puede afectar condiciones de operación, costos, normativa o decisiones de empresas transportistas en Argentina.',
+    'Región': 'Puede impactar corredores internacionales, fronteras, puertos y movimientos de carga dentro de Sudamérica.',
+    'Camiones': 'Es relevante para renovación de flota, tecnología, productividad y costo total de operación.',
+    'Remolques': 'Incide en configuraciones, productividad e implementos utilizados por el transporte regional.',
+    'Logística': 'Aporta información para planificación, distribución, productividad y gestión de cadenas de suministro.',
+    'Economía': 'Tasas, combustible, tarifas y actividad económica modifican costos por kilómetro y decisiones de inversión.',
+    'Rutas y normativa': 'Los cambios regulatorios y de infraestructura pueden modificar circulación y planificación operativa.'
+  };
+  return copy[category] || 'Es información relevante para decisiones operativas y comerciales del transporte.';
+}
+
+function selectBulletin(items) {
+  const selected = [];
+  const categories = new Set();
+  for (const item of items) {
+    if (!categories.has(item.category)) {
+      selected.push(item);
+      categories.add(item.category);
+    }
+    if (selected.length >= 7) break;
+  }
+  for (const item of items) {
+    if (!selected.includes(item)) selected.push(item);
+    if (selected.length >= 8) break;
+  }
+  return selected.slice(0, 8);
+}
+
+function speechFor(item, index) {
+  return [
+    `Noticia ${index + 1} de ${bulletin.length}.`,
+    item.title,
+    item.summary || '',
+    'Por qué importa.',
+    contextText(item.category),
+    `Fuente: ${item.source || 'fuente identificada'}.`
+  ].filter(Boolean).join(' ');
+}
+
+function chooseVoice() {
+  const voices = window.speechSynthesis.getVoices();
+  return voices.find(voice => voice.lang.toLowerCase() === 'es-ar')
+    || voices.find(voice => voice.lang.toLowerCase().startsWith('es-'))
+    || voices.find(voice => voice.lang.toLowerCase().startsWith('es'))
+    || null;
+}
+
+function updateCurrent() {
+  const item = bulletin[currentIndex];
+  if (!item) {
+    routeNow.textContent = 'Boletín finalizado';
+    routeMeta.textContent = '';
+    routeSummary.textContent = 'Terminaste la edición actual del Boletín de Ruta.';
+    routeProgress.style.width = '100%';
+    document.querySelectorAll('.route-item').forEach(node => node.classList.remove('active'));
+    return;
+  }
+  routeNow.textContent = item.title;
+  routeMeta.textContent = `${item.category || 'Actualidad'} · ${item.source || 'Fuente identificada'} · ${currentIndex + 1} de ${bulletin.length}`;
+  routeSummary.textContent = item.summary || 'Información seleccionada por el radar regional de Stylo Camión.';
+  routeProgress.style.width = `${Math.round((currentIndex / bulletin.length) * 100)}%`;
+  document.querySelectorAll('.route-item').forEach((node, index) => node.classList.toggle('active', index === currentIndex));
+}
+
+function setStatus(text) { routeStatus.textContent = text; }
+
+function speakCurrent() {
+  if (!bulletin.length || currentIndex >= bulletin.length) {
+    finishBulletin();
+    return;
+  }
+  window.speechSynthesis.cancel();
+  updateCurrent();
+  const item = bulletin[currentIndex];
+  const utterance = new SpeechSynthesisUtterance(speechFor(item, currentIndex));
+  const voice = chooseVoice();
+  utterance.voice = voice;
+  utterance.lang = voice?.lang || 'es-AR';
+  utterance.rate = 0.95;
+  utterance.onstart = () => {
+    stopped = false;
+    setStatus(`Reproduciendo noticia ${currentIndex + 1} de ${bulletin.length}`);
+  };
+  utterance.onend = () => {
+    if (stopped) return;
+    currentIndex += 1;
+    currentIndex >= bulletin.length ? finishBulletin() : speakCurrent();
+  };
+  utterance.onerror = () => {
+    setStatus('No se pudo continuar la lectura en este dispositivo.');
+    stopped = true;
+  };
+  window.speechSynthesis.speak(utterance);
+}
+
+function startBulletin() {
+  if (!bulletin.length) return;
+  if (!('speechSynthesis' in window) || !('SpeechSynthesisUtterance' in window)) {
+    setStatus('La lectura por voz no está disponible en este navegador.');
+    return;
+  }
+  if (window.speechSynthesis.paused) {
+    window.speechSynthesis.resume();
+    routePause.textContent = 'Pausar';
+    setStatus(`Reproduciendo noticia ${currentIndex + 1} de ${bulletin.length}`);
+    return;
+  }
+  if (currentIndex >= bulletin.length) currentIndex = 0;
+  stopped = false;
+  if (!started) {
+    started = true;
+    window.speechSynthesis.cancel();
+    const intro = new SpeechSynthesisUtterance(`Boletín de Ruta Stylo Camión. Edición de ${bulletin.length} noticias. Información seleccionada para el transporte de Argentina y Sudamérica.`);
+    const voice = chooseVoice();
+    intro.voice = voice;
+    intro.lang = voice?.lang || 'es-AR';
+    intro.rate = 0.95;
+    intro.onstart = () => setStatus('Iniciando Boletín de Ruta');
+    intro.onend = () => { if (!stopped) speakCurrent(); };
+    intro.onerror = () => speakCurrent();
+    window.speechSynthesis.speak(intro);
+    return;
+  }
+  speakCurrent();
+}
+
+function togglePause() {
+  if (!('speechSynthesis' in window)) return;
+  if (window.speechSynthesis.paused) {
+    window.speechSynthesis.resume();
+    routePause.textContent = 'Pausar';
+    setStatus(`Reproduciendo noticia ${Math.min(currentIndex + 1, bulletin.length)} de ${bulletin.length}`);
+  } else if (window.speechSynthesis.speaking) {
+    window.speechSynthesis.pause();
+    routePause.textContent = 'Reanudar';
+    setStatus('Boletín pausado');
+  }
+}
+
+function stopBulletin() {
+  if ('speechSynthesis' in window) window.speechSynthesis.cancel();
+  stopped = true;
+  started = false;
+  currentIndex = 0;
+  routePause.textContent = 'Pausar';
+  updateCurrent();
+  setStatus('Detenido. Listo para comenzar desde el inicio.');
+}
+
+function finishBulletin() {
+  if ('speechSynthesis' in window) window.speechSynthesis.cancel();
+  stopped = true;
+  currentIndex = bulletin.length;
+  updateCurrent();
+  setStatus('Boletín finalizado.');
+}
+
+function estimateMinutes(items) {
+  const words = items.reduce((total, item, index) => total + speechFor(item, index).split(/\s+/).length, 0) + 25;
+  return Math.max(1, Math.ceil(words / 145));
+}
+
+function renderPlaylist() {
+  routeList.innerHTML = bulletin.map((item, index) => `
+    <article class="route-item${index === currentIndex ? ' active' : ''}">
+      <span class="route-number">${String(index + 1).padStart(2, '0')}</span>
+      <div>
+        <h3>${escapeHtml(item.title)}</h3>
+        <div class="meta">${escapeHtml(item.category || 'Actualidad')} · ${escapeHtml(item.source || 'Fuente identificada')}</div>
+      </div>
+    </article>`).join('');
+}
+
+async function loadBulletin() {
+  routePlay.disabled = true;
+  routePause.disabled = true;
+  routeStop.disabled = true;
+  try {
+    const response = await fetch(`data/news.json?v=${Date.now()}`, { cache: 'no-store' });
+    if (!response.ok) throw new Error('Feed no disponible');
+    const payload = await response.json();
+    const items = Array.isArray(payload.items) ? payload.items : [];
+    bulletin = selectBulletin(items);
+    if (!bulletin.length) throw new Error('Sin noticias');
+
+    const updated = payload.updated_at ? new Date(payload.updated_at) : new Date();
+    routeEdition.textContent = new Intl.DateTimeFormat('es-AR', { weekday: 'long', day: 'numeric', month: 'long' }).format(updated);
+    routeDuration.textContent = `${bulletin.length} noticias · aproximadamente ${estimateMinutes(bulletin)} min de audio.`;
+    currentIndex = 0;
+    updateCurrent();
+    renderPlaylist();
+
+    const speechAvailable = 'speechSynthesis' in window && 'SpeechSynthesisUtterance' in window;
+    routePlay.disabled = !speechAvailable;
+    routePause.disabled = !speechAvailable;
+    routeStop.disabled = !speechAvailable;
+    setStatus(speechAvailable ? 'Listo para iniciar.' : 'La lectura por voz no está disponible en este navegador.');
+  } catch (error) {
+    routeNow.textContent = 'Boletín temporalmente no disponible';
+    routeSummary.textContent = 'No pudimos cargar la selección automática. Volvé a Noticias y probá nuevamente en unos minutos.';
+    routeList.innerHTML = '<div class="route-loading">No hay una edición disponible en este momento.</div>';
+    routeEdition.textContent = 'Sin edición';
+    routeDuration.textContent = 'Actualización pendiente.';
+    setStatus('No se pudo cargar el boletín.');
+  }
+}
+
+routePlay.addEventListener('click', startBulletin);
+routePause.addEventListener('click', togglePause);
+routeStop.addEventListener('click', stopBulletin);
+window.addEventListener('beforeunload', () => {
+  if ('speechSynthesis' in window) window.speechSynthesis.cancel();
+});
+loadBulletin();
