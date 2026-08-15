@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T05:12:40.878826+00:00",
+  "updated_at": "2026-08-15T09:04:18.712818+00:00",
   "items": [
     {
       "id": "e8f11da375c64a",
@@ -56,15 +56,6 @@
       "published_at": "2026-08-11T18:16:31+00:00"
     },
     {
-      "id": "96d743750dc8cf",
-      "title": "SICONARA RECORRIÓ LA VÍA DE NAVEGACIÓN TRONCAL Y ADVIRTIÓ SOBRE LA PÉRDIDA DE SOBERANÍA EN EL TRANSPORTE DE CARGAS",
-      "summary": "SICONARA RECORRIÓ LA VÍA DE NAVEGACIÓN TRONCAL Y ADVIRTIÓ SOBRE LA PÉRDIDA DE SOBERANÍA EN EL TRANSPORTE DE CARGAS Así es nuestra vida",
-      "category": "Logística",
-      "source": "Así es nuestra vida",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb1pIQjlUd19tS1lFQTR2dkRlemlUVmJQQTk0QlZCYmdDOWJsSzhuU21IT3FTOUk3U251WUozcE91bUpPcDlUQzZ0TW5DME9nNXFNN19Ec2pJOThZT2tCWEZqaU1SRFlKU2ZSVTZWa2RZQlRDYWgxY2d5X0lPdXVtXzJmaUEyenFlNGlLUms5Sno0cDV4Z3RKUzd2ZUFYYjJJWHUxQnlqQV9NNW1VYzVRSnJTdjhlMWYydHIxYUJsRm1TWTMtRHA5ai1xTmNrZTRYUnZBeWRPOEQyOHM1VTliUw?oc=5",
-      "published_at": "2026-08-14T20:30:21+00:00"
-    },
-    {
       "id": "0aa4274ccdabd2",
       "title": "Ya son más de 3.000 los camiones varados por el cierre de pasos a Chile",
       "summary": "Ya son más de 3.000 los camiones varados por el cierre de pasos a Chile Despertar Entrerriano",
@@ -99,6 +90,15 @@
       "source": "Identidad Correntina",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaHJfSkJlLXFpTU4yQ3NmdDhkWEFzMzktVk90RTF5QTNsbkhhX3lYSXdZWVJxMUdReHRPeEdreHc3V2ptRmxPZ29XVkhwbGtPd1RmZUdWYndBX0FHd0JuSWktNUZlNHJVaXRSOWhNR09UQzIxOXNXc1ZGTXFoalAtMFkyQ3VlZGRsNWlYN25jdUdYb2NWTHVIX3FZNG15dmRrX1NTc0FLMjdDQUhjOUxKYlVQOGlpWnVmYzR6SWtLR2xEYXgyLWRaRFNTbnllc3RQUm5n?oc=5",
       "published_at": "2026-08-04T09:04:59+00:00"
+    },
+    {
+      "id": "96d743750dc8cf",
+      "title": "SICONARA RECORRIÓ LA VÍA DE NAVEGACIÓN TRONCAL Y ADVIRTIÓ SOBRE LA PÉRDIDA DE SOBERANÍA EN EL TRANSPORTE DE CARGAS",
+      "summary": "SICONARA RECORRIÓ LA VÍA DE NAVEGACIÓN TRONCAL Y ADVIRTIÓ SOBRE LA PÉRDIDA DE SOBERANÍA EN EL TRANSPORTE DE CARGAS Así es nuestra vida",
+      "category": "Logística",
+      "source": "Así es nuestra vida",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb1pIQjlUd19tS1lFQTR2dkRlemlUVmJQQTk0QlZCYmdDOWJsSzhuU21IT3FTOUk3U251WUozcE91bUpPcDlUQzZ0TW5DME9nNXFNN19Ec2pJOThZT2tCWEZqaU1SRFlKU2ZSVTZWa2RZQlRDYWgxY2d5X0lPdXVtXzJmaUEyenFlNGlLUms5Sno0cDV4Z3RKUzd2ZUFYYjJJWHUxQnlqQV9NNW1VYzVRSnJTdjhlMWYydHIxYUJsRm1TWTMtRHA5ai1xTmNrZTRYUnZBeWRPOEQyOHM1VTliUw?oc=5",
+      "published_at": "2026-08-14T04:52:21+00:00"
     },
     {
       "id": "a0fe657a27a345",
@@ -155,11 +155,11 @@
       "published_at": "2026-08-12T15:29:00+00:00"
     },
     {
-      "id": "02db037e815b89",
+      "id": "aa0412ee9abe91",
       "title": "Scania ve una fuerte demanda de camiones por el avance de la minería y Vaca Muerta",
-      "summary": "Scania ve una fuerte demanda de camiones por el avance de la minería y Vaca Muerta comexonline.com.ar",
+      "summary": "Scania ve una fuerte demanda de camiones por el avance de la minería y Vaca Muerta Comex Online",
       "category": "Argentina",
-      "source": "comexonline.com.ar",
+      "source": "Comex Online",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM0I1ZnRIeGdMbUlGNDBINWdVanN4eUFIdFFDZ1lYYzNEQktZb0NDSkd6SGFzOGJ6Z01BQ3BEUzlsc1ZNRWcwRkpQaFFTWUxROV8zSHVxLXUyQ21RbkFFdFFIUXhUVGwwaDU2WThWVTRlejZmSmtpWXZCdXQ5NkI5X1JDSWo0YXdUQ1haajlDYzVsMTlCRW1kSzR4N3F0NVVBbkdRRWdFOVBRMzFkX0Y3TWhJMmVpOEVRXy1hZ3YzUVhYLUl4amt0ZVFnTVRJUQ?oc=5",
       "published_at": "2026-08-12T15:25:34+00:00"
     },
@@ -227,11 +227,11 @@
       "published_at": "2026-08-07T16:58:01+00:00"
     },
     {
-      "id": "133e26de8cb70b",
+      "id": "86d3248e4b3465",
       "title": "Más peso, bitrenes y ventajas para camiones a GNC: qué cambia con las nuevas reglas del transporte de cargas",
-      "summary": "Más peso, bitrenes y ventajas para camiones a GNC: qué cambia con las nuevas reglas del transporte de cargas Diario Neuquino",
+      "summary": "Más peso, bitrenes y ventajas para camiones a GNC: qué cambia con las nuevas reglas del transporte de cargas diarioneuquino.com.ar",
       "category": "Rutas y normativa",
-      "source": "Diario Neuquino",
+      "source": "diarioneuquino.com.ar",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc0pmUk9EMmFMaXYya0cyRjIxbDVZbEpGaXYzWXdsR1pIVVA2MXhKeWg5S3JxZ2ZFeWlGTnVtLXFOdVBFam1pZ2dfcDQ5T2trTnZYZ041Rks5WVh3bXc3akY0RWZjLXJhTkJxR1VpelFYd1Y0Rkh5enFYa3pnRkNkUnFkUjVraENUOG9UcUd1S1VoT0J1anNzbVdzeWFPVFpQQjRPRzJxSmJMVVhOdHlKN3I0cWt0NjJEZ0xlSWVZMFpQS3hMMzQ4amdlS25LU0xnTkMw?oc=5",
       "published_at": "2026-08-10T23:03:13+00:00"
     },
@@ -245,11 +245,11 @@
       "published_at": "2026-08-10T17:18:22+00:00"
     },
     {
-      "id": "1306d45de16536",
+      "id": "4c1866c1720179",
       "title": "Expo Logisti-k y Expo Transporte 2026: el sector apuesta a la modernización y al financiamiento productivo",
-      "summary": "Expo Logisti-k y Expo Transporte 2026: el sector apuesta a la modernización y al financiamiento productivo comercioyjusticia.info",
+      "summary": "Expo Logisti-k y Expo Transporte 2026: el sector apuesta a la modernización y al financiamiento productivo Comercio y Justicia",
       "category": "Argentina",
-      "source": "comercioyjusticia.info",
+      "source": "Comercio y Justicia",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb2REc1FuYmJwaDcwRGFtRDFhdzktcm5yLVpMTklSZ0ZKNUJSUkcyV1hoSElxOTJFbmFsV05fV3kzLTNSdjAyQ2FQY3BNWlBsREd4N0IzQnNVVHJUZmxvZHFWb3ViS3M2SFRzUGg4VUcyUTBkZTYwYkJmMXp1aWVLaFl2UG80dHFDZHNhWEs5eTJ0MWdvVUpYbFAzSDBMaEdVUHZHaVctTXpQc0pmNGc1UEVaU0FkT2ZXZllUcU1yU0xiU2NRVHhpZ21GTDB0U09mUWtaUERiT3JwZzYxUjUw?oc=5",
       "published_at": "2026-08-13T08:07:00+00:00"
     },
@@ -331,7 +331,7 @@
       "summary": "Más de 650 camiones esperan en Neuquén para cruzar a Chile con temperaturas bajo cero Infobae",
       "category": "Camiones",
       "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY2Nta29ocXVLeF9hSnBxdXN0dF9ya3ZIUllPWVV6QWM5RHRHZm5vUUdtakYycXF2dmZ4WlJfSWFZaUJvb0I3dkNNZWJDd1JCSjhEUDljd1JMYkZhMmJxRk54QkJPY3NPdmZHbWwtcXNOUy0zZ2p5LWE4XzRURG51MTRHenhhMWRvS3dsMmVSZnpzSUNMcmVObm9lSjltczdoUXVFb1U4TGtPU1Y5NWhZZ25UNWRFdmVkRklmam5pMDFaMXhaLVRuQl9R?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY2Nta29ocXVLeF9hSnBxdXN0dF9ya3ZIUllPWVV6QWM5RHRHZm5vUUdtakYycXF2dmZ4WlJfSWFZaUJvb0I3dkNNZWJDd1JCSjhEUDljd1JMYkZhMmJxRk54QkJPY3NPdmZHbWwtcXNOUy0zZ2p5LWE4XzRURG51MTRHenhhMWRvS3dsMmVSZnpzSUNMcmVObm9lSjltczdoUXVFb1U4TGtPU1Y5NWhZZ25UNWRFdmVkRklmam5pMDFaMXhaLVRuQl9R0gHkAUFVX3lxTFBDNHVMMDRUaEo5M0FDM3dsLU5MbDZGWDVBbWVzZG1aVzJuZHBaanJJY1RiU2M1X2oxRjRkZ2pRUWlYVlVvTVNnZTFkdDRYcGdIWGstNWE3c3NoaVRPSEF5U0dDM09panhKZ1lvNWVjU0tFdVc3NnBFNVBjV3JPXzZaaVQ3NUJqTDhkdGhMTEdMc3VBOVFwdDVyel8wQ19zMExhd2hJdXNOc1VXUGlVX2ZXeDVvb19aelZ3anFBV29nV0pQeThHZVIycGx5Rko5U0Etbkl6SXYta2xqcFRyTzhXRUZwVQ?oc=5",
       "published_at": "2026-07-29T07:00:00+00:00"
     },
     {
@@ -342,15 +342,6 @@
       "source": "Transporte y Energia",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT05WWTE0T3B0STlvdmlkU2d5VFdwNVRvZ1ZMMWdZcVVLX0VsM3lFLVdQZVlSd2w2OW12T3ZCR3hfM3VhVi1WMnZ6VTVNem03TXNPVDRvUGJQTFJybG4xTHhoME5HTFhrS3RGXzRXNUtLZFZoQTEtcEx1bzlOb1h0Z3hpZ0lWeXZPeFJ1OTc2QXplR3FtRHN0MlY5VXRfeGVHNFJ5M2N2VVUyS2FvWkZkTWZMQ1VicWl1ek5yS2Z3Y0xERFU0ZVZuRGZMMFZyWi0zNlI0MQ?oc=5",
       "published_at": "2026-07-27T05:05:09+00:00"
-    },
-    {
-      "id": "345718832a50c6",
-      "title": "El Paso Cristo Redentor cumple 21 días cerrado: más de 2.000 camiones varados, desabastecimiento de carne y pérdidas por US$18 millones",
-      "summary": "El Paso Cristo Redentor cumple 21 días cerrado: más de 2.000 camiones varados, desabastecimiento de carne y pérdidas por US$18 millones La Opinión Austral",
-      "category": "Argentina",
-      "source": "La Opinión Austral",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOdXZaY19GSGlJUUNTaTN1YXBMNFRsa0pHRGdBTm9aTlVSNzFSMDJlenptOG11ZE15a1pRdU1QQlFjbVB6ZWlaRWs2VTFSNHFZWDY2NE9mZXkyY2NYQ0lGTXk3Zm44bXBMQXBiREhtaFBBMmJmNmFmNWk5cXFQZ0VwU0xWMDBiR1JZUmtfZ3dRallUSFZTajNFU0JDRHNBRTktZXhzNHRHenhZd2xZRjFVaFl1MVVDaTZ0THRnc1ZUUTQ3UVJVREdLNUJKS296bENBTDc5Qlp0a09QM0VZUXNVbTNGcm9QNVdNMzEyNDFrM3RvSWFUNlNlWUQzY2xhNTRUdU9rOUxmWjItbGtIQ2w2NzBicEI?oc=5",
-      "published_at": "2026-08-05T07:00:00+00:00"
     },
     {
       "id": "03405c715f7bf7",
@@ -380,11 +371,11 @@
       "published_at": "2026-08-02T07:00:00+00:00"
     },
     {
-      "id": "d0c2095ad4bef3",
+      "id": "e0b9b9197daec6",
       "title": "Tatiana Calderón debutará en un circuito oval con la NASCAR Brasil en Cuiabá este sábado",
-      "summary": "Tatiana Calderón debutará en un circuito oval con la NASCAR Brasil en Cuiabá este sábado Revista Turbo Colombia",
+      "summary": "Tatiana Calderón debutará en un circuito oval con la NASCAR Brasil en Cuiabá este sábado revistaturbo.com",
       "category": "Remolques",
-      "source": "Revista Turbo Colombia",
+      "source": "revistaturbo.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaEk4VDlhVTlzbXlJWnZKTm9VNkJ4YUxPdC1hWWFGVTNXbXFWOHAtWWlkOEgyTG1FZFlfcldCSndGRV9BVWhVY080RVJlOER0bnBUR0c5WUh4cVZibTJQU0FETnRvYkJGN2poWlVzeU8wUVJqOVJFaWpDQjBzRTBnNw?oc=5",
       "published_at": "2026-07-31T21:07:07+00:00"
     },
@@ -398,6 +389,15 @@
       "published_at": "2026-07-28T07:00:00+00:00"
     },
     {
+      "id": "690a1902a3a10a",
+      "title": "El Gobierno apuesta por los bitrenes y el GNC para bajar el costo del transporte",
+      "summary": "El Gobierno apuesta por los bitrenes y el GNC para bajar el costo del transporte Agrolatam",
+      "category": "Argentina",
+      "source": "Agrolatam",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObWhyQ2tDdjhFeWlxRTBrdmRnME51RjkzWXkwSDRHTElGeHphY0tmZy0yb3d4YXBJbzJVaTVENVFhYWthallpUkhJd0tLdUlacjFNeU9Bd3B5QzRGWDVJQVg5cXFZRWozR18xNENyYV9vaEJ6V1hNalljeVM3cGUtaElHT1ZaTV9lVTdZdGJ3R2RIYjFa?oc=5",
+      "published_at": "2026-07-31T12:12:45+00:00"
+    },
+    {
       "id": "33f3e95a4e5119",
       "title": "Bitrenes a GNC: un decreto del Gobierno para el transporte de cargas podría abaratar costos en el agro",
       "summary": "Bitrenes a GNC: un decreto del Gobierno para el transporte de cargas podría abaratar costos en el agro Infocampo",
@@ -407,11 +407,11 @@
       "published_at": "2026-07-31T07:00:00+00:00"
     },
     {
-      "id": "22c372b55edf5a",
+      "id": "049ee07e27e8e9",
       "title": "Scania suma 12 camiones Super G460 XT para el transporte minero de alta montaña",
-      "summary": "Scania suma 12 camiones Super G460 XT para el transporte minero de alta montaña Parabrisas / Perfil",
+      "summary": "Scania suma 12 camiones Super G460 XT para el transporte minero de alta montaña parabrisas.perfil.com",
       "category": "Argentina",
-      "source": "Parabrisas / Perfil",
+      "source": "parabrisas.perfil.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMUFxTXFUNF9vY0U4YWFkdThvRGt2azdaNU53b3JLMTBsSnJmNW4zN3dBM2lXWWs4a2I5Vjg3c09lLTFndDV4WlVrVEdkN2IwS0JZS3ZkWEVTeEtpa3Z5dkYtWS1oT2NjSmNXQUI5X1dDUXNYaWlZRnBWbVp0MHVnN3FQa3pjOFJNQ1BGUm9SaXdjc0JVTjVmVGxpLXlwV3VQUk1yMWNnZTBSRDVma2hhZkZJSFBNWmJQRGVPSUtkNUROVHFQemF5enNaUUsycDjSAdQBQVVfeXFMT3VWM3pacEE1UnF4cWloR0pZTDJNcUNDSjlJanJHXzhTNnV6MjUxUVlMcWpIWE1qdUttMkhNZ1BLbHBnTy1vR2V6UXpxd293Z3A3V2ZTQjVWVWR2ZnJDYXlDM3dqU0NFcXhFczcwVm92YlRhT1A1dTk4b3R0RElpcnJJYmtoaFVJWUszZEpNUkZmWVlpZVBqS3Bybzhod0pYR29PZ0V1dU5xeFloY3hKNE54cmZrTFZrd1UyYlhoWHZaaTRmN21lX2l0VE9OZzFraTJ5MGo?oc=5",
       "published_at": "2026-07-31T07:00:00+00:00"
     },
