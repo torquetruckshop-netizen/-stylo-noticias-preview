@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T17:48:30.940028+00:00",
+  "updated_at": "2026-08-18T21:00:40.553883+00:00",
   "items": [
     {
       "id": "e8f11da375c64a",
@@ -11,11 +11,11 @@
       "published_at": "2026-08-13T16:58:51+00:00"
     },
     {
-      "id": "f3ae885f7c4f50",
+      "id": "f13c8292912cda",
       "title": "Reabre el Paso Cristo Redentor en Mendoza: cómo será hoy el tránsito de camiones entre Argentina y Chile",
-      "summary": "Reabre el Paso Cristo Redentor en Mendoza: cómo será hoy el tránsito de camiones entre Argentina y Chile Diario Primera Linea",
+      "summary": "Reabre el Paso Cristo Redentor en Mendoza: cómo será hoy el tránsito de camiones entre Argentina y Chile diarioprimeralinea.com.ar",
       "category": "Argentina",
-      "source": "Diario Primera Linea",
+      "source": "diarioprimeralinea.com.ar",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdVZyazRuVjBUb3QyMHB1S3AzSHkzY3NycC1ZUE93MXFCbnhYSmE1Wk5ZeHRiMFBGMnlOX2pkd2x2TmtMRElWcGRhNldHX1lWYnJ3RERkXzZSTUFNT2tfTmlHMEtwTkRLYXhVU3p1c2lQXzZuOHIzV0NBdDNCdnRNLVZZdnFZdnd2OWtIRjhZdzlpOFFneFY5T0ZmV3cyOHpxMzEtTXhoZUFvREpxd0FqOEpsMEMxWjVoTmMycmVqQzhCOVZ1SU1kMjVwbzAwUk9CMFdJUQ?oc=5",
       "published_at": "2026-08-18T16:01:07+00:00"
     },
@@ -29,6 +29,15 @@
       "published_at": "2026-08-18T11:03:45+00:00"
     },
     {
+      "id": "3507d9395aa5b3",
+      "title": "Argentina modifica el RIGI ante la privatización de los trenes de carga: qué inversiones podrán ingresar",
+      "summary": "Argentina modifica el RIGI ante la privatización de los trenes de carga: qué inversiones podrán ingresar Bloomberg Línea",
+      "category": "Logística",
+      "source": "Bloomberg Línea",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdENXSHROeTZPVG4zVFR3UHNyQXZJbVNFSXM0SDlrTWtkSEJ0Z0Z2cXBWU201TGtzTDlJYk50RXBsd2dTOWNCUDJFNGlHSUplRmpxVDJRMDJnRzJGbkl3enU3Zy1mSHE3ellCemM3Vy1NeG9FanV5S3NOeHZnUVlJcGlGeVRqczVfVzYyRmxQaHktMllJRlVOdDVacFZ0a2w0Njg5LWw2RG00bGJqRFhGQkZ6c2I2Mm1hMVY1ZzhEQ1N4NnRPTTNteFU5TDktMXM2OGdGd04wWUtYTHZyYkxURHN1SG03cFBRaFlDN0c4N3rSAYQCQVVfeXFMUHIwOThHc0h0ZnU2VzE5WUhpeGJ0U3gwLWtjT2FUdkIwaU1VQzJCVk82WmhURlIzWmc1cW5zUkdFWWc5czY0S2F3YlBrQXVTVC1hNzBLVFNHMlZ1aDZsSzk0Q21vMDJwREF4ekoyOFJHcWJjbnJvMEhwQXF1WFowdzNqa0oyWGpDX19VNzNYSmdZY09Gcm90OGlnV3JaMXA4QXhRY3haZC1CaXNKYXVrSWtDSXNNRGxWWXNqR1VJMTIyZHl1V1dCZTdBSkppVGRuLThFS2oxcWE0dWhUXzI0d1d2NXR3aDVpYU96UDJBTlBIR1lzODByXzRjNkFuNWtNeXhiLS0?oc=5",
+      "published_at": "2026-08-18T17:15:54+00:00"
+    },
+    {
       "id": "908aabd428d9df",
       "title": "Reabrirá el Paso Cristo Redentor en Mendoza tras 34 días y miles de camiones esperan por cruzar la frontera",
       "summary": "Reabrirá el Paso Cristo Redentor en Mendoza tras 34 días y miles de camiones esperan por cruzar la frontera Infobae",
@@ -38,11 +47,11 @@
       "published_at": "2026-08-17T18:50:00+00:00"
     },
     {
-      "id": "7adafc0c76f104",
+      "id": "00ff93d36a5a59",
       "title": "Nuevas reglas para el transporte de cargas en Argentina",
-      "summary": "Nuevas reglas para el transporte de cargas en Argentina lu17.com",
+      "summary": "Nuevas reglas para el transporte de cargas en Argentina LA17",
       "category": "Argentina",
-      "source": "lu17.com",
+      "source": "LA17",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT3NwNWM3R1AzdVAtd3lvQjVsRlFpTUdnWEJHQVIwUmh6TmNyTjFtQlRUMndPbXlxTWEwbjBOcFRad2NQSHFLc0NNeFRKS2Y2STcyVzVDblJzcE5OMTlhWnNFWGNEb1hTT1ppcVZCWDBLdGFDYTNFcHFnblI0dk82LTFKNi11Yk9NY1FiWmRBOTgxMmNyYnZFTUcwVi1KeFZCRzJwcWJRYlFHZzdqaGJkM1Q3V1RUQTA2TDY3NnRZak9EbV9hX3ZJcjh4UQ?oc=5",
       "published_at": "2026-08-10T17:28:00+00:00"
     },
@@ -56,11 +65,11 @@
       "published_at": "2026-08-15T22:21:26+00:00"
     },
     {
-      "id": "e0d68a82219ae8",
+      "id": "8cc44f144c9f60",
       "title": "Tras 34 días cerrado, reabre el Paso Cristo Redentor con prioridad para los camiones",
-      "summary": "Tras 34 días cerrado, reabre el Paso Cristo Redentor con prioridad para los camiones labrujula24.com",
+      "summary": "Tras 34 días cerrado, reabre el Paso Cristo Redentor con prioridad para los camiones La Brújula 24",
       "category": "Argentina",
-      "source": "labrujula24.com",
+      "source": "La Brújula 24",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd2gzaThjV1UtSzBuZVJWMzhQTU9CVnZhYVJhT0dJdzlpVGp4bWllbTc1R09IaXhKWHRaU1dVTkN5QmFSSjh6WEVsQ1g4OWpqcm5YbHlYQmphNEZiUHA1dkU0U2lUQ0dub2lIOEdJaTJYRjFVaXpkUVhSZHNWNUVDdDhweE9iVkZWcXZXbDRYRzZxM3BKVFZ6bWxwTDUtVUV4N1BNZkpHYUJDUlZUNjk3UVplZDJTXzQ0UzBvSDlRNjQyLXN4VUR0VXVScEt0RTE3UjVj?oc=5",
       "published_at": "2026-08-18T10:06:51+00:00"
     },
@@ -72,6 +81,15 @@
       "source": "Mendovoz",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRUVfSWdpcTllZldySzBoeXpwNV9OclB2bHN1R3U5V1hEUlRydlBRdDdfM0V1czVhczJheWVJbk5RclltS3lxTE9Wdmx1SzRlOWUzblFqdHhfZ3lhODdMT0M0cVlzdUQ4UGtjN2oycnBEdHlNbGJraVFPS2dWYnN5em1TSWt4NEtMR2JoS3dHM25jMnduMTlpbGNXZzVpN0t0aGk2cnV3RTVlU2J3cVFCU2hLSDNDWUw1ZzhGeGVqWUdyUW9EUU9BQm5hLTE2dzM0ZEZZZ3d5VmFkNmRBYXhv0gHfAUFVX3lxTE1FRV9JZ2lxOWVmV3JLMGh5enA1X05yUHZsc3VHdTlXWERSVHJ2UFF0N18zRXVzNWFzMmF5ZUluTlFyWW1LeXFMT1Z2bHVLNGU5ZTNuUWp0eF9neWE4N0xPQzRxWXN1RDhQa2M3ajJycER0eU1sYmtpUU9LZ1Zic3l6bVNJa3g0S0xHYmhLd0czbmMyd24xOWlsY1dnNWk3S3RoaTZydXdFNWVTYndxUUJTaEtIM0NZTDVnOEZ4ZWpZR3JRb0RRT0FCbmEtMTZ3MzRkRllnd3lWYWQ2ZEFheG8?oc=5",
       "published_at": "2026-08-18T01:24:28+00:00"
+    },
+    {
+      "id": "c1e6dd7f7b196d",
+      "title": "Reabrirán el Paso Cristo Redentor aunque solo podrán transitar camiones",
+      "summary": "Reabrirán el Paso Cristo Redentor aunque solo podrán transitar camiones Crónica",
+      "category": "Argentina",
+      "source": "Crónica",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUc0d1NFQ3hpOEVuYTc3UHU4YjFLWFpWQnAyN2tOazl6eHpnSmVyb1R5ZDV3WXRGRzBqUGQ2b2FUZFE1SVN3NlJlUFdVbEEyNi1aaExJQUtEUVlTUGRrSlpScmhsSFhhSVVHbmFwb3pnTHRJMnN1REFfbEk0ZWh6ajBMNjF3M0xCX0hzTF9pcU1EM1ZFaUI5M2ZIcGxUMEZwUnZPRkwwS3JYcUNiWEkxX1ppONIBuAFBVV95cUxQYTFyVHRFWk1lRTBUYjhrZHlkSHFYRDQ2LW9vRUxyZzFLaGl2Yk1BcnZvcGlzb2VIa0dZemU1QXF2bk9kTDZPRHoyWGRuVnlaNF9lU3VlWG81V0xUd2ZTM2FiT3Q1aUdJdnhXSEdURGc1UFVrWWpTOTEtZGxiVXpidU5ERlZPZ05rc1k5Nk5yWWtlQ1cxSEtSR3Y1U2lEYnJrdUFEcExIRm9meUMyZlpUbFU5eEdScFJm?oc=5",
+      "published_at": "2026-08-17T23:03:12+00:00"
     },
     {
       "id": "03e6dcbee0a4da",
@@ -146,15 +164,6 @@
       "published_at": "2026-08-10T20:17:38+00:00"
     },
     {
-      "id": "6393d8ec3e14d9",
-      "title": "El blooper del ministro y el Presidente: Sturzenegger y Milei celebran la integración con Brasil usando camion...",
-      "summary": "El blooper del ministro y el Presidente: Sturzenegger y Milei celebran la integración con Brasil usando camion... Perfil",
-      "category": "Camiones",
-      "source": "Perfil",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSEhwMEloeDY5QW1vaUJqZzktdHZwSnlOSjNYU2stLXkwQnJNbzJhLUU4VkxCVWRLTzEzbXgtNDlvNE5SM0YwbzRSaDBneFpjU1RlYlhkVXlFbjVmRGo1c2dwZVM5UmUwbFpWSE5tR1pSWEZZYzBXNlVYc2Q1NGhlVXN2MGNLRElFLTFGRXZ6ZWNOZW1VSldoUnloZi02eTZ0dk1JanJkVngtUG14X01LZTRSWkVwcHF2WElBSWxweEV0NG1GUi05VVFRMnQ5MmhEUTAzQzZvZVpmekg4cWR2TThvRFB2WEZhOWFUQUs4QmJwWXdleldEbW56NHZpLW9fSVHSAYcCQVVfeXFMTzBZNGo0bllNNjRKdW4xSWZtUkVRVEdoSkhIUVNILUF5R0VKVWNBYm9CeUstQV9WX2U0TElqcjNzUlZwdy0zUmxFUFR5dGt6YjlfRDVZVjZNZ0UyRjVrdnhhT3ZaVTl0RXBDelZoNS0xV2dTUVB6ZWMzYXdVYl9fQXpEbVlROW91NFJpMGJ2NzdGTHZ0dWFFdkoxZzdIRk1lZENjTXQ2TnlIRENKNWstT0xWTjhLYkVPVlVGOEF4SkMta2t4NEg3VkdLUWgxWkduRHlVOU9wbXNvWGZpSzFYY2J6T0cxQW4tMEpKXy1XM0I1Rml2Y2tzbFk1MWpOYTY0bENlWjh1T1E?oc=5",
-      "published_at": "2026-08-10T17:42:57+00:00"
-    },
-    {
       "id": "1865d8179bd84c",
       "title": "Nuevas reglas para los camiones argentinos: el cambio que los acerca a Brasil",
       "summary": "Nuevas reglas para los camiones argentinos: el cambio que los acerca a Brasil El Diario de Carlos Paz",
@@ -171,6 +180,15 @@
       "source": "rionegro.com.ar",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc2NaX1QxSTJDaGQ4b3lheW5TYmhuT0c2UGVHZVR5T3EweGZYYWhyNnZzdzY0bDlIeUJPa2RYQVp5WEN4cGc2NlBJZ1dVSjF4b3VjMmZzQklyTDB3ZkhBMzZSclZFX0tVdGZ4dThLSzQtQkR6VmptSUM3ZTNtWloxdTBZSUhUeXloc1otMmdWZlM4alFQaXpMZ2laRlZ6UjZ1dVBwQi1UT3BqanRvQk5UMjdkZjF5SmcyWVNkbk5uWk5GU1pELU41bTY2RUxIbGdjRUdWR2lPT05nREVVMDE1SWRiZzZkLW_SAe8BQVVfeXFMTmlSWmh6eDI5cmlFYkVBVWRRcXg1TnRnWVBHZlNvSUp6anRWYnlQbm1YRHowQ3pBb0ZucWRTS3hJeGJoQzIyMHBEQjNMcWdwOHp0SkVLWlUwTTFCeUtiS2tpQnZRQ0JhZ1Y3M0ZpeC14ZDVNWTlJSzVLZVhGMG9Xa2tpMHNsckdIWnFCV1Y4VjhucU03UHhpQjNDZ2FwVWFkakM0NW1SalZQT3VMY0dVNUhOMmlvb1A3NWJaMWZwTWNoU3dqX0x0ekV3eVIzWWhwVkw0aFFFTmZIY1ZvUkdpYnlPODNncUVBaV9nOG9SQ00?oc=5",
       "published_at": "2026-08-13T20:08:12+00:00"
+    },
+    {
+      "id": "6393d8ec3e14d9",
+      "title": "El blooper del ministro y el Presidente: Sturzenegger y Milei celebran la integración con Brasil usando camion...",
+      "summary": "El blooper del ministro y el Presidente: Sturzenegger y Milei celebran la integración con Brasil usando camion... Perfil",
+      "category": "Camiones",
+      "source": "Perfil",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSEhwMEloeDY5QW1vaUJqZzktdHZwSnlOSjNYU2stLXkwQnJNbzJhLUU4VkxCVWRLTzEzbXgtNDlvNE5SM0YwbzRSaDBneFpjU1RlYlhkVXlFbjVmRGo1c2dwZVM5UmUwbFpWSE5tR1pSWEZZYzBXNlVYc2Q1NGhlVXN2MGNLRElFLTFGRXZ6ZWNOZW1VSldoUnloZi02eTZ0dk1JanJkVngtUG14X01LZTRSWkVwcHF2WElBSWxweEV0NG1GUi05VVFRMnQ5MmhEUTAzQzZvZVpmekg4cWR2TThvRFB2WEZhOWFUQUs4QmJwWXdleldEbW56NHZpLW9fSVHSAYcCQVVfeXFMTzBZNGo0bllNNjRKdW4xSWZtUkVRVEdoSkhIUVNILUF5R0VKVWNBYm9CeUstQV9WX2U0TElqcjNzUlZwdy0zUmxFUFR5dGt6YjlfRDVZVjZNZ0UyRjVrdnhhT3ZaVTl0RXBDelZoNS0xV2dTUVB6ZWMzYXdVYl9fQXpEbVlROW91NFJpMGJ2NzdGTHZ0dWFFdkoxZzdIRk1lZENjTXQ2TnlIRENKNWstT0xWTjhLYkVPVlVGOEF4SkMta2t4NEg3VkdLUWgxWkduRHlVOU9wbXNvWGZpSzFYY2J6T0cxQW4tMEpKXy1XM0I1Rml2Y2tzbFk1MWpOYTY0bENlWjh1T1E?oc=5",
+      "published_at": "2026-08-10T07:00:00+00:00"
     },
     {
       "id": "5e1af38b3235d8",
@@ -209,11 +227,11 @@
       "published_at": "2026-08-11T23:57:09+00:00"
     },
     {
-      "id": "561ed259bb7f85",
+      "id": "5b60b3742e59e6",
       "title": "Rutas destruidas, desvío de fondos y camiones más pesados",
-      "summary": "Rutas destruidas, desvío de fondos y camiones más pesados Catamarca Actual",
+      "summary": "Rutas destruidas, desvío de fondos y camiones más pesados catamarcactual.com.ar",
       "category": "Camiones",
-      "source": "Catamarca Actual",
+      "source": "catamarcactual.com.ar",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdW45cTk5YW5LSjJJNHhqei1SSkVvNFBwTDdIakFaM05Xa0dXRGFraHhVamk0eE1ESGduTjJwaU9jdUkzZGdXYXloc1BKMkx5LWEwY2QzMVFEQjNlbDdoX3FUbjJ2MHR1UDFqNjZmbDFVdGNqcEdMM1JMUVppLWpERThEMFRhX3RnUEphNnNnLUxLM2Fob01GeGdadFNHR09MWmpmcjhhM1JfS0JlbjNXSU5udXc2aVhMeGFEdzFR0gGnAUFVX3lxTE11UUp3Tll5TlJ1ZHZva3JUSGJuMnBVdF9DN3RvR19PeHk0THRKYVFRNzY5VUxwc28tZ2h6WS12bVU2eHdqSW9BMEtMVzFMdUVLbUpmQ0hXclJjdWV5aDZSck5yZlVsa2VhWG8xdmRfQy1Za1ZLWGh5M3NMRTZIMEZLTDNwbUp6cW1TQmRSYnlKMEcwajBtaVlvd25HUE9CaGdsOGZSWFA0?oc=5",
       "published_at": "2026-08-12T15:29:00+00:00"
     },
@@ -272,15 +290,6 @@
       "published_at": "2026-08-10T23:03:13+00:00"
     },
     {
-      "id": "0f2123effc2fa3",
-      "title": "El Gobierno cambió por decreto las reglas para el transporte de cargas: más peso, bitrenes y guiño al GNC de Vaca Muerta",
-      "summary": "El Gobierno cambió por decreto las reglas para el transporte de cargas: más peso, bitrenes y guiño al GNC de Vaca Muerta rionegro.com.ar",
-      "category": "Rutas y normativa",
-      "source": "rionegro.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcVJMWnE3SnhldEdtaW1TX3JiOGVjMWJISGlEYkwtdWFJaU44Wk9RVkdMazVqME90bWEwLVRMd05ndHdHZ041V0NraXAwYUdpbWRtbXRITjNXZV9SSHZkQjd6ZVg3Ynp0Z3l5VU96Q1E2dzNOSXlicmtJdUFhY2prSVRNUzR4SDBkWTJpaVhGeXN1NHBaOUhIVkpfblIwSUIzdVd2UjZvSHVTMWZteE11RC0yWEs5MW1vbTAwZEsxaVl2dUhtQUNuY3NhTGRVclhBMzkxWXJIT3NkdHYxSERvS3RUNXhyVVY5LUZqZlhNZmFSUHZwYVVJ0gH_AUFVX3lxTE1FWkRjTlhZN0VLaWdqNXNBcjJINnJMR2U5TE02TWFsaVNuVWNiNmM3aVAxSDZsWThSOGhacFhIdklNZDdJZ19XX1hWenQxNDNtcFlvZmlwVVFrd2pYYklBUGx6enU3anZzTFJfdEpzWWs2Y05FZzNfa0tGdklaZ0pYc0NaOURPbEo3VTZTbWR5bHBYZ1NDM0lmTV96THN6UUxlSHkybks2NzRTWWlfZE9kUGNvMENGY28tMkZpMTg0d2pTRDFGOTZ5ZFVlcUtEYXFEd3dCYTY0YVNlcUo1NFVYNHJlMGd2X1VDdGdUUmhpN1FhbWZCUUhPejhBbVhzaw?oc=5",
-      "published_at": "2026-08-10T19:37:17+00:00"
-    },
-    {
       "id": "d7de51af05b483",
       "title": "El Gobierno amplía pesos y medidas para camiones y bitrenes",
       "summary": "El Gobierno amplía pesos y medidas para camiones y bitrenes Diario El Norte - San Nicolás",
@@ -299,12 +308,21 @@
       "published_at": "2026-08-07T07:00:00+00:00"
     },
     {
-      "id": "28df61a282d7fe",
+      "id": "75e9a1f2546a70",
       "title": "Preocupación por los camiones varados: el paso Cristo Redentor rompió un récord histórico",
-      "summary": "Preocupación por los camiones varados: el paso Cristo Redentor rompió un récord histórico minutouno.com",
+      "summary": "Preocupación por los camiones varados: el paso Cristo Redentor rompió un récord histórico MinutoUno",
       "category": "Camiones",
-      "source": "minutouno.com",
+      "source": "MinutoUno",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZExFY1g5V1hMbHNDSW5TZDBZMEVFdTZ3ckt0bGR1MlRWNldjZXp4SGppY3BOTnE4d3ZxMTZZZi0zRl83YzVsbkE3VU0ySFZoSjRJOW16OWhnNnFIeWpMU3VaNm9BRUlKTmdudkJDelgyM1o5Q0xIb0Q4RzFMbm1ZRUtzTnhrZ291M2NWeWJkaFdiRUd3TUdSSkxZVlV0RlJQWUhVTHZZeUplNzVZajhMVjVVTXA4Rlo2ZkRzUFhobnBJNHNKc2g40gHHAUFVX3lxTE1kTEVjWDlXWExsc0NJblNkMFkwRUV1NndyS3RsZHUyVFY2V2NlenhIamljcE5OcTh3dnExNllmLTNGXzdjNWxuQTdVTTJIVmhKNEk5bXo5aGc2cUh5akxTdVo2b0FFSUpOZ252QkN6WDIzWjlDTEhvRDhHMUxubVlFS3NOeGtnb3UzY1Z5YmRoV2JFR3dNR1JKTFlWVXRGUlBZSFVMdll5SmU3NVlqOExWNVVNcDhGWjZmRHNQWGhucEk0c0pzaDg?oc=5",
+      "published_at": "2026-08-10T07:00:00+00:00"
+    },
+    {
+      "id": "0f2123effc2fa3",
+      "title": "El Gobierno cambió por decreto las reglas para el transporte de cargas: más peso, bitrenes y guiño al GNC de Vaca Muerta",
+      "summary": "El Gobierno cambió por decreto las reglas para el transporte de cargas: más peso, bitrenes y guiño al GNC de Vaca Muerta rionegro.com.ar",
+      "category": "Rutas y normativa",
+      "source": "rionegro.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcVJMWnE3SnhldEdtaW1TX3JiOGVjMWJISGlEYkwtdWFJaU44Wk9RVkdMazVqME90bWEwLVRMd05ndHdHZ041V0NraXAwYUdpbWRtbXRITjNXZV9SSHZkQjd6ZVg3Ynp0Z3l5VU96Q1E2dzNOSXlicmtJdUFhY2prSVRNUzR4SDBkWTJpaVhGeXN1NHBaOUhIVkpfblIwSUIzdVd2UjZvSHVTMWZteE11RC0yWEs5MW1vbTAwZEsxaVl2dUhtQUNuY3NhTGRVclhBMzkxWXJIT3NkdHYxSERvS3RUNXhyVVY5LUZqZlhNZmFSUHZwYVVJ0gH_AUFVX3lxTE1FWkRjTlhZN0VLaWdqNXNBcjJINnJMR2U5TE02TWFsaVNuVWNiNmM3aVAxSDZsWThSOGhacFhIdklNZDdJZ19XX1hWenQxNDNtcFlvZmlwVVFrd2pYYklBUGx6enU3anZzTFJfdEpzWWs2Y05FZzNfa0tGdklaZ0pYc0NaOURPbEo3VTZTbWR5bHBYZ1NDM0lmTV96THN6UUxlSHkybks2NzRTWWlfZE9kUGNvMENGY28tMkZpMTg0d2pTRDFGOTZ5ZFVlcUtEYXFEd3dCYTY0YVNlcUo1NFVYNHJlMGd2X1VDdGdUUmhpN1FhbWZCUUhPejhBbVhzaw?oc=5",
       "published_at": "2026-08-10T07:00:00+00:00"
     },
     {
@@ -323,6 +341,15 @@
       "category": "Camiones",
       "source": "rionegro.com.ar",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMVZ3QUZhRDM4cUFwM1FHZlpoYUxTMzV0TWROOUJ1Y19zWkxuclU4VDNjc3IyN1ZrdmloUVBycXFEZTIyWHYyTnNZRkd3a2cyb0NYTW1DRWgxTTk1LVh5YjFaNU1RV2NKLUlQTVU4U3R3dW0tczBqdXlQdnFlRHp5bmZGdkRqcUpGcUxoRHBlbzFOWmk2SnNESWpVbUg3Nzc0d3JSc25VQWMzdjNfTXVmX3lwbnRtU3JoNlNDblhTa2FZVmpBS0o0Ng?oc=5",
+      "published_at": "2026-08-06T07:00:00+00:00"
+    },
+    {
+      "id": "3785620744eca9",
+      "title": "La revisión técnico-mecánica será obligatoria para remolques y semirremolques en Colombia",
+      "summary": "La revisión técnico-mecánica será obligatoria para remolques y semirremolques en Colombia Autos de Primera",
+      "category": "Remolques",
+      "source": "Autos de Primera",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVBDeTBpQXFsRkpZYUktNkN3YWNOemZoRGxTd1MwQXl1S2JvaWZPTUhIMFNvYXBQSnpCdzJqems2d1ozVHlsMVdGSURfQ0J1NVB6ZnVXUU1CVGRVMnZwdXdudUtaMFZ3ZmM3Tk1wZlMwekExRUFXLWNReWtDV1F4aEFNOXFCS256d04wRzdBdEdEOUZzRi15ZGxGU3dlMUg4ZmQ3NS1BaVJGR2JfVXJLSUlYN1BidTBBUVBjdkZWQmVEV055cEhmMzBLM1YxVFluWnNhY2Raem5GMGhQSE04?oc=5",
       "published_at": "2026-08-06T07:00:00+00:00"
     },
     {
@@ -360,15 +387,6 @@
       "source": "Infobae",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY2Nta29ocXVLeF9hSnBxdXN0dF9ya3ZIUllPWVV6QWM5RHRHZm5vUUdtakYycXF2dmZ4WlJfSWFZaUJvb0I3dkNNZWJDd1JCSjhEUDljd1JMYkZhMmJxRk54QkJPY3NPdmZHbWwtcXNOUy0zZ2p5LWE4XzRURG51MTRHenhhMWRvS3dsMmVSZnpzSUNMcmVObm9lSjltczdoUXVFb1U4TGtPU1Y5NWhZZ25UNWRFdmVkRklmam5pMDFaMXhaLVRuQl9R0gHkAUFVX3lxTFBDNHVMMDRUaEo5M0FDM3dsLU5MbDZGWDVBbWVzZG1aVzJuZHBaanJJY1RiU2M1X2oxRjRkZ2pRUWlYVlVvTVNnZTFkdDRYcGdIWGstNWE3c3NoaVRPSEF5U0dDM09panhKZ1lvNWVjU0tFdVc3NnBFNVBjV3JPXzZaaVQ3NUJqTDhkdGhMTEdMc3VBOVFwdDVyel8wQ19zMExhd2hJdXNOc1VXUGlVX2ZXeDVvb19aelZ3anFBV29nV0pQeThHZVIycGx5Rko5U0Etbkl6SXYta2xqcFRyTzhXRUZwVQ?oc=5",
       "published_at": "2026-07-29T07:00:00+00:00"
-    },
-    {
-      "id": "03405c715f7bf7",
-      "title": "Actualizan las reglas para camiones y bitrenes y amplían las configuraciones permitidas",
-      "summary": "Actualizan las reglas para camiones y bitrenes y amplían las configuraciones permitidas Infobae",
-      "category": "Argentina",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQzZjemZKbHVVQjNlV3B1eXBEUUFYNXJzVTFLVEliRmt6akFpQXRNemZweUhvTGhnaEhhVzN2Y1JHX2ZQS2JUaDFRdlBNTXhsOGZDUGRoZG84d2NsZGFkRzBVRUNuRjBqR0VJYUZzb3dNSGRxeUdqX2dDUU83bGo0REtFeWpOWGFJS3pfQWZSQ1pyT1N6dzRfWkV2ZkZsNjZVTkljVFJtQ2RCWGNXN1gzVHRYUWs3Y2xucXdUUkdPRHNCZDRNdF9mc1p30gHkAUFVX3lxTE9wbldvS2w4d3ZuSXk1V2xTU0VJZjJaRXZETFgxRkhwcVhFcUQ3dDVVREdVMXQ3SFpjcmVTTkc3WlBvV0V0ekRtM29RNjBzM0RvOVpBa09nNmhfTFBrWmN1b3libW15S0NrSkg0QmNlV3VwWDNLTVBVM3hhMGlsdm1XUzZiVXVfcENabGZoV2k3c05UVFYzRy03QWdDcmxGazBLMzNTS1oxUEZlei1rRDlHVmJCdi1uTlZaYks5czV1MnJmcV9Gb2t4MnQ3dTU0MHR6c3pscnUxd3VWbjhFSzA2a2gwOQ?oc=5",
-      "published_at": "2026-07-31T07:00:00+00:00"
     },
     {
       "id": "7b9503487c1a19",
@@ -425,11 +443,11 @@
       "published_at": "2026-07-28T07:00:00+00:00"
     },
     {
-      "id": "cf87d87e0e6f23",
+      "id": "5ef4868f4a8154",
       "title": "El GNC amplía su presencia en el transporte pesado y ya suma 300 estaciones de servicio habilitadas en Argentina",
-      "summary": "El GNC amplía su presencia en el transporte pesado y ya suma 300 estaciones de servicio habilitadas en Argentina dinamicarg.com",
+      "summary": "El GNC amplía su presencia en el transporte pesado y ya suma 300 estaciones de servicio habilitadas en Argentina Dinamicarg",
       "category": "Camiones",
-      "source": "dinamicarg.com",
+      "source": "Dinamicarg",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX3ZYX3BzcjNpaklLLUlfUHh4dHF4d1pxZU9rM3QzSnVwWDRZT2NhZ2hsVzJzaFhuNHlvSG5ZOWdsUGtmWFp5a0prbm1WN0R5ZF8tY29udE9zZm5BeGxVTHd0aWlkUFNlQzI2TWU5T2YyeHVscVpWcE53NVdxMUV4UQ?oc=5",
       "published_at": "2026-07-22T07:00:00+00:00"
     },
@@ -461,11 +479,11 @@
       "published_at": "2026-07-07T07:00:00+00:00"
     },
     {
-      "id": "63e20671db23b8",
+      "id": "b2e1c1d3f3f679",
       "title": "Cómo es la iniciativa para crear el ‘cielo único sudamericano’",
-      "summary": "Cómo es la iniciativa para crear el ‘cielo único sudamericano’ El Cronista",
+      "summary": "Cómo es la iniciativa para crear el ‘cielo único sudamericano’ cronista.com",
       "category": "Logística",
-      "source": "El Cronista",
+      "source": "cronista.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN1hPcjBweEFNcVRERlpwZFJRa21kRmJxMVF3bE5CYTRjMVVieHZUWkhPbS1mSVIzZ2dlRGV5UFNkUjViaXVuc0ZRamVRc3Y4d0lraElYdXNGZnpkbXZ3VDZQVXZhV1VYQ2VRQ0tRV3lIVU5ZQ3NwUzZpaklYWDA0c3FTQ2ZPblZYazNSZ2JvTTl0ZjBNVklNZ3ByZFA3dnZsdGtXc9IBvwFBVV95cUxNdFNaSjBQM25XeWM0OFVSdnN0S0JVZVluQjdXQVJBeEZnS2pPY2VqZEVVOVlCT3VFdTN6a1FvT0lnR2k1eWkzMy1RU1pzVGt5LXBDVGJobzk4X2Zwb1NhckYyc2dTQjUtTGFDZkZFclZXUHFreUZqV3FicC1KZzVvZ3YxTnRZM0tnTmltLWNveVJMUEdFV2hMWEFsYlJVSk4yUVY3RUdpc3VycmJUaUNoMzhQa0pQOHZoWHlHSktLOA?oc=5",
       "published_at": "2026-07-21T07:00:00+00:00"
     }
