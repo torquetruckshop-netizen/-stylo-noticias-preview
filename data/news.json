@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T17:50:45.184759+00:00",
+  "updated_at": "2026-08-21T21:02:24.123298+00:00",
   "items": [
     {
       "id": "175f8afacd13ee",
@@ -99,6 +99,15 @@
       "source": "SuperTruck.com.ar",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT0FuYXFPUVdoenRPeGJNUnRZRFNPV0k3dHZDaDdEX0JfTVZnLWptdWpYVFhxWWpQVk9ER1lTVHNTanQ3cWRkaHBfLVZCMkZnaUNRLUJDUmtObzE4Slo5SGtjM1dCVnRLUndoanZyY21DaHE0NmMwSlY0WTVNd2FCTTZPZFY1b0lKZmFOMm1Rd3U1bWZ3MTBtSkxEREQya1g3dEViTVhaa3ZpUQ?oc=5",
       "published_at": "2026-08-21T13:00:30+00:00"
+    },
+    {
+      "id": "2a809ceffe52f4",
+      "title": "Más de 1.300 camiones cruzaron desde Chile por el Paso Cristo Redentor",
+      "summary": "Más de 1.300 camiones cruzaron desde Chile por el Paso Cristo Redentor Los Andes",
+      "category": "Argentina",
+      "source": "Los Andes",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTU1Ob19SLTNVeFktMnBnc2tWZ29xWXZvR1hHMm1HZENNbl81VG9zZXB0R3VPQUVybmFEdmtNdFNSRWFnRFZVcHFLOFlGZ2hSa3ZwcnlOVkZuLVBPRVVEM0lyaWgxREkxRFFFd3pUdEtUclMxQ2JNaXhMN1BpYkMzT1VVQmlHd1ZYekxsR2lZSFdFdDNHWVQxdTJvaFpsT0Iwck9nNg?oc=5",
+      "published_at": "2026-08-20T22:14:00+00:00"
     },
     {
       "id": "a5cc916fb6ed96",
@@ -380,21 +389,21 @@
       "published_at": "2026-07-29T07:00:00+00:00"
     },
     {
-      "id": "03405c715f7bf7",
-      "title": "Actualizan las reglas para camiones y bitrenes y amplían las configuraciones permitidas",
-      "summary": "Actualizan las reglas para camiones y bitrenes y amplían las configuraciones permitidas Infobae",
-      "category": "Argentina",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQzZjemZKbHVVQjNlV3B1eXBEUUFYNXJzVTFLVEliRmt6akFpQXRNemZweUhvTGhnaEhhVzN2Y1JHX2ZQS2JUaDFRdlBNTXhsOGZDUGRoZG84d2NsZGFkRzBVRUNuRjBqR0VJYUZzb3dNSGRxeUdqX2dDUU83bGo0REtFeWpOWGFJS3pfQWZSQ1pyT1N6dzRfWkV2ZkZsNjZVTkljVFJtQ2RCWGNXN1gzVHRYUWs3Y2xucXdUUkdPRHNCZDRNdF9mc1p30gHkAUFVX3lxTE9wbldvS2w4d3ZuSXk1V2xTU0VJZjJaRXZETFgxRkhwcVhFcUQ3dDVVREdVMXQ3SFpjcmVTTkc3WlBvV0V0ekRtM29RNjBzM0RvOVpBa09nNmhfTFBrWmN1b3libW15S0NrSkg0QmNlV3VwWDNLTVBVM3hhMGlsdm1XUzZiVXVfcENabGZoV2k3c05UVFYzRy03QWdDcmxGazBLMzNTS1oxUEZlei1rRDlHVmJCdi1uTlZaYks5czV1MnJmcV9Gb2t4MnQ3dTU0MHR6c3pscnUxd3VWbjhFSzA2a2gwOQ?oc=5",
-      "published_at": "2026-07-31T07:00:00+00:00"
-    },
-    {
       "id": "16cb25da2e9dbd",
       "title": "La Pampa quiere cobrarle peajes a los camiones que vayan a Vaca Muerta por el impacto sobre sus rutas",
       "summary": "La Pampa quiere cobrarle peajes a los camiones que vayan a Vaca Muerta por el impacto sobre sus rutas Infobae",
       "category": "Camiones",
       "source": "Infobae",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcmVnZzlPNTdzUjZhTzR5Mzh1TUVxUVIwOWhlMk1veDdDSkc2VlQ3ZmhXSklsMzF1ajFWUU1nY1dRTjdXaFFCa0JKaFVLNUtWbEpFUWF3NDJQakhwOC1pV3pjR2twRUlDUjFBdHVMN3dFcDlUZUZkTmZLN0huSVVndW1qbzJLV05HR1NIVVpfZTlWazBqNWllN0tKRGNfazJ4RklJaER1ZWU4Q1gwOWN5Y2hlMFVTVm5TbHluOXhaYTdnM2xhOXhLTTJ6STVnXzFLUmJ2R2s1T2s5LXJmbmFF0gH6AUFVX3lxTE0zX0JIU1dRY1EtbFNUdGlrQXdMNzZGMGtWOWMwWEYzVnpCUVJIZHAxdlpOYlhPanRGa1lraDhOWTNsM190N1RJSDd3RkxKTTV1Ylk4cWdSWk83NG01N2RJbVNtODRDVjY3VTlPaDB2STFDSlluNnlXOUMwUWRIYTJwMXJMYS1md3k5b2NsanBzbUdjT2ZjeEFZN3p5dzFBY2RCSWpDcE0yYVhORXF0T25UOHdWbnJSNW15dHFMZGptaUVGTXVzTjhOV2hzdllZUm9IdTFkWFB2X1FEWFFqX0M0dTVUeEVsd3pBN0hrWTBObmNkWFhFVFRnd0E?oc=5",
+      "published_at": "2026-07-31T07:00:00+00:00"
+    },
+    {
+      "id": "03405c715f7bf7",
+      "title": "Actualizan las reglas para camiones y bitrenes y amplían las configuraciones permitidas",
+      "summary": "Actualizan las reglas para camiones y bitrenes y amplían las configuraciones permitidas Infobae",
+      "category": "Rutas y normativa",
+      "source": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQzZjemZKbHVVQjNlV3B1eXBEUUFYNXJzVTFLVEliRmt6akFpQXRNemZweUhvTGhnaEhhVzN2Y1JHX2ZQS2JUaDFRdlBNTXhsOGZDUGRoZG84d2NsZGFkRzBVRUNuRjBqR0VJYUZzb3dNSGRxeUdqX2dDUU83bGo0REtFeWpOWGFJS3pfQWZSQ1pyT1N6dzRfWkV2ZkZsNjZVTkljVFJtQ2RCWGNXN1gzVHRYUWs3Y2xucXdUUkdPRHNCZDRNdF9mc1p30gHkAUFVX3lxTE9wbldvS2w4d3ZuSXk1V2xTU0VJZjJaRXZETFgxRkhwcVhFcUQ3dDVVREdVMXQ3SFpjcmVTTkc3WlBvV0V0ekRtM29RNjBzM0RvOVpBa09nNmhfTFBrWmN1b3libW15S0NrSkg0QmNlV3VwWDNLTVBVM3hhMGlsdm1XUzZiVXVfcENabGZoV2k3c05UVFYzRy03QWdDcmxGazBLMzNTS1oxUEZlei1rRDlHVmJCdi1uTlZaYks5czV1MnJmcV9Gb2t4MnQ3dTU0MHR6c3pscnUxd3VWbjhFSzA2a2gwOQ?oc=5",
       "published_at": "2026-07-31T07:00:00+00:00"
     },
     {
@@ -414,6 +423,15 @@
       "source": "SuperTruck.com.ar",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWI1TWxBNFd3Ry13Y1RsWmVoNWd1UGNYVGY5dXM1Z0dVVUJROFJjU1Y1T3lkOEY3bzBVNC1CMExVZmZERHNYOGlmLUFPTWhRUVE5dzFNcFNEWTQ5MHR0NzkyMVdQdF9ES1dNUlpoN0ZZSWVjemcxNExlRjdad2hoTXpjLTdCN1BPOGlhdFJPdUxXWEtIR05nZWF6WTBRRmR2UW1FY3RIX1FUZw?oc=5",
       "published_at": "2026-08-03T07:00:00+00:00"
+    },
+    {
+      "id": "5e7d87d5d5f11a",
+      "title": "Petróleo a USD 100: el shock global que puede darle más dólares a la Argentina, pero también traer presión a los surtidores",
+      "summary": "Petróleo a USD 100: el shock global que puede darle más dólares a la Argentina, pero también traer presión a los surtidores Canal26",
+      "category": "Economía",
+      "source": "Canal26",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcE05cmhKTDZIUHE3MGphQlpjNWJMcjdqWVUtdTNUWUpmNGhLdHB3cGdZX1BJY3N1QVVjemZ0OVJMakJGU0pSa3Z3OUNLMjlOOTVNOEJWajRXSnNhaEJvNThJN29qREJjMXQ4dXl2N1ljdWtHX0llLUpvVElrU1R2QUxUMG5faFBhUVp1dnRGaXFYQ1dwMHFKTkdKUHVPWmZ4aDR4TmJtYk9GNVBCdUVrRW5IOVpUUGxBc2c1eWJqcXdyZ0pudWhHS094b1dBUXdKMzhuUGZ0R2VjZVFMMmdNOEdOSWMxMk9uZlhWRHJ6UGNMZnVhbmxLeDF3?oc=5",
+      "published_at": "2026-07-24T07:00:00+00:00"
     },
     {
       "id": "d2434c91d7ccd9",
