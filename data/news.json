@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T21:02:24.123298+00:00",
+  "updated_at": "2026-08-22T03:11:30.984946+00:00",
   "items": [
     {
       "id": "175f8afacd13ee",
@@ -74,15 +74,6 @@
       "published_at": "2026-08-20T15:07:55+00:00"
     },
     {
-      "id": "f3ae885f7c4f50",
-      "title": "Reabre el Paso Cristo Redentor en Mendoza: cómo será hoy el tránsito de camiones entre Argentina y Chile",
-      "summary": "Reabre el Paso Cristo Redentor en Mendoza: cómo será hoy el tránsito de camiones entre Argentina y Chile Diario Primera Linea",
-      "category": "Argentina",
-      "source": "Diario Primera Linea",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdVZyazRuVjBUb3QyMHB1S3AzSHkzY3NycC1ZUE93MXFCbnhYSmE1Wk5ZeHRiMFBGMnlOX2pkd2x2TmtMRElWcGRhNldHX1lWYnJ3RERkXzZSTUFNT2tfTmlHMEtwTkRLYXhVU3p1c2lQXzZuOHIzV0NBdDNCdnRNLVZZdnFZdnd2OWtIRjhZdzlpOFFneFY5T0ZmV3cyOHpxMzEtTXhoZUFvREpxd0FqOEpsMEMxWjVoTmMycmVqQzhCOVZ1SU1kMjVwbzAwUk9CMFdJUQ?oc=5",
-      "published_at": "2026-08-18T16:16:18+00:00"
-    },
-    {
       "id": "3507d9395aa5b3",
       "title": "Argentina modifica el RIGI ante la privatización de los trenes de carga: qué inversiones podrán ingresar",
       "summary": "Argentina modifica el RIGI ante la privatización de los trenes de carga: qué inversiones podrán ingresar Bloomberg Línea",
@@ -101,15 +92,6 @@
       "published_at": "2026-08-21T13:00:30+00:00"
     },
     {
-      "id": "2a809ceffe52f4",
-      "title": "Más de 1.300 camiones cruzaron desde Chile por el Paso Cristo Redentor",
-      "summary": "Más de 1.300 camiones cruzaron desde Chile por el Paso Cristo Redentor Los Andes",
-      "category": "Argentina",
-      "source": "Los Andes",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTU1Ob19SLTNVeFktMnBnc2tWZ29xWXZvR1hHMm1HZENNbl81VG9zZXB0R3VPQUVybmFEdmtNdFNSRWFnRFZVcHFLOFlGZ2hSa3ZwcnlOVkZuLVBPRVVEM0lyaWgxREkxRFFFd3pUdEtUclMxQ2JNaXhMN1BpYkMzT1VVQmlHd1ZYekxsR2lZSFdFdDNHWVQxdTJvaFpsT0Iwck9nNg?oc=5",
-      "published_at": "2026-08-20T22:14:00+00:00"
-    },
-    {
       "id": "a5cc916fb6ed96",
       "title": "Adelantaron para este jueves el cruce de camiones desde Chile hacia Mendoza",
       "summary": "Adelantaron para este jueves el cruce de camiones desde Chile hacia Mendoza Diario Mendoza",
@@ -117,6 +99,15 @@
       "source": "Diario Mendoza",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORnNmNGtESDdrLVFmcEZUTU9ZVDh5Q3oxT1lnSVZhNDk5Szl4bUsyWUF2TndWSF9CUGVLQVd1cXQzbW4wNlpSaXJaRGl5QVZTNkM4V3lTZkpZcWU0aGpTRHlpYUlScXhyUVJJS0gtbWNnSkNtV3lHWVpLdldiZ1R0cGh1MUFEVG5LalZfcDFWeDcyN0pKNW92MDhhYUFGd9IBowFBVV95cUxPaWYyU3dJNGJ0ZVNLVDdPQWJEbVBEZXgzc0ptaktCME95bFhzWTdJU3ZjTEliLXJZQUZVRndaYTRhSjRfcTdGaURsMHlESll6bEZyVWxoZUVLQnZlNm94X0hMbHVUR1o2Uk1XRVlodUFyallPek5jTHNnYldLb0xMa1pONzVFZUhILVBrT3BQRVk2Z0lNNENmTW1VRzQzV3E0SUVv?oc=5",
       "published_at": "2026-08-19T22:00:00+00:00"
+    },
+    {
+      "id": "908aabd428d9df",
+      "title": "Reabrirá el Paso Cristo Redentor en Mendoza tras 34 días y miles de camiones esperan por cruzar la frontera",
+      "summary": "Reabrirá el Paso Cristo Redentor en Mendoza tras 34 días y miles de camiones esperan por cruzar la frontera Infobae",
+      "category": "Argentina",
+      "source": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcnloUWRJcV9fQThXbVFKLTBDMVp4eVFaTE9lMzFpdi1feU1adnZzX2trUVB2ZWNCYlJTMWZzQklfdTVuSjNkbllyWUZyVlBUSkxVcnpQSjZLY0NOZ0NwemZnR3U5S3RjSU4xYjRpUm9CRlQ3eFRYQXBRMjJ5ZE5WNng5ZFplbkNtYnliMF9ZZU1zYTQtb0tkNTJQaDMxOUJfRmZHSjNnU05Ja28xT2s2UGlyZ2tRcF9tbDY3LTlHcVdKVWREMUVUMEVySFBmVEVDRW9MZ2pRQm05VDNLSHItYzBxcUVaVTDSAYICQVVfeXFMTmlNUkZOQVFCNjVZRk52MUpiNjZUOHhXMzZDQzIxSFliNUNtOURDNl9lTmpDUlFlaEFSUW91UXVqdEFUMUtIT00yc3NncU1XN3RGN2hnLS1rUXpra1JMckNmVE5WcjdHQk1UbFYya2d6dXVpQ3o3YU5QZmJDdkdSYUE3RGtKckRpWUlSYVVMWS15QVlZbzM4ZGM4R0k2MUdjWUpRd3Z0dEY2YlM0a0xITldpODZlbUlTdnVBdFQ3cnRaWEJPLUp1SGFlYjVyWGZsaHc2TnAxaXFGN0Z0NG50UW01UHVuZmI2UTNMdy1lUHBVWWhza0VwQXdvUkQ2TWF2Ymd3?oc=5",
+      "published_at": "2026-08-17T18:50:00+00:00"
     },
     {
       "id": "814500bfd17dde",
@@ -218,6 +209,15 @@
       "published_at": "2026-08-17T16:46:46+00:00"
     },
     {
+      "id": "870c58b448df74",
+      "title": "La ciudad de Hue está desviando el tráfico de camiones con remolque para realizar reparaciones en la Carretera Nacional 49.",
+      "summary": "La ciudad de Hue está desviando el tráfico de camiones con remolque para realizar reparaciones en la Carretera Nacional 49. Vietnam.vn",
+      "category": "Remolques",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPanJ4Z25CMzVLbjlZTnJWTXh3aXN3STEtUWpFVUJEbmFNSExySlJDeWNTWTZyT09ueFF5WS1JaDlGa3d4WEJvWGZnT21ZQTIzWGpMOHVGTjFsemE4RVJraXVwOTBqM2d0V2JuS0dJbEhLeGJ2Q3U0aUNfT1ZVSG9yVnQ3dE1Sc2MxNFBMNA?oc=5",
+      "published_at": "2026-08-15T07:00:00+00:00"
+    },
+    {
       "id": "8f7b7eb18a23b9",
       "title": "Reabren el Paso Cristo Redentor solo para transporte de carga",
       "summary": "Reabren el Paso Cristo Redentor solo para transporte de carga Diario El Norte - San Nicolás",
@@ -290,15 +290,6 @@
       "published_at": "2026-08-12T18:26:10+00:00"
     },
     {
-      "id": "d74083fa1f0eb6",
-      "title": "Camiones varados en Neuquén: cómo es el operativo para avanzar en tandas hacia Pino Hachado",
-      "summary": "Camiones varados en Neuquén: cómo es el operativo para avanzar en tandas hacia Pino Hachado Diario Río Negro",
-      "category": "Camiones",
-      "source": "Diario Río Negro",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOVdvd0xmUGpCcWd0Y2FpdFJKVS1za3V5MDRGQlpHV2dQc2hsWTdPMUVHbkNxU0E4THpPWWJELTdOLU1BUmdoNlZVTU1RZWRDSFRRTzBhcTJvcXFBYTBxOEpVdjZXdEJ4T29GQUJhb2s5M2JIc0paVHZzVnYwQUgwWmxHSndncFhlQUEtRTZQbmp4UGVEbWREcHllRGJZR04tS0FXZG1FZHI5QTBlc25OaFNNVHptZVJFRWRKRW91QWNIRGFXbUFTc2puTnkwVzU3N2fSAdoBQVVfeXFMUE9LRjFCeTRHd2E3V0NCQnNsaXZYeGI4VExJS1RaWWNUM3VKX2J1blZNYWRXbldzTG9qVl9hWVZHWTY2dHZydjhTTkp6TjdQdy1WRFlfVE8yQmNqV1hocGt2dlV2NlhEanNfT0g2ZHNveHVybWRGZndaTFZkaE1Oa2dpV3ItTFAtVC15X2ZyS1lNOGhQUjNhd0xwSTZvaVR4MWc0VG1ocTZqdU8yZU5UWlZWVTN5NFhwVUFRckxfQ3VnZXpmeFBGVEw1WEtfU21wdTFVcjJ1YXkyNXc?oc=5",
-      "published_at": "2026-08-12T15:06:29+00:00"
-    },
-    {
       "id": "19e682611395ac",
       "title": "Colombia exigirá revisión técnico-mecánica anual para remolques y semirremolques: habrá multas e inmovilización por incumplir",
       "summary": "Colombia exigirá revisión técnico-mecánica anual para remolques y semirremolques: habrá multas e inmovilización por incumplir Infobae",
@@ -315,6 +306,15 @@
       "source": "Diario Digital Conclusión",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdENNblN1XzRlMF9sOTdBMXNpOWxRa3I0RWxKTmhOTkVkR2ZMZEZRQ09KbXBKSy1KTXl3UC1GaDFQSFhlX3ZxelNNOTJDeUpYcFBlZnRSRHBBaG0tTXVzMmVEdWozcVM2MWF1OU1sQnk5aUhMNU1uMk5VMXg0QjltT0p4c0hVUm4wbTF6UGZSeDZQamVHNm4ySEVXTFdrdzNVM0Mzd0FVM00tYkxPTWE2M1pHUkdnRzAwX0J4NXB2cXJfVlNZcVJHQXpjdk5LSU1kcDZYYlpJdm80WXZGZFlya1hxSjlBMFFDTnlnVlBUY3VYekl2eE0wQ1JEeWZCaW8?oc=5",
       "published_at": "2026-08-12T13:31:18+00:00"
+    },
+    {
+      "id": "d74083fa1f0eb6",
+      "title": "Camiones varados en Neuquén: cómo es el operativo para avanzar en tandas hacia Pino Hachado",
+      "summary": "Camiones varados en Neuquén: cómo es el operativo para avanzar en tandas hacia Pino Hachado Diario Río Negro",
+      "category": "Camiones",
+      "source": "Diario Río Negro",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOVdvd0xmUGpCcWd0Y2FpdFJKVS1za3V5MDRGQlpHV2dQc2hsWTdPMUVHbkNxU0E4THpPWWJELTdOLU1BUmdoNlZVTU1RZWRDSFRRTzBhcTJvcXFBYTBxOEpVdjZXdEJ4T29GQUJhb2s5M2JIc0paVHZzVnYwQUgwWmxHSndncFhlQUEtRTZQbmp4UGVEbWREcHllRGJZR04tS0FXZG1FZHI5QTBlc25OaFNNVHptZVJFRWRKRW91QWNIRGFXbUFTc2puTnkwVzU3N2fSAdoBQVVfeXFMUE9LRjFCeTRHd2E3V0NCQnNsaXZYeGI4VExJS1RaWWNUM3VKX2J1blZNYWRXbldzTG9qVl9hWVZHWTY2dHZydjhTTkp6TjdQdy1WRFlfVE8yQmNqV1hocGt2dlV2NlhEanNfT0g2ZHNveHVybWRGZndaTFZkaE1Oa2dpV3ItTFAtVC15X2ZyS1lNOGhQUjNhd0xwSTZvaVR4MWc0VG1ocTZqdU8yZU5UWlZWVTN5NFhwVUFRckxfQ3VnZXpmeFBGVEw1WEtfU21wdTFVcjJ1YXkyNXc?oc=5",
+      "published_at": "2026-08-12T07:00:00+00:00"
     },
     {
       "id": "b17a8beda966ce",
@@ -389,21 +389,21 @@
       "published_at": "2026-07-29T07:00:00+00:00"
     },
     {
+      "id": "03405c715f7bf7",
+      "title": "Actualizan las reglas para camiones y bitrenes y amplían las configuraciones permitidas",
+      "summary": "Actualizan las reglas para camiones y bitrenes y amplían las configuraciones permitidas Infobae",
+      "category": "Argentina",
+      "source": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQzZjemZKbHVVQjNlV3B1eXBEUUFYNXJzVTFLVEliRmt6akFpQXRNemZweUhvTGhnaEhhVzN2Y1JHX2ZQS2JUaDFRdlBNTXhsOGZDUGRoZG84d2NsZGFkRzBVRUNuRjBqR0VJYUZzb3dNSGRxeUdqX2dDUU83bGo0REtFeWpOWGFJS3pfQWZSQ1pyT1N6dzRfWkV2ZkZsNjZVTkljVFJtQ2RCWGNXN1gzVHRYUWs3Y2xucXdUUkdPRHNCZDRNdF9mc1p30gHkAUFVX3lxTE9wbldvS2w4d3ZuSXk1V2xTU0VJZjJaRXZETFgxRkhwcVhFcUQ3dDVVREdVMXQ3SFpjcmVTTkc3WlBvV0V0ekRtM29RNjBzM0RvOVpBa09nNmhfTFBrWmN1b3libW15S0NrSkg0QmNlV3VwWDNLTVBVM3hhMGlsdm1XUzZiVXVfcENabGZoV2k3c05UVFYzRy03QWdDcmxGazBLMzNTS1oxUEZlei1rRDlHVmJCdi1uTlZaYks5czV1MnJmcV9Gb2t4MnQ3dTU0MHR6c3pscnUxd3VWbjhFSzA2a2gwOQ?oc=5",
+      "published_at": "2026-07-31T07:00:00+00:00"
+    },
+    {
       "id": "16cb25da2e9dbd",
       "title": "La Pampa quiere cobrarle peajes a los camiones que vayan a Vaca Muerta por el impacto sobre sus rutas",
       "summary": "La Pampa quiere cobrarle peajes a los camiones que vayan a Vaca Muerta por el impacto sobre sus rutas Infobae",
       "category": "Camiones",
       "source": "Infobae",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcmVnZzlPNTdzUjZhTzR5Mzh1TUVxUVIwOWhlMk1veDdDSkc2VlQ3ZmhXSklsMzF1ajFWUU1nY1dRTjdXaFFCa0JKaFVLNUtWbEpFUWF3NDJQakhwOC1pV3pjR2twRUlDUjFBdHVMN3dFcDlUZUZkTmZLN0huSVVndW1qbzJLV05HR1NIVVpfZTlWazBqNWllN0tKRGNfazJ4RklJaER1ZWU4Q1gwOWN5Y2hlMFVTVm5TbHluOXhaYTdnM2xhOXhLTTJ6STVnXzFLUmJ2R2s1T2s5LXJmbmFF0gH6AUFVX3lxTE0zX0JIU1dRY1EtbFNUdGlrQXdMNzZGMGtWOWMwWEYzVnpCUVJIZHAxdlpOYlhPanRGa1lraDhOWTNsM190N1RJSDd3RkxKTTV1Ylk4cWdSWk83NG01N2RJbVNtODRDVjY3VTlPaDB2STFDSlluNnlXOUMwUWRIYTJwMXJMYS1md3k5b2NsanBzbUdjT2ZjeEFZN3p5dzFBY2RCSWpDcE0yYVhORXF0T25UOHdWbnJSNW15dHFMZGptaUVGTXVzTjhOV2hzdllZUm9IdTFkWFB2X1FEWFFqX0M0dTVUeEVsd3pBN0hrWTBObmNkWFhFVFRnd0E?oc=5",
-      "published_at": "2026-07-31T07:00:00+00:00"
-    },
-    {
-      "id": "03405c715f7bf7",
-      "title": "Actualizan las reglas para camiones y bitrenes y amplían las configuraciones permitidas",
-      "summary": "Actualizan las reglas para camiones y bitrenes y amplían las configuraciones permitidas Infobae",
-      "category": "Rutas y normativa",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQzZjemZKbHVVQjNlV3B1eXBEUUFYNXJzVTFLVEliRmt6akFpQXRNemZweUhvTGhnaEhhVzN2Y1JHX2ZQS2JUaDFRdlBNTXhsOGZDUGRoZG84d2NsZGFkRzBVRUNuRjBqR0VJYUZzb3dNSGRxeUdqX2dDUU83bGo0REtFeWpOWGFJS3pfQWZSQ1pyT1N6dzRfWkV2ZkZsNjZVTkljVFJtQ2RCWGNXN1gzVHRYUWs3Y2xucXdUUkdPRHNCZDRNdF9mc1p30gHkAUFVX3lxTE9wbldvS2w4d3ZuSXk1V2xTU0VJZjJaRXZETFgxRkhwcVhFcUQ3dDVVREdVMXQ3SFpjcmVTTkc3WlBvV0V0ekRtM29RNjBzM0RvOVpBa09nNmhfTFBrWmN1b3libW15S0NrSkg0QmNlV3VwWDNLTVBVM3hhMGlsdm1XUzZiVXVfcENabGZoV2k3c05UVFYzRy03QWdDcmxGazBLMzNTS1oxUEZlei1rRDlHVmJCdi1uTlZaYks5czV1MnJmcV9Gb2t4MnQ3dTU0MHR6c3pscnUxd3VWbjhFSzA2a2gwOQ?oc=5",
       "published_at": "2026-07-31T07:00:00+00:00"
     },
     {
