@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T05:47:03.282185+00:00",
+  "updated_at": "2026-08-22T09:45:55.736926+00:00",
   "items": [
     {
       "id": "6264d6436b96ae",
@@ -63,6 +63,15 @@
       "source": "transportemundial.com.ar",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2hlUE9fVkNZZjZrcUJQb1NYTTE5dVNtbDdvWVFFYVdtTHdiWndKTVVqbEVQeUkySG9ETy1PQ0YtcmNVU0pYdXNldFBkc0E4VUowSGRhU3JGbVR1UnJBeVBrcnhXS0hFNlIyU0I1OUM5YjVjblJwcUNSOFlZUTFteWdRTkhkb3lrWS1VckVheEVEa1RPQ1I4RThEYUpTSUJ2VVZvMURkSVd2Sl9wYjZkMDFqa3VpYnFNOFhOU1Nn?oc=5",
       "published_at": "2026-08-20T15:07:55+00:00"
+    },
+    {
+      "id": "f3ae885f7c4f50",
+      "title": "Reabre el Paso Cristo Redentor en Mendoza: cómo será hoy el tránsito de camiones entre Argentina y Chile",
+      "summary": "Reabre el Paso Cristo Redentor en Mendoza: cómo será hoy el tránsito de camiones entre Argentina y Chile Diario Primera Linea",
+      "category": "Argentina",
+      "source": "Diario Primera Linea",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdVZyazRuVjBUb3QyMHB1S3AzSHkzY3NycC1ZUE93MXFCbnhYSmE1Wk5ZeHRiMFBGMnlOX2pkd2x2TmtMRElWcGRhNldHX1lWYnJ3RERkXzZSTUFNT2tfTmlHMEtwTkRLYXhVU3p1c2lQXzZuOHIzV0NBdDNCdnRNLVZZdnFZdnd2OWtIRjhZdzlpOFFneFY5T0ZmV3cyOHpxMzEtTXhoZUFvREpxd0FqOEpsMEMxWjVoTmMycmVqQzhCOVZ1SU1kMjVwbzAwUk9CMFdJUQ?oc=5",
+      "published_at": "2026-08-18T16:16:18+00:00"
     },
     {
       "id": "3507d9395aa5b3",
@@ -200,15 +209,6 @@
       "published_at": "2026-08-15T07:00:00+00:00"
     },
     {
-      "id": "8f7b7eb18a23b9",
-      "title": "Reabren el Paso Cristo Redentor solo para transporte de carga",
-      "summary": "Reabren el Paso Cristo Redentor solo para transporte de carga Diario El Norte - San Nicolás",
-      "category": "Argentina",
-      "source": "Diario El Norte - San Nicolás",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa0Qzd3Z0d3VoMmdOS3c4VmQyVFBoLVV6Q1NnRWw4X3E2emYteFZQMVFxTEhkLUdDd1hEek9rMGNud3paYklwb19vSjAyaG5kckdsOV9OUkJmNDJ0ZDFIZGc1VXU0VktlLVpYTlVielNUODVNVkJoOEpvNkxNNko5R3FLSlo1SjdETnJ0bnZiMnRNa3RmWUE?oc=5",
-      "published_at": "2026-08-17T21:04:46+00:00"
-    },
-    {
       "id": "9378b74c20b5af",
       "title": "Más de 1600 camiones varados en Neuquén por el complicado cruce a Chile: cuántos hay en cada ciudad este martes",
       "summary": "Más de 1600 camiones varados en Neuquén por el complicado cruce a Chile: cuántos hay en cada ciudad este martes Diario Río Negro",
@@ -288,6 +288,15 @@
       "source": "Diario Digital Conclusión",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdENNblN1XzRlMF9sOTdBMXNpOWxRa3I0RWxKTmhOTkVkR2ZMZEZRQ09KbXBKSy1KTXl3UC1GaDFQSFhlX3ZxelNNOTJDeUpYcFBlZnRSRHBBaG0tTXVzMmVEdWozcVM2MWF1OU1sQnk5aUhMNU1uMk5VMXg0QjltT0p4c0hVUm4wbTF6UGZSeDZQamVHNm4ySEVXTFdrdzNVM0Mzd0FVM00tYkxPTWE2M1pHUkdnRzAwX0J4NXB2cXJfVlNZcVJHQXpjdk5LSU1kcDZYYlpJdm80WXZGZFlya1hxSjlBMFFDTnlnVlBUY3VYekl2eE0wQ1JEeWZCaW8?oc=5",
       "published_at": "2026-08-12T13:31:18+00:00"
+    },
+    {
+      "id": "d74083fa1f0eb6",
+      "title": "Camiones varados en Neuquén: cómo es el operativo para avanzar en tandas hacia Pino Hachado",
+      "summary": "Camiones varados en Neuquén: cómo es el operativo para avanzar en tandas hacia Pino Hachado Diario Río Negro",
+      "category": "Camiones",
+      "source": "Diario Río Negro",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOVdvd0xmUGpCcWd0Y2FpdFJKVS1za3V5MDRGQlpHV2dQc2hsWTdPMUVHbkNxU0E4THpPWWJELTdOLU1BUmdoNlZVTU1RZWRDSFRRTzBhcTJvcXFBYTBxOEpVdjZXdEJ4T29GQUJhb2s5M2JIc0paVHZzVnYwQUgwWmxHSndncFhlQUEtRTZQbmp4UGVEbWREcHllRGJZR04tS0FXZG1FZHI5QTBlc25OaFNNVHptZVJFRWRKRW91QWNIRGFXbUFTc2puTnkwVzU3N2fSAdoBQVVfeXFMUE9LRjFCeTRHd2E3V0NCQnNsaXZYeGI4VExJS1RaWWNUM3VKX2J1blZNYWRXbldzTG9qVl9hWVZHWTY2dHZydjhTTkp6TjdQdy1WRFlfVE8yQmNqV1hocGt2dlV2NlhEanNfT0g2ZHNveHVybWRGZndaTFZkaE1Oa2dpV3ItTFAtVC15X2ZyS1lNOGhQUjNhd0xwSTZvaVR4MWc0VG1ocTZqdU8yZU5UWlZWVTN5NFhwVUFRckxfQ3VnZXpmeFBGVEw1WEtfU21wdTFVcjJ1YXkyNXc?oc=5",
+      "published_at": "2026-08-12T07:00:00+00:00"
     },
     {
       "id": "0da79fb60e6811",
@@ -405,15 +414,6 @@
       "source": "SuperTruck.com.ar",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWI1TWxBNFd3Ry13Y1RsWmVoNWd1UGNYVGY5dXM1Z0dVVUJROFJjU1Y1T3lkOEY3bzBVNC1CMExVZmZERHNYOGlmLUFPTWhRUVE5dzFNcFNEWTQ5MHR0NzkyMVdQdF9ES1dNUlpoN0ZZSWVjemcxNExlRjdad2hoTXpjLTdCN1BPOGlhdFJPdUxXWEtIR05nZWF6WTBRRmR2UW1FY3RIX1FUZw?oc=5",
       "published_at": "2026-08-03T07:00:00+00:00"
-    },
-    {
-      "id": "5e7d87d5d5f11a",
-      "title": "Petróleo a USD 100: el shock global que puede darle más dólares a la Argentina, pero también traer presión a los surtidores",
-      "summary": "Petróleo a USD 100: el shock global que puede darle más dólares a la Argentina, pero también traer presión a los surtidores Canal26",
-      "category": "Economía",
-      "source": "Canal26",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcE05cmhKTDZIUHE3MGphQlpjNWJMcjdqWVUtdTNUWUpmNGhLdHB3cGdZX1BJY3N1QVVjemZ0OVJMakJGU0pSa3Z3OUNLMjlOOTVNOEJWajRXSnNhaEJvNThJN29qREJjMXQ4dXl2N1ljdWtHX0llLUpvVElrU1R2QUxUMG5faFBhUVp1dnRGaXFYQ1dwMHFKTkdKUHVPWmZ4aDR4TmJtYk9GNVBCdUVrRW5IOVpUUGxBc2c1eWJqcXdyZ0pudWhHS094b1dBUXdKMzhuUGZ0R2VjZVFMMmdNOEdOSWMxMk9uZlhWRHJ6UGNMZnVhbmxLeDF3?oc=5",
-      "published_at": "2026-07-24T07:00:00+00:00"
     },
     {
       "id": "d2434c91d7ccd9",
