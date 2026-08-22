@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-08-22T03:11:30.984946+00:00",
+  "updated_at": "2026-08-22T05:47:03.282185+00:00",
   "items": [
-    {
-      "id": "175f8afacd13ee",
-      "title": "Paso Cristo Redentor: comenzó la segunda etapa de reapertura con foco exclusivo en camiones desde Chile hacia Argentina",
-      "summary": "Paso Cristo Redentor: comenzó la segunda etapa de reapertura con foco exclusivo en camiones desde Chile hacia Argentina Tiempo de San Juan",
-      "category": "Camiones",
-      "source": "Tiempo de San Juan",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNY0pUOFR1WUxIMDh0UGtWd3dfTTR3U0pwaWIyMW9rcHVFNlhiSXE1Um1pX05OSmtxbGY5UFZJa1dKN3VaU25MZy03cnVGNTUtVUN2UDJvMEhuaUxfdmZqYlpYaGhNY2pDSllNQWp4bUR1bnFKUHNseS1NQVNobWhxU3BMVFpHWHBMbi1CRFRodXZIT3BISHZvd3dpZnFRMGhrbHNZWDJ2Y0pMUkt5X3EyMXM1RGE3b0RvYmlPNFBPY1AtNlhyemJhQmJzQWltMmx4bDBFeVVMaURURDQ5MGdTMlhFNzhHbVQ5bVYxRTNONkJpTDcxQmNlckNobG9rdw?oc=5",
-      "published_at": "2026-08-20T15:16:00+00:00"
-    },
     {
       "id": "6264d6436b96ae",
       "title": "Paso Cristo Redentor: pasaron 2870 camiones y hoy el flujo va hacia Argentina",
@@ -135,15 +126,6 @@
       "source": "Webpicking",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTENpT2ZWMjhkM0pQSlp3T1ZpRGlGTjkya000X0N3VFlRcjNwNVdwRlNZLWdqdlFXTXJfZV9ydC10cWdvTkdHYm94OEdKY0d1T05uSVgzYnVLS2xiU3dOaWQ5SkpXT0pZWEhLY2hPcXQ5Qjc1WTctbEZjd1pHNktPazhRZ2ZycUNERlhoTUJpd0M1eDBoRUlkX0lWdVV5dTJCOHBN?oc=5",
       "published_at": "2026-08-19T12:47:26+00:00"
-    },
-    {
-      "id": "772393888a2d1f",
-      "title": "Camiones más pesados, rutas cada vez más deterioradas: el debate que también alcanza a San Andrés de Giles",
-      "summary": "Camiones más pesados, rutas cada vez más deterioradas: el debate que también alcanza a San Andrés de Giles infociudad",
-      "category": "Rutas y normativa",
-      "source": "infociudad",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRWRmWmkwem5oVDVsU3l0WUg5bDQ1eFJKZ204U3RINk4yYjJ4Zk1QM0lTc2lvOTlMZTBxYWJ1U3FERG9PUWtYdFFHYzVOQ2pfLWJnd0g5TnRwUHYtaE5YYzNDSzZxMUU1Mkx4eXZxWnFnc0c2OFl4N0szWHdnX196cGwtM04tS21DbmNFNXA4dkJQV2tZSV9xSTdpNDI4aXVjN05uVU52M2p0RS1heU5tMHdQLUtHNFg1NEFzcXU0ZldEeEZXdzAtdG5SdTNTSFE3X1pyZUxfczRrUQ?oc=5",
-      "published_at": "2026-08-19T23:35:50+00:00"
     },
     {
       "id": "1fd905f7fd4d4b",
@@ -308,12 +290,12 @@
       "published_at": "2026-08-12T13:31:18+00:00"
     },
     {
-      "id": "d74083fa1f0eb6",
-      "title": "Camiones varados en Neuquén: cómo es el operativo para avanzar en tandas hacia Pino Hachado",
-      "summary": "Camiones varados en Neuquén: cómo es el operativo para avanzar en tandas hacia Pino Hachado Diario Río Negro",
-      "category": "Camiones",
-      "source": "Diario Río Negro",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOVdvd0xmUGpCcWd0Y2FpdFJKVS1za3V5MDRGQlpHV2dQc2hsWTdPMUVHbkNxU0E4THpPWWJELTdOLU1BUmdoNlZVTU1RZWRDSFRRTzBhcTJvcXFBYTBxOEpVdjZXdEJ4T29GQUJhb2s5M2JIc0paVHZzVnYwQUgwWmxHSndncFhlQUEtRTZQbmp4UGVEbWREcHllRGJZR04tS0FXZG1FZHI5QTBlc25OaFNNVHptZVJFRWRKRW91QWNIRGFXbUFTc2puTnkwVzU3N2fSAdoBQVVfeXFMUE9LRjFCeTRHd2E3V0NCQnNsaXZYeGI4VExJS1RaWWNUM3VKX2J1blZNYWRXbldzTG9qVl9hWVZHWTY2dHZydjhTTkp6TjdQdy1WRFlfVE8yQmNqV1hocGt2dlV2NlhEanNfT0g2ZHNveHVybWRGZndaTFZkaE1Oa2dpV3ItTFAtVC15X2ZyS1lNOGhQUjNhd0xwSTZvaVR4MWc0VG1ocTZqdU8yZU5UWlZWVTN5NFhwVUFRckxfQ3VnZXpmeFBGVEw1WEtfU21wdTFVcjJ1YXkyNXc?oc=5",
+      "id": "0da79fb60e6811",
+      "title": "Rutas destruidas, desvío de fondos y camiones más pesados: fuerte alerta de los viales por la red nacional",
+      "summary": "Rutas destruidas, desvío de fondos y camiones más pesados: fuerte alerta de los viales por la red nacional Mundo Gremial",
+      "category": "Rutas y normativa",
+      "source": "Mundo Gremial",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN2h3OGhBZndVT0xRYnR2U3JjelJOZE1SVVVGMFk1bG5EaS1hWFNRMThtOVNVaVY2UTA2VWZpY21EaWJtZFFUY3ZiQ0lpcVN1c2pqc2ZBWDJJaXJWTG0takY1OVlyZ3ZCeGZSdktlOVVlUFg1LW81S0R1R21KRUVXRmhLb0V5RkRhSmFzNDFsLWE4M2dBaE9aVUFJM1dKQXZCamVMejFTMUtvZFVkNW9rNElMU3FnRno5VWMyR3c3c0ZkaW1Uczg3RzBB?oc=5",
       "published_at": "2026-08-12T07:00:00+00:00"
     },
     {
