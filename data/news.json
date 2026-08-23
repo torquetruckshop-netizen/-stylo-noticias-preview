@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T03:33:06.378810+00:00",
+  "updated_at": "2026-08-23T05:50:47.276107+00:00",
   "items": [
     {
       "id": "6264d6436b96ae",
@@ -101,15 +101,6 @@
       "published_at": "2026-08-18T23:54:15+00:00"
     },
     {
-      "id": "21b6d36c97bb8d",
-      "title": "Sudamérica busca ganar terreno en el mercado mundial de cruceros: más puertos, menos costos y reglas comunes",
-      "summary": "Sudamérica busca ganar terreno en el mercado mundial de cruceros: más puertos, menos costos y reglas comunes ArgenPorts",
-      "category": "Logística",
-      "source": "ArgenPorts",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWF3dHdQT0l4alFOdUszZFBvd2R0YVpkaHF6bFBpNGttRnQ0LUNjcUpvOE1MM2hINl9KekJtbEMwUUZsUkdBcGM2ZnZhMHhHRlBoM0c4TUo4Q0MwLWpvRHNfWFRLWGZxb0R4QS1SX0hZd1A1ejY2Z3o1TkhYd3o3bC1LNXNDd1hIX05vWHIwQXJjaDZyaU52cFNxNkItUGJ2d0lVc2lEcVladGpQZmlHM0NRVnE5OEtsRXptMGsyTllKbnpqZ2JIRjhfRXFmMXZI?oc=5",
-      "published_at": "2026-08-20T21:58:56+00:00"
-    },
-    {
       "id": "d1c621bb65183c",
       "title": "Los camiones más vendidos de Volvo: ¿qué premio ganaron y por qué?",
       "summary": "Los camiones más vendidos de Volvo: ¿qué premio ganaron y por qué? autotest.com.ar",
@@ -173,6 +164,15 @@
       "published_at": "2026-08-13T07:00:00+00:00"
     },
     {
+      "id": "0fcadb2cac585f",
+      "title": "Reabren el paso Cristo Redentor tras 34 días cerrado: cronograma exclusivo para camiones",
+      "summary": "Reabren el paso Cristo Redentor tras 34 días cerrado: cronograma exclusivo para camiones Mendovoz",
+      "category": "Argentina",
+      "source": "Mendovoz",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRUVfSWdpcTllZldySzBoeXpwNV9OclB2bHN1R3U5V1hEUlRydlBRdDdfM0V1czVhczJheWVJbk5RclltS3lxTE9Wdmx1SzRlOWUzblFqdHhfZ3lhODdMT0M0cVlzdUQ4UGtjN2oycnBEdHlNbGJraVFPS2dWYnN5em1TSWt4NEtMR2JoS3dHM25jMnduMTlpbGNXZzVpN0t0aGk2cnV3RTVlU2J3cVFCU2hLSDNDWUw1ZzhGeGVqWUdyUW9EUU9BQm5hLTE2dzM0ZEZZZ3d5VmFkNmRBYXhv0gHfAUFVX3lxTE1FRV9JZ2lxOWVmV3JLMGh5enA1X05yUHZsc3VHdTlXWERSVHJ2UFF0N18zRXVzNWFzMmF5ZUluTlFyWW1LeXFMT1Z2bHVLNGU5ZTNuUWp0eF9neWE4N0xPQzRxWXN1RDhQa2M3ajJycER0eU1sYmtpUU9LZ1Zic3l6bVNJa3g0S0xHYmhLd0czbmMyd24xOWlsY1dnNWk3S3RoaTZydXdFNWVTYndxUUJTaEtIM0NZTDVnOEZ4ZWpZR3JRb0RRT0FCbmEtMTZ3MzRkRllnd3lWYWQ2ZEFheG8?oc=5",
+      "published_at": "2026-08-18T01:24:28+00:00"
+    },
+    {
       "id": "03e6dcbee0a4da",
       "title": "Reabre el Paso Cristo Redentor tras 34 días: operativo especial para liberar 3.500 camiones",
       "summary": "Reabre el Paso Cristo Redentor tras 34 días: operativo especial para liberar 3.500 camiones Maraco Digital",
@@ -198,6 +198,15 @@
       "source": "Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPanJ4Z25CMzVLbjlZTnJWTXh3aXN3STEtUWpFVUJEbmFNSExySlJDeWNTWTZyT09ueFF5WS1JaDlGa3d4WEJvWGZnT21ZQTIzWGpMOHVGTjFsemE4RVJraXVwOTBqM2d0V2JuS0dJbEhLeGJ2Q3U0aUNfT1ZVSG9yVnQ3dE1Sc2MxNFBMNA?oc=5",
       "published_at": "2026-08-15T07:00:00+00:00"
+    },
+    {
+      "id": "2ef763e9d4e13b",
+      "title": "Azul Linhas Aéreas empezó a operar vuelos de carga a Perú",
+      "summary": "Azul Linhas Aéreas empezó a operar vuelos de carga a Perú Aviacionline",
+      "category": "Logística",
+      "source": "Aviacionline",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGRHWnJ5azczalJFUjJZcFdzc0E3Z3hoOTB2enQzNWlHSmI4SzZaWUlLRkFDTW1qZW5Fd0VMc2phZlpmbjRKUGVzQkNmbXhKT2FHV3dwSkhaTWozSnQ2bks2cUg2WVpscTRCVmZuTUZkVHp1QWQ4b1FVZGhMdmFUVDVYbTB0YXdVUWp4cW5WQk5mMllPa1dDT1NoaXdOZXlwbzd0a3g0UGdrM25QRDFkaWFZRjJqZ3BxT0h0MlBuUHFjYkNYTGcxTlhTeUk?oc=5",
+      "published_at": "2026-08-14T12:37:29+00:00"
     },
     {
       "id": "9378b74c20b5af",
@@ -360,15 +369,6 @@
       "source": "Infobae",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY2Nta29ocXVLeF9hSnBxdXN0dF9ya3ZIUllPWVV6QWM5RHRHZm5vUUdtakYycXF2dmZ4WlJfSWFZaUJvb0I3dkNNZWJDd1JCSjhEUDljd1JMYkZhMmJxRk54QkJPY3NPdmZHbWwtcXNOUy0zZ2p5LWE4XzRURG51MTRHenhhMWRvS3dsMmVSZnpzSUNMcmVObm9lSjltczdoUXVFb1U4TGtPU1Y5NWhZZ25UNWRFdmVkRklmam5pMDFaMXhaLVRuQl9R0gHkAUFVX3lxTFBDNHVMMDRUaEo5M0FDM3dsLU5MbDZGWDVBbWVzZG1aVzJuZHBaanJJY1RiU2M1X2oxRjRkZ2pRUWlYVlVvTVNnZTFkdDRYcGdIWGstNWE3c3NoaVRPSEF5U0dDM09panhKZ1lvNWVjU0tFdVc3NnBFNVBjV3JPXzZaaVQ3NUJqTDhkdGhMTEdMc3VBOVFwdDVyel8wQ19zMExhd2hJdXNOc1VXUGlVX2ZXeDVvb19aelZ3anFBV29nV0pQeThHZVIycGx5Rko5U0Etbkl6SXYta2xqcFRyTzhXRUZwVQ?oc=5",
       "published_at": "2026-07-29T07:00:00+00:00"
-    },
-    {
-      "id": "03405c715f7bf7",
-      "title": "Actualizan las reglas para camiones y bitrenes y amplían las configuraciones permitidas",
-      "summary": "Actualizan las reglas para camiones y bitrenes y amplían las configuraciones permitidas Infobae",
-      "category": "Argentina",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQzZjemZKbHVVQjNlV3B1eXBEUUFYNXJzVTFLVEliRmt6akFpQXRNemZweUhvTGhnaEhhVzN2Y1JHX2ZQS2JUaDFRdlBNTXhsOGZDUGRoZG84d2NsZGFkRzBVRUNuRjBqR0VJYUZzb3dNSGRxeUdqX2dDUU83bGo0REtFeWpOWGFJS3pfQWZSQ1pyT1N6dzRfWkV2ZkZsNjZVTkljVFJtQ2RCWGNXN1gzVHRYUWs3Y2xucXdUUkdPRHNCZDRNdF9mc1p30gHkAUFVX3lxTE9wbldvS2w4d3ZuSXk1V2xTU0VJZjJaRXZETFgxRkhwcVhFcUQ3dDVVREdVMXQ3SFpjcmVTTkc3WlBvV0V0ekRtM29RNjBzM0RvOVpBa09nNmhfTFBrWmN1b3libW15S0NrSkg0QmNlV3VwWDNLTVBVM3hhMGlsdm1XUzZiVXVfcENabGZoV2k3c05UVFYzRy03QWdDcmxGazBLMzNTS1oxUEZlei1rRDlHVmJCdi1uTlZaYks5czV1MnJmcV9Gb2t4MnQ3dTU0MHR6c3pscnUxd3VWbjhFSzA2a2gwOQ?oc=5",
-      "published_at": "2026-07-31T07:00:00+00:00"
     },
     {
       "id": "16cb25da2e9dbd",
