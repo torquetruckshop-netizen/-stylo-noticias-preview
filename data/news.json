@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-23T20:58:50.852249+00:00",
+  "updated_at": "2026-08-24T03:38:20.152336+00:00",
   "items": [
+    {
+      "id": "c61ac7ca0b9c70",
+      "title": "Chile reabre a camiones el paso fronterizo con Argentina tras 34 días cerrado por temporal",
+      "summary": "Chile reabre a camiones el paso fronterizo con Argentina tras 34 días cerrado por temporal Infobae",
+      "category": "Argentina",
+      "source": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaE5XRmQ4Qmx4Sk9oRllEZlpUdWpWdTg0UmpTYnMtLVM2bS1iUjhOLXMwME1ZZERLemdiQXJ3NEVZN1prY1R4RVdrWW5Mby1ZSWd0eWl0Qjhsb3pOeHBnZDN0V080X1plNGZOM1BQbkY4Y0hyNUF3ek5iei1kRnYtOVI1amFEMThyVUxaNzJfamhYZXY4SEdIeDY4d2pQcm9OMWphZjZYWEZwU1Y5QS0zTFJiS29XT19FNmVIeHlYazl3U09VWnN6YXdfV2Z3ZWNSOFJNVUxwTU54VDjSAfYBQVVfeXFMUGN6SlJHLUhWVE9WXzNwVGx0X052bjBrMG1wcU91NzZ0ZmpMb1pIV2o0Um1KWjJQZkdMd0g1SmVyWmVKRjYxcUdfdmlOcHp4TEpqcEhlVUJ5czY2WXhrc3N3YmhWR0ZFcDJfWWdiV1pBVm1BM1E4bjE3aFYzTVBkMy1DLVJXbEhQOGRYd1ltYTBLWU1ad1RrSzZ2Y0s4OEx6U0MyT3dOV0VWcGxyeXpIZEQwVEItX2xiVHhaWUhUR0o3N3NJaGRvazRLbk8xZWI0SjBEN1JiWmVDS2RsYndDTWQzZWRrZWR0TllxSTJlOF9DVUZhbktB?oc=5",
+      "published_at": "2026-08-17T23:47:00+00:00"
+    },
     {
       "id": "6264d6436b96ae",
       "title": "Paso Cristo Redentor: pasaron 2870 camiones y hoy el flujo va hacia Argentina",
@@ -47,15 +56,6 @@
       "published_at": "2026-08-19T21:40:00+00:00"
     },
     {
-      "id": "d0dd38f25237e5",
-      "title": "Paso Cristo Redentor: este jueves se habilita el tránsito de cargas desde Chile hacia Argentina",
-      "summary": "Paso Cristo Redentor: este jueves se habilita el tránsito de cargas desde Chile hacia Argentina Mendovoz",
-      "category": "Argentina",
-      "source": "Mendovoz",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWmdFYnpWOXpxM2RtSERrWmxFMGQtNlAtelZfLUc1Ml92OWwxMXhTMlpjaWFwa0FxZ1hzQVZGYy1kVGhIQ3V6cFVLQ2FJLUFvSklqS19aUndCUGFwMFU4OXZlcXl6RHNJU284RU1aWHJsRlN2STJvdWY4cURMeWJ0WG81ams1SjhDVFR2STBDMDJwaW0zZUptSFBYbVc0ZWhSbU1aZHpHUUdUeHJXTG5RQTFtTzNRSjdvTFBiMDVQb1gyQnlSRElKOU9ZVWEyeGd6dU52Y2NZQUdPeFVqSW9PeWN6STh0aFli0gHoAUFVX3lxTE1aZ0VielY5enEzZG1IRGtabEUwZC02UC16Vl8tRzUyX3Y5bDExeFMyWmNpYXBrQXFnWHNBVkZjLWRUaEhDdXpwVUtDYUktQW9KSWpLX1pSd0JQYXAwVTg5dmVxeXpEc0lTbzhFTVpYcmxGU3ZJMm91ZjhxREx5YnRYbzVqazVKOENUVHZJMEMwMnBpbTNlSm1IUFhtVzRlaFJtTVpkekdRR1R4cldMblFBMW1PM1FKN29MUGIwNVBvWDJCeVJESUo5T1lVYTJ4Z3p1TnZjY1lBR094VWpJb095Y3pJOHRoWWI?oc=5",
-      "published_at": "2026-08-19T21:23:10+00:00"
-    },
-    {
       "id": "9a60c62abb8797",
       "title": "Paso Cristo Redentor: ya cruzaron 2.870 camiones a Chile y este jueves comienza el tránsito hacia Argentina",
       "summary": "Paso Cristo Redentor: ya cruzaron 2.870 camiones a Chile y este jueves comienza el tránsito hacia Argentina Los Andes",
@@ -72,6 +72,15 @@
       "source": "Sitio Andino",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSE9jWHNRR1BLNFg3czBjLWVmY181X21Rb0plX0xSdlQ4bVFaR2tCZ2hTNlJrZnp2WjFvUXdLc0JJb0pJS2FvOU9nQmVWNEJrWGhFdUJVM0kzUDVubXIzQVMzWEU0ZUJESDZlb1RxRVltU2lsS0s3ZTNGNlZ5ZGNoWEhITjh3TTBnYkp5d3RRaW9aR1VYQkNNWEQyWS1xNlU0d1JjZHdlZW83dUcwa3VoX2FLd0gtUzluTHp5b1ZXbzNocFVpZzk0NWRCMFZoZ2N2bkHSAdcBQVVfeXFMTWs2MXphOGw4dkdUTkZaVVRHRW9IejRTdjE0RWE2X2t4MWVXVURNRmI0b2ppQkdMYklrQnp3NjZIWHBYV0JBQnRlV29tTmpWNnBLWTcyN3h3dmlzamF3aWw1dUpzYzNWbnpkWHJWTERRbFVfalJRc3ZaSVZ1R1Jhdzg3eGJaSXpianBxM01FaFdBSlpaSXdzLU9iZ1hGQUVmU253U2l4M0pjemhpRVZSNkRfOWhudFhsR1Y0TnBtTHZncHFLb0VTWkd0YjVUWHpjZmxienRGRUk?oc=5",
       "published_at": "2026-08-19T20:59:00+00:00"
+    },
+    {
+      "id": "d0dd38f25237e5",
+      "title": "Paso Cristo Redentor: este jueves se habilita el tránsito de cargas desde Chile hacia Argentina",
+      "summary": "Paso Cristo Redentor: este jueves se habilita el tránsito de cargas desde Chile hacia Argentina Mendovoz",
+      "category": "Argentina",
+      "source": "Mendovoz",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWmdFYnpWOXpxM2RtSERrWmxFMGQtNlAtelZfLUc1Ml92OWwxMXhTMlpjaWFwa0FxZ1hzQVZGYy1kVGhIQ3V6cFVLQ2FJLUFvSklqS19aUndCUGFwMFU4OXZlcXl6RHNJU284RU1aWHJsRlN2STJvdWY4cURMeWJ0WG81ams1SjhDVFR2STBDMDJwaW0zZUptSFBYbVc0ZWhSbU1aZHpHUUdUeHJXTG5RQTFtTzNRSjdvTFBiMDVQb1gyQnlSRElKOU9ZVWEyeGd6dU52Y2NZQUdPeFVqSW9PeWN6STh0aFli0gHoAUFVX3lxTE1aZ0VielY5enEzZG1IRGtabEUwZC02UC16Vl8tRzUyX3Y5bDExeFMyWmNpYXBrQXFnWHNBVkZjLWRUaEhDdXpwVUtDYUktQW9KSWpLX1pSd0JQYXAwVTg5dmVxeXpEc0lTbzhFTVpYcmxGU3ZJMm91ZjhxREx5YnRYbzVqazVKOENUVHZJMEMwMnBpbTNlSm1IUFhtVzRlaFJtTVpkekdRR1R4cldMblFBMW1PM1FKN29MUGIwNVBvWDJCeVJESUo5T1lVYTJ4Z3p1TnZjY1lBR094VWpJb095Y3pJOHRoWWI?oc=5",
+      "published_at": "2026-08-19T20:35:22+00:00"
     },
     {
       "id": "73ebd1a9a4917c",
@@ -144,15 +153,6 @@
       "source": "Mendovoz",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN21tbEpDaElxbVQ5d1dkeDJYNTVkSEJHRk5saEFXVlRLZWdRMXkzLTNkbG9yWG9xMGVCU0hlTnRrb0RvT1pTRERSWXdJeDV2OURvNDJCQzVZQ0Y1aGhfMjF4YXZ4UkZsVEt3NWZPX19JMVhXT0pvbUpHWnZscjBTVzVic29IUktMNzBGMnVWZE5PZ0M1NktSd2FXMFFpWGFONVQ4MF9Xc3ctZnNrZF9fQUZqajBPTEplTGthd0M0MTRULUVLMlItU05adnRPWmFiOVZz0gHTAUFVX3lxTE03bW1sSkNoSXFtVDl3V2R4Mlg1NWRIQkdGTmxoQVdWVEtlZ1ExeTMtM2Rsb3JYb3EwZUJTSGVOdGtvRG9PWlNERFJZd0l4NXY5RG80MkJDNVlDRjVoaF8yMXhhdnhSRmxUS3c1Zk9fX0kxWFdPSm9tSkdadmxyMFNXNWJzb0hSS0w3MEYydVZkTk9nQzU2S1J3YVcwUWlYYU41VDgwX1dzdy1mc2tkX19BRmpqME9MSmVMa2F3QzQxNFQtRUsyUi1TTlp2dE9aYWI5VnM?oc=5",
       "published_at": "2026-08-22T13:24:55+00:00"
-    },
-    {
-      "id": "1fd905f7fd4d4b",
-      "title": "Paso Los Libertadores reabre parcialmente para tránsito de camiones tras 34 días de cierre",
-      "summary": "Paso Los Libertadores reabre parcialmente para tránsito de camiones tras 34 días de cierre Data Portuaria",
-      "category": "Argentina",
-      "source": "Data Portuaria",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFJZMHI3SzMyc2o0QktSY1RxWS0xcHdWQnMtbUZMUU1wQUlSMVNHclh3WkJsRWVvR2tReFBKNjBVUFROZTN1QVNmOFIyYnY1VllRV2lyNno1SzBkYUd6a2J3RVV0SVA4cF9hOTd1Zy1OM2kxbEZHb2tkZEpjN2ZkZmo0aExabDZJQ0o0b2pTLTNkTnNWVEducWhEUFo0eV9ZSlpIUjhBNWxzQnd4b2RjZDJpZ1NtUEIt?oc=5",
-      "published_at": "2026-08-19T03:02:05+00:00"
     },
     {
       "id": "970db6190ccfc8",
