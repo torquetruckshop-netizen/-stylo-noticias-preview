@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T17:52:55.926023+00:00",
+  "updated_at": "2026-08-24T21:48:16.233239+00:00",
   "items": [
     {
       "id": "8a56d9ded04a55",
@@ -107,16 +107,7 @@
       "category": "Argentina",
       "source": "Diario Mendoza",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORnNmNGtESDdrLVFmcEZUTU9ZVDh5Q3oxT1lnSVZhNDk5Szl4bUsyWUF2TndWSF9CUGVLQVd1cXQzbW4wNlpSaXJaRGl5QVZTNkM4V3lTZkpZcWU0aGpTRHlpYUlScXhyUVJJS0gtbWNnSkNtV3lHWVpLdldiZ1R0cGh1MUFEVG5LalZfcDFWeDcyN0pKNW92MDhhYUFGd9IBowFBVV95cUxPaWYyU3dJNGJ0ZVNLVDdPQWJEbVBEZXgzc0ptaktCME95bFhzWTdJU3ZjTEliLXJZQUZVRndaYTRhSjRfcTdGaURsMHlESll6bEZyVWxoZUVLQnZlNm94X0hMbHVUR1o2Uk1XRVlodUFyallPek5jTHNnYldLb0xMa1pONzVFZUhILVBrT3BQRVk2Z0lNNENmTW1VRzQzV3E0SUVv?oc=5",
-      "published_at": "2026-08-19T22:00:00+00:00"
-    },
-    {
-      "id": "fc9d427d266db7",
-      "title": "Camiones eléctricos y combustibles alternativos: cómo cambia la logística sustentable en Argentina",
-      "summary": "Camiones eléctricos y combustibles alternativos: cómo cambia la logística sustentable en Argentina Carburando",
-      "category": "Argentina",
-      "source": "Carburando",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVTJHeDFkYmRLMDMzSl9yXzNJSlNMeG1VZk1yR3Y0MU93TlZNVTJwYUtTZzFRZUt5cl9zQWNKendLS0FEWFByaEpKZUNoQmp5bC1sT2VweGt5UzBlLU1XMGxfQmJPMjBGaU5pOEVXR2VoX1A2VFdsOFB0Z3Y5Q0ZJTW9iVzM1ak40RldiRjdQMnA3YzAxQkVjeHhhTEd0bnB3T054UnFxMmpVanpNTkZHMkd3QzNNSFcwQnNfeVU3U0VfbkJpN3k4eThn?oc=5",
-      "published_at": "2026-08-12T23:05:00+00:00"
+      "published_at": "2026-08-20T02:52:11+00:00"
     },
     {
       "id": "814500bfd17dde",
@@ -236,6 +227,15 @@
       "published_at": "2026-08-10T07:00:00+00:00"
     },
     {
+      "id": "11bdf4f83bdb68",
+      "title": "Camiones varados en Neuquén: avanzan en tandas desde Zapala y se descomprime el corredor hacia Pino Hachado",
+      "summary": "Camiones varados en Neuquén: avanzan en tandas desde Zapala y se descomprime el corredor hacia Pino Hachado Diario Río Negro",
+      "category": "Camiones",
+      "source": "Diario Río Negro",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc2NaX1QxSTJDaGQ4b3lheW5TYmhuT0c2UGVHZVR5T3EweGZYYWhyNnZzdzY0bDlIeUJPa2RYQVp5WEN4cGc2NlBJZ1dVSjF4b3VjMmZzQklyTDB3ZkhBMzZSclZFX0tVdGZ4dThLSzQtQkR6VmptSUM3ZTNtWloxdTBZSUhUeXloc1otMmdWZlM4alFQaXpMZ2laRlZ6UjZ1dVBwQi1UT3BqanRvQk5UMjdkZjF5SmcyWVNkbk5uWk5GU1pELU41bTY2RUxIbGdjRUdWR2lPT05nREVVMDE1SWRiZzZkLW_SAe8BQVVfeXFMTmlSWmh6eDI5cmlFYkVBVWRRcXg1TnRnWVBHZlNvSUp6anRWYnlQbm1YRHowQ3pBb0ZucWRTS3hJeGJoQzIyMHBEQjNMcWdwOHp0SkVLWlUwTTFCeUtiS2tpQnZRQ0JhZ1Y3M0ZpeC14ZDVNWTlJSzVLZVhGMG9Xa2tpMHNsckdIWnFCV1Y4VjhucU03UHhpQjNDZ2FwVWFkakM0NW1SalZQT3VMY0dVNUhOMmlvb1A3NWJaMWZwTWNoU3dqX0x0ekV3eVIzWWhwVkw0aFFFTmZIY1ZvUkdpYnlPODNncUVBaV9nOG9SQ00?oc=5",
+      "published_at": "2026-08-13T07:00:00+00:00"
+    },
+    {
       "id": "3ce35941e86028",
       "title": "Colombia exige por primera vez revisión técnica a remolques de carga",
       "summary": "Colombia exige por primera vez revisión técnica a remolques de carga Infobae",
@@ -270,6 +270,15 @@
       "source": "Infobae",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQXhtRUlRTnJaT2hLTkRQUDI4dDVzMlZfNmRweUV3NG5WWGQ2bENjZXdtaHdCZWhfdVVyZ3FaVlZ0ZDJmQ3d5b2hVYWdudkV5TXRIT1VIMjRpRmNCTU1lZWZoWUtjU2RsMmJJV3c4NUtmRDlKNG9NcnhDcjU4TV8yLWctTzV5SlRFdTIxZkpwNVJhMUZGaTVuZnFKNWpVemNkVllyY255b0s4VEs0Qm94RkFXMDhyRjFFRG03Q004bEozcExZcG16Z3NDNmc4V3l0RXFFS215UUdzMEpFWl9Fek9NS0FnV0l5X3hYVXQzVDF0RVFlYXUza3ZSZmVEZ9IBmAJBVV95cUxOWmRIY2t3R0xTQ0ZrNkF0WnQ5VHZVM0tYUGpHUHBnR0tfYXBYNGNLMC1xbi14c2xMRF81TzJod2wxbmpoSndyd2NHdlFLSno2T1c3SnllMzN4QWxwTmZjb2FGYlZ0ekMyQ0ZDNS1FYmhvNTMxYUI3SC0zYi1HRVRiSjNWQmNxMURlTi1TR3o1TU1iSjUta2hoYk04SEFfd2pDQkI3bVlibkZxWnBwdG9CYVlnb3JLNzFLUlRQUTE2eUN3dmVLTDRPSUpZVkRwVi11MlBaNUZ6WmlxTzUwcHZmTHJCWXMyZEg4TC1DNUdOTGl0V1duREtjS3pkd3JpbGFJbUZnTk11ME94YjV5d2hZMGxsRXpyd0h6?oc=5",
       "published_at": "2026-08-04T07:00:00+00:00"
+    },
+    {
+      "id": "d7d8bb4b569d3f",
+      "title": "Amplían pesos y medidas permitidos para camiones y colectivos: temen que se deteriore aún más el estado de rutas nacionales",
+      "summary": "Amplían pesos y medidas permitidos para camiones y colectivos: temen que se deteriore aún más el estado de rutas nacionales Diario Digital Conclusión",
+      "category": "Rutas y normativa",
+      "source": "Diario Digital Conclusión",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdENNblN1XzRlMF9sOTdBMXNpOWxRa3I0RWxKTmhOTkVkR2ZMZEZRQ09KbXBKSy1KTXl3UC1GaDFQSFhlX3ZxelNNOTJDeUpYcFBlZnRSRHBBaG0tTXVzMmVEdWozcVM2MWF1OU1sQnk5aUhMNU1uMk5VMXg0QjltT0p4c0hVUm4wbTF6UGZSeDZQamVHNm4ySEVXTFdrdzNVM0Mzd0FVM00tYkxPTWE2M1pHUkdnRzAwX0J4NXB2cXJfVlNZcVJHQXpjdk5LSU1kcDZYYlpJdm80WXZGZFlya1hxSjlBMFFDTnlnVlBUY3VYekl2eE0wQ1JEeWZCaW8?oc=5",
+      "published_at": "2026-08-12T13:31:18+00:00"
     },
     {
       "id": "b17a8beda966ce",
@@ -308,6 +317,15 @@
       "published_at": "2026-08-07T07:00:00+00:00"
     },
     {
+      "id": "c38a9b40d64505",
+      "title": "Fuerte temporal de nieve: más de 1.000 camiones quedaron varados por el cierre de los pasos a Chile",
+      "summary": "Fuerte temporal de nieve: más de 1.000 camiones quedaron varados por el cierre de los pasos a Chile Diario Río Negro",
+      "category": "Camiones",
+      "source": "Diario Río Negro",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMVZ3QUZhRDM4cUFwM1FHZlpoYUxTMzV0TWROOUJ1Y19zWkxuclU4VDNjc3IyN1ZrdmloUVBycXFEZTIyWHYyTnNZRkd3a2cyb0NYTW1DRWgxTTk1LVh5YjFaNU1RV2NKLUlQTVU4U3R3dW0tczBqdXlQdnFlRHp5bmZGdkRqcUpGcUxoRHBlbzFOWmk2SnNESWpVbUg3Nzc0d3JSc25VQWMzdjNfTXVmX3lwbnRtU3JoNlNDblhTa2FZVmpBS0o0Ng?oc=5",
+      "published_at": "2026-08-06T07:00:00+00:00"
+    },
+    {
       "id": "3785620744eca9",
       "title": "La revisión técnico-mecánica será obligatoria para remolques y semirremolques en Colombia",
       "summary": "La revisión técnico-mecánica será obligatoria para remolques y semirremolques en Colombia Autos de Primera",
@@ -315,15 +333,6 @@
       "source": "Autos de Primera",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVBDeTBpQXFsRkpZYUktNkN3YWNOemZoRGxTd1MwQXl1S2JvaWZPTUhIMFNvYXBQSnpCdzJqems2d1ozVHlsMVdGSURfQ0J1NVB6ZnVXUU1CVGRVMnZwdXdudUtaMFZ3ZmM3Tk1wZlMwekExRUFXLWNReWtDV1F4aEFNOXFCS256d04wRzdBdEdEOUZzRi15ZGxGU3dlMUg4ZmQ3NS1BaVJGR2JfVXJLSUlYN1BidTBBUVBjdkZWQmVEV055cEhmMzBLM1YxVFluWnNhY2Raem5GMGhQSE04?oc=5",
       "published_at": "2026-08-06T07:00:00+00:00"
-    },
-    {
-      "id": "0832e6c5e6e4c5",
-      "title": "VW Meteor transporta el showcar de la Fórmula 1® de Audi de Brasil",
-      "summary": "VW Meteor transporta el showcar de la Fórmula 1® de Audi de Brasil autotest.com.ar",
-      "category": "Camiones",
-      "source": "autotest.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQay1zOHNGQVg0WnQzTGZHYncyTTBWR1JoRW9PS050UDBraDJtMlhUY0tTS01RZUNJS3cteW5LXzVXU3E0QnZBRGpZbVRoOWYzWlNUX1ZPX3N2cXAyXzBoVEpMZkRHVWJBRVpJRTVRSEJYTUowcWxTbEhpQnBWMXZtQXdmNEtWZlg3NWZ3WU5sNjR2M3hSTkNLQU9NT0RRb1JwSm1ldg?oc=5",
-      "published_at": "2026-08-08T17:02:42+00:00"
     },
     {
       "id": "f9011f1dad302a",
@@ -344,21 +353,21 @@
       "published_at": "2026-07-29T07:00:00+00:00"
     },
     {
+      "id": "03405c715f7bf7",
+      "title": "Actualizan las reglas para camiones y bitrenes y amplían las configuraciones permitidas",
+      "summary": "Actualizan las reglas para camiones y bitrenes y amplían las configuraciones permitidas Infobae",
+      "category": "Argentina",
+      "source": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQzZjemZKbHVVQjNlV3B1eXBEUUFYNXJzVTFLVEliRmt6akFpQXRNemZweUhvTGhnaEhhVzN2Y1JHX2ZQS2JUaDFRdlBNTXhsOGZDUGRoZG84d2NsZGFkRzBVRUNuRjBqR0VJYUZzb3dNSGRxeUdqX2dDUU83bGo0REtFeWpOWGFJS3pfQWZSQ1pyT1N6dzRfWkV2ZkZsNjZVTkljVFJtQ2RCWGNXN1gzVHRYUWs3Y2xucXdUUkdPRHNCZDRNdF9mc1p30gHkAUFVX3lxTE9wbldvS2w4d3ZuSXk1V2xTU0VJZjJaRXZETFgxRkhwcVhFcUQ3dDVVREdVMXQ3SFpjcmVTTkc3WlBvV0V0ekRtM29RNjBzM0RvOVpBa09nNmhfTFBrWmN1b3libW15S0NrSkg0QmNlV3VwWDNLTVBVM3hhMGlsdm1XUzZiVXVfcENabGZoV2k3c05UVFYzRy03QWdDcmxGazBLMzNTS1oxUEZlei1rRDlHVmJCdi1uTlZaYks5czV1MnJmcV9Gb2t4MnQ3dTU0MHR6c3pscnUxd3VWbjhFSzA2a2gwOQ?oc=5",
+      "published_at": "2026-07-31T07:00:00+00:00"
+    },
+    {
       "id": "16cb25da2e9dbd",
       "title": "La Pampa quiere cobrarle peajes a los camiones que vayan a Vaca Muerta por el impacto sobre sus rutas",
       "summary": "La Pampa quiere cobrarle peajes a los camiones que vayan a Vaca Muerta por el impacto sobre sus rutas Infobae",
       "category": "Camiones",
       "source": "Infobae",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcmVnZzlPNTdzUjZhTzR5Mzh1TUVxUVIwOWhlMk1veDdDSkc2VlQ3ZmhXSklsMzF1ajFWUU1nY1dRTjdXaFFCa0JKaFVLNUtWbEpFUWF3NDJQakhwOC1pV3pjR2twRUlDUjFBdHVMN3dFcDlUZUZkTmZLN0huSVVndW1qbzJLV05HR1NIVVpfZTlWazBqNWllN0tKRGNfazJ4RklJaER1ZWU4Q1gwOWN5Y2hlMFVTVm5TbHluOXhaYTdnM2xhOXhLTTJ6STVnXzFLUmJ2R2s1T2s5LXJmbmFF0gH6AUFVX3lxTE0zX0JIU1dRY1EtbFNUdGlrQXdMNzZGMGtWOWMwWEYzVnpCUVJIZHAxdlpOYlhPanRGa1lraDhOWTNsM190N1RJSDd3RkxKTTV1Ylk4cWdSWk83NG01N2RJbVNtODRDVjY3VTlPaDB2STFDSlluNnlXOUMwUWRIYTJwMXJMYS1md3k5b2NsanBzbUdjT2ZjeEFZN3p5dzFBY2RCSWpDcE0yYVhORXF0T25UOHdWbnJSNW15dHFMZGptaUVGTXVzTjhOV2hzdllZUm9IdTFkWFB2X1FEWFFqX0M0dTVUeEVsd3pBN0hrWTBObmNkWFhFVFRnd0E?oc=5",
-      "published_at": "2026-07-31T07:00:00+00:00"
-    },
-    {
-      "id": "03405c715f7bf7",
-      "title": "Actualizan las reglas para camiones y bitrenes y amplían las configuraciones permitidas",
-      "summary": "Actualizan las reglas para camiones y bitrenes y amplían las configuraciones permitidas Infobae",
-      "category": "Rutas y normativa",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQzZjemZKbHVVQjNlV3B1eXBEUUFYNXJzVTFLVEliRmt6akFpQXRNemZweUhvTGhnaEhhVzN2Y1JHX2ZQS2JUaDFRdlBNTXhsOGZDUGRoZG84d2NsZGFkRzBVRUNuRjBqR0VJYUZzb3dNSGRxeUdqX2dDUU83bGo0REtFeWpOWGFJS3pfQWZSQ1pyT1N6dzRfWkV2ZkZsNjZVTkljVFJtQ2RCWGNXN1gzVHRYUWs3Y2xucXdUUkdPRHNCZDRNdF9mc1p30gHkAUFVX3lxTE9wbldvS2w4d3ZuSXk1V2xTU0VJZjJaRXZETFgxRkhwcVhFcUQ3dDVVREdVMXQ3SFpjcmVTTkc3WlBvV0V0ekRtM29RNjBzM0RvOVpBa09nNmhfTFBrWmN1b3libW15S0NrSkg0QmNlV3VwWDNLTVBVM3hhMGlsdm1XUzZiVXVfcENabGZoV2k3c05UVFYzRy03QWdDcmxGazBLMzNTS1oxUEZlei1rRDlHVmJCdi1uTlZaYks5czV1MnJmcV9Gb2t4MnQ3dTU0MHR6c3pscnUxd3VWbjhFSzA2a2gwOQ?oc=5",
       "published_at": "2026-07-31T07:00:00+00:00"
     },
     {
@@ -450,15 +459,6 @@
       "source": "Perfil",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVVJ5dVBmb2hlNmtaajYzWG8yT2RlOFB2VkFOSHFxYVdmVm9ZVmw0Zk10ZG9NLVlDczcxbkNUd2tQdzdsTWJSOGM1LUw5TGdtR0kxTGpmY0JhcFpPdFJyZ1VEWjBCd0FXNV9taTN6ZFNGRTRNZGpxamFibWoybVEtc01Ccm90MC05dXoyNDY0NWlldVFEbzZBZ29kaDNlVmVmbGZ1U1Z6RnhuX3hsZzUyOTFydFlURDVQV3hRNXJTYVRGb1FIOVZRMWQzWjN6N2xhUmg4dHFsUHNDMTdjWjdDZlliNFFfSzkxMHhjNnU3UWhQbEZhdjI40gH8AUFVX3lxTE00UGVCem5zbGZOenZHNFFFYXh1clV6ZVQtRHNpb09nVk40N3FXaG5IZ3NKUERjUlJJZTFTWDNPbWdNdF9wR3RvekljUl84WEd0Zks0M09mTXJTYmpRa0lSRmctLXNST3pJcDd4NktTX1RPSjBzM0RnN1BOWFBPUXRUX2NZQlRzd0R3bUEtT2R6Tmd0ak9QNjVvWVBxWnRNdVBsVUc1dW8tcjlfQTFTUW5zeWV2UVkweHBreC1MTzZZOHNveDZ5UVJIQVhZdkNyMzlkNG5VUS1GV1dSYUZYWlhNTUJROFBHN3oyRGxRb3RYRmRTTThSM0NialZ4SQ?oc=5",
       "published_at": "2026-07-30T07:00:00+00:00"
-    },
-    {
-      "id": "b61bcbe6d58deb",
-      "title": "Estado de situación: Sudamérica y el robo de carga terrestre",
-      "summary": "Estado de situación: Sudamérica y el robo de carga terrestre MasContainer",
-      "category": "Logística",
-      "source": "MasContainer",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcTVnbDVpeWhnTTlQZmtnTkZNcW12TlhFd3dwTWo5anh2NFNMS2U4VWNtczlrTkRFVHRzUGJtNE9MWmxMTlZyUTI3enZFVWk3a0hhUEVhWjN6VGg1dWZuVHdxQk15eDFVQkEteEpkWDNjal9URGZEN09qRjg2QlZmcktYQy1JOV9WaGxzcV93?oc=5",
-      "published_at": "2026-07-28T07:00:00+00:00"
     }
   ]
 }
