@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T17:49:56.646261+00:00",
+  "updated_at": "2026-08-25T21:47:46.077150+00:00",
   "items": [
     {
       "id": "3dda021f02b53e",
@@ -18,6 +18,15 @@
       "source": "Infobae",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYWJubjViQ1g0UHY5cS1Mcy1YamZKNjJleTNPVV95UUQxc2sxck1JS0tPSGZveFRxbXZpTkFRNEljWEhBQno2NVpjTEVMaFNycnJoNDJ6SDA5b3hqS1ZSYnltT21rTE1BR2hjTTFHTUhPaUlrb19SVWhjaUVkbmxLYnZjdEg0eFJuNElCR3JlcVBQeW9YZWxkazNkWlljZE1hdEdiMEQzMTFZZHp2NEFaX2F1OW9ZanJjMTQ3VXdydnF4cjRRS21PMGhmUdIB5gFBVV95cUxNemk0VjllOTRqYjFNQnFlbmpQaGI3bE9mdmtuV2NBb191QktYLVVSbTJnd0tSa19IdVMwd2hXUjE4aDFTRTB2X0cyNFhsVUN4aFg4Rzh1NGJtT1N4WXZjc3lfQjR5MDFlcGNxbzVxNTdzRFhLMF9Gc1BORXB5RTM0MTdWRThQLUZqWXBkeHBDY3hXaDdVOUpqY19oY016enJ3R1BSSUthUm05TTJRWE9JSG9vekhES0VQLUU2YTFmeUN2eDVfR2pac0NLX0Z2NE1TaEMyVURqUTFKQzFGMXM1YVEtVE9yUQ?oc=5",
       "published_at": "2026-08-24T16:13:00+00:00"
+    },
+    {
+      "id": "726f831d8d916e",
+      "title": "LATAM Cargo trasladó 15 grandes felinos desde Argentina a Estados Unidos",
+      "summary": "LATAM Cargo trasladó 15 grandes felinos desde Argentina a Estados Unidos Aviación News",
+      "category": "Logística",
+      "source": "Aviación News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOG44MHdqZ1VCR3ExMS1zckFod1BLYVVlTnNOVFpWcUthcllReWxidnF6YUxibzBKUGN1VnVJdE9oLXNXOGY0UVM5QmlCSHhqV2p3M3NjOVd0OFZ2bTlqenFtUVBvMXhZb3NDd2pvcmRkaVpQUl96TWtTdUUzUG56NS1hSHNJRHZJVE13ZjMwZTdlcExNNUhyYi1kM1pkcG9iVWlfUVk0N1o5VE9GTW9R?oc=5",
+      "published_at": "2026-08-25T03:02:06+00:00"
     },
     {
       "id": "6264d6436b96ae",
@@ -45,15 +54,6 @@
       "source": "Diario Mendoza Today",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQjRHQnFjdWluREtjaTdkb29OMDRabWtJOGlEMlpxLTNDRGg4V1FkVWs5Y2RLeWIydFd0R2xGRUJuMG1RNDUwLVNpdURjVk9SLVRfSGRTWnJRS05RZkJoX3NVWXE5Z2toRnBGUVY5QUptbWlNZVI3bWFxb2x3Y05RRWxUX0dsRW9uUThlVzFLdzlkUzd1bnBSTzZFdUFYYlZOV0w1RTBOcXV5dVg2Q1ZyVWhDYkhqMVpaV0h3c1F6RmZaTzNhUVV0YXdsUGptRDJ2NDZCM2p2NnRvUHRmSTRCa0xOMmg?oc=5",
       "published_at": "2026-08-19T23:08:38+00:00"
-    },
-    {
-      "id": "66626846c96a59",
-      "title": "Paso Cristo Redentor: se adelanta el cruce de camiones desde Chile hacia Argentina",
-      "summary": "Paso Cristo Redentor: se adelanta el cruce de camiones desde Chile hacia Argentina MDZ Online",
-      "category": "Argentina",
-      "source": "MDZ Online",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZEpGN0d5S0k1Z1JUc1RKeVVISVNxT0ZpWVlPbnBiMXBWLUdGRlhvZFRRdnU2b1Y0NE9iRzZHcDIyRUxlTkcxOFFfc2FCNFpBeS1OMlY1cHZzUnNRckdCZjZoRDJaZUh5c0RSWE15cEZFeVBDdkEzU0J6SUt2MmFsNUpTR2Vwa2x1QjdXNjNpVkxOSXNvSHMzZ29taFE5N1ZzdUFPc3l1Y2hGQdIBrwFBVV95cUxQcGRkLWZ2SEpMeWo1Qk1jb1lrWVRkMVpITEQ0XzhSQXRySzR3Tm1aSkd0ZW5DM1c2TXNEN3JuN1Y4MGQyZnRkWFJpeV9JUFZpWjhuZmQ1WFlaNEliSFJGdDVZQTVVa2sxcGZ4a1VMa0NFYm1yNDRjckU2NW1SNkRCM19FNjBfLVVwN1lnblRZejY1YUdud1VVZHFaVmtPcWlHam5peFgzZGRRWko0NWpz?oc=5",
-      "published_at": "2026-08-19T21:55:00+00:00"
     },
     {
       "id": "2ae2f0974a76fa",
@@ -110,6 +110,15 @@
       "published_at": "2026-08-18T17:15:54+00:00"
     },
     {
+      "id": "92efed62123a72",
+      "title": "300 camiones para cargar un buque: el caso que reabrió el debate sobre el cabotaje argentino",
+      "summary": "300 camiones para cargar un buque: el caso que reabrió el debate sobre el cabotaje argentino ArgenPorts",
+      "category": "Argentina",
+      "source": "ArgenPorts",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMm5VbWowQUFIdTZ3eU1CZzU0VXoxT0h0LUVYVThSX2JabXhNTGJ1ZzFpUUZuMGhMSVdaTnBuUVpBV1Y0UGctQl9BX1FsX1NpZW1ZbEp4Y21RSERLQndNcldqb01tN0JaRWpsakxBSTZEMTZlMTQ5UnJNeXlBb2dRbWtJaFU0TzFPY0NaUzN2Zy13TUl5NFo0LWc4QndMTWpqTWkzQ3c4X2RieFlIdVFPUDh0dzVpQnE2SEpEeQ?oc=5",
+      "published_at": "2026-08-25T15:13:28+00:00"
+    },
+    {
       "id": "d83ec031349677",
       "title": "FOTON e-Galaxus 5 y 9: los nuevos camiones eléctricos pesados llegaron a Sudamérica",
       "summary": "FOTON e-Galaxus 5 y 9: los nuevos camiones eléctricos pesados llegaron a Sudamérica SuperTruck.com.ar",
@@ -142,7 +151,7 @@
       "summary": "Más de 1400 camiones cruzaron a Chile tras la reapertura parcial del paso Cristo Redentor Diario Mendoza Today",
       "category": "Argentina",
       "source": "Diario Mendoza Today",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWFQUTd4ZFBhZl9VemZ1NG84U3p1cG5Ja0ZBbkhzM25SRE9TQmUtYmN2bUd0QjMwZjNKem80SjgweUZ6bkZNdkZjRVBraEJxQ1ZhQ01JQnZLMUhaYTFzQjFUTVJJbHBhcFFpemp1dFZsQTdmUHVVTjNsWXlLSlh6QmNNZDM4UE9SeXlKWjJaOV9xLWt0eVcxZThtYkFVczFaWGkyZW1rVEFGUTBmQ3lyUlk5YmcxWFp3WnBNWFF1RWQ1V2p4OXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWFQUTd4ZFBhZl9VemZ1NG84U3p1cG5Ja0ZBbkhzM25SRE9TQmUtYmN2bUd0QjMwZjNKem80SjgweUZ6bkZNdkZjRVBraEJxQ1ZhQ01JQnZLMUhaYTFzQjFUTVJJbHBhcFFpemp1dFZsQTdmUHVVTjNsWXlLSlh6QmNNZDM4UE9SeXlKWjJaOV9xLWt0eVcxZThtYkFVczFaWGkyZW1rVEFGUTBmQ3lyUlk5YmcxWFp3WnBNWFF1RWQ1V2p4OXfSAb8BQVVfeXFMT3RMYUtOMEVZU0NOMjR1em93emd6bUVOdHJDMkc4UmNDWHJpRjNPX25OQ0RIRFNRMWtUMDI3RWx0NDlNUjNraV9CbnV3cjJXTUs4Tk02S3YyUDVYNWdyaEk5VlpmeTk1UGMxcmdXSWxueUI5X1BVZ3JnNl9xa1ZVemt5WklJQ1JQTmxUSDdyTzlPR01iNkdoRmJBV3VLcWh3YlJxa0lJVG1td0xGNXdSaVo2d0pvcUNSTG1hOHRWVkU?oc=5",
       "published_at": "2026-08-18T23:54:15+00:00"
     },
     {
@@ -182,6 +191,15 @@
       "published_at": "2026-08-22T13:24:55+00:00"
     },
     {
+      "id": "1fd905f7fd4d4b",
+      "title": "Paso Los Libertadores reabre parcialmente para tránsito de camiones tras 34 días de cierre",
+      "summary": "Paso Los Libertadores reabre parcialmente para tránsito de camiones tras 34 días de cierre Data Portuaria",
+      "category": "Argentina",
+      "source": "Data Portuaria",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFJZMHI3SzMyc2o0QktSY1RxWS0xcHdWQnMtbUZMUU1wQUlSMVNHclh3WkJsRWVvR2tReFBKNjBVUFROZTN1QVNmOFIyYnY1VllRV2lyNno1SzBkYUd6a2J3RVV0SVA4cF9hOTd1Zy1OM2kxbEZHb2tkZEpjN2ZkZmo0aExabDZJQ0o0b2pTLTNkTnNWVEducWhEUFo0eV9ZSlpIUjhBNWxzQnd4b2RjZDJpZ1NtUEIt?oc=5",
+      "published_at": "2026-08-19T03:02:05+00:00"
+    },
+    {
       "id": "8cc44f144c9f60",
       "title": "Tras 34 días cerrado, reabre el Paso Cristo Redentor con prioridad para los camiones",
       "summary": "Tras 34 días cerrado, reabre el Paso Cristo Redentor con prioridad para los camiones La Brújula 24",
@@ -189,15 +207,6 @@
       "source": "La Brújula 24",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd2gzaThjV1UtSzBuZVJWMzhQTU9CVnZhYVJhT0dJdzlpVGp4bWllbTc1R09IaXhKWHRaU1dVTkN5QmFSSjh6WEVsQ1g4OWpqcm5YbHlYQmphNEZiUHA1dkU0U2lUQ0dub2lIOEdJaTJYRjFVaXpkUVhSZHNWNUVDdDhweE9iVkZWcXZXbDRYRzZxM3BKVFZ6bWxwTDUtVUV4N1BNZkpHYUJDUlZUNjk3UVplZDJTXzQ0UzBvSDlRNjQyLXN4VUR0VXVScEt0RTE3UjVj?oc=5",
       "published_at": "2026-08-18T10:06:51+00:00"
-    },
-    {
-      "id": "fcecac11956da8",
-      "title": "Rutas destrozadas y camiones más pesados: Una combinación peligrosa",
-      "summary": "Rutas destrozadas y camiones más pesados: Una combinación peligrosa Infobae",
-      "category": "Camiones",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUhOVjRiLTd2VFFKZnY5M2FnLUZtbDVGa0thXzlYUS1KSDJHU3dYMnVCSXhBM2RwRngyOUU5azh5cWlJS09QWG1tUXpXaU1feVFiV1k1YlczYWR2aWZ6emR0Qk13YW0tV09PZ2N2ZUdIU2F5amhCU1R5ZGpwWUR1VDdEbHN3NDFnSG5RbE5hcF9NakJMRlVmdy1NNmZWc0s4RWVFNXhTZmM5YlN1eURqeTZ0dWsyLVpiNUpIOUJIWmtlc2lvWC1YLUJHVDVxS1k?oc=5",
-      "published_at": "2026-08-13T07:00:00+00:00"
     },
     {
       "id": "03e6dcbee0a4da",
@@ -272,6 +281,15 @@
       "published_at": "2026-08-07T07:00:00+00:00"
     },
     {
+      "id": "b3094755a36895",
+      "title": "Polémica tras la decisión del Gobierno que habilita la circulación de camiones más pesados en las rutas nacionales",
+      "summary": "Polémica tras la decisión del Gobierno que habilita la circulación de camiones más pesados en las rutas nacionales canal1.com.ar",
+      "category": "Rutas y normativa",
+      "source": "canal1.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb2tNX1Z3YnM3Y0pienVuMGFEcjczeFZld0hoeXpRSDJXWU5CcmFmYjc3VWhVQVQxYTRDSXR3SVVJMHc3R21BaXR2VTZPTnJucGR2eHZjRngwLWdlZXF5bVd6OTlsbE0xRTQ5Ump0SWpHWnd4SDBQRDM4WWJ1S2NKU1I5bEtGeFlLRHluSG4xcVpBcnpwYXVrS0Y0TE1Rdk9mQjQ5U2NLbW5lVkktdFAzOFUxOE41dDBqcW1ldHdzRE1zdElTMWtDNGE2SnYyWnN0OTVV?oc=5",
+      "published_at": "2026-08-12T18:26:10+00:00"
+    },
+    {
       "id": "906976b38913f2",
       "title": "Hablemos de Logística 920 con Jerónimo Reyes Hansz, presidente del Instituto Nacional de Logística de Uruguay (INALOG)",
       "summary": "Hablemos de Logística 920 con Jerónimo Reyes Hansz, presidente del Instituto Nacional de Logística de Uruguay (INALOG) Webpicking",
@@ -306,15 +324,6 @@
       "source": "Aduana News",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORkd5QTg5TC1kcFRqYVhkX0hLY3lvX0l0Z19iQWV2MVBUU3BVYjhfcmY1aDlIN3gxalFuRnUwUUtvVGc1Umk2bHZtWVplQ1hkSFVLT0Y3dTkzS0ZMZllfZGxDUGtlSWtURmtDTTBTU0hYMXdlT1FfNlhyeE1oSmctcU96Zi11RHlWZWZCT184eEpmZGFvM0VCVFg1ZlNTVXRfLTloZFc2VW1scmdvWklmdmd3YnlJX00ybERTT1ZONmlKMnVyS1FJUUJTUzJwd2tHd1dlOFJQcw?oc=5",
       "published_at": "2026-08-04T07:00:00+00:00"
-    },
-    {
-      "id": "71e7f397eab50a",
-      "title": "Polémica tras la decisión del Gobierno que habilita la circulación de camiones más pesados en las rutas nac...",
-      "summary": "Polémica tras la decisión del Gobierno que habilita la circulación de camiones más pesados en las rutas nac... Rosario3",
-      "category": "Rutas y normativa",
-      "source": "Rosario3",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcV9TbXVlcXlleFNuN296SDJVT0dhQlhuc3lFZjF3THk1RmdkS0l0TGF6M2RCU2psa3RzTUxoVGVpa21WQVZMcHY2ZkQwV1NnZjg1X3ZUbFBkdnRsdWxCVmNVVld6YWFWY05CS1czb1F6N0dudVNMZnlza3EwQUJWdkszX2otX1lNc1M5T1F2aXQ4TGlBN2xMYTFPNFVWQUVaR1RFa09CTHppa2ZmQmZ0MUUtMDBhZk53ZUFSYlVZMDUyaWpucXRNN2REbTBSSjk2a3Zvb2ZNc2t2SW95NlR1cmlYaTh5WERmZzl5Q3lkbXplRzdKM0RPb1FXYUpLYUxRd2tPcWlaLWjSAYgCQVVfeXFMUHFfU211ZXF5ZXhTbjdvekgyVU9HYUJYbnN5RWYxd0x5NUZnZEtJdExhejNkQlNqbGt0c01MaFRlaWttVkFWTHB2NmZEMFdTZ2Y4NV92VGxQZHZ0bHVsQlZjVVZXemFhVmNOQktXM29RejdHbnVTTGZ5c2txMEFCVnZLM19qLV9ZTXNTOU9Rdml0OExpQTdsTGExTzRVVkFFWkdURWtPQkx6aWtmZkJmdDFFLTAwYWZOd2VBUmJVWTA1MmlqbnF0TTdkRG0wUko5Nmt2b29mTXNrdklveTZUdXJpWGk4eVhEZmc5eUN5ZG16ZUc3SjNET29RV2FKS2FMUXdrT3FpWi1o?oc=5",
-      "published_at": "2026-08-11T07:00:00+00:00"
     },
     {
       "id": "133e26de8cb70b",
@@ -416,15 +425,6 @@
       "published_at": "2026-08-03T07:00:00+00:00"
     },
     {
-      "id": "dc6ed47f7ea67b",
-      "title": "\"Un día de demora\": más de 230 camiones esperan cruzar a Chile por Pino Hachado este miércoles 29",
-      "summary": "\"Un día de demora\": más de 230 camiones esperan cruzar a Chile por Pino Hachado este miércoles 29 Diario Río Negro",
-      "category": "Camiones",
-      "source": "Diario Río Negro",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYjcyblFfcktOT2I4a3JSV0paVm1XWmxOdmxRR2hhckZRRGIxalFwd0tzTHBzR1ozbVNCNGhYVU50SmMwSGtacW9IS0pRS2EzcDk3QWhzX2VvZkhvekE4YWJUeXdYLUJFN3FfRVpKSFZoLTJkUlBfQ3JRUnJxdUFNYnMzNGVJTHk1ZE8wYWZoREp2Z1g1aFZHSTAyX3J0N05aWjR3ZWhiaElYU1BWUWZhUXhvRzQ1UHNWbUhXTjV0RXpyRzYzUzQ0XzBVLWQxS0dIYm9vQ3puSdIB3wFBVV95cUxPQW53NENwX2xQMDltRXZlRGhZcXRZNkYzZDhIWmY3cE9QZlNZVmhqSmpoNzl2Wk5KbGR1X0J5cDM5MXIyd3ZQa0NoQkpKaU5rbUF0R0stXzJfZFhQUzJNMjBCcExXX0FtYjNnekZhcmNoc2NFM0UyUHg2T0R2XzRYX0JWTzFkeTA2ZWlBWnMxTUhoanoyYlhIR044Y2RweDd3SDNrZllaeDRvTzM2eXNWRkw5c1ZObWVBRjA5N3ZlSExfSEQyNEtvZzNsSnYzVFdDLWNMdHI3T2YxZXZidkxz?oc=5",
-      "published_at": "2026-07-29T07:00:00+00:00"
-    },
-    {
       "id": "d2434c91d7ccd9",
       "title": "Autos chinos, sí; camiones, no: Toto Caputo y Sturzenegger rechazaron bajar impuestos para renovar la flota",
       "summary": "Autos chinos, sí; camiones, no: Toto Caputo y Sturzenegger rechazaron bajar impuestos para renovar la flota Letra P",
@@ -449,15 +449,6 @@
       "category": "Argentina",
       "source": "AgroLatam",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaURjT2tkV3B4QmEwUXFwdzlIODBCV3RyaVd2bXlqS0gzWmNtQS1WcmVwR2VlUWNLY2ZTMEdJWGRhalVlTVZXYXZOUXN2VjlpOURMWHFuWWw1RVR2blJISDBqVUt4cnI2RjM0WExxZDB6ZHZEejZqM1h4WUE1TjEwblQzaDgxYTNyRkJrRm1jRFJBd2JMWVpZV25ZQnFsZnA2Y1E?oc=5",
-      "published_at": "2026-07-31T07:00:00+00:00"
-    },
-    {
-      "id": "1d8def5d2ab7bf",
-      "title": "Scania suma 12 camiones Super G460 XT para el transporte minero de alta montaña",
-      "summary": "Scania suma 12 camiones Super G460 XT para el transporte minero de alta montaña Revista Parabrisas",
-      "category": "Argentina",
-      "source": "Revista Parabrisas",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMUFxTXFUNF9vY0U4YWFkdThvRGt2azdaNU53b3JLMTBsSnJmNW4zN3dBM2lXWWs4a2I5Vjg3c09lLTFndDV4WlVrVEdkN2IwS0JZS3ZkWEVTeEtpa3Z5dkYtWS1oT2NjSmNXQUI5X1dDUXNYaWlZRnBWbVp0MHVnN3FQa3pjOFJNQ1BGUm9SaXdjc0JVTjVmVGxpLXlwV3VQUk1yMWNnZTBSRDVma2hhZkZJSFBNWmJQRGVPSUtkNUROVHFQemF5enNaUUsycDjSAdQBQVVfeXFMT3VWM3pacEE1UnF4cWloR0pZTDJNcUNDSjlJanJHXzhTNnV6MjUxUVlMcWpIWE1qdUttMkhNZ1BLbHBnTy1vR2V6UXpxd293Z3A3V2ZTQjVWVWR2ZnJDYXlDM3dqU0NFcXhFczcwVm92YlRhT1A1dTk4b3R0RElpcnJJYmtoaFVJWUszZEpNUkZmWVlpZVBqS3Bybzhod0pYR29PZ0V1dU5xeFloY3hKNE54cmZrTFZrd1UyYlhoWHZaaTRmN21lX2l0VE9OZzFraTJ5MGo?oc=5",
       "published_at": "2026-07-31T07:00:00+00:00"
     },
     {
