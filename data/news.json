@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T03:39:27.424092+00:00",
+  "updated_at": "2026-08-26T05:59:41.657470+00:00",
   "items": [
     {
       "id": "3dda021f02b53e",
@@ -209,6 +209,24 @@
       "published_at": "2026-08-19T03:02:05+00:00"
     },
     {
+      "id": "8cc44f144c9f60",
+      "title": "Tras 34 días cerrado, reabre el Paso Cristo Redentor con prioridad para los camiones",
+      "summary": "Tras 34 días cerrado, reabre el Paso Cristo Redentor con prioridad para los camiones La Brújula 24",
+      "category": "Argentina",
+      "source": "La Brújula 24",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd2gzaThjV1UtSzBuZVJWMzhQTU9CVnZhYVJhT0dJdzlpVGp4bWllbTc1R09IaXhKWHRaU1dVTkN5QmFSSjh6WEVsQ1g4OWpqcm5YbHlYQmphNEZiUHA1dkU0U2lUQ0dub2lIOEdJaTJYRjFVaXpkUVhSZHNWNUVDdDhweE9iVkZWcXZXbDRYRzZxM3BKVFZ6bWxwTDUtVUV4N1BNZkpHYUJDUlZUNjk3UVplZDJTXzQ0UzBvSDlRNjQyLXN4VUR0VXVScEt0RTE3UjVj?oc=5",
+      "published_at": "2026-08-18T10:06:51+00:00"
+    },
+    {
+      "id": "fcecac11956da8",
+      "title": "Rutas destrozadas y camiones más pesados: Una combinación peligrosa",
+      "summary": "Rutas destrozadas y camiones más pesados: Una combinación peligrosa Infobae",
+      "category": "Camiones",
+      "source": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUhOVjRiLTd2VFFKZnY5M2FnLUZtbDVGa0thXzlYUS1KSDJHU3dYMnVCSXhBM2RwRngyOUU5azh5cWlJS09QWG1tUXpXaU1feVFiV1k1YlczYWR2aWZ6emR0Qk13YW0tV09PZ2N2ZUdIU2F5amhCU1R5ZGpwWUR1VDdEbHN3NDFnSG5RbE5hcF9NakJMRlVmdy1NNmZWc0s4RWVFNXhTZmM5YlN1eURqeTZ0dWsyLVpiNUpIOUJIWmtlc2lvWC1YLUJHVDVxS1k?oc=5",
+      "published_at": "2026-08-13T07:00:00+00:00"
+    },
+    {
       "id": "970db6190ccfc8",
       "title": "Caos operacional dispara los fletes entre Asia y Sudamérica y deja buques sin espacios",
       "summary": "Caos operacional dispara los fletes entre Asia y Sudamérica y deja buques sin espacios MasContainer",
@@ -353,15 +371,6 @@
       "published_at": "2026-08-10T23:03:13+00:00"
     },
     {
-      "id": "5290c358a67599",
-      "title": "Vuelos en Colombia podrían ser más baratos: IATA propone reducir el IVA al 5%",
-      "summary": "Vuelos en Colombia podrían ser más baratos: IATA propone reducir el IVA al 5% Infobae",
-      "category": "Economía",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWHlISk91c0M1QlA4M1JSbTI2N1otemJTNHpiZnJVcjJtaEZ1ZFVtQWxMSWhUczZXcXR2RHRUSngtdFlIWG1GN3RHeXYwbV83VlNNU1JmZ0NEVG1XTTN1VThOVDhzUjFrYnh5ZE1UOWNNdDdOTWZFQUVvQ1ZySkl2Z3ZJcmlzOHBobEVPOW9yQjY0MUlrdV9vOGV0Yi01VFBKTHBsMlBXVjdsOTFTMmxsSkViaUstRVVqajVGRtIB1wFBVV95cUxQZHlLZmlmVGNWZ1lZUnJvOUphUDdvTzlXSE1MV2E2X3hMb3B4MzI0VjMyR2NWVFN6Mlh6WDVuSWt2cm96MEdEaTZWb0g0TW9BRmJtbHBrQzlTS1BSM2pVSHZYMmppNEl0VHBqWm1Eay1CRjlPdUJBSTlNNEpJb3VmclF1T0djZ282QkRFMWo4OWNSZlVEazdPZlhnXzgtZzlxTDFaOGhGWlNJVHdUa2FqdlVUVGJ1NnBtUWUzNnp2ZG1iMVI2cUVUNUtOckQwWlkzT1lGeFdHNA?oc=5",
-      "published_at": "2026-08-05T07:00:00+00:00"
-    },
-    {
       "id": "f3d2f18a49e870",
       "title": "Adiós cuerdas: MTT anuncia cambios en normativa de remolque de autos averiados en Chile",
       "summary": "Adiós cuerdas: MTT anuncia cambios en normativa de remolque de autos averiados en Chile Rutamotor",
@@ -434,6 +443,15 @@
       "published_at": "2026-08-03T07:00:00+00:00"
     },
     {
+      "id": "dc6ed47f7ea67b",
+      "title": "\"Un día de demora\": más de 230 camiones esperan cruzar a Chile por Pino Hachado este miércoles 29",
+      "summary": "\"Un día de demora\": más de 230 camiones esperan cruzar a Chile por Pino Hachado este miércoles 29 Diario Río Negro",
+      "category": "Camiones",
+      "source": "Diario Río Negro",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYjcyblFfcktOT2I4a3JSV0paVm1XWmxOdmxRR2hhckZRRGIxalFwd0tzTHBzR1ozbVNCNGhYVU50SmMwSGtacW9IS0pRS2EzcDk3QWhzX2VvZkhvekE4YWJUeXdYLUJFN3FfRVpKSFZoLTJkUlBfQ3JRUnJxdUFNYnMzNGVJTHk1ZE8wYWZoREp2Z1g1aFZHSTAyX3J0N05aWjR3ZWhiaElYU1BWUWZhUXhvRzQ1UHNWbUhXTjV0RXpyRzYzUzQ0XzBVLWQxS0dIYm9vQ3puSdIB3wFBVV95cUxPQW53NENwX2xQMDltRXZlRGhZcXRZNkYzZDhIWmY3cE9QZlNZVmhqSmpoNzl2Wk5KbGR1X0J5cDM5MXIyd3ZQa0NoQkpKaU5rbUF0R0stXzJfZFhQUzJNMjBCcExXX0FtYjNnekZhcmNoc2NFM0UyUHg2T0R2XzRYX0JWTzFkeTA2ZWlBWnMxTUhoanoyYlhIR044Y2RweDd3SDNrZllaeDRvTzM2eXNWRkw5c1ZObWVBRjA5N3ZlSExfSEQyNEtvZzNsSnYzVFdDLWNMdHI3T2YxZXZidkxz?oc=5",
+      "published_at": "2026-07-29T07:00:00+00:00"
+    },
+    {
       "id": "d2434c91d7ccd9",
       "title": "Autos chinos, sí; camiones, no: Toto Caputo y Sturzenegger rechazaron bajar impuestos para renovar la flota",
       "summary": "Autos chinos, sí; camiones, no: Toto Caputo y Sturzenegger rechazaron bajar impuestos para renovar la flota Letra P",
@@ -455,7 +473,7 @@
       "id": "690a1902a3a10a",
       "title": "El Gobierno apuesta por los bitrenes y el GNC para bajar el costo del transporte",
       "summary": "El Gobierno apuesta por los bitrenes y el GNC para bajar el costo del transporte AgroLatam",
-      "category": "Argentina",
+      "category": "Rutas y normativa",
       "source": "AgroLatam",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaURjT2tkV3B4QmEwUXFwdzlIODBCV3RyaVd2bXlqS0gzWmNtQS1WcmVwR2VlUWNLY2ZTMEdJWGRhalVlTVZXYXZOUXN2VjlpOURMWHFuWWw1RVR2blJISDBqVUt4cnI2RjM0WExxZDB6ZHZEejZqM1h4WUE1TjEwblQzaDgxYTNyRkJrRm1jRFJBd2JMWVpZV25ZQnFsZnA2Y1E?oc=5",
       "published_at": "2026-07-31T07:00:00+00:00"
