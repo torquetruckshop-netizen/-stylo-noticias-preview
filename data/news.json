@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T13:32:26.592928+00:00",
+  "updated_at": "2026-08-29T13:34:17.857237+00:00",
   "items": [
     {
       "id": "4f08abf5af3ce8",
@@ -272,6 +272,15 @@
       "published_at": "2026-08-19T21:18:00+00:00"
     },
     {
+      "id": "f3bdc2d17bc1b9",
+      "title": "Camiones autónomos en convoy y remolques sin chofer",
+      "summary": "Camiones autónomos en convoy y remolques sin chofer transportemundial.com.ar",
+      "category": "Camiones",
+      "source": "transportemundial.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdF9zRG1ZOEQteUl6eldqMV93YkxHOGNBTUhnV1hQdkVOTF8xaVB0WDd6YktnVDNKWFZfNzI5R0RBaVlfVVlwNW9EaHlvT3BmUVItbWdmcVV1ZnUwLTFuWVBWZUQxdmlsZ2JVdXNIeTJLUjN5aE5pa255NlRJSF9FUHpDanFwUkdMOUlLOEU2dGlUX0dFcGtlbEphQQ?oc=5",
+      "published_at": "2026-08-19T16:16:38+00:00"
+    },
+    {
       "id": "2b7e4d382dc0de",
       "title": "Reapertura del Paso Cristo Redentor: cruzaron más de 1.300 camiones hacia Chile durante el primer día",
       "summary": "Reapertura del Paso Cristo Redentor: cruzaron más de 1.300 camiones hacia Chile durante el primer día Tiempo de San Juan",
@@ -279,6 +288,15 @@
       "source": "Tiempo de San Juan",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOemtjUGFNTEJVMXRmYXN2NXk3VFdRSEhoZVVuY05LSFJDVlpvV1pfaHJGcmUyT3k5dkpObk55Z05iLXNmYUxMZWd4OGRiYzZTN0pMVTYwcktQWXdxYWJVS1Z0UnNGcGhhSl83dEViN0Ffa0w3RkdXYWdKTkVFSDg3d3lYLVNsdUtyQlpLbEMxaTAwWndTRGVQdUhtTHJVQVF1dWVEbEZ5MVZsREFzSXpXVGtLcF9MOUdOZHExMFFNcG9SNUVfSUExTFV5VjhMNUplUDJDbC1ZNXcyOHBBaE93OTFaQmlCZw?oc=5",
       "published_at": "2026-08-19T15:13:00+00:00"
+    },
+    {
+      "id": "6b7cab6c2a701e",
+      "title": "Más peso para los camiones, menos plata para las rutas",
+      "summary": "Más peso para los camiones, menos plata para las rutas NEA HOY",
+      "category": "Camiones",
+      "source": "NEA HOY",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPek9YMDJFdHUwNUVjMWdlYTVpNFcyVWdkX3hHZXZ1NFlkNVp3VUtCWTlFbXI2NHFqQUtia05hUnZzbFl6X05iMldtWUdncElYYk1ueWwzR2R4TFJ4WVhHajFUUlQyWW1WWi1yNldBMUx6dTlvYjF3RjJTUTFWMlhSa1hRc1BpeXg2d1FiTA?oc=5",
+      "published_at": "2026-08-19T14:02:53+00:00"
     },
     {
       "id": "bbd89cbd526b34",
@@ -362,15 +380,6 @@
       "published_at": "2026-08-17T07:00:00+00:00"
     },
     {
-      "id": "fb9034394571f6",
-      "title": "Chile y Argentina habilitan paso fronterizo tras 34 días de cierre por acumulación de nieve",
-      "summary": "Chile y Argentina habilitan paso fronterizo tras 34 días de cierre por acumulación de nieve teleSUR",
-      "category": "Camiones",
-      "source": "teleSUR",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tdFdUd1FPalVzazZPYjhCNXc0UjRsd1dLdFE1T0V5Yk9lUHNrdUMxb0xSZ3ZUZS1YN3JkTDFYdFhjMExuQ2Z1OExTelVzZG11TnNlTThFMmxIT0MwZmpYNUNCNlR0VGtiaEZCZ0ZxU3NSMlUwWmh2ZWZRZFM?oc=5",
-      "published_at": "2026-08-17T07:00:00+00:00"
-    },
-    {
       "id": "fe9264f392dc5c",
       "title": "Paso Cristo Redentor: reabre este martes exclusivamente para camiones tras 34 días de cierre",
       "summary": "Paso Cristo Redentor: reabre este martes exclusivamente para camiones tras 34 días de cierre La Voz del Interior",
@@ -405,6 +414,24 @@
       "source": "Diario El Norte - San Nicolás",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa0Qzd3Z0d3VoMmdOS3c4VmQyVFBoLVV6Q1NnRWw4X3E2emYteFZQMVFxTEhkLUdDd1hEek9rMGNud3paYklwb19vSjAyaG5kckdsOV9OUkJmNDJ0ZDFIZGc1VXU0VktlLVpYTlVielNUODVNVkJoOEpvNkxNNko5R3FLSlo1SjdETnJ0bnZiMnRNa3RmWUE?oc=5",
       "published_at": "2026-08-17T07:00:00+00:00"
+    },
+    {
+      "id": "fb9034394571f6",
+      "title": "Chile y Argentina habilitan paso fronterizo tras 34 días de cierre por acumulación de nieve",
+      "summary": "Chile y Argentina habilitan paso fronterizo tras 34 días de cierre por acumulación de nieve teleSUR",
+      "category": "Camiones",
+      "source": "teleSUR",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tdFdUd1FPalVzazZPYjhCNXc0UjRsd1dLdFE1T0V5Yk9lUHNrdUMxb0xSZ3ZUZS1YN3JkTDFYdFhjMExuQ2Z1OExTelVzZG11TnNlTThFMmxIT0MwZmpYNUNCNlR0VGtiaEZCZ0ZxU3NSMlUwWmh2ZWZRZFM?oc=5",
+      "published_at": "2026-08-17T07:00:00+00:00"
+    },
+    {
+      "id": "c29f6afae94734",
+      "title": "Cerraron otros cruces con Chile y cientos de camiones quedaron varados por la nieve en Jujuy",
+      "summary": "Cerraron otros cruces con Chile y cientos de camiones quedaron varados por la nieve en Jujuy Que Pasa Jujuy",
+      "category": "Camiones",
+      "source": "Que Pasa Jujuy",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMmdSOGhfMk55QnRCRkdCTTlBU1FNQXFCSUdFVHRkcGNydTRnSzhUTWhfRHFtT2xIck1PQjI2ZUFudEFJQnlyS1hHYWtEY3lOQ1UyX2RkaUJENVNoNWhfN3hPY3oyQl9lNEdQNU1Edm51TGx5cEkzNFpVOVA3QTlnbWtiSFBKYVVZUXNtaXY2TGE2Z2g2VkJuTUktMnpEZTVCdTVsOVdrbWJUSm5oN0NKU1phRkM4eC03eE1NTU9JYVJEOFhWclJQWXFXUQ?oc=5",
+      "published_at": "2026-08-16T23:12:11+00:00"
     },
     {
       "id": "beff7eb8683514",
@@ -605,6 +632,15 @@
       "published_at": "2026-07-31T07:00:00+00:00"
     },
     {
+      "id": "33f3e95a4e5119",
+      "title": "Bitrenes a GNC: un decreto del Gobierno para el transporte de cargas podría abaratar costos en el agro",
+      "summary": "Bitrenes a GNC: un decreto del Gobierno para el transporte de cargas podría abaratar costos en el agro Infocampo",
+      "category": "Rutas y normativa",
+      "source": "Infocampo",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaDN6dHpHMXNGUUdJMjZCTVlWbUdPQ1lwYzg1TFhObEtVd1dVNEp3TFl3NEh4R3FpR0ZYVUxhVm5xTG5DOFZXNTM2czRaTW9LMzBzcm1hcWtIQk1KQ3RjOE5BMkd3M3hFbUhta3lxb0hpSUx5ZjZmTmhKTGRBQkFJeVAwY1JlTzJ0NVZvTFFXWkNhSkNHR21BUFJ4eE0zWFFtZEF3Z1MtMHp2WllXNDlaU0JLTWJ4Y0J1RlFrLXpIc3ZFUEVFV2U0ODFWVQ?oc=5",
+      "published_at": "2026-07-31T07:00:00+00:00"
+    },
+    {
       "id": "690a1902a3a10a",
       "title": "El Gobierno apuesta por los bitrenes y el GNC para bajar el costo del transporte",
       "summary": "El Gobierno apuesta por los bitrenes y el GNC para bajar el costo del transporte AgroLatam",
@@ -632,15 +668,6 @@
       "published_at": "2026-07-31T07:00:00+00:00"
     },
     {
-      "id": "33f3e95a4e5119",
-      "title": "Bitrenes a GNC: un decreto del Gobierno para el transporte de cargas podría abaratar costos en el agro",
-      "summary": "Bitrenes a GNC: un decreto del Gobierno para el transporte de cargas podría abaratar costos en el agro Infocampo",
-      "category": "Argentina",
-      "source": "Infocampo",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaDN6dHpHMXNGUUdJMjZCTVlWbUdPQ1lwYzg1TFhObEtVd1dVNEp3TFl3NEh4R3FpR0ZYVUxhVm5xTG5DOFZXNTM2czRaTW9LMzBzcm1hcWtIQk1KQ3RjOE5BMkd3M3hFbUhta3lxb0hpSUx5ZjZmTmhKTGRBQkFJeVAwY1JlTzJ0NVZvTFFXWkNhSkNHR21BUFJ4eE0zWFFtZEF3Z1MtMHp2WllXNDlaU0JLTWJ4Y0J1RlFrLXpIc3ZFUEVFV2U0ODFWVQ?oc=5",
-      "published_at": "2026-07-31T07:00:00+00:00"
-    },
-    {
       "id": "22c372b55edf5a",
       "title": "Scania suma 12 camiones Super G460 XT para el transporte minero de alta montaña",
       "summary": "Scania suma 12 camiones Super G460 XT para el transporte minero de alta montaña Parabrisas / Perfil",
@@ -661,6 +688,6 @@
       }
     ],
     "new_candidates": 63,
-    "published_items": 72
+    "published_items": 75
   }
 }
