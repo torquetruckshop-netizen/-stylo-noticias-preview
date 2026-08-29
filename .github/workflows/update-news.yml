@@ -13,12 +13,19 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: stylo-news-update
+  cancel-in-progress: false
+
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Python
         uses: actions/setup-python@v5
@@ -26,10 +33,28 @@ jobs:
           python-version: '3.12'
 
       - name: Instalar dependencias
-        run: pip install feedparser
+        run: python -m pip install --disable-pip-version-check feedparser
 
       - name: Actualizar noticias
         run: python scripts/update_news.py
+
+      - name: Validar edición
+        run: |
+          python - <<'PY'
+          import json
+          from datetime import datetime
+          from pathlib import Path
+
+          payload = json.loads(Path("data/news.json").read_text(encoding="utf-8"))
+          updated_at = payload.get("updated_at")
+          items = payload.get("items", [])
+          datetime.fromisoformat(updated_at.replace("Z", "+00:00"))
+          if len(items) < 8:
+              raise SystemExit("La edición no alcanza el mínimo de 8 noticias válidas")
+          if not all(item.get("title") and item.get("url") and item.get("published_at") for item in items):
+              raise SystemExit("Hay noticias incompletas")
+          print(f"Edición válida: {len(items)} noticias · {updated_at}")
+          PY
 
       - name: Guardar cambios
         run: |
@@ -38,7 +63,18 @@ jobs:
           git add data/news.json
           if git diff --cached --quiet; then
             echo "Sin cambios"
-          else
-            git commit -m "Actualizar radar automático de noticias"
-            git push
+            exit 0
           fi
+
+          git commit -m "Actualizar radar automático de noticias"
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            git rebase --abort || true
+            sleep $((attempt * 5))
+          done
+
+          echo "No se pudo publicar la edición después de 3 intentos"
+          exit 1
