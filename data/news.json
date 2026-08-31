@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T00:24:11.495718+00:00",
+  "updated_at": "2026-08-31T04:24:18.801666+00:00",
   "items": [
     {
       "id": "862d36f7ba7627",
@@ -272,6 +272,15 @@
       "published_at": "2026-08-20T11:50:27+00:00"
     },
     {
+      "id": "493894cdacaf66",
+      "title": "Paso Cristo Redentor: así llegaron los primeros camiones desde Chile tras más de un mes de espera",
+      "summary": "Paso Cristo Redentor: así llegaron los primeros camiones desde Chile tras más de un mes de espera Los Andes",
+      "category": "Argentina",
+      "source": "Los Andes",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLWNtTmVMU1lMekdNZGtDWnZFRDNTdkRnNDRxSU1uSWtoaXJzLWY1NFdQRURyNGV5SHZvUXgzTXg5RFVoU2pyTmN3S1JUYUhLTEwtTVo0RzRnRFYzc0FsWFdWQ09ZYXpDck9hemtKOXhQT1ZMN1JsV2Q2dHlabVljaWJ6alFGQWsxVlBSM3BVb1hxd1k2c3RCZGNRMkZEY0hqbE93a0g3YlY0Z3dPSnNpMS1FLUZMSWpsSkRKNm9GdC05d0E?oc=5",
+      "published_at": "2026-08-20T07:00:00+00:00"
+    },
+    {
       "id": "7a04961fb694de",
       "title": "Reabrió el paso Cristo Redentor tras 34 días de cierre y así será el cruce hacia Chile",
       "summary": "Reabrió el paso Cristo Redentor tras 34 días de cierre y así será el cruce hacia Chile El Litoral",
@@ -432,6 +441,15 @@
       "source": "Mendoza Post",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUJqVzViekxFM0diUjJuNjc2R2FrMEVkd2ZyWk5zZ1NGWDhHZ2E0MXBubUhpSHhPWFpZUnEzSHFWUmpQOXdIREtMMkVQU3VTZkVJcTE0Q1BuUXFWa3Myek9KZ20wNjFPdHZGUjZPRzR2MmZMWlpnSmRHSXlyUmN0aEtNamNIX243QUtoUmZKbEU2Z1lKWm8yd2VnMUUtV3BqV3F1Nm51NA?oc=5",
       "published_at": "2026-08-17T10:54:00+00:00"
+    },
+    {
+      "id": "970db6190ccfc8",
+      "title": "Caos operacional dispara los fletes entre Asia y Sudamérica y deja buques sin espacios",
+      "summary": "Caos operacional dispara los fletes entre Asia y Sudamérica y deja buques sin espacios MasContainer",
+      "category": "Logística",
+      "source": "MasContainer",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYkRCMnRDMDltYXlweDNXaGRpZTZ2a29KSlp2TVFleVMycGczTTNFVHpxRjUzaVZEQVFOd09aVzJKeTIwLXJTeC1aZzZXMmsyOXVNN3ZuMzM3RGxqNG9ob1RVeDlUdDdhZlppUWd5eHA0WGZwbjJULWhiS2ZqQzA3UzVQSUw4SW9uU01uSmV4RU5hcmk1WG9oOGY5c2t3MTBxQTUzT2sxWUk2RHFUaDBn?oc=5",
+      "published_at": "2026-08-17T07:00:00+00:00"
     },
     {
       "id": "fe9264f392dc5c",
@@ -702,24 +720,6 @@
       "source": "AgroLatam",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaURjT2tkV3B4QmEwUXFwdzlIODBCV3RyaVd2bXlqS0gzWmNtQS1WcmVwR2VlUWNLY2ZTMEdJWGRhalVlTVZXYXZOUXN2VjlpOURMWHFuWWw1RVR2blJISDBqVUt4cnI2RjM0WExxZDB6ZHZEejZqM1h4WUE1TjEwblQzaDgxYTNyRkJrRm1jRFJBd2JMWVpZV25ZQnFsZnA2Y1E?oc=5",
       "published_at": "2026-07-31T07:00:00+00:00"
-    },
-    {
-      "id": "3075f5fe67ba00",
-      "title": "Actualizan las reglas para las dimensiones de los vehículos y amplían las facultades de Transporte",
-      "summary": "Actualizan las reglas para las dimensiones de los vehículos y amplían las facultades de Transporte Ambito",
-      "category": "Rutas y normativa",
-      "source": "Ambito",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ0VpLUdxSFZHXzNqOVc0R0FibkZrYmRGUTJMZE9pUVFsaGZjZ3E2NG0xSklhZlN0OGRLZ3k1TkdjZmlVeFVYZGVaLTZxTXgyVGNHczllQmd3VTRjRlR0RkJRcjhYX0h1ZXlkSi1ManBXa0F3YWNSeE4tMzhieVJuSWxvRnNKLV8tQkNoTGhoeHZsQ09UX1dqOTBYY0N1dlBNM0hPV0cyQjVGTG9UTnI5bk5jeXZVbTZlMWhqNWtOTFNaR29ISEtvZmZhOTRQcEZqNUpBWHFnOHRZSnfSAeABQVVfeXFMTjdTSldTZGdEaDBndmZYNGZYbm95RnRQU2xYUDlZbmtVZ3EzME5iOWpzeWJCOTdZTUFQa0ZJTHpwX2NYQk9MVDVjQjJvSnF5dmFDLTYwQ3lZRTV1elFNdkhvM0hHb1BEUFY1cTVHOWpMNndQQW94UndEVERoSXpwQTVzX2RQNkUzWmVTMUJ2cXlyQ3BWTk9IV1ZnRl9rVDZ3LVMzSUU5eTFVYjdsV2laLUtRSE5DNU9Oc3BEYnFxUklMTnZJZ0dpNEdYNEwzaG5DMWRnblhnenI1bGNOSl9vTVE?oc=5",
-      "published_at": "2026-07-31T07:00:00+00:00"
-    },
-    {
-      "id": "33f3e95a4e5119",
-      "title": "Bitrenes a GNC: un decreto del Gobierno para el transporte de cargas podría abaratar costos en el agro",
-      "summary": "Bitrenes a GNC: un decreto del Gobierno para el transporte de cargas podría abaratar costos en el agro Infocampo",
-      "category": "Rutas y normativa",
-      "source": "Infocampo",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaDN6dHpHMXNGUUdJMjZCTVlWbUdPQ1lwYzg1TFhObEtVd1dVNEp3TFl3NEh4R3FpR0ZYVUxhVm5xTG5DOFZXNTM2czRaTW9LMzBzcm1hcWtIQk1KQ3RjOE5BMkd3M3hFbUhta3lxb0hpSUx5ZjZmTmhKTGRBQkFJeVAwY1JlTzJ0NVZvTFFXWkNhSkNHR21BUFJ4eE0zWFFtZEF3Z1MtMHp2WllXNDlaU0JLTWJ4Y0J1RlFrLXpIc3ZFUEVFV2U0ODFWVQ?oc=5",
-      "published_at": "2026-07-31T07:00:00+00:00"
     }
   ],
   "health": {
@@ -732,7 +732,7 @@
         "error": "fuente sin resultados"
       }
     ],
-    "new_candidates": 61,
+    "new_candidates": 62,
     "published_items": 80
   }
 }
