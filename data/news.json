@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T20:24:21.473234+00:00",
+  "updated_at": "2026-08-31T00:24:11.495718+00:00",
   "items": [
     {
       "id": "862d36f7ba7627",
@@ -173,6 +173,15 @@
       "published_at": "2026-08-24T09:01:23+00:00"
     },
     {
+      "id": "c3c33fa68ea4c3",
+      "title": "Reabrieron el paso Cristo Redentor tras el cruce masivo de transporte de carga",
+      "summary": "Reabrieron el paso Cristo Redentor tras el cruce masivo de transporte de carga MendoVoz",
+      "category": "Argentina",
+      "source": "MendoVoz",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN21tbEpDaElxbVQ5d1dkeDJYNTVkSEJHRk5saEFXVlRLZWdRMXkzLTNkbG9yWG9xMGVCU0hlTnRrb0RvT1pTRERSWXdJeDV2OURvNDJCQzVZQ0Y1aGhfMjF4YXZ4UkZsVEt3NWZPX19JMVhXT0pvbUpHWnZscjBTVzVic29IUktMNzBGMnVWZE5PZ0M1NktSd2FXMFFpWGFONVQ4MF9Xc3ctZnNrZF9fQUZqajBPTEplTGthd0M0MTRULUVLMlItU05adnRPWmFiOVZz0gHTAUFVX3lxTE03bW1sSkNoSXFtVDl3V2R4Mlg1NWRIQkdGTmxoQVdWVEtlZ1ExeTMtM2Rsb3JYb3EwZUJTSGVOdGtvRG9PWlNERFJZd0l4NXY5RG80MkJDNVlDRjVoaF8yMXhhdnhSRmxUS3c1Zk9fX0kxWFdPSm9tSkdadmxyMFNXNWJzb0hSS0w3MEYydVZkTk9nQzU2S1J3YVcwUWlYYU41VDgwX1dzdy1mc2tkX19BRmpqME9MSmVMa2F3QzQxNFQtRUsyUi1TTlp2dE9aYWI5VnM?oc=5",
+      "published_at": "2026-08-22T13:24:55+00:00"
+    },
+    {
       "id": "30157e5d52eb7d",
       "title": "Otra empresa argentina incorporó dos Scania bitren para transportar hasta 75 toneladas",
       "summary": "Otra empresa argentina incorporó dos Scania bitren para transportar hasta 75 toneladas SuperTruck.com.ar",
@@ -180,15 +189,6 @@
       "source": "SuperTruck.com.ar",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT3ZIN1NFLUgwaFIwaFBXZzJieEk2N2hjemRvS19hRG9LZmtTazY4Zlp2MndFMGkwTFd5TTQ0cm5YY0NoWEQ0TVRMOXZhNTZOdWtQRlJBbFlhOFJEX2tDNHozWDJrblI2WnpYc2hid0N1QnJaYUx3NVVRS3R5b2QydTJnRGI4ZTlqV2NjU3BNX0wxRm43SHRyanFzRE1mOTgtV2psaHNTeVMxY05ZdnpRUQ?oc=5",
       "published_at": "2026-08-22T11:00:24+00:00"
-    },
-    {
-      "id": "c3c33fa68ea4c3",
-      "title": "Reabrieron el paso Cristo Redentor tras el cruce masivo de transporte de carga",
-      "summary": "Reabrieron el paso Cristo Redentor tras el cruce masivo de transporte de carga MendoVoz",
-      "category": "Argentina",
-      "source": "MendoVoz",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ2NkMlk0cjdJZF9CcFdvWXlhdU9ZQ2c5bkpyWXQ0dHRLeGtkM0hHN0ZiRnU1ZG9fcmE0d294YXNPaExBY3RqbjRZVHJrSDJDTkZRNEpiWC1IY0p0a1d5ZTFWU0JQUXdfbm1hWFQ0S0ZjOVVSMGF6MDRsYlNqYWxZTkJjS25MbmFwdG85M2l2R2Fxb0NLMmNZcDhHZlQ0cXJhTGlrTDY0a3VaczQ3dWVsSWhVbnJYdDcxVVJEMktHSE1ZUDhBVUZjb1NXNUgyQnVoWmNz?oc=5",
-      "published_at": "2026-08-22T10:14:00+00:00"
     },
     {
       "id": "d83ec031349677",
@@ -732,7 +732,7 @@
         "error": "fuente sin resultados"
       }
     ],
-    "new_candidates": 60,
+    "new_candidates": 61,
     "published_items": 80
   }
 }
