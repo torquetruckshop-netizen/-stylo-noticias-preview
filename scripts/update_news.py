@@ -12,13 +12,12 @@ from pathlib import Path
 import feedparser
 
 QUERIES = [
-    ("Argentina", "transporte cargas camiones Argentina when:14d"),
-    ("Camiones", "camiones pesados Argentina OR Brasil OR Chile OR Uruguay OR Paraguay when:14d"),
-    ("Remolques", "remolques semirremolques Argentina OR Brasil OR Uruguay when:30d"),
-    ("Logística", "logística transporte cargas Argentina Sudamérica when:14d"),
-    ("Economía", "transporte cargas combustible tarifas crédito tasas Argentina when:14d"),
-    ("Rutas y normativa", "rutas transporte cargas normativa Argentina bitrenes pesos dimensiones when:30d"),
-    ("Región", "transporte cargas Sudamérica fronteras puertos corredores Mercosur when:14d"),
+    ("Ruta, salud y seguridad", "camioneros salud sedentarismo estrés sobrepeso alimentación descanso conducción accidentes paradores Argentina when:45d"),
+    ("Camiones y mercado", "camiones Argentina patentamientos ventas lanzamientos camiones chinos crédito financiación when:45d"),
+    ("Logística y puertos", "logística última milla puertos descarga Vaca Muerta transporte cargas Argentina when:45d"),
+    ("Técnica y equipos", "neumáticos repuestos remolques semirremolques tecnología transporte Argentina Sudamérica when:45d"),
+    ("Economía y costos", "FADEEAC índice costos combustible tarifas tasas crédito camiones Argentina when:45d"),
+    ("Región", "transporte cargas Sudamérica fronteras puertos corredores Mercosur when:30d"),
 ]
 
 BLOCKED_TERMS = ["europa", "europeo", "alemania", "francia", "reino unido", "españa", "italia"]
@@ -30,8 +29,19 @@ REGIONAL_TERMS = [
 TRUSTED_SOURCE_TERMS = [
     "argentina.gob.ar", "boletín oficial", "boletin oficial", "fadeeac", "arlog",
     "infobae", "transportemundial", "supertruck", "diario río negro", "diario rio negro",
+    "who.int", "msal.gob.ar", "vialidad nacional", "acara",
 ]
+LEGACY_CATEGORY_MAP = {
+    "Argentina": "Región",
+    "Camiones": "Camiones y mercado",
+    "Remolques": "Técnica y equipos",
+    "Logística": "Logística y puertos",
+    "Economía": "Economía y costos",
+    "Rutas y normativa": "Ruta, salud y seguridad",
+    "Región": "Región",
+}
 MAX_AGE_DAYS = 45
+MAX_ITEMS_PER_CATEGORY = 14
 MIN_SUCCESSFUL_QUERIES = 3
 MIN_NEW_ITEMS = 8
 MAX_ITEMS = 80
@@ -181,18 +191,22 @@ def load_previous_items(cutoff):
 
 
 def headline_signature(title):
-    stopwords = {"para", "como", "este", "esta", "desde", "sobre", "entre", "tras", "hacia", "todos"}
+    stopwords = {
+        "para", "como", "este", "esta", "desde", "sobre", "entre", "tras", "hacia",
+        "todos", "todas", "nuevo", "nueva", "nuevos", "nuevas", "argentina",
+        "camion", "camiones", "transporte", "cargas",
+    }
     return {word for word in normalize(title).split() if len(word) > 3 and word not in stopwords}
 
 
 def near_duplicate(title, accepted_titles):
     words = headline_signature(title)
-    if len(words) < 4:
+    if len(words) < 3:
         return False
     for existing in accepted_titles:
         shared = len(words & existing)
         smaller = min(len(words), len(existing))
-        if smaller >= 4 and shared / smaller >= 0.72:
+        if smaller >= 3 and shared >= 3 and shared / smaller >= 0.6:
             return True
     return False
 
@@ -242,6 +256,8 @@ def main():
         sys.exit(1)
 
     previous_items = load_previous_items(cutoff)
+    for item in previous_items:
+        item["category"] = LEGACY_CATEGORY_MAP.get(item["category"], item["category"])
     candidates = new_items + [{**item, "_score": 0} for item in previous_items]
     candidates.sort(
         key=lambda item: (
@@ -251,18 +267,27 @@ def main():
         reverse=True,
     )
 
-    accepted = []
+    accepted_by_category = {category: [] for category, _query in QUERIES}
     accepted_ids = set()
     accepted_titles = []
     for item in candidates:
+        bucket = accepted_by_category.get(item["category"])
+        if bucket is None or len(bucket) >= MAX_ITEMS_PER_CATEGORY:
+            continue
         if item["id"] in accepted_ids or near_duplicate(item["title"], accepted_titles):
             continue
         accepted_ids.add(item["id"])
         accepted_titles.append(headline_signature(item["title"]))
         item.pop("_score", None)
-        accepted.append(item)
-        if len(accepted) >= MAX_ITEMS:
-            break
+        bucket.append(item)
+
+    accepted = []
+    while any(accepted_by_category.values()) and len(accepted) < MAX_ITEMS:
+        for category, _query in QUERIES:
+            if accepted_by_category[category]:
+                accepted.append(accepted_by_category[category].pop(0))
+            if len(accepted) >= MAX_ITEMS:
+                break
 
     if len(accepted) < MIN_NEW_ITEMS:
         print("Actualización rechazada: el resultado validado es insuficiente.", file=sys.stderr)
