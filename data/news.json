@@ -1,738 +1,733 @@
 {
-  "updated_at": "2026-08-31T08:24:21.731503+00:00",
+  "updated_at": "2026-08-31T10:29:32.005651+00:00",
   "items": [
     {
-      "id": "2bc39f49146c45",
-      "title": "Habilitan el Cristo Redentor para camiones desde este lunes",
-      "summary": "Habilitan el Cristo Redentor para camiones desde este lunes NoticiasNQN",
-      "category": "Argentina",
-      "source": "NoticiasNQN",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2lqWW15WlRnb3lDNm1WRGdoVzVtRUZnRVNabVktSmpOb25MdURwU3h0UUxqLTdMdno3OHc1YmZiNHpmaWMtUWcyNkZGSFVNc2JQdlpmd3RRbm5tN2NxLXVRY2dRVTZOWllydW1JLWRmRVhuM0FnUHpkU29wUG8xWlZxYlYtWEpaWmJPVG9Cdm5mR25hMmJXeExySjJBd081V085WmprNlZLQU5hOGJZdktRRHlyWnhMcU5xenp30gG-AUFVX3lxTFBnaWpZbXlaVGdveUM2bVZEZ2hXNW1FRmdFU1ptWS1Kak5vbkx1RHBTeHRRTGotN0x2ejc4dzViZmI0emZpYy1RZzI2RkZIVU1zYlB2WmZ3dFFubm03Y3EtdVFjZ1FVNk5aWXJ1bUktZGZFWG4zQWdQemRTb3BQbzFaVnFiVi1YSlpaYk9Ub0J2bmZHbmEyYld4THJKMkF3TzVXTzlaams2VktBTmE4Yll2S1FEeXJaeExxTnF6enc?oc=5",
-      "published_at": "2026-08-30T14:27:24+00:00"
-    },
-    {
-      "id": "862d36f7ba7627",
-      "title": "Paraguay apuesta a duplicar el movimiento de carga por la Hidrovía y convertirse en un hub regional",
-      "summary": "Paraguay apuesta a duplicar el movimiento de carga por la Hidrovía y convertirse en un hub regional El Nacional - El diario de los lectores influyentes",
-      "category": "Logística",
-      "source": "El Nacional - El diario de los lectores influyentes",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZEhLelRVRXlxOFdHVjBYX2t4eXdHWXpkSlpTZ1hOWGQ0enY3WllhTmN3cGFsTDdHdWdSTTVHMjNzWjlIYnJ0VUxzOFRDa1NQNFBST21iVGQwck15X1F4cVMzOExtbVFYeVp0QkxiN2c2eEVfcGtSc3ZMZW5rTzhJeHNaSUdrX3J5cXZIRXhjcXFVWWpYWjhPb2gxNzNLWmRtbUhnbGpQZnhuRHh6YWV1OEF5MFBVazBKYy1N0gHAAUFVX3lxTFBadDM1OE1aQ0NYajJ3OWNsT0ZteGlOeHZGbmxlVkRIUmtvb0ozWmdqZnNuX3p6N2pmS1RiM2hjOHlKSFQtVGhrb3BzWnVhN0ktMmt5Sk5aLWdCUk1DaFJEQ1NoNTJlSnB1bGFUcEVEdVBRMXZmVENpdXlZR0UzdnFUdkN5THBKQVRZSGdVLW5LWkpmWjBBWnU0TkdWNUVSRFg5THFmUE9fbXpTMUljWGZrUTFKR0pzS0xTWjZIdFF4bQ?oc=5",
-      "published_at": "2026-08-30T11:00:00+00:00"
-    },
-    {
-      "id": "57442d0eee07c8",
-      "title": "Reabren el paso Cristo Redentor desde el lunes, pero únicamente para el transporte de carga",
-      "summary": "Reabren el paso Cristo Redentor desde el lunes, pero únicamente para el transporte de carga MendoVoz",
-      "category": "Camiones",
-      "source": "MendoVoz",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVUJjS0RCZHFCRUZvLUtZVU9TTmZ0UVBIeTRwcXluZGtkVGg0S0x4STUtbEJ0ajE1YkxfOU9sRWVoLUU3WnkwcjJwbGs2WHRGekt2b205RV9RN1FxRkNSdnBrOVZMYjJ4cFQ5SkV5b3ZFdl9PdmNiTVZrZkpxRE5QRFFiX3dJVUM5eGNad2ZPV0NZTWZNMVdKOEVkN2lPUW5mMGVsOExlSjgyVENSaVlyME1iQ1hKMmFPSnJLckVnSnk1dWo3MGtqaUVtUnpjVlVxeFYzRUtYVFRhQzhkQV84QVZVdlZNV0VmTHhpVGFnQ3c1NzA?oc=5",
-      "published_at": "2026-08-29T19:30:00+00:00"
-    },
-    {
-      "id": "3d7415201a946a",
-      "title": "Tras el temporal, el Paso Cristo Redentor reabre el próximo lunes solo para transporte de cargas",
-      "summary": "Tras el temporal, el Paso Cristo Redentor reabre el próximo lunes solo para transporte de cargas Los Andes",
-      "category": "Argentina",
-      "source": "Los Andes",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVnd0ekFPaGpOZzJYczVleEVLemZqVWZwNjNibzNpNktQR0M4VUVKcTh5SFVhZjRUcVRmeDJqTldSMzA2TFV0amhGTEJMVk5kc3ZrZDFFZjlmTU1yaG1rLUxib1pmcUNPNEt2dGs5cGFreElyaXdJVEo0Uy13Z0xWYk1nWU9PX3RMdXBZb3hoV1ZyZnZfdG02cVNyVmJva2s1SXlkczV2NkF6ektfbWlwNVpfZ25mMU0wdHYzYlFIeWpSOHVSeWRZSnZjZnE4QQ?oc=5",
-      "published_at": "2026-08-29T18:41:00+00:00"
+      "id": "9993d9e330ccb7",
+      "title": "Torres comparó a la actual conducción de Camioneros de Tucumán con la gestión de Javier Milei: “Hablan de superávit, pero el trabajo desapareció”",
+      "summary": "Torres comparó a la actual conducción de Camioneros de Tucumán con la gestión de Javier Milei: “Hablan de superávit, pero el trabajo desapareció” Tendencia de Noticias",
+      "category": "Ruta, salud y seguridad",
+      "source": "Tendencia de Noticias",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPSmszRzFzYTFmTElHdVJIX1hMakt6cEJqbzlPc1hnczdhZlpQelNnd25TUFRBeklCYkgwcElrczFwUHMyQWhTYmZPNEt3MnJIUmIwcEFyYm5oWDhGUHUyTmlicWd6QVRqdmlQNFpyU2xlYUNYdTBOVks1cnh5OUYzR3BPT1lWT1hLSGQwNV9OMHZ3TDB3a3pwVWkzZUpkRVdIbkFobjNjRk9XQWpzXzBSZTk3MGRDN2g2TmotemlXeGtHZGtsUk1wdi0xMGRNajA0elhQMlJva1gtU09ua2pscWdDc0RJQzVVS3djbTRsMHNNX2IzYURid3BLMHprVUlGWnJVNjluZ0FtRFNaMWhSa0dWbw?oc=5",
+      "published_at": "2026-08-31T10:13:00+00:00"
     },
     {
       "id": "e3f32544138a05",
       "title": "JAC CAMIONES: largo plazo que incluye ensamble local",
       "summary": "JAC CAMIONES: largo plazo que incluye ensamble local Visión Auto",
-      "category": "Camiones",
+      "category": "Camiones y mercado",
       "source": "Visión Auto",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3BLXzZEczIzMC1lZi16SWtkblgzX0VGNGVvVkFvbVJVQXRXMXV0T3ZuNk1sWFVmVGQ3OTlMbGdpeXBLelMzeWNVcV90Z2duZTdaMWROTDBtTDBtMFpGeGNPZjFzbEtTbXg1LTRZc2JvMGNTaGJybWUtbzdBX3F5WFBwMVU?oc=5",
       "published_at": "2026-08-29T16:38:01+00:00"
     },
     {
-      "id": "4f08abf5af3ce8",
-      "title": "Paso de Jama: este viernes cruzarán 150 camiones desde Chile hacia la Argentina",
-      "summary": "Paso de Jama: este viernes cruzarán 150 camiones desde Chile hacia la Argentina todojujuy.com",
-      "category": "Camiones",
-      "source": "todojujuy.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaEFCNFowRmZfaFNVcHhnbUwtZFVQZl9NM19tR0Fjamp6TTRETHNNY0N0bWJtUTVkQUFtUkdRcV9nVUhINndxQXdHaF9iMC1PRWJuQ0tqU2t6UVB3ZnFLVWxnODFReDhPcEJyRnhkWW9jWXl6MWNmZVdlbUNZVFR2bmRJOXdLa1VONDhhcmRGZzNzM2gyaTgtblAwUno3d9IBowFBVV95cUxPTFhZV3ZUX29MSVFCYkJqUTZBd0t2T3J1RVNLYVRETWdJcEVDQjBXY19KWDBROXNYOHBYYWkydm5hb0hlQ1ZHQXNabmpYdHpDNXpvYTd5VWlnT3ozbXdRek5KM2RQSmNGWFJyUWVzRGlBWVh2VjFvYXk2ZWtoTTY0cjRMaF9teUtSY19jUWIxNy1vcVEwQ0FiQXY2MUd2M01naW44?oc=5",
-      "published_at": "2026-08-28T14:15:00+00:00"
+      "id": "862d36f7ba7627",
+      "title": "Paraguay apuesta a duplicar el movimiento de carga por la Hidrovía y convertirse en un hub regional",
+      "summary": "Paraguay apuesta a duplicar el movimiento de carga por la Hidrovía y convertirse en un hub regional El Nacional - El diario de los lectores influyentes",
+      "category": "Logística y puertos",
+      "source": "El Nacional - El diario de los lectores influyentes",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZEhLelRVRXlxOFdHVjBYX2t4eXdHWXpkSlpTZ1hOWGQ0enY3WllhTmN3cGFsTDdHdWdSTTVHMjNzWjlIYnJ0VUxzOFRDa1NQNFBST21iVGQwck15X1F4cVMzOExtbVFYeVp0QkxiN2c2eEVfcGtSc3ZMZW5rTzhJeHNaSUdrX3J5cXZIRXhjcXFVWWpYWjhPb2gxNzNLWmRtbUhnbGpQZnhuRHh6YWV1OEF5MFBVazBKYy1N0gHAAUFVX3lxTFBadDM1OE1aQ0NYajJ3OWNsT0ZteGlOeHZGbmxlVkRIUmtvb0ozWmdqZnNuX3p6N2pmS1RiM2hjOHlKSFQtVGhrb3BzWnVhN0ktMmt5Sk5aLWdCUk1DaFJEQ1NoNTJlSnB1bGFUcEVEdVBRMXZmVENpdXlZR0UzdnFUdkN5THBKQVRZSGdVLW5LWkpmWjBBWnU0TkdWNUVSRFg5THFmUE9fbXpTMUljWGZrUTFKR0pzS0xTWjZIdFF4bQ?oc=5",
+      "published_at": "2026-08-30T11:00:00+00:00"
     },
     {
       "id": "e0e0f3558fb5a8",
       "title": "AXA Truck & Trailer Uptime Solutions refuerza su apuesta por maximizar el tiempo de actividad del transporte por carretera",
       "summary": "AXA Truck & Trailer Uptime Solutions refuerza su apuesta por maximizar el tiempo de actividad del transporte por carretera Camión Actualidad",
-      "category": "Remolques",
+      "category": "Técnica y equipos",
       "source": "Camión Actualidad",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSWd5ckpLTWo4SnRmWjBBTEtWRGhJVVctQXlBYm91ZElhSXJUeVU2bHNJSFJBdE83UDN2TTE3NG5aS1k0cThsNEd2NTZtZ3NfSGVNdHh0U05yY3NYVlA2MmY4V0Fsc3ZmdktnOWdsc1JURi11cFJDaDk3MFhPazA5WXBSM1NRS0NfVzJGNjcyaFJMSHpfcTcxaWFkTHowLUZFemNmbmRvX1hQZXZ4dTJka0VSQWNNSGlZaEE?oc=5",
       "published_at": "2026-08-27T22:22:18+00:00"
     },
     {
-      "id": "82d92502d317b2",
-      "title": "Paso de Jama con apertura restringida para transporte de carga: cómo será el cruce de camiones de Argentina a Chile",
-      "summary": "Paso de Jama con apertura restringida para transporte de carga: cómo será el cruce de camiones de Argentina a Chile todojujuy.com",
-      "category": "Argentina",
-      "source": "todojujuy.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYmNlY0p0Z2FfV3ppMjN2UWhLd1JnOTl5WVIzalZ4TGczeVhfYlVCQ1VlWDUtNDVKcXVRZG1JSllSa1RXTE95ZTF5Slo0YUF5WmpkX3luZ1FDR1o2SVZIX1hsb1dNUEdCSzV4WVlhSEJOV3VLQWc2LVd3XzlfQkRWaHYtWXhQUlhfYUlzcHphV180VUoyX1NNUFNhdk0wbDFJZ3c0MTVMd2x3c1BqLWfSAbMBQVVfeXFMUHRzTmJ6VFBfNzd1cDBsd19NbEoyWGpDSWhzVDRiM2FfVjRnLS1KOUZoMG5zeGhqWTREbjVCQTBFWGdvSWtaRy03T2NkVEgxN2loNHR0cUUxdGJoZUtYWGRReWFMQTlaREo3OVRxYm1WaVczc1NxV0FJeVZJdlVWa0VzdmlKVGxMZ0V6ZEF1T05tWmQ2WXpWSk41R3p4SUlmbkxEZDZBRWtDSmtJZHA0eFgxdlE?oc=5",
-      "published_at": "2026-08-27T12:47:00+00:00"
+      "id": "ab95067894bead",
+      "title": "Hablemos de Logística 923 con Fernando Lía, Coordinador de Transporte Sustentable del Proyecto ProCLIM-AR - UNSAM",
+      "summary": "Hablemos de Logística 923 con Fernando Lía, Coordinador de Transporte Sustentable del Proyecto ProCLIM-AR - UNSAM Webpicking",
+      "category": "Economía y costos",
+      "source": "Webpicking",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU1VYNGpURTNKV1lhYjQ5MkJpdnltaVVOcWQwRHFjV1pWUDNoaTVubzJ0OTQxSDRpNUJOMXNIaGE3LUtnR1hETGhXYTVuVnFfZURjOE1oLUd1X3FQWXROaW5RaWF2S1BWd1A1VTRyNFJESTdia3hBYnFIZnNnYzFPUTJ3eHh5bzZrZGd6SXhJZFl1UGZTQ1hMR3U0VDBmRkNLRWJCdUI4STZCQVJ2X0lyS2tTNjlWSDdSTHhwZWNXbXZDcElSSzdUN25ldGxZdVk?oc=5",
+      "published_at": "2026-08-28T20:46:09+00:00"
     },
     {
-      "id": "028ebde3358654",
-      "title": "Paso de Jama: así será el esquema de circulación de camiones entre Argentina y Chile durante los próximos días",
-      "summary": "Paso de Jama: así será el esquema de circulación de camiones entre Argentina y Chile durante los próximos días Somos Jujuy",
-      "category": "Argentina",
-      "source": "Somos Jujuy",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmVOVVpXc1Z4akRnSjRpbEkyT2d5TkRVMUxrUGtRcXFXS1ZESnBacXdVZ1E5NFNzWE53VDdHTDlBMEJfTjR1eDFKVGYwSkk1YV9XMUNzWlg3aS01cklIZ1dJNVo5QmFVS01aRTZIeklBeUpZc05jLVlPbEVaaVNEczBvMFVILUlGbHdnaGlNdWhlR2xVVDdCUWhMakZPamVwRTJCYm16bnZLYVIwVmVTS1hFWjdnVzFLUzYxQjVxdG9mbDk5eDJJUtIBzgFBVV95cUxQaU1yeFJ6alNJa2lLNGc5UVctdjBPVldFdW9DRVA3QTBBTFc4MkZjaGVpY3ZPeUtLdWN4Z1VVOXVka1JmamlqcHpoWUw1LXRDUHRnS21JVllYRjV3SkY1ZEhWT0xHX01fYUpUZ2pzSTFMVWxIREZROXYzWkk4SF9FVTF1elRPVk9faVJxbVhONlVGZnFkTkhMZmpDY1ZnNTRwZllxejA4M1dvR3phbDktV2FBMFV5cFlXZG1qUXBjdU5SRG95eERsa0p4eXZodw?oc=5",
-      "published_at": "2026-08-27T10:00:00+00:00"
+      "id": "2bc39f49146c45",
+      "title": "Habilitan el Cristo Redentor para camiones desde este lunes",
+      "summary": "Habilitan el Cristo Redentor para camiones desde este lunes NoticiasNQN",
+      "category": "Región",
+      "source": "NoticiasNQN",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2lqWW15WlRnb3lDNm1WRGdoVzVtRUZnRVNabVktSmpOb25MdURwU3h0UUxqLTdMdno3OHc1YmZiNHpmaWMtUWcyNkZGSFVNc2JQdlpmd3RRbm5tN2NxLXVRY2dRVTZOWllydW1JLWRmRVhuM0FnUHpkU29wUG8xWlZxYlYtWEpaWmJPVG9Cdm5mR25hMmJXeExySjJBd081V085WmprNlZLQU5hOGJZdktRRHlyWnhMcU5xenp30gG-AUFVX3lxTFBnaWpZbXlaVGdveUM2bVZEZ2hXNW1FRmdFU1ptWS1Kak5vbkx1RHBTeHRRTGotN0x2ejc4dzViZmI0emZpYy1RZzI2RkZIVU1zYlB2WmZ3dFFubm03Y3EtdVFjZ1FVNk5aWXJ1bUktZGZFWG4zQWdQemRTb3BQbzFaVnFiVi1YSlpaYk9Ub0J2bmZHbmEyYld4THJKMkF3TzVXTzlaams2VktBTmE4Yll2S1FEeXJaeExxTnF6enc?oc=5",
+      "published_at": "2026-08-30T14:27:24+00:00"
+    },
+    {
+      "id": "64acf5bd173a91",
+      "title": "🔴🔵Un nuevo accidente de tránsito se registró en la avenida Revolución, en la vía Pasamayito, distrito de Comas, luego de que un camión cisterna que transportaba petróleo impactara contra una cúster y un taxi a las 4:00 p.m del 29 de agosto.",
+      "summary": "🔴🔵Un nuevo accidente de tránsito se registró en la avenida Revolución, en la vía Pasamayito, distrito de Comas, luego de que un camión cisterna que transportaba petróleo impactara contra una cúster y un taxi a las 4:00 p.m del 29 de agosto. facebook.com",
+      "category": "Ruta, salud y seguridad",
+      "source": "facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQVctN09NQjhDU3RWeVBaTllXOF9vd242VkRBbVhPX2ExYlMtZGR0QVJRejRxbDlEamJ5ZTkzdzFULTZEMElLZzQteW9UeGJnM3lMVG12aXFnWWp4MDY3UzJBS3hsZHcwYkEzbDhJZjl0bFRKOE4zeXYzWG92OVFPZmNvLV9hSjM5cnJCTl8zTWhVcmRMc3RDckp1Ynk3WlJYdjMwNVEyQU1Ba1BmYVlSTi1qbk1rTWFHRU9GTFBlajlGUF9zR290U1E0UjhEU25XaU0wOEJodnZCb1dhQjA3X2lCemJuUDFCNDc4dFlLSXY3T2RZSzF3bA?oc=5",
+      "published_at": "2026-08-30T08:30:05+00:00"
+    },
+    {
+      "id": "4f08abf5af3ce8",
+      "title": "Paso de Jama: este viernes cruzarán 150 camiones desde Chile hacia la Argentina",
+      "summary": "Paso de Jama: este viernes cruzarán 150 camiones desde Chile hacia la Argentina todojujuy.com",
+      "category": "Camiones y mercado",
+      "source": "todojujuy.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaEFCNFowRmZfaFNVcHhnbUwtZFVQZl9NM19tR0Fjamp6TTRETHNNY0N0bWJtUTVkQUFtUkdRcV9nVUhINndxQXdHaF9iMC1PRWJuQ0tqU2t6UVB3ZnFLVWxnODFReDhPcEJyRnhkWW9jWXl6MWNmZVdlbUNZVFR2bmRJOXdLa1VONDhhcmRGZzNzM2gyaTgtblAwUno3d9IBowFBVV95cUxPTFhZV3ZUX29MSVFCYkJqUTZBd0t2T3J1RVNLYVRETWdJcEVDQjBXY19KWDBROXNYOHBYYWkydm5hb0hlQ1ZHQXNabmpYdHpDNXpvYTd5VWlnT3ozbXdRek5KM2RQSmNGWFJyUWVzRGlBWVh2VjFvYXk2ZWtoTTY0cjRMaF9teUtSY19jUWIxNy1vcVEwQ0FiQXY2MUd2M01naW44?oc=5",
+      "published_at": "2026-08-28T14:15:00+00:00"
+    },
+    {
+      "id": "1c11408a228bc2",
+      "title": "El club del millón: las claves urgentes y por qué la Argentina va camino a sumarse a este selecto grupo de países",
+      "summary": "El club del millón: las claves urgentes y por qué la Argentina va camino a sumarse a este selecto grupo de países Shale24",
+      "category": "Logística y puertos",
+      "source": "Shale24",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRjR6b3FYVTdsNlJEaTVrb19EQUFLQ05ROEhLY1pRYlN1Mk9ITVYwZEt5SDNDMTNGbVZHTmNlS2swYk5YcDFNUmQyUjJkVlVWVmJ1WFNXT190SmUzUG1tVENKdUdnOXpRZ3IyT2t3WE5qM245ekRaa0xVRnFvSzN2WEhTLU9yeG9ZZExRWC13dm5lSVItZHh6WUkzdE5JNEg5MWY0WWNNLUhDR3NVYjBaTXVzRjRRV0Rx0gG-AUFVX3lxTE9ORGZzY1hkczhGOU91REdlcndmQzlCVVBsSmJnUnR4UmtqWndqWkxNRk9ZZU5OR2JwVW9zTmdXR2x6U3M4TjQ2TW1nckRWQUhTWUdmaW5DYmRzOTFNYUNIQzNySnIwaG1oZUVJVXQtLXRXckZ2OXNZRUVYSW8zaEloTUZnMlBnTzQ5akt2ZEpBeUpuczFYRjRZRDJ0MXRValV3cDFWaVRIVU1ZX0l2VUQtY29KY2U5d2tZcXdzbGc?oc=5",
+      "published_at": "2026-08-25T11:44:00+00:00"
+    },
+    {
+      "id": "1930136fcd0c9f",
+      "title": "BYD marca un nuevo hito en Argentina: alcanza las 10.000 unidades vendidas",
+      "summary": "BYD marca un nuevo hito en Argentina: alcanza las 10.000 unidades vendidas BYD",
+      "category": "Técnica y equipos",
+      "source": "BYD",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQlRnNDBfdVhXUzNINFdNOUoxdkI2cGREdFVIc1c0WmdhR1kyWFExclZtMWRvaUdVS3VwS3dHb3NEbVR4TEhOSjExdmlsUk1lTkQ2M1lkWjVnNEZWVzlvRFJDeXh4ZlcxWW1Xck5qRHZFRlhudGNrMzdJOEhBVjFjVWFiWjNjamxqU19IOGIwOHp3TlNadUt0bXRtcThiUU0yVHp6OWtSeVhMZw?oc=5",
+      "published_at": "2026-08-27T00:06:09+00:00"
+    },
+    {
+      "id": "30997bfdcda2a3",
+      "title": "Brasil establece una política permanente de tarifas mínimas para el transporte de cargas",
+      "summary": "Brasil establece una política permanente de tarifas mínimas para el transporte de cargas Primera Edición",
+      "category": "Economía y costos",
+      "source": "Primera Edición",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSkc4YkFxSGgtX3dmZUdCRHluUUhHWVk0XzFMREVvTTRNZ1NYV2F4RmJKcS01Ym1uR3UtcEg4bklQdEVYNHRvWVFubS1SOGdxYkxJaWJwR0w4WnhxSHVUVWtNZHFxak9wTVhGVDZ4RURqdUpOb01RTGN5UDdzQWlGaWxzR2NMR2dnZHNvMHZ0UDBGQUVXVEZIQjN1eDVWQnRnRWVSSXczazEta2trS0Y0aVhjZlQ5R0t5RkdIQVpCZnZGazAySF9HZ1ZuTHp6RTBINjJ5Vg?oc=5",
+      "published_at": "2026-08-25T16:12:11+00:00"
+    },
+    {
+      "id": "882413c2c4ad20",
+      "title": "Brasil: Santa Catarina prepara puentes y carreteras ante el riesgo de un nuevo fenómeno de El Niño",
+      "summary": "Brasil: Santa Catarina prepara puentes y carreteras ante el riesgo de un nuevo fenómeno de El Niño Prensa Mercosur",
+      "category": "Región",
+      "source": "Prensa Mercosur",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeXB3WHNPSmlHdFJ5dnVNWU9STmgxaGc3TW5uQ3VFQnpoNFlvQVhXUkh6SXBkYWRBSWQ3UEQ3TU1FMV8tLWVKSWlXZjlLRzdwVnV1Y2gwRlNxYU0tdEJNNEF5S2dJSjFCSzNwMGVLMlpkRHNUV3BiQURGZ0Fjb0JLNHk4LU9ZRVNsekROMGVVYng4TFZ0djA3bFhFTm5fWnNwM05fOWs4VjdCQ2h0enRxUFRueF9wWWxETUdHdTRjRHhYeUZ4bm5RQkZzbjNZZnJLS1E?oc=5",
+      "published_at": "2026-08-30T12:07:38+00:00"
+    },
+    {
+      "id": "5854400a319a54",
+      "title": "Salud Municipal aplicó más de 12 mil vacunas y fortalece las estrategias en territorio",
+      "summary": "Salud Municipal aplicó más de 12 mil vacunas y fortalece las estrategias en territorio Radio de Camioneros",
+      "category": "Ruta, salud y seguridad",
+      "source": "Radio de Camioneros",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2FtajZYbXJ0ZUpFVlNOLThKdEl0UE4wSVVUUjFfZV9rYjMxdUFzWU9Yc3h3Nnp5QklNTlRfbkUzWURHYllhMkdRaDdOYlkxcDVzN05TdXZaVkhaQ2UwbXZqQ3NaZmR0bmRRNUJjSmUwd2ZOVlZZbG9CSnBsc3oxTXJseDNiZ1lQcVMtREMtRjFfeG9HVmxuWll5WmhhOFJVQUFzMmlJSWktV2F6SThIU1VlalhESWpNdFRZbQ?oc=5",
+      "published_at": "2026-08-28T23:56:39+00:00"
     },
     {
       "id": "99d095d2c5a58f",
       "title": "Pino Hachado: 100 camiones esperan y crece la expectativa por la reapertura",
       "summary": "Pino Hachado: 100 camiones esperan y crece la expectativa por la reapertura MejorInformado.com",
-      "category": "Camiones",
+      "category": "Camiones y mercado",
       "source": "MejorInformado.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVmQxbWlON1AzTHl6RTd6bThqWVpJTXM2czRmYzMxczZ0ZlJPTk9kQWNTNFcyNGM2cHBaWWY2S0QwWHJZZUN4SG95MGpGMm9kcEI5ajNjZ2xDdDdJVzhOUERSakNia3hqU1JRdEdVQlR1UkphbTZ4RWtRNTMxaTM4R2RNRnJ6cEVJNlVNMld4V0VBTzQwNW5ROGs5MFAxTkY2R3ZNRHhpcHNKbnpIMkZQeGJRZWFINFBSTmtnX3EwOVdZQ3RoZGJXQ3c3dnQtdk5uaWw5Yw?oc=5",
       "published_at": "2026-08-26T21:33:28+00:00"
     },
     {
-      "id": "71f81b1604170f",
-      "title": "Paso de Jama: este jueves comenzarán a cruzar camiones desde Jujuy hacia Chile",
-      "summary": "Paso de Jama: este jueves comenzarán a cruzar camiones desde Jujuy hacia Chile todojujuy.com",
-      "category": "Camiones",
-      "source": "todojujuy.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORk1JYk0zNmNHMTgtU3phWHNhTEYtcTQ2UF9fYjk3UlFzUnltNjJFWmlTM2FueHB5cU8xQW1WMlUtcFNRWFJCZ0FFb2xMSFp6MnNwNHVoMmZGRE5LV0JFOEh1dEpqVVhSWnJ1c2ZGMGhoc0VVbTJ5Nk5INFpFXzl4WGxXMURlVjhiU2lNZEdRS2hzb2hac1VxOUpR0gGfAUFVX3lxTE1tSXltNEZsSlM1endoR0tCMUZNSjkxeDVRX1pvcktHcXNINkdobzFhbWxEWm5ZOE9RSE5Qby1UbW9WTlhDRVFobHZoRVBlaWlvN2NNQnY1UkNSb3ppUndKbVdGMDJmcDhodEJwamNUSkxoM1dFRVpCYWw3Mlh2TjdwWHVpRG1OUktkRnRuT2dwdW1hWldYNURlc2Vfam5OQQ?oc=5",
-      "published_at": "2026-08-26T19:36:00+00:00"
+      "id": "b515fce57e0a94",
+      "title": "Más de 4.200 camiones ingresaron a los puertos del Gran Rosario impulsados por el maíz",
+      "summary": "Más de 4.200 camiones ingresaron a los puertos del Gran Rosario impulsados por el maíz Data Portuaria",
+      "category": "Logística y puertos",
+      "source": "Data Portuaria",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY1NaYmdQSnN5Wk5FVzJFQXRuazZnRkU5NEtWV1JzdjJkdjhBOUI3NGNaQ3NiWTZHS0JGT2dXVVRLNFMyODhCUGZhUGNBSk1ObGUwd0tSRnVWdHJGRUlEMjlCbEpBWTVXdm1NS0owSGFWaUVIQkNXQmp1eUxIZWsyYXFPcjRvQjJ4cEdkTkxRaUVaNXlXVklncHhIUGpTeWRUZzgwSjhLSnpGcFpKcldpZXQweXdFRTB1UExzbTBXM19uMWVLakZXNGVNY0hBRWk4?oc=5",
+      "published_at": "2026-08-25T07:00:00+00:00"
     },
     {
-      "id": "93afe19d4a7aa4",
-      "title": "Paso de Jama: habilitan de forma restringida el ingreso de camiones de carga desde Chile",
-      "summary": "Paso de Jama: habilitan de forma restringida el ingreso de camiones de carga desde Chile Somos Jujuy",
-      "category": "Argentina",
-      "source": "Somos Jujuy",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdENKWGJLT3NvZDFoSU1hM2l2d2tmWXV1cFdQT2JHNDRYenhRTWRpVjVIOFJuaV9UT3FHV0NjQlZyRlowMkFubjZaQ0FaRFY0TUc5S2RmdVg3aDhiYk04bGo5RC1ZMHFUM0ZaRmt0UVJHYkJjcUk4cUNpZkRkZk44RU1hLVZQaFZhQl9EWDBXdVZzWGxBN0xuZHl6RVhpVE9FMmtSYk1MN21JNndldURv0gG0AUFVX3lxTFB5UGJaYTNWZS1fdUxjaDM0NnYzc1RkZjVhenlMRW5MZG1Jbk14bWdrSlJvZGlfT3JGaHZIMTQ2VFVnbThZMEtWd1VVSG15ajFwNk5LNTdJUmE4cjIxSXE0Q2Q1MlhDZVVMX2NiYjN1UzI0S0Z4NGZQRHdfZTlKVDFudFA2NDNRRS1YdlFBVUd0REhyY3ZGZzhjTGFyZXRKMzM0ZURjSGRMcncyd1lFemp2cFExdQ?oc=5",
-      "published_at": "2026-08-26T18:23:00+00:00"
+      "id": "485462be806b74",
+      "title": "Movilización a Plaza de Mayo bajo la consigna \"FATE no se cierra\"",
+      "summary": "Movilización a Plaza de Mayo bajo la consigna \"FATE no se cierra\" argentina.indymedia.org",
+      "category": "Técnica y equipos",
+      "source": "argentina.indymedia.org",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT3FkTmw0XzB5QmVOWnlqdE9ROGNkZDktNDI2czQzMjAybXJzYmJqaEZwLVNUUDZJUnA2VDdNbV9XcE02dVNuR3pkYXJRRDRRQzhEcFZBZ01KX01zWnM4Q0l1YVhXVUhrNkZDdG1sdHBnazJCWUFoMmlhcmQyNjN1RGdtSWFGUG5SZFBpdkRMYVJQU3R3YktyLVdZbmRKZ2hIc0liVTI0MmUtMGs?oc=5",
+      "published_at": "2026-08-25T16:44:19+00:00"
     },
     {
-      "id": "7342dc7802fa93",
-      "title": "Dongfeng amplía su oferta en Argentina con el nuevo Captain D 1830 Tractor",
-      "summary": "Dongfeng amplía su oferta en Argentina con el nuevo Captain D 1830 Tractor autotest.com.ar",
-      "category": "Camiones",
-      "source": "autotest.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDlfQmQwYkxVcTN0cVBmZ3MtZnliQUhsckk3eUl3all6WmMtVmVLM0dERHFxZzdFaEhYZWtfemgxc25GNU1RdXhnaWtYR1pQZzBqMjR0VVMzZjRLZUpVVElGUWdWWmhyRGtROFlDTTNuTFdEdFhoc0cxZ3JSYXRreXNQWlA3dF9pTzY5b1F2Q3FRZUhReG1zS2ZEbzVNN1dmS0ZlX0d4OERmOV9obUFBYw?oc=5",
-      "published_at": "2026-08-26T11:19:25+00:00"
+      "id": "53bcb3fecae7fb",
+      "title": "Puma Energy lanzó Puma Flota para gestionar el combustible del transporte",
+      "summary": "Puma Energy lanzó Puma Flota para gestionar el combustible del transporte automundo.com.ar",
+      "category": "Economía y costos",
+      "source": "automundo.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQTHlPOVEzR3VUSnNIeEJyQ1JtY09VWEpsYlhRYmpFMU0tZ0t4eGhhWnRFZGNLVVRHclN3SEZSUTE2VUZBX1h3YXdwUXdBX2s3UXRTYTF5djhvaGNNb2ZaS0pObGNzdk1QTl9hZkJiRUFpdUNXeU9LQ1Blbw?oc=5",
+      "published_at": "2026-08-21T10:55:43+00:00"
     },
     {
-      "id": "30062637d38282",
-      "title": "Alerta por el tránsito pesado en Neuquén: prevén una fuerte sobrecarga de camiones en el paso Pino Hachado",
-      "summary": "Alerta por el tránsito pesado en Neuquén: prevén una fuerte sobrecarga de camiones en el paso Pino Hachado Neuquen Post",
-      "category": "Camiones",
-      "source": "Neuquen Post",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSVg4SE1UdC1VeE0wNU50ako5UkE2d0tpbXQxOVZkdUFkWXFGRkRZWk5ycEdQUUNmSVRKdlV6cGJPbE03M2RUTXVnd2hwMlB6WEN3TnM5SUtfU0xRZWxaTGxVUkFMZHhVZnJXTlYzeDAyemowc3BxSUlqMUFlOXcxNWJZNmVtU2Fna0VtUF9RS25JSHZmUmNzZGp3NGNVZnc3VXpLYnhXeDdqWEppS3QzMzJqLVdZdk1VV2o3NjNxd1B5dDBELXUyV0d3?oc=5",
-      "published_at": "2026-08-25T19:00:10+00:00"
+      "id": "8fb57f8871afc3",
+      "title": "MERCOSUR: la nueva identidad brasileña amplía las posibilidades de viaje sin pasaporte en Sudamérica",
+      "summary": "MERCOSUR: la nueva identidad brasileña amplía las posibilidades de viaje sin pasaporte en Sudamérica Prensa Mercosur",
+      "category": "Región",
+      "source": "Prensa Mercosur",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbXU2eDlibnhaTzJTcXo3SnJUMjVBbmdxTm9RZWFqZjhRTDV6ckV0dktPVlJQNnhnSlI4cTlzZm5uWHZBRWdDWmMzOVRtZGUzZUR3b09SbjdTbjlDcHBNeVpMQl9aYUxxTUY1Sm9MeTd6bHA1NnJiWHVrMUVfeWQtNWlBUWhobHNwaVlWQ1E5RVAwRUZObnE4c0NNel9sVHpfTlloVC15R0t2aFNTN0U3dGtoLVZRSndLYnh5Yzd3UW5tR0JCZjBEdy10XzlYMUMwRmtMaA?oc=5",
+      "published_at": "2026-08-29T14:47:41+00:00"
     },
     {
-      "id": "438fb70010da33",
-      "title": "El cierre de un paso fronterizo encendió la alerta en Neuquén: esperan más camiones por Pino Hachado",
-      "summary": "El cierre de un paso fronterizo encendió la alerta en Neuquén: esperan más camiones por Pino Hachado Lmneuquen.com",
-      "category": "Camiones",
-      "source": "Lmneuquen.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYlM4Z1Nvci1fOFRiLVpJamVNZ0JIaGpRMWctdEdXNDViWVl1WmVnYTdxOEU2bENYQlhYelJYRnBLNHZDN2o4aVVpNmZzZUR5VnVoUFllWWo1UHExcHJabXVIdFZ4TFNiUGk4NnhmS2JUY3FDaURkcVBBRk5LUWhKMjkyMkt2eVFvdEJqemtUSzFnb3hoajRSc1JRbUMyLWIybm1EUlVtQ1h4eEUyeE9ZRGNLeG1wbkZHY0RDRURzdU0tZmhQV2ctMzV2cznSAdIBQVVfeXFMTXN1eV8wd3psSnNyM1FidnhHY3FZbkpJWm1lZjhsLXgzWjI4R01EU1dKTm5qR1ZrVC1IRzdhN042cVNPLXZMVWNvOFhJcERIWUR1R3lEVkdFSHFyaDlac3BTUkFZUkc5V2tKUHYycTdxZ25ubS1yZlVaVmM4NTgyWVVSSDkyRkF3d1kwNmJUZ2FLZFktVXJJUWVkWS0tMlV4ZWFoVzV5Q0oyVEtqbDZUaXk5cjFFQjg4UWpoTlV3TnN4MmNuaVV5aEpjQkRiMkpKSjBn?oc=5",
-      "published_at": "2026-08-25T17:28:00+00:00"
+      "id": "d4f5c494c7427e",
+      "title": "Trelew adhiere a la documentación vehicular digital a través de Mi Argentina",
+      "summary": "Trelew adhiere a la documentación vehicular digital a través de Mi Argentina Radio de Camioneros",
+      "category": "Ruta, salud y seguridad",
+      "source": "Radio de Camioneros",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU3ktcXhjRndhQnlNSnZvQkM5anIySDFhcUV0V09oWVNEUnFMUW9JMXVoa0gxZkZyd1pkQXVscVh2S0pZX2RVci0zaGZjWGV0UjFuYnQ2T2xjT0Z2Q1p3cDdOb3UxWnI0T29xQUZCT2Mwck8yU1JlTjhrTVVoVUtZamt2UFNnZ3NKQTh1YmlhOEtPZHZUd1l3SzBaS3NmNktVaHFobHdEVG8zQ3JKd21N?oc=5",
+      "published_at": "2026-08-27T19:04:55+00:00"
     },
     {
-      "id": "92efed62123a72",
-      "title": "300 camiones para cargar un buque: el caso que reabrió el debate sobre el cabotaje argentino",
-      "summary": "300 camiones para cargar un buque: el caso que reabrió el debate sobre el cabotaje argentino ArgenPorts",
-      "category": "Argentina",
-      "source": "ArgenPorts",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMm5VbWowQUFIdTZ3eU1CZzU0VXoxT0h0LUVYVThSX2JabXhNTGJ1ZzFpUUZuMGhMSVdaTnBuUVpBV1Y0UGctQl9BX1FsX1NpZW1ZbEp4Y21RSERLQndNcldqb01tN0JaRWpsakxBSTZEMTZlMTQ5UnJNeXlBb2dRbWtJaFU0TzFPY0NaUzN2Zy13TUl5NFo0LWc4QndMTWpqTWkzQ3c4X2RieFlIdVFPUDh0dzVpQnE2SEpEeQ?oc=5",
-      "published_at": "2026-08-25T15:13:28+00:00"
-    },
-    {
-      "id": "f9fd82602735d2",
-      "title": "Electromovilidad: Chile lidera en buses y enfrenta el desafío de la carga",
-      "summary": "Electromovilidad: Chile lidera en buses y enfrenta el desafío de la carga Agenda Logística",
-      "category": "Camiones",
-      "source": "Agenda Logística",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZTlUVlp6aWpnaEptQzNwVDFBZHJYaE5LWnMxUFVtUEN3OG1oMlJmUkVBUkR0dDlxem43ZUZXVGZRbElodnZQT3hYekdpb1EyTGJhT0xsOUNzaW1JN0lENFB0cks2a1ZTdHVrRk1fWE45cW1EUWFrX3dnYTVtdm5NSWVWN3VaYXYxMWF0TUxEQkFsYXJqaWJPc1E2MmFnMXl0LVIyYzNScUVQVVNhWFlsQ2x2eklLZ0JRVGlmRXFEOXFRZlpMTG5NYWJQdUY5UHBOeFN6anFsRFllRVpFVUxjbVBtajF6bFFKNEE?oc=5",
-      "published_at": "2026-08-25T09:40:00+00:00"
+      "id": "79e20a4589740f",
+      "title": "\"Los precios de los autos en Argentina tocaron un piso y van a empezar a subir\"",
+      "summary": "\"Los precios de los autos en Argentina tocaron un piso y van a empezar a subir\" El Economista - Últimas noticias económicas y financieras",
+      "category": "Camiones y mercado",
+      "source": "El Economista - Últimas noticias económicas y financieras",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSE5wWDZLay1MY0V5MXNSQl9NaU1Ga2RxZVloa0xFSXNGVkNfMlRBSWZBMFdVbnJ2X1MzVHJpcGlSREhwVWQzNC05RHFhcTVwZE03T1drbXhvdVFxUk1NcHF0RGF5anF0MzA1azlpWjlVWHR0ZVBVSUVhaENXcGZET0tUYUhtWUx5VXFodFFtQ2RTLU1qMnh1WXJYSmxGVUtT0gGmAUFVX3lxTE1WVGY1SEpVZkhIYkxkMGZoM3p6QmF6NjNTSWV6SXFWdWRIRC02UXlaVUpJLVc1ZXdwRWtXOEdKNWpsSFhSRUpMLTdqRGYwS2l4cHg5VEFTVk5jQzNhbEdsY0ZpazF4N3FYVllBVzd1M2xqbDZsYWhwcl8tQmRfWTZRTzhNWW1HMVVpdDFJTGdCOVFmUTFSeEotYUc5YlRGVjJISnU1NGc?oc=5",
+      "published_at": "2026-08-26T12:33:34+00:00"
     },
     {
       "id": "726f831d8d916e",
       "title": "LATAM Cargo trasladó 15 grandes felinos desde Argentina a Estados Unidos",
       "summary": "LATAM Cargo trasladó 15 grandes felinos desde Argentina a Estados Unidos Aviación News",
-      "category": "Logística",
+      "category": "Logística y puertos",
       "source": "Aviación News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOG44MHdqZ1VCR3ExMS1zckFod1BLYVVlTnNOVFpWcUthcllReWxidnF6YUxibzBKUGN1VnVJdE9oLXNXOGY0UVM5QmlCSHhqV2p3M3NjOVd0OFZ2bTlqenFtUVBvMXhZb3NDd2pvcmRkaVpQUl96TWtTdUUzUG56NS1hSHNJRHZJVE13ZjMwZTdlcExNNUhyYi1kM1pkcG9iVWlfUVk0N1o5VE9GTW9R?oc=5",
       "published_at": "2026-08-25T03:02:06+00:00"
     },
     {
-      "id": "155747cd6045e8",
-      "title": "La Ruta Bioceánica se fortalece como conexión logística entre Brasil y el Sudeste Asiático",
-      "summary": "La Ruta Bioceánica se fortalece como conexión logística entre Brasil y el Sudeste Asiático Infobae",
-      "category": "Logística",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYWJubjViQ1g0UHY5cS1Mcy1YamZKNjJleTNPVV95UUQxc2sxck1JS0tPSGZveFRxbXZpTkFRNEljWEhBQno2NVpjTEVMaFNycnJoNDJ6SDA5b3hqS1ZSYnltT21rTE1BR2hjTTFHTUhPaUlrb19SVWhjaUVkbmxLYnZjdEg0eFJuNElCR3JlcVBQeW9YZWxkazNkWlljZE1hdEdiMEQzMTFZZHp2NEFaX2F1OW9ZanJjMTQ3VXdydnF4cjRRS21PMGhmUdIB5gFBVV95cUxNemk0VjllOTRqYjFNQnFlbmpQaGI3bE9mdmtuV2NBb191QktYLVVSbTJnd0tSa19IdVMwd2hXUjE4aDFTRTB2X0cyNFhsVUN4aFg4Rzh1NGJtT1N4WXZjc3lfQjR5MDFlcGNxbzVxNTdzRFhLMF9Gc1BORXB5RTM0MTdWRThQLUZqWXBkeHBDY3hXaDdVOUpqY19oY016enJ3R1BSSUthUm05TTJRWE9JSG9vekhES0VQLUU2YTFmeUN2eDVfR2pac0NLX0Z2NE1TaEMyVURqUTFKQzFGMXM1YVEtVE9yUQ?oc=5",
-      "published_at": "2026-08-24T15:30:03+00:00"
+      "id": "e4313898b1e60f",
+      "title": "Los bitrenes debutan en Mendoza: así es la nueva tecnología que incorpora Transportes Andreu",
+      "summary": "Los bitrenes debutan en Mendoza: así es la nueva tecnología que incorpora Transportes Andreu Ecocuyo",
+      "category": "Técnica y equipos",
+      "source": "Ecocuyo",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUzFmbkllOTZRcVpwQ0F5SW1EdW1teF9VaXhWYW5tWFJ3dGpkT2g5eV9LT09wOWxvRVlIX01yMVF0bThwa0VLaklXeXBrd3VkN1lram8yWDFzMHNvTFcyRXhRUVY0bV95U1hyd24yMXI4LWFLYzJKNkgzcjBLbUpfQ1dndkwwbnNFU2VDR2h2SllsMnJqOXd4aTJfbTJVbDdwdGljSk9TMVI3bnN0elZNZE5vaGlUTlZkeG5QeU5DR28tUQ?oc=5",
+      "published_at": "2026-08-25T03:19:18+00:00"
     },
     {
-      "id": "eeb9dd1dc25109",
-      "title": "Vehículos utilitarios eléctricos: cuáles son los modelos de trabajo que se ofrecen en Argentina",
-      "summary": "Vehículos utilitarios eléctricos: cuáles son los modelos de trabajo que se ofrecen en Argentina Clarin.com",
-      "category": "Camiones",
-      "source": "Clarin.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODNHa2F1RnZJT3R5ak5yMldrNlgxZUc2LU9IOXBpcWI2cVl2OC15VFhwLVROVUFUNWZ3Mi0yZEpHQ2QwOVY0NjZnOGtjMG56dU80c1VsUmg1MFJMelZLd256XzNtYTdTQnpRSGtjOFFza0NnYWpKX29sZVNRNkNFMnRjUURyeWlUS1ZVbVlSLUtHd3dRNEdhM2VPSjNiQUxtRk9LajJpVVk1ei1Jd3dFSlFpTdIBuAFBVV95cUxPN0IwY1ZndmRITkpKQnQyS1pYWmVnUUFtYnpDMlhGOTNmRW1LbzZUbHlJdXVKeUxZZG11Nmg3YWdsUzZlMk9KdHB5WUZyM2ZibmRNdW1ITC1VYmdhYjhiY1BNTmZ3Q19iSVB2OEpoMU1feHh3X2NfTTB2V0p4cGtza21yLWpScDllVHdSYUJJbHVXRzRJTG1xWGk0MTJOWGxCY2RacHExUkh5eV94M1FEYnRoSENkRlFo?oc=5",
-      "published_at": "2026-08-24T09:01:23+00:00"
+      "id": "e6b122ec197499",
+      "title": "Puma Energy lanza una nueva plataforma digital para gestionar flotas y profundiza su expansión en Argentina",
+      "summary": "Puma Energy lanza una nueva plataforma digital para gestionar flotas y profundiza su expansión en Argentina econojournal.com.ar",
+      "category": "Economía y costos",
+      "source": "econojournal.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPU0hFY0JicXF1YW1PaXpTbkVuSUNFc1MzOXRnSzQ4LXRKLWxFV1gzc2NEOUJrLTBXRHBYc3JUM05vNmpFaWJXaDFEZS1MNFVEZjJiX3llZHQzSEF5NWY3ZzBDOW5sRjRSVHpST0pGcElabTJIM0hDcFdYMGNKS1NfMENaRzh5SnFhaUw2TXRzbGlkUWFKbXF2a2R2VHlyWXVDWFQwa0tscG90VUNpbS1oNlo0Q0xUVFFnbVB2bXZNRVFIUnJtOElReEs5MXY5Y1VzaHA1b1dwOWJjLWFYWGJfSWhTbDRFUmI2RnZtZTYyZmVELUNiYUE?oc=5",
+      "published_at": "2026-08-20T07:00:00+00:00"
     },
     {
-      "id": "c3c33fa68ea4c3",
-      "title": "Reabrieron el paso Cristo Redentor tras el cruce masivo de transporte de carga",
-      "summary": "Reabrieron el paso Cristo Redentor tras el cruce masivo de transporte de carga MendoVoz",
-      "category": "Argentina",
-      "source": "MendoVoz",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN21tbEpDaElxbVQ5d1dkeDJYNTVkSEJHRk5saEFXVlRLZWdRMXkzLTNkbG9yWG9xMGVCU0hlTnRrb0RvT1pTRERSWXdJeDV2OURvNDJCQzVZQ0Y1aGhfMjF4YXZ4UkZsVEt3NWZPX19JMVhXT0pvbUpHWnZscjBTVzVic29IUktMNzBGMnVWZE5PZ0M1NktSd2FXMFFpWGFONVQ4MF9Xc3ctZnNrZF9fQUZqajBPTEplTGthd0M0MTRULUVLMlItU05adnRPWmFiOVZz0gHTAUFVX3lxTE03bW1sSkNoSXFtVDl3V2R4Mlg1NWRIQkdGTmxoQVdWVEtlZ1ExeTMtM2Rsb3JYb3EwZUJTSGVOdGtvRG9PWlNERFJZd0l4NXY5RG80MkJDNVlDRjVoaF8yMXhhdnhSRmxUS3c1Zk9fX0kxWFdPSm9tSkdadmxyMFNXNWJzb0hSS0w3MEYydVZkTk9nQzU2S1J3YVcwUWlYYU41VDgwX1dzdy1mc2tkX19BRmpqME9MSmVMa2F3QzQxNFQtRUsyUi1TTlp2dE9aYWI5VnM?oc=5",
-      "published_at": "2026-08-22T13:24:55+00:00"
+      "id": "75002d1e128dce",
+      "title": "MERCOSUR: el desafío del FOCEM ya no es solo financiar obras, sino hacer que las obras funcione en la integración",
+      "summary": "MERCOSUR: el desafío del FOCEM ya no es solo financiar obras, sino hacer que las obras funcione en la integración Prensa Mercosur",
+      "category": "Región",
+      "source": "Prensa Mercosur",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN0JwNVkyUWpMMzEzRHh4X3hURS1BZ1V5emRFQzk3dW1ib2dwTmxxVXJ5aGV6OFRXdFBNTk45bjlwLTZmNWpsMF90N1NHdG1qZHRtc25Gb3NCMEpoT3FoVjkyb2t2aEk2V3Y2TS0tNzNTd0FEczEwa2dISmFfVVZnT2Y3cEN3dUtNdmVCM3FJajRGOTRTaG1DRjIwaDZpUk40eWZ3cFlFaU1FT3JVQlcwQnVNWXJlUGR5dVU0cmd2WFl1TDJaZWZjR1F3cF9FZXhYZ2RjQjI2c0tmZHdZTnFVUV9WSE4?oc=5",
+      "published_at": "2026-08-27T14:48:46+00:00"
     },
     {
-      "id": "30157e5d52eb7d",
-      "title": "Otra empresa argentina incorporó dos Scania bitren para transportar hasta 75 toneladas",
-      "summary": "Otra empresa argentina incorporó dos Scania bitren para transportar hasta 75 toneladas SuperTruck.com.ar",
-      "category": "Argentina",
-      "source": "SuperTruck.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT3ZIN1NFLUgwaFIwaFBXZzJieEk2N2hjemRvS19hRG9LZmtTazY4Zlp2MndFMGkwTFd5TTQ0cm5YY0NoWEQ0TVRMOXZhNTZOdWtQRlJBbFlhOFJEX2tDNHozWDJrblI2WnpYc2hid0N1QnJaYUx3NVVRS3R5b2QydTJnRGI4ZTlqV2NjU3BNX0wxRm43SHRyanFzRE1mOTgtV2psaHNTeVMxY05ZdnpRUQ?oc=5",
-      "published_at": "2026-08-22T11:00:24+00:00"
+      "id": "bbe49ce623f3da",
+      "title": "Chubut pasó de estar entre las últimas provincias del país a ubicarse entre las cuatro mejores en indicadores de niñez, salud y educación",
+      "summary": "Chubut pasó de estar entre las últimas provincias del país a ubicarse entre las cuatro mejores en indicadores de niñez, salud y educación Radio de Camioneros",
+      "category": "Ruta, salud y seguridad",
+      "source": "Radio de Camioneros",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQ3pzT2l6SVowNUJ1R1loS3ZPY0piay1KYkNLcUtXMlFIY0dtWXJPTDJYczEtMjdLeVlSajlBTFBkYXVUZlJpV1RxWmFobUZ6UUw5ZUVKSFo0TGtLSW5NZF9HWmNXTHpUaWxxcGtIN0FEaEYwVXBYQ1pEWmQzRXNlU1FrY3BDSXdobTFyQWlFUF8zVVhTLUdYTWNsRHRUVzZzNGV5RXpOTEhRMEhwaVhjLXpITkZKRlFPZWNOeDFWVEVJSmFxUGRER2tIQ09HVk1NTjJYTTVPaXBKTnJ6WFNKTFpaVU56SkZqTWpoam5nNGE1elMwZ1BDYmdkTDRKTDA?oc=5",
+      "published_at": "2026-08-27T18:14:49+00:00"
     },
     {
-      "id": "d83ec031349677",
-      "title": "FOTON e-Galaxus 5 y 9: los nuevos camiones eléctricos pesados llegaron a Sudamérica",
-      "summary": "FOTON e-Galaxus 5 y 9: los nuevos camiones eléctricos pesados llegaron a Sudamérica SuperTruck.com.ar",
-      "category": "Camiones",
-      "source": "SuperTruck.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT0FuYXFPUVdoenRPeGJNUnRZRFNPV0k3dHZDaDdEX0JfTVZnLWptdWpYVFhxWWpQVk9ER1lTVHNTanQ3cWRkaHBfLVZCMkZnaUNRLUJDUmtObzE4Slo5SGtjM1dCVnRLUndoanZyY21DaHE0NmMwSlY0WTVNd2FCTTZPZFY1b0lKZmFOMm1Rd3U1bWZ3MTBtSkxEREQya1g3dEViTVhaa3ZpUQ?oc=5",
-      "published_at": "2026-08-21T13:00:30+00:00"
-    },
-    {
-      "id": "d1c621bb65183c",
-      "title": "Los camiones más vendidos de Volvo: ¿qué premio ganaron y por qué?",
-      "summary": "Los camiones más vendidos de Volvo: ¿qué premio ganaron y por qué? autotest.com.ar",
-      "category": "Camiones",
+      "id": "7342dc7802fa93",
+      "title": "Dongfeng amplía su oferta en Argentina con el nuevo Captain D 1830 Tractor",
+      "summary": "Dongfeng amplía su oferta en Argentina con el nuevo Captain D 1830 Tractor autotest.com.ar",
+      "category": "Camiones y mercado",
       "source": "autotest.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVUdnZHVrdFdZZFg5UXlFZ3VMMlRuZVlEM2NvY1VURzRJTHRRb0hIRTMxRmRuQlE5VFkyejJCREVaTVNMUVJ4MkluRkM3V2puV3phU0h6VlROQXZMa0dBTGVGYV9tMTJ4bl9sS2dDV3dZQnRwUU1tYmxIeUpuLVppa0prZlVaaTlPdHgweDJSNElSOGl4SXdVQjJXN08wanpNVlE?oc=5",
-      "published_at": "2026-08-21T10:40:13+00:00"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDlfQmQwYkxVcTN0cVBmZ3MtZnliQUhsckk3eUl3all6WmMtVmVLM0dERHFxZzdFaEhYZWtfemgxc25GNU1RdXhnaWtYR1pQZzBqMjR0VVMzZjRLZUpVVElGUWdWWmhyRGtROFlDTTNuTFdEdFhoc0cxZ3JSYXRreXNQWlA3dF9pTzY5b1F2Q3FRZUhReG1zS2ZEbzVNN1dmS0ZlX0d4OERmOV9obUFBYw?oc=5",
+      "published_at": "2026-08-26T11:19:25+00:00"
     },
     {
-      "id": "3d6ac952ec4de4",
-      "title": "El paro de transportistas de cereales paralizará mañana a 180 mil camiones",
-      "summary": "El paro de transportistas de cereales paralizará mañana a 180 mil camiones El diario de Tandil",
-      "category": "Argentina",
-      "source": "El diario de Tandil",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVHVOVXJsRGhfWHVSd1Y2OTl3bnJ5WXY2eFdrd0FzTUFCcTFaWFY3aGxEcmMwekJSUy12TUJIdkpCVDN1MHZrU0VQSHlENUVpYjhMWGNNYjFrbkFqWTZkRzh2WHhIQVI0U21pLUhZRnRfVnQtVk80c0Nrclp5bm53WVBIelhIVFpyWXJPa1lwSFpROVZnQm1FUjFvZWlCMTZmNEdra3hvM0l6TmhEOVF2UU5scmhESGsxWGc?oc=5",
-      "published_at": "2026-08-21T07:00:00+00:00"
+      "id": "5160f5b1aaa9a1",
+      "title": "La eficiencia escala desde el transporte: una configuración \"3+1\" para abaratar los fletes a Vaca Muerta",
+      "summary": "La eficiencia escala desde el transporte: una configuración \"3+1\" para abaratar los fletes a Vaca Muerta Infocampo",
+      "category": "Logística y puertos",
+      "source": "Infocampo",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdFVTXzJlMnhCVWU4ckZ0SjZoamdoUEJKR1R3RmdFb05VOEpNSXRmcGhudDRuS3VaT08wRllSalhKNnpoQ3JyeUxtdk1pdHE3c0VUN05ORmxkcDhfQlFsRXdiUFdwbWJ5ekRSSXYxR204S281dTctZm82V2VvcDgyb0xNXy1tODRGNWtJcWVfdXZTek1UYkdyMTYwYU9ueWd6Z2JqMlR6MkVIMW5vWTAxMDlWSXVzNUd3WGFXa1ZqN1V5RGhrYjA4am5R?oc=5",
+      "published_at": "2026-08-20T22:37:01+00:00"
     },
     {
-      "id": "4f0115bae755c1",
-      "title": "El mercado eléctrico global de camiones y autobuses roza el medio millón de unidades en 2025",
-      "summary": "El mercado eléctrico global de camiones y autobuses roza el medio millón de unidades en 2025 Review Energy",
-      "category": "Camiones",
-      "source": "Review Energy",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMmg5aEhmak1aLTh5REpBZ19pSmdHRTFNd3FnQXdaeUQ4YV94anV5eEZaSXNqLVMtR2ZBQU9QNXRxeEZTTHBScUJPdnB2b2R1cUZQVmdYNndMc080WlRxWFNHOUdhc0tMTHMyUGZlYjhSbE0zZWxZYXBMMUNudHlPb2h6YmVzVERRRUdnX0pQeVUyU0RmOWlsUGtRLWMyU1A1VGJaWGswSXNfQ1ZKYnVaM0dPYnRDYml0aWk0TmZsX25xZVRvenEyeG93Smk?oc=5",
-      "published_at": "2026-08-21T03:17:00+00:00"
+      "id": "5418b246d152c8",
+      "title": "Vuelven los camiones Unimog al Ejército Argentino: así llegaron los U4000 a Neuquén",
+      "summary": "Vuelven los camiones Unimog al Ejército Argentino: así llegaron los U4000 a Neuquén Agencia Noticias Argentinas",
+      "category": "Técnica y equipos",
+      "source": "Agencia Noticias Argentinas",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQWw3cnhDcklDMkhVN3Z0bHBxUDNybWZIM0QwSUxnekxvdDg0WnZRMnR0TnhkTG13TUZKV1F2bzlseURfYmZyTm1BdkU0dm43bDI1aFZkR0hVTVI0cnVHd1A3eENMMEZfNmpxVWlYMWwzY0FScXB0dzMwSFYtNnBiVE00azJoMHFXUTJQRjRFeFh2NlVGdTYtcjFfc2h1Rk1OOW01WHJua3A2LWJnVDhTVmRURGIyb2FZYUNnZWFoQmU3NDBBSkNpNnNxR2xZSHJDa2R3MVVhU1ptczY4dGVvNWQteURDeUw0WUZZQtIB-wFBVV95cUxPc1BaMHI0UXExNkVXd1FBbnV2QzV6Nnh2YkdraURBd25iRGswX0RRSVA2OHNhY0xXc3AwR1N6dnVYYXphdmRRZ1ZUdVlYcXhSdHQ5Tzh4YkZXUGMwSVcweVRzZDBYU3FPSlREdW5mZTdSUTlVN3RLUWZwZnhXWm5wNGJPX1NoMUtKR1FEcW9icUdYV0JMVEE1S2Nuci04Q1JoRTlRWjJwdkpSd0dURl8zeUJMRVR3UThBQ2RhV0d5UndRZDlCbVB3aS1rZThuTWs4YjJWVndxWW9kZXdTVjA4ZnR4UHZmQ2NHX2FJSkJrS1lCNFJ3Tk5pUk1BOA?oc=5",
+      "published_at": "2026-08-24T11:09:10+00:00"
+    },
+    {
+      "id": "dc2236efbb7300",
+      "title": "Puma Energy profundiza su expansión y lanza Puma Flota para la gestión inteligente de combustibles en el transporte",
+      "summary": "Puma Energy profundiza su expansión y lanza Puma Flota para la gestión inteligente de combustibles en el transporte Diario Río Negro",
+      "category": "Economía y costos",
+      "source": "Diario Río Negro",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRnV2SlMxWHo1cGMyUE95WGxReUk2ZEs1NkN4SC1YYkdwSHBWOEU2ZHFhd0E2RS1lNUF0S0VyYmRqc2o3TXhvY1ZDU3hFS1M5OUh3cFViYVlBdl9BQ1BMZERsRDZVcWxhQlNGdlpTeFp2OV9RQ2I4dENZcERBZkRmaDlkQ3daMXlEYW5zMXZYUW9GWEw3X1QxT2cySjBnQnY4eG1IaV90Mk1uX0YtUjB4ZV9LbS1DS3lnUy1MXzl4Z1ZpYTZwdXU3b0RDdTVlaUdhcHJIdVBtakpiRUNOU09wRWtIcTY1TkNMZ1JwekJlOW5NQdIB-gFBVV95cUxNRDFRU09RZVFPaTVVblhNZUp4UDVXaXNGT3FudlJQcmgtbnBQTGROT2ZtdEFGOXdyUy0ycGFCTzY2dFlIeHRwZ1FlTENGM0I2M242TFBXcXQ1M21NblNMcXF6aHZhUVQ3cUxKdWRLQUNwWVF0V05GblNkdy04NV8xNTJORm5pM1dObVRSNHBubDFWSjM0VmcyQVljS3FIOGdpb1c2b1o2R1pqY3JNX0pXa2h6V2hSU1lwak5sWkxXcGdDOU5Td2ZLS3pDTXlUZTZmNzRpM1c5ODZEQ01BT1hJNHBiTjNuNjdMRGI3QkpEZEJZNFljdEVVNGlR?oc=5",
+      "published_at": "2026-08-20T07:00:00+00:00"
+    },
+    {
+      "id": "2eedd18506e71c",
+      "title": "Brasil proyecta USD 237.000 millones para transformar su logística",
+      "summary": "Brasil proyecta USD 237.000 millones para transformar su logística Agroempresario",
+      "category": "Región",
+      "source": "Agroempresario",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVZ2OTNGNXlBSU9DYTBLSTUyaG5EWnA4QVRFM0EzM01NQ3dSMnNreE9ERXE3NF9YNVFxclVhYTE5WnY5M21oQ2hwbXBlQTBiUExSRktMNEJ0QUdTd2g3c3hXUHVES251VE1Ba2ZtdFBNT1o3aXk1QVc4YlNDcFNNNXNLbjBkMkp1RTJ5RHRSalcyTEgxeDBlb1J0d3hkbjZfcGJFejJSa09PcWpxSXB1aGdxNA?oc=5",
+      "published_at": "2026-08-27T13:28:39+00:00"
+    },
+    {
+      "id": "78fc4278033528",
+      "title": "La Asociación de Magistrados respondió a Torres: “Ningún juez ordenó darles asado a los presos”",
+      "summary": "La Asociación de Magistrados respondió a Torres: “Ningún juez ordenó darles asado a los presos” Radio de Camioneros",
+      "category": "Ruta, salud y seguridad",
+      "source": "Radio de Camioneros",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWw2eDdLbUVUdWpwNUUzUFhteDR4MVZhUTlTUUp4X3BJNWlCbnRnVGFUUWZHQ1lMRWRnNy1oS1ZhUElETWJyVmJEbUhpVmh5U05adTJWVTItazMza2J0YWN2bHpnRERwaHI0U3Y3VUwwZEQ3V2pCRHNyRWNBaDIxQThVY3JQd3FMcVVNSC0xdXk1Ylc2OWZ3OUxJRk10VGhCSEtQd3FTdV93UFRjcGRFZ0ZYOGlMcFlodUhYcXVBbXZlZ0Fs?oc=5",
+      "published_at": "2026-08-27T15:49:25+00:00"
+    },
+    {
+      "id": "30062637d38282",
+      "title": "Alerta por el tránsito pesado en Neuquén: prevén una fuerte sobrecarga de camiones en el paso Pino Hachado",
+      "summary": "Alerta por el tránsito pesado en Neuquén: prevén una fuerte sobrecarga de camiones en el paso Pino Hachado Neuquen Post",
+      "category": "Camiones y mercado",
+      "source": "Neuquen Post",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSVg4SE1UdC1VeE0wNU50ako5UkE2d0tpbXQxOVZkdUFkWXFGRkRZWk5ycEdQUUNmSVRKdlV6cGJPbE03M2RUTXVnd2hwMlB6WEN3TnM5SUtfU0xRZWxaTGxVUkFMZHhVZnJXTlYzeDAyemowc3BxSUlqMUFlOXcxNWJZNmVtU2Fna0VtUF9RS25JSHZmUmNzZGp3NGNVZnc3VXpLYnhXeDdqWEppS3QzMzJqLVdZdk1VV2o3NjNxd1B5dDBELXUyV0d3?oc=5",
+      "published_at": "2026-08-25T19:00:10+00:00"
     },
     {
       "id": "21b6d36c97bb8d",
       "title": "Sudamérica busca ganar terreno en el mercado mundial de cruceros: más puertos, menos costos y reglas comunes",
       "summary": "Sudamérica busca ganar terreno en el mercado mundial de cruceros: más puertos, menos costos y reglas comunes ArgenPorts",
-      "category": "Logística",
+      "category": "Logística y puertos",
       "source": "ArgenPorts",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWF3dHdQT0l4alFOdUszZFBvd2R0YVpkaHF6bFBpNGttRnQ0LUNjcUpvOE1MM2hINl9KekJtbEMwUUZsUkdBcGM2ZnZhMHhHRlBoM0c4TUo4Q0MwLWpvRHNfWFRLWGZxb0R4QS1SX0hZd1A1ejY2Z3o1TkhYd3o3bC1LNXNDd1hIX05vWHIwQXJjaDZyaU52cFNxNkItUGJ2d0lVc2lEcVladGpQZmlHM0NRVnE5OEtsRXptMGsyTllKbnpqZ2JIRjhfRXFmMXZI?oc=5",
       "published_at": "2026-08-20T21:58:56+00:00"
     },
     {
-      "id": "4d58e4d43c7675",
-      "title": "Chile lidera el salto global de los buses eléctricos mientras el mundo supera el medio millón de unidades cero emisiones",
-      "summary": "Chile lidera el salto global de los buses eléctricos mientras el mundo supera el medio millón de unidades cero emisiones The Clinic",
-      "category": "Camiones",
-      "source": "The Clinic",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQam9oYXRxLXFmSUtKMDR2UU80VDBaenp3Q3dwY3ZNZTRoS2pHajFOd1pFR3h2Mmt2WTJjeC10OU51VFljWUhhc1VSaU1BazNUcjk0Z1hJb0QtSEttNTlySVYxUTZSMkdRdHo1aE83S1JKMExYYWg1aTMzUVFZa0VYdXFXeFFMenFENjRIYXpqVmszTWNwZXNzSVg4bEpndF9qY1pCUlFqSkw5M0FtQm5mQXM2MmhBNnNOc2tsaFd5T1NoRURqNHRCT094Wk1Bd2xsTFJ1NUhxVEMxOVlUa0VlR3FDMzcxOEYzRnk3N2NB0gHzAUFVX3lxTE00Mm5xaHM5MWlDbTZMaWZSTWpnTjdoc2ZOR1FXM01kM1llZXcwRm5UX2RjRkU0dmRHX1JsTjkwdm0zZVNya0tSZ1poX0hESXRVRU0zdmxyNHhIMDAtaFczNTR0ZGRwZGNrczE5elpidXV1ZDRIOU5GeGZHdU5zZnZTZS1mbUZjaTRZT1c2ZU9FTXVySHdpTWJ4M24xcVJuNnlGTm9GMUxKOHRuZHlSdkdmSE4wS0dKUG9kWnVKNG5wUmtweDFsZnZSYzl0NHZTY2poXzR1WlZua0kya0ktRFl4NVRmQkxDYkViTmg5TEdXMWxvZw?oc=5",
-      "published_at": "2026-08-20T20:03:01+00:00"
+      "id": "d39c4db3da7f15",
+      "title": "Michelin en Expotransporte y Expologisti-k 2026: nuevos neumáticos, conectividad e inteligencia artificial para transformar el transporte",
+      "summary": "Michelin en Expotransporte y Expologisti-k 2026: nuevos neumáticos, conectividad e inteligencia artificial para transformar el transporte camionesybuses.com.ar",
+      "category": "Técnica y equipos",
+      "source": "camionesybuses.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNUU4ZU41QlJVVW83T2xhd0tnQzJUTGJmNm94N19GWVRrY0xySkdBYldCRzFCaXZ4Y2pqYlgtMVg5RVVBTlM0dkFQT1RXN0VzTnFqMXhxcXFDV0E0aHZtYUdtRXdUaWJzTm1ESXdlMzBMaHJDd2Jvc3VpcU1YMDBYZjFEdFRHWVN1elZqM195TmtRUXdmdUNzWnZkREVLXzZvNDdZeW51M1FqbmVneVhhbGhCX1pLQ0VScXVsVFJqcno3QnFZNXhWcGFmS09EUmx1NHBONmFERm54emlVZFZRdlgzaXJVSzd5X2JBY0puZFEtUEl3bkZOWDRVUzRUWk50Y0NsTWQ1X0ZCZDBM?oc=5",
+      "published_at": "2026-08-21T06:01:22+00:00"
     },
     {
-      "id": "175f8afacd13ee",
-      "title": "Paso Cristo Redentor: comenzó la segunda etapa de reapertura con foco exclusivo en camiones desde Chile hacia Argentina",
-      "summary": "Paso Cristo Redentor: comenzó la segunda etapa de reapertura con foco exclusivo en camiones desde Chile hacia Argentina Tiempo de San Juan",
-      "category": "Camiones",
-      "source": "Tiempo de San Juan",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNY0pUOFR1WUxIMDh0UGtWd3dfTTR3U0pwaWIyMW9rcHVFNlhiSXE1Um1pX05OSmtxbGY5UFZJa1dKN3VaU25MZy03cnVGNTUtVUN2UDJvMEhuaUxfdmZqYlpYaGhNY2pDSllNQWp4bUR1bnFKUHNseS1NQVNobWhxU3BMVFpHWHBMbi1CRFRodXZIT3BISHZvd3dpZnFRMGhrbHNZWDJ2Y0pMUkt5X3EyMXM1RGE3b0RvYmlPNFBPY1AtNlhyemJhQmJzQWltMmx4bDBFeVVMaURURDQ5MGdTMlhFNzhHbVQ5bVYxRTNONkJpTDcxQmNlckNobG9rdw?oc=5",
-      "published_at": "2026-08-20T15:16:00+00:00"
+      "id": "6d89db180a6091",
+      "title": "El transporte de cargas volvió a acelerar: los costos subieron 2,25% en julio",
+      "summary": "El transporte de cargas volvió a acelerar: los costos subieron 2,25% en julio Infobae",
+      "category": "Economía y costos",
+      "source": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbUViMHNNdWc1YjJNVktvSnlkb0laVWp5WjI2di1OTFNuRUhDMlE0cUYxbTRiM29rOXpRVXVlN0YyNDI5YUNYZy1kOHpWZ0w3VUN4THZ4UnVqT3N4ZF9ZYjh0Z1dVQWplV3Job2dFa0x1LTBiQWlQWWdkNHFRRW1wVFlWaWp0U2E0Vm1LbjItcXFKSlhBZEY0QjJxU3RYc3NIZEx5eUJqbHFIa0dkbTBqWi1NN2N5OGFoSWYyR1hlT2FEMm_SAd4BQVVfeXFMUGo5QTl5R1Z0YnFsR0Jndkt4NkZKR1QtWHd0bkxmRGFLa3lFWE94OGswaFFnOW5tMVdhN0FRc1Q3aEZFQWRPTlM1MWR1UDZsM1pBSUlrTlZOdnNDX0o3YlNkN1Y5UzdqUlhwWUVQeW92b3BKc3hlYU9mbjBHSHFRWEJzUEdxY3psa25GUHRsdUxxZWlQU0h6QnR2a1laSEVlU0Z3Qy1Za0l3czMxd0k3MDFOZE5kNjZFUWNQZWRFWmJETFh1ZmhCM0RrX2R0WkFsSGp1VmlUYlNuYlVrazBB?oc=5",
+      "published_at": "2026-08-15T07:00:00+00:00"
     },
     {
-      "id": "73ebd1a9a4917c",
-      "title": "Volvo lidera en reventa de camiones en Brasil: ¿cuáles son sus modelos estrella?",
-      "summary": "Volvo lidera en reventa de camiones en Brasil: ¿cuáles son sus modelos estrella? transportemundial.com.ar",
-      "category": "Camiones",
-      "source": "transportemundial.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2hlUE9fVkNZZjZrcUJQb1NYTTE5dVNtbDdvWVFFYVdtTHdiWndKTVVqbEVQeUkySG9ETy1PQ0YtcmNVU0pYdXNldFBkc0E4VUowSGRhU3JGbVR1UnJBeVBrcnhXS0hFNlIyU0I1OUM5YjVjblJwcUNSOFlZUTFteWdRTkhkb3lrWS1VckVheEVEa1RPQ1I4RThEYUpTSUJ2VVZvMURkSVd2Sl9wYjZkMDFqa3VpYnFNOFhOU1Nn?oc=5",
-      "published_at": "2026-08-20T15:07:55+00:00"
+      "id": "92efed62123a72",
+      "title": "300 camiones para cargar un buque: el caso que reabrió el debate sobre el cabotaje argentino",
+      "summary": "300 camiones para cargar un buque: el caso que reabrió el debate sobre el cabotaje argentino ArgenPorts",
+      "category": "Región",
+      "source": "ArgenPorts",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMm5VbWowQUFIdTZ3eU1CZzU0VXoxT0h0LUVYVThSX2JabXhNTGJ1ZzFpUUZuMGhMSVdaTnBuUVpBV1Y0UGctQl9BX1FsX1NpZW1ZbEp4Y21RSERLQndNcldqb01tN0JaRWpsakxBSTZEMTZlMTQ5UnJNeXlBb2dRbWtJaFU0TzFPY0NaUzN2Zy13TUl5NFo0LWc4QndMTWpqTWkzQ3c4X2RieFlIdVFPUDh0dzVpQnE2SEpEeQ?oc=5",
+      "published_at": "2026-08-25T15:13:28+00:00"
     },
     {
-      "id": "6264d6436b96ae",
-      "title": "Paso Cristo Redentor: pasaron 2870 camiones y hoy el flujo va hacia Argentina",
-      "summary": "Paso Cristo Redentor: pasaron 2870 camiones y hoy el flujo va hacia Argentina La Arena",
-      "category": "Argentina",
-      "source": "La Arena",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTA3X01TWlN1RG5LendFdU9rVTMwNG1XWWVpMGlURHRwNG5Pb20tdkt5M3NkRkN2VXEwYXAtNDZmUjBmaGdnZ0NPanJIdGZGMEZwTS1pbUZEOFk2QmhJUEpYZFU0a3Bqc2hkam5lWEhEZVZFRDFEZmMwckNLWUNVNmU0OFlYd2hwUGxSS2I0aFVSUmJkMGtzMGh1S1FkZWhtUVJwcV9KSzlZckxFbkdWbFZwbnBQMkpsdlIyNHA0bmNHdm8?oc=5",
-      "published_at": "2026-08-20T11:50:27+00:00"
+      "id": "bb0d3e29c11209",
+      "title": "Salud municipal: Othar participó de la presentación de herramientas inclusivas en el Vacunatorio Central",
+      "summary": "Salud municipal: Othar participó de la presentación de herramientas inclusivas en el Vacunatorio Central Radio de Camioneros",
+      "category": "Ruta, salud y seguridad",
+      "source": "Radio de Camioneros",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQejFkbWxXbVVkek9iZU1BTm80d3Z2WVRNRGV6MmNoelBDLXpDWUU5cWNYX0FRSGZKNnBFcmltZHViaWM2NzlCVGw1XzBfaklIY3pNcnJ2WWRpTlZjNFc4RUxLNmhNbWJUd2Fub1ZyM3Y2WVdMXzE4NV9LTzN3NGYtOWR2WGJMODR3UHNQOWs1ajZ3cDRYX3hlNkFKaFZfazQ5c3dBcjlOV3g5UmxRM0tXcnlsRVJEbm1EeEJaTnZXS2VscGxkX0FYRXgycHNVUDhSN0pN?oc=5",
+      "published_at": "2026-08-26T23:14:55+00:00"
     },
     {
-      "id": "493894cdacaf66",
-      "title": "Paso Cristo Redentor: así llegaron los primeros camiones desde Chile tras más de un mes de espera",
-      "summary": "Paso Cristo Redentor: así llegaron los primeros camiones desde Chile tras más de un mes de espera Los Andes",
-      "category": "Argentina",
-      "source": "Los Andes",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLWNtTmVMU1lMekdNZGtDWnZFRDNTdkRnNDRxSU1uSWtoaXJzLWY1NFdQRURyNGV5SHZvUXgzTXg5RFVoU2pyTmN3S1JUYUhLTEwtTVo0RzRnRFYzc0FsWFdWQ09ZYXpDck9hemtKOXhQT1ZMN1JsV2Q2dHlabVljaWJ6alFGQWsxVlBSM3BVb1hxd1k2c3RCZGNRMkZEY0hqbE93a0g3YlY0Z3dPSnNpMS1FLUZMSWpsSkRKNm9GdC05d0E?oc=5",
-      "published_at": "2026-08-20T07:00:00+00:00"
+      "id": "438fb70010da33",
+      "title": "El cierre de un paso fronterizo encendió la alerta en Neuquén: esperan más camiones por Pino Hachado",
+      "summary": "El cierre de un paso fronterizo encendió la alerta en Neuquén: esperan más camiones por Pino Hachado Lmneuquen.com",
+      "category": "Camiones y mercado",
+      "source": "Lmneuquen.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYlM4Z1Nvci1fOFRiLVpJamVNZ0JIaGpRMWctdEdXNDViWVl1WmVnYTdxOEU2bENYQlhYelJYRnBLNHZDN2o4aVVpNmZzZUR5VnVoUFllWWo1UHExcHJabXVIdFZ4TFNiUGk4NnhmS2JUY3FDaURkcVBBRk5LUWhKMjkyMkt2eVFvdEJqemtUSzFnb3hoajRSc1JRbUMyLWIybm1EUlVtQ1h4eEUyeE9ZRGNLeG1wbkZHY0RDRURzdU0tZmhQV2ctMzV2cznSAdIBQVVfeXFMTXN1eV8wd3psSnNyM1FidnhHY3FZbkpJWm1lZjhsLXgzWjI4R01EU1dKTm5qR1ZrVC1IRzdhN042cVNPLXZMVWNvOFhJcERIWUR1R3lEVkdFSHFyaDlac3BTUkFZUkc5V2tKUHYycTdxZ25ubS1yZlVaVmM4NTgyWVVSSDkyRkF3d1kwNmJUZ2FLZFktVXJJUWVkWS0tMlV4ZWFoVzV5Q0oyVEtqbDZUaXk5cjFFQjg4UWpoTlV3TnN4MmNuaVV5aEpjQkRiMkpKSjBn?oc=5",
+      "published_at": "2026-08-25T17:28:00+00:00"
     },
     {
-      "id": "7a04961fb694de",
-      "title": "Reabrió el paso Cristo Redentor tras 34 días de cierre y así será el cruce hacia Chile",
-      "summary": "Reabrió el paso Cristo Redentor tras 34 días de cierre y así será el cruce hacia Chile El Litoral",
-      "category": "Argentina",
-      "source": "El Litoral",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQTZkTkJySDFEVTllaGZuQ2RONlU0SjV5VGN1UEV1Z09GV0laWGJZNjZSLWhVMkxCa1UxSjdVWVN0aUdnbHhSSHE1dDNmVGRlVnR3X1paelEyVWVsRmF4Y3hld0FydkdBT3E2a0dybDhYWDl0Tmc0cXBrRVJBRmtPUlNoZF9HWnoyQ3p0QkdKTHJuZkduZnhjVnJHTkt1SVpkSExaUjBqbDg2OEFzMURJd2Y2UmJNU3VTdnpRSWtzOVF6NDdYQ0VJWGY1Y0RBb3dPZDJabGxNWUkybjRKMGlScjhCU0w5STdkVExCMkNDWnZDbklC0gH6AUFVX3lxTE13Mko2a09pNVZESmVKQUQ1a1NWM1puN29mNjRyR2xhUGFlVml6MnhyZWZfZk1pemVqdndHWWhNVlN4ZFBETGlTX3hlMExyTUh4Q3c0TWZzaUNYM2VjSTJKN0tYOEthTDZuZDBobnNRYVBlTmNPSVRMTTVjV2VJYTVYZnZ2ZEh5cU1NWENDaGhnd2JmaTA1MWhxbDdQVHVHd1E2b01LTVJXVGVJUkhnMjNhLTZYbS1iTGNDckowT25JcEhKM0Z0UWVtRXhaOUFxbU1taV9KMXVaalBkUG1Cc1k3clVSdG5WRzgtUXJEZXZpOXBJVkdvT1ZraWc?oc=5",
-      "published_at": "2026-08-20T07:00:00+00:00"
-    },
-    {
-      "id": "a5cc916fb6ed96",
-      "title": "Adelantaron para este jueves el cruce de camiones desde Chile hacia Mendoza",
-      "summary": "Adelantaron para este jueves el cruce de camiones desde Chile hacia Mendoza Diario Mendoza",
-      "category": "Argentina",
-      "source": "Diario Mendoza",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORnNmNGtESDdrLVFmcEZUTU9ZVDh5Q3oxT1lnSVZhNDk5Szl4bUsyWUF2TndWSF9CUGVLQVd1cXQzbW4wNlpSaXJaRGl5QVZTNkM4V3lTZkpZcWU0aGpTRHlpYUlScXhyUVJJS0gtbWNnSkNtV3lHWVpLdldiZ1R0cGh1MUFEVG5LalZfcDFWeDcyN0pKNW92MDhhYUFGd9IBowFBVV95cUxPaWYyU3dJNGJ0ZVNLVDdPQWJEbVBEZXgzc0ptaktCME95bFhzWTdJU3ZjTEliLXJZQUZVRndaYTRhSjRfcTdGaURsMHlESll6bEZyVWxoZUVLQnZlNm94X0hMbHVUR1o2Uk1XRVlodUFyallPek5jTHNnYldLb0xMa1pONzVFZUhILVBrT3BQRVk2Z0lNNENmTW1VRzQzV3E0SUVv?oc=5",
-      "published_at": "2026-08-20T02:52:11+00:00"
-    },
-    {
-      "id": "91e595cb18d17d",
-      "title": "Se habilita tránsito de camiones desde Chile hacia Argentina por el paso Los Libertadores: más de 2.200 camiones ingresaron al país en las últimas 48 horas",
-      "summary": "Se habilita tránsito de camiones desde Chile hacia Argentina por el paso Los Libertadores: más de 2.200 camiones ingresaron al país en las últimas 48 horas G5noticias",
-      "category": "Camiones",
-      "source": "G5noticias",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVl9GN2FRV1FOZHhpdEMzVDc5ZENyT0hwaUZLc2sxUFlPc0paU3o3cUpqMl8wTEQ1RE9wXzV2Uk5WaEFqcTdoVE5wS29uOGJGRnE1bjdlZ2wxRm9UT0hMb1FfMElWcTRtdUpVa3NXYXFBZnhpM2JRcTdUMDY3LUlsUUxSUXVTTnZnMDJpdWp4d1hIOHREa2VvRWViSVE1cE9sNmdCZHc3bi11U2Q2d1ZXTE1QUzJqaGhGX0VteUd2dVh5UWxlR29TT2dmbjBkU0p2US1WRjh1M2V4NGZMRlBzSXNSYVU1Sm1WVW93bkZWckVpM3JZQ05tSVB1Wl8tNldSWVBOdElabTFaYmJTLUltTUN6TEJTemM?oc=5",
-      "published_at": "2026-08-20T01:47:14+00:00"
-    },
-    {
-      "id": "c561eb0aa93737",
-      "title": "Bloqueo de rutas en Argentina afecta el abastecimiento de Magallanes",
-      "summary": "Bloqueo de rutas en Argentina afecta el abastecimiento de Magallanes Tiempo Sur",
-      "category": "Camiones",
-      "source": "Tiempo Sur",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR1dVdHd5VDlqT0lvaW9vQjJqdEhJU3pZT1M5UWlDeHBGZkFWX2tjQTBWVHZmc1hSdFBGN2w3QzZwLTNBWXRId2s5VlpvNlZQRUJOVXNaUENyNXFWTkZqNFJMRzlQZWtVMm91LTdreWM1bjJhcGlmNlM1LUt2MkhmcGp4bG5COUN6d0RfMkVDS2duQnRQZURtYWxhbktnOTgtOERQektUYmhMdWlJQlEw0gG0AUFVX3lxTFAycTN1b1paZVh6SlMwczhDWTRsYkJsOXZhdjM1NktaVkszam9hQ0FRN1F2Tng3RXprVmRTckJoaEJRUm1DMmZFTlNoU21Bekd4RExmenBrOUk5QUJGb1g1a3JndXZmRmVWdk1US1Z3V0ZBMlp0NGFwc2tJTVI1dy15T1ZLZmlEV1RtczJHNnE1T3d3dGtIbzZZUzZ0eGdEY1JiQmR3aWUwVlBmMWlRNXlzSlJWeQ?oc=5",
-      "published_at": "2026-08-19T23:57:00+00:00"
-    },
-    {
-      "id": "a809490759c517",
-      "title": "Paso Cristo Redentor: cruce exclusivo de camiones desde Chile hacia Argentina arranca un día antes de lo previsto",
-      "summary": "Paso Cristo Redentor: cruce exclusivo de camiones desde Chile hacia Argentina arranca un día antes de lo previsto Diario Mendoza Today",
-      "category": "Camiones",
-      "source": "Diario Mendoza Today",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQjRHQnFjdWluREtjaTdkb29OMDRabWtJOGlEMlpxLTNDRGg4V1FkVWs5Y2RLeWIydFd0R2xGRUJuMG1RNDUwLVNpdURjVk9SLVRfSGRTWnJRS05RZkJoX3NVWXE5Z2toRnBGUVY5QUptbWlNZVI3bWFxb2x3Y05RRWxUX0dsRW9uUThlVzFLdzlkUzd1bnBSTzZFdUFYYlZOV0w1RTBOcXV5dVg2Q1ZyVWhDYkhqMVpaV0h3c1F6RmZaTzNhUVV0YXdsUGptRDJ2NDZCM2p2NnRvUHRmSTRCa0xOMmg?oc=5",
-      "published_at": "2026-08-19T23:08:38+00:00"
+      "id": "87c7f1f09dd719",
+      "title": "Argentina puso a la venta Belgrano Cargas, la empresa ferroviaria clave para transportar commodities a los puertos para la exportación",
+      "summary": "Argentina puso a la venta Belgrano Cargas, la empresa ferroviaria clave para transportar commodities a los puertos para la exportación La Opinión Austral",
+      "category": "Logística y puertos",
+      "source": "La Opinión Austral",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUndTV1lIa0VkWXE0QzkxVVFIWXViT1NPdk5aeGEtYklmUTNPU0ZsX3htelNEOU1BSHM1NC1BcVFkc2FuOVphbjNUejBkR18xUVlqT0N5a3o5WjN5NWNvRXRlWUJtWkROZ2cyV0JtYk5LYllDZzRCSTVvNnpDLWM3SkpWQUtiMDJpeElHcWFZT1dkUm1Bb0hXYkI0b0xuM0J6Q0RwdVczWFFFSmxISnFYMFR3T2VCVE1NbjNhWWZuUGpLQ2NmUnRrV0Y0YXd0STlLZWNOUERIRWpwaVd1QnM1d1RQVU5jRkxpV3pZdkJVMGNqLXBuTE9wVHBnWVFCWE9uMnd2NmZpeElwT2RZNzIwSjE0YTJnUQ?oc=5",
+      "published_at": "2026-08-20T12:03:16+00:00"
     },
     {
       "id": "f3bdc2d17bc1b9",
       "title": "Camiones autónomos en convoy y remolques sin chofer",
       "summary": "Camiones autónomos en convoy y remolques sin chofer transportemundial.com.ar",
-      "category": "Camiones",
+      "category": "Técnica y equipos",
       "source": "transportemundial.com.ar",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdF9zRG1ZOEQteUl6eldqMV93YkxHOGNBTUhnV1hQdkVOTF8xaVB0WDd6YktnVDNKWFZfNzI5R0RBaVlfVVlwNW9EaHlvT3BmUVItbWdmcVV1ZnUwLTFuWVBWZUQxdmlsZ2JVdXNIeTJLUjN5aE5pa255NlRJSF9FUHpDanFwUkdMOUlLOEU2dGlUX0dFcGtlbEphQQ?oc=5",
       "published_at": "2026-08-19T16:16:38+00:00"
     },
     {
-      "id": "2b7e4d382dc0de",
-      "title": "Reapertura del Paso Cristo Redentor: cruzaron más de 1.300 camiones hacia Chile durante el primer día",
-      "summary": "Reapertura del Paso Cristo Redentor: cruzaron más de 1.300 camiones hacia Chile durante el primer día Tiempo de San Juan",
-      "category": "Camiones",
-      "source": "Tiempo de San Juan",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOemtjUGFNTEJVMXRmYXN2NXk3VFdRSEhoZVVuY05LSFJDVlpvV1pfaHJGcmUyT3k5dkpObk55Z05iLXNmYUxMZWd4OGRiYzZTN0pMVTYwcktQWXdxYWJVS1Z0UnNGcGhhSl83dEViN0Ffa0w3RkdXYWdKTkVFSDg3d3lYLVNsdUtyQlpLbEMxaTAwWndTRGVQdUhtTHJVQVF1dWVEbEZ5MVZsREFzSXpXVGtLcF9MOUdOZHExMFFNcG9SNUVfSUExTFV5VjhMNUplUDJDbC1ZNXcyOHBBaE93OTFaQmlCZw?oc=5",
-      "published_at": "2026-08-19T15:13:00+00:00"
-    },
-    {
-      "id": "6b7cab6c2a701e",
-      "title": "Más peso para los camiones, menos plata para las rutas",
-      "summary": "Más peso para los camiones, menos plata para las rutas NEA HOY",
-      "category": "Camiones",
-      "source": "NEA HOY",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPek9YMDJFdHUwNUVjMWdlYTVpNFcyVWdkX3hHZXZ1NFlkNVp3VUtCWTlFbXI2NHFqQUtia05hUnZzbFl6X05iMldtWUdncElYYk1ueWwzR2R4TFJ4WVhHajFUUlQyWW1WWi1yNldBMUx6dTlvYjF3RjJTUTFWMlhSa1hRc1BpeXg2d1FiTA?oc=5",
-      "published_at": "2026-08-19T14:02:53+00:00"
-    },
-    {
-      "id": "bbd89cbd526b34",
-      "title": "Colombia reglamenta por primera vez la revisión técnico-mecánica de remolques",
-      "summary": "Colombia reglamenta por primera vez la revisión técnico-mecánica de remolques Webpicking",
-      "category": "Remolques",
-      "source": "Webpicking",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTENpT2ZWMjhkM0pQSlp3T1ZpRGlGTjkya000X0N3VFlRcjNwNVdwRlNZLWdqdlFXTXJfZV9ydC10cWdvTkdHYm94OEdKY0d1T05uSVgzYnVLS2xiU3dOaWQ5SkpXT0pZWEhLY2hPcXQ5Qjc1WTctbEZjd1pHNktPazhRZ2ZycUNERlhoTUJpd0M1eDBoRUlkX0lWdVV5dTJCOHBN?oc=5",
-      "published_at": "2026-08-19T12:47:26+00:00"
-    },
-    {
-      "id": "3fcdb0eb041835",
-      "title": "Habilitarán el Paso Internacional Los Libertadores para el transporte de cargas desde Chile hacia Argentina",
-      "summary": "Habilitarán el Paso Internacional Los Libertadores para el transporte de cargas desde Chile hacia Argentina Sitio Andino",
-      "category": "Argentina",
-      "source": "Sitio Andino",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSE9jWHNRR1BLNFg3czBjLWVmY181X21Rb0plX0xSdlQ4bVFaR2tCZ2hTNlJrZnp2WjFvUXdLc0JJb0pJS2FvOU9nQmVWNEJrWGhFdUJVM0kzUDVubXIzQVMzWEU0ZUJESDZlb1RxRVltU2lsS0s3ZTNGNlZ5ZGNoWEhITjh3TTBnYkp5d3RRaW9aR1VYQkNNWEQyWS1xNlU0d1JjZHdlZW83dUcwa3VoX2FLd0gtUzluTHp5b1ZXbzNocFVpZzk0NWRCMFZoZ2N2bkHSAdcBQVVfeXFMTWs2MXphOGw4dkdUTkZaVVRHRW9IejRTdjE0RWE2X2t4MWVXVURNRmI0b2ppQkdMYklrQnp3NjZIWHBYV0JBQnRlV29tTmpWNnBLWTcyN3h3dmlzamF3aWw1dUpzYzNWbnpkWHJWTERRbFVfalJRc3ZaSVZ1R1Jhdzg3eGJaSXpianBxM01FaFdBSlpaSXdzLU9iZ1hGQUVmU253U2l4M0pjemhpRVZSNkRfOWhudFhsR1Y0TnBtTHZncHFLb0VTWkd0YjVUWHpjZmxienRGRUk?oc=5",
-      "published_at": "2026-08-19T07:00:00+00:00"
-    },
-    {
-      "id": "d0dd38f25237e5",
-      "title": "Paso Cristo Redentor: este jueves se habilita el tránsito de cargas desde Chile hacia Argentina",
-      "summary": "Paso Cristo Redentor: este jueves se habilita el tránsito de cargas desde Chile hacia Argentina MendoVoz",
-      "category": "Argentina",
-      "source": "MendoVoz",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbW9KaWJTMVV4MFNHanhsSXd6ZXRmOVh2RjJsdXhUTWlNa2EtY0JSVnhhOHFiWjVjWlZXQVpad0hfekpMV3FaUkFuQ2gwcHdkaldXWGNBamJTSDFVN090bEJRTERqMDNLSHptVi1ueWtVVnQ1bWFxWWxDck01bkdsRXJtWkp6QTRhQVdKb3pfLWlFRVZoZy1rREctdDg0V1BWNnl4TXU4cEtiQW12QzJPZHh0bUViLVN5OFJrbWhrMEJ2UUxvaGNqcm1qOTRJR1hOWWN5eUhkRXVHT0cwZE03b3hueEpqMmhy?oc=5",
-      "published_at": "2026-08-19T07:00:00+00:00"
-    },
-    {
-      "id": "2dad13dd00640a",
-      "title": "El paso a Chile continúa abierto con tránsito fluido de camiones",
-      "summary": "El paso a Chile continúa abierto con tránsito fluido de camiones MDZ Online",
-      "category": "Argentina",
-      "source": "MDZ Online",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVU45ZU9XWWlLeFNFWjM5eEM3Z3FUbUE0QjBfRWc4QlNEQkJWb3MzblZhTzZtNEhQMkxhSEExWkh6UGVFUjM0dVBrT2tlTUJrMEpmSDNsM1BCQ1RkWVFYbFcwNlVZaXFLdnkyQUVjT19RenYxbVFMTFI1X3FTMVBRdzB0RjVZMlh5NGppdFEzZWFWMG0tX002UUZjNNIBoAFBVV95cUxPYVlDM1hQN1ExTnZFSFZJUGlLVmZpODF4Wi0yU0MxLVM3THc2Tk5BUGpZWHl6VGFobkhuMFlZajVfejNtaDdydmxKaDdXVFI3OUN1b2ZxVnBpMUh4MlZPaWQ1UlctUFpjTzhKLXJZR2Z1UER4UTc1cXJCT2gyVnVIV0YwV1IzS2NKTWFpT3JXVEtIXzduMFdZN21NcldGdl9R?oc=5",
-      "published_at": "2026-08-19T07:00:00+00:00"
-    },
-    {
-      "id": "d4ddaf5c77b45d",
-      "title": "Proponen eliminar semáforo y restringir camiones pesados en Pedrozo",
-      "summary": "Proponen eliminar semáforo y restringir camiones pesados en Pedrozo Diario HOY – En Paraguay y el Mundo",
-      "category": "Camiones",
-      "source": "Diario HOY – En Paraguay y el Mundo",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWVIUzhBZkNsel9rUjBDejcwYkY3TFFWcnZ6d2RJcmlxamVXbEsyYUVlTG5MNHRESlRPekkzVEFpM2FxQTAxcUdKeEVKcjZVMk5RU3c4d1hHMDAyOTRLWHVVN1IwR2pTTEkyZTNEQUZrc2NXODlIU3RFX3BxR1lNVV9wZGEzZXZub0t2VUlnakVTb0RTbkw0a2lNZ2c3NjdXQXEtQi0yOXpFb2lLSXFsYWhn?oc=5",
-      "published_at": "2026-08-19T07:00:00+00:00"
-    },
-    {
-      "id": "1fd905f7fd4d4b",
-      "title": "Paso Los Libertadores reabre parcialmente para tránsito de camiones tras 34 días de cierre",
-      "summary": "Paso Los Libertadores reabre parcialmente para tránsito de camiones tras 34 días de cierre Data Portuaria",
-      "category": "Argentina",
-      "source": "Data Portuaria",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFJZMHI3SzMyc2o0QktSY1RxWS0xcHdWQnMtbUZMUU1wQUlSMVNHclh3WkJsRWVvR2tReFBKNjBVUFROZTN1QVNmOFIyYnY1VllRV2lyNno1SzBkYUd6a2J3RVV0SVA4cF9hOTd1Zy1OM2kxbEZHb2tkZEpjN2ZkZmo0aExabDZJQ0o0b2pTLTNkTnNWVEducWhEUFo0eV9ZSlpIUjhBNWxzQnd4b2RjZDJpZ1NtUEIt?oc=5",
-      "published_at": "2026-08-19T03:02:05+00:00"
-    },
-    {
-      "id": "3507d9395aa5b3",
-      "title": "Argentina modifica el RIGI ante la privatización de los trenes de carga: qué inversiones podrán ingresar",
-      "summary": "Argentina modifica el RIGI ante la privatización de los trenes de carga: qué inversiones podrán ingresar Bloomberg Línea",
-      "category": "Logística",
-      "source": "Bloomberg Línea",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdENXSHROeTZPVG4zVFR3UHNyQXZJbVNFSXM0SDlrTWtkSEJ0Z0Z2cXBWU201TGtzTDlJYk50RXBsd2dTOWNCUDJFNGlHSUplRmpxVDJRMDJnRzJGbkl3enU3Zy1mSHE3ellCemM3Vy1NeG9FanV5S3NOeHZnUVlJcGlGeVRqczVfVzYyRmxQaHktMllJRlVOdDVacFZ0a2w0Njg5LWw2RG00bGJqRFhGQkZ6c2I2Mm1hMVY1ZzhEQ1N4NnRPTTNteFU5TDktMXM2OGdGd04wWUtYTHZyYkxURHN1SG03cFBRaFlDN0c4N3rSAYQCQVVfeXFMUHIwOThHc0h0ZnU2VzE5WUhpeGJ0U3gwLWtjT2FUdkIwaU1VQzJCVk82WmhURlIzWmc1cW5zUkdFWWc5czY0S2F3YlBrQXVTVC1hNzBLVFNHMlZ1aDZsSzk0Q21vMDJwREF4ekoyOFJHcWJjbnJvMEhwQXF1WFowdzNqa0oyWGpDX19VNzNYSmdZY09Gcm90OGlnV3JaMXA4QXhRY3haZC1CaXNKYXVrSWtDSXNNRGxWWXNqR1VJMTIyZHl1V1dCZTdBSkppVGRuLThFS2oxcWE0dWhUXzI0d1d2NXR3aDVpYU96UDJBTlBIR1lzODByXzRjNkFuNWtNeXhiLS0?oc=5",
-      "published_at": "2026-08-18T07:00:00+00:00"
-    },
-    {
-      "id": "5851c7988aa338",
-      "title": "Brasil lleva el etanol al mar: un gigante portacontenedores ya cargó 500 toneladas",
-      "summary": "Brasil lleva el etanol al mar: un gigante portacontenedores ya cargó 500 toneladas AgroLatam",
-      "category": "Camiones",
-      "source": "AgroLatam",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHNEVEVfd1h0bkM3NUNlZGx4aFdDclpoTWdJak0tSF91U1JIdnpyTUxLUFBiNVlBMnlpSmQ4dU5Fa0FGZHhJSlpKUXdjYzM4a1IyWEd3T08tdkVxc2oyaUVNNzJvZTlNRkQ4NW40aWt3MHhSQ1JwWlFvOS1lbFd5TERrS28tRFZRUGpYaVFVZ3ZmcUl3YjJn?oc=5",
-      "published_at": "2026-08-18T07:00:00+00:00"
-    },
-    {
-      "id": "03e6dcbee0a4da",
-      "title": "Reabre el Paso Cristo Redentor tras 34 días: operativo especial para liberar 3.500 camiones",
-      "summary": "Reabre el Paso Cristo Redentor tras 34 días: operativo especial para liberar 3.500 camiones Maraco Digital",
-      "category": "Argentina",
-      "source": "Maraco Digital",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSnhKN243TW43dmllbGd1SjJ5Wld6aUQyZWptS3RVYWxHLWc4dkRuVUZNSkZDN1IwOGdFZHM4TkcyLTllRUxpamhVTmpURW1sT3BMUzdfOEZBdzFpbGxoU0l2bEhpMDBPZHBRN1EyNEMzQTlZQTFFM2hmTF9ERW1YSWNYTVdZbnprMi10QThZTV9LX3Fqam1XcV9vbTJFQnFFUU12bERORTBWaXZBUC1KZ015M29IeXBQa0NublNDSGpYdw?oc=5",
-      "published_at": "2026-08-17T22:52:32+00:00"
-    },
-    {
-      "id": "de2d40d77fb0aa",
-      "title": "Un camionero mendocino volcó en la \"curva maldita\" de Neuquén",
-      "summary": "Un camionero mendocino volcó en la \"curva maldita\" de Neuquén Mendoza Post",
-      "category": "Camiones",
-      "source": "Mendoza Post",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUJqVzViekxFM0diUjJuNjc2R2FrMEVkd2ZyWk5zZ1NGWDhHZ2E0MXBubUhpSHhPWFpZUnEzSHFWUmpQOXdIREtMMkVQU3VTZkVJcTE0Q1BuUXFWa3Myek9KZ20wNjFPdHZGUjZPRzR2MmZMWlpnSmRHSXlyUmN0aEtNamNIX243QUtoUmZKbEU2Z1lKWm8yd2VnMUUtV3BqV3F1Nm51NA?oc=5",
-      "published_at": "2026-08-17T10:54:00+00:00"
-    },
-    {
-      "id": "970db6190ccfc8",
-      "title": "Caos operacional dispara los fletes entre Asia y Sudamérica y deja buques sin espacios",
-      "summary": "Caos operacional dispara los fletes entre Asia y Sudamérica y deja buques sin espacios MasContainer",
-      "category": "Logística",
-      "source": "MasContainer",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYkRCMnRDMDltYXlweDNXaGRpZTZ2a29KSlp2TVFleVMycGczTTNFVHpxRjUzaVZEQVFOd09aVzJKeTIwLXJTeC1aZzZXMmsyOXVNN3ZuMzM3RGxqNG9ob1RVeDlUdDdhZlppUWd5eHA0WGZwbjJULWhiS2ZqQzA3UzVQSUw4SW9uU01uSmV4RU5hcmk1WG9oOGY5c2t3MTBxQTUzT2sxWUk2RHFUaDBn?oc=5",
-      "published_at": "2026-08-17T07:00:00+00:00"
-    },
-    {
-      "id": "fe9264f392dc5c",
-      "title": "Paso Cristo Redentor: reabre este martes exclusivamente para camiones tras 34 días de cierre",
-      "summary": "Paso Cristo Redentor: reabre este martes exclusivamente para camiones tras 34 días de cierre La Voz del Interior",
-      "category": "Argentina",
-      "source": "La Voz del Interior",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeVdjRE1VR2hfS2huXzl4OUxhVTRfckdvWHdyam9lUmk3YTdyeVVjNUo3b3djMktwcVJrSGo3RGxiWlFIbEQxWUxMek5EZG5Valh2a2R5R0Z6MlEyb2pSeW91TzRJNnpXbjJIQ1I5c1ZUV2M3QVhEZHNlRWJLWUs2WUMwU2RFU2I5Qnp2S3FFNHlua2M3QXVGN2czOFNqTC1jYUZGak11d3FWUm0zQXNIRFVXSko2N1V2Mkg3cEt6SXBoYlhob0E?oc=5",
-      "published_at": "2026-08-17T07:00:00+00:00"
-    },
-    {
-      "id": "0fcadb2cac585f",
-      "title": "Reabren el paso Cristo Redentor tras 34 días cerrado: cronograma exclusivo para camiones",
-      "summary": "Reabren el paso Cristo Redentor tras 34 días cerrado: cronograma exclusivo para camiones MendoVoz",
-      "category": "Argentina",
-      "source": "MendoVoz",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNm0xQkhHbF9HcC1tOTVBYnZVMmdfZ3JrOE01Z195bF9aVkZhNDJ3cV9fTEo4UFNPRlhkQ2gxNHhteHhYVnZVWjZ3ZUhyenFuWHFKYlZJVUVQb01GbnFvOGVCQkxzWW5leURFNDRiUndZaTU2TGpKMmJoWlJoY01sQjBhZ0NKX2FLMzBqSjFXTld5anZlQjhrRmRRQi1NZUstbDU0dVVyVWZCLW8tV1lKSzBDZ2FUaFdpUUFGVlZZUW42cmkzYUJhZWNaa3lTNjBxZ3NEZ3hVYmprS1JMd2hN?oc=5",
-      "published_at": "2026-08-17T07:00:00+00:00"
-    },
-    {
-      "id": "cec5a7c2ad650b",
-      "title": "Reapertura del Paso Cristo Redentor: comenzó el operativo para organizar el cruce de miles de camiones varados",
-      "summary": "Reapertura del Paso Cristo Redentor: comenzó el operativo para organizar el cruce de miles de camiones varados Los Andes",
-      "category": "Argentina",
-      "source": "Los Andes",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR1FuRjc4d19xZzJZNHpsY1FZZFlZWmFWRnpndjZwbUdTZjVwZVlGOThlaExlbFdvalp2WDQ1SkU5YzJlWTNKdXQ0dTNaMVM3V2lKQXhwRDZBUTlPeENrTmlwYXpEZ3BfbXJHY0xNUXV1cFJfbzdGNEFZcnMzd3dKWUN2ZEZHQ01iRjZPaFVabldoQzlkNzNRUlNEUTZpSTRYWWJwY0sxLVFvRjV1cnJhdV9EakxIbWFhS3VSQ2lrS2pkRHNRZl82cTlrN3BwbUxHeDZDUWtoaTUzeVFt?oc=5",
-      "published_at": "2026-08-17T07:00:00+00:00"
-    },
-    {
-      "id": "c61ac7ca0b9c70",
-      "title": "Chile reabre a camiones el paso fronterizo con Argentina tras 34 días cerrado por temporal",
-      "summary": "Chile reabre a camiones el paso fronterizo con Argentina tras 34 días cerrado por temporal Infobae",
-      "category": "Argentina",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaE5XRmQ4Qmx4Sk9oRllEZlpUdWpWdTg0UmpTYnMtLVM2bS1iUjhOLXMwME1ZZERLemdiQXJ3NEVZN1prY1R4RVdrWW5Mby1ZSWd0eWl0Qjhsb3pOeHBnZDN0V080X1plNGZOM1BQbkY4Y0hyNUF3ek5iei1kRnYtOVI1amFEMThyVUxaNzJfamhYZXY4SEdIeDY4d2pQcm9OMWphZjZYWEZwU1Y5QS0zTFJiS29XT19FNmVIeHlYazl3U09VWnN6YXdfV2Z3ZWNSOFJNVUxwTU54VDjSAfYBQVVfeXFMUGN6SlJHLUhWVE9WXzNwVGx0X052bjBrMG1wcU91NzZ0ZmpMb1pIV2o0Um1KWjJQZkdMd0g1SmVyWmVKRjYxcUdfdmlOcHp4TEpqcEhlVUJ5czY2WXhrc3N3YmhWR0ZFcDJfWWdiV1pBVm1BM1E4bjE3aFYzTVBkMy1DLVJXbEhQOGRYd1ltYTBLWU1ad1RrSzZ2Y0s4OEx6U0MyT3dOV0VWcGxyeXpIZEQwVEItX2xiVHhaWUhUR0o3N3NJaGRvazRLbk8xZWI0SjBEN1JiWmVDS2RsYndDTWQzZWRrZWR0TllxSTJlOF9DVUZhbktB?oc=5",
-      "published_at": "2026-08-17T07:00:00+00:00"
-    },
-    {
-      "id": "fb9034394571f6",
-      "title": "Chile y Argentina habilitan paso fronterizo tras 34 días de cierre por acumulación de nieve",
-      "summary": "Chile y Argentina habilitan paso fronterizo tras 34 días de cierre por acumulación de nieve teleSUR",
-      "category": "Camiones",
-      "source": "teleSUR",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tdFdUd1FPalVzazZPYjhCNXc0UjRsd1dLdFE1T0V5Yk9lUHNrdUMxb0xSZ3ZUZS1YN3JkTDFYdFhjMExuQ2Z1OExTelVzZG11TnNlTThFMmxIT0MwZmpYNUNCNlR0VGtiaEZCZ0ZxU3NSMlUwWmh2ZWZRZFM?oc=5",
-      "published_at": "2026-08-17T07:00:00+00:00"
-    },
-    {
-      "id": "c29f6afae94734",
-      "title": "Cerraron otros cruces con Chile y cientos de camiones quedaron varados por la nieve en Jujuy",
-      "summary": "Cerraron otros cruces con Chile y cientos de camiones quedaron varados por la nieve en Jujuy Que Pasa Jujuy",
-      "category": "Camiones",
-      "source": "Que Pasa Jujuy",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMmdSOGhfMk55QnRCRkdCTTlBU1FNQXFCSUdFVHRkcGNydTRnSzhUTWhfRHFtT2xIck1PQjI2ZUFudEFJQnlyS1hHYWtEY3lOQ1UyX2RkaUJENVNoNWhfN3hPY3oyQl9lNEdQNU1Edm51TGx5cEkzNFpVOVA3QTlnbWtiSFBKYVVZUXNtaXY2TGE2Z2g2VkJuTUktMnpEZTVCdTVsOVdrbWJUSm5oN0NKU1phRkM4eC03eE1NTU9JYVJEOFhWclJQWXFXUQ?oc=5",
-      "published_at": "2026-08-16T23:12:11+00:00"
-    },
-    {
-      "id": "164443e1b9f921",
-      "title": "Liberaron 70 camiones del autódromo de Centenario rumbo a Pino Hachado: quedan más de 1.200 varados",
-      "summary": "Liberaron 70 camiones del autódromo de Centenario rumbo a Pino Hachado: quedan más de 1.200 varados ADNSUR",
-      "category": "Camiones",
-      "source": "ADNSUR",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVS1KM1pBOG1Bb015ZVhTV2tiQnRmLXdvNnp5NnRWdG5hdnZhVFk1RHJEejB2UGxZSkEydUtOWnRuNkJKTTVSQ2N5dk1kbXloYnNiV1JtTUNzWWNyeFBsUU45YTNXY29PT0tTTEE4ekg3UGtlQ0xHNUQzdWhmNG5Hdkg2dVRZUksybnFkQ0xnMFB5bGtQN3lHZmZPQVBaNnlJZVltcDNLR1FXNlNYSDc1bWRrTFdmS1FXOFhHSVBvblItMURqa2lyS25jc2NxYmh4YnF3cG5oQ3UySG10ckl6RW1Jd05UX2FUUFJiYVZFcW4wQQ?oc=5",
-      "published_at": "2026-08-16T14:53:21+00:00"
-    },
-    {
-      "id": "beff7eb8683514",
-      "title": "Avanza el operativo para liberar camiones varados en Neuquén",
-      "summary": "Avanza el operativo para liberar camiones varados en Neuquén MejorInformado.com",
-      "category": "Camiones",
-      "source": "MejorInformado.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDE3YVZsS2JwLXhZNU8tMjJ4UWtZd3lCTU9lTjZtamNpaWQ2ZndIejhveXMzd0NSeDRnZjRjRTdoQkdhX0wzSGF3djJLV0JzanA0NmY0MU9qTXVLYVpwTk5IaV8zTWtyN0g1YUkwQ0VKRkRILUlybVhWSWsxYUo0TzVNRFRnTTFfUFFJZTFIWkdzM3dVRElhUmxxQVNaWW5IbExmaVpNTkVyX2FwakhOUWt5Uy1uMFdDVHRXWkF0MjF6QXlFVU04?oc=5",
-      "published_at": "2026-08-16T00:37:22+00:00"
-    },
-    {
-      "id": "de360e0e0342ff",
-      "title": "Liberaron 70 camiones del Autódromo de Centenario que estaban varados por el cierre del paso a Chile",
-      "summary": "Liberaron 70 camiones del Autódromo de Centenario que estaban varados por el cierre del paso a Chile Diario Río Negro",
-      "category": "Camiones",
-      "source": "Diario Río Negro",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSjhWR29taE5mSmp0X01EWnlmVk9xbEFKZ0V1ZzFQWHhqOVJkck1vTl9lRDFHbzItMV9XWnhzU09tV2NyMWdpRXhsNUM0YURpQ0Y0Q3dOTXN6V3ZPcmo0bG1KbXZIMkNvYXdZLTB6TDN5Smg1T01EN0R5N3dDMXNPUzR2TnVTOGFoU1RGbW9MQnU1MUE5UVNWMUJiOXAxNzBpUTYtcWZUaEg5UWs2bWtoSXEyUTV2UFBSUWN2V3FPUXJta1VjRVNoaVV1UzhPRHEyRXZTYTFJY3Rtb1Etd3Jv0gHnAUFVX3lxTE1sZ0NoLUJXWHRKbTFYa0l6R0dESUFRZjlFdWJpSWFMYnN6dWRVU0h5S1ZnUi1mZDZUTDJaR3c4M1JIMktHWTN2ZlI4YWxDWDFxSFdLcnZ5NVVncTM2LXZ1V3dRaV9XQTQxLWV0QU1TUFFia09uaTlVT3VJVVEtMXlhWDhvaXRTTEdXV0xCSFA3WGZYUVpMeG9KT1A2VEQ1Z2lxNS1MemhEenpVRG5ObUdkNHMwMmdGaGRjSHhpcU03UWFsRGd5NnlYZGRTa1kyNVNNa290ajJMZDFUT0M4RzNPUmV2QmltSQ?oc=5",
-      "published_at": "2026-08-15T07:00:00+00:00"
-    },
-    {
-      "id": "5a557bb0728b18",
-      "title": "Infraestructura, tecnología y capacitación marcan la agenda para la logística argentina",
-      "summary": "Infraestructura, tecnología y capacitación marcan la agenda para la logística argentina Infobae",
-      "category": "Logística",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcF9QeDVubmZWZEJTMmZzQTJ0MWVQUkFrT0lISm9zMFJDS01aNm1HMnBTVFdzM09XZ2Zhbk1OajVZQk9uX19YNk5RZEdBaXV6ZnBVbFVQYW5ESHQ4RjduV2o2UHN5cTgwNFVNTFU2N0RXdTVqY1R6UGVQeVFvZ3JVdzRlWGtnWVFCRGRBdlZxMXpNRG9pSlFKUV9GS1UxRGdMbEctRExJTUxJQU1vUjZHRG9senZ3U2F0M0ZFOVBZb0hxY19BZjcyZNIB4wFBVV95cUxNa2xoaEpzV2pORFBDWW9aamZZbldpVEd6TnVtRUVqcjd6T1ZRLVdQdTZfVVlWSUlqNGlhQkx3RmIzV2pmbUZWekZYZkxrLUFyRXVFbEFEOWx1STN5S2k2cG1BTlpqcDBTOFA5eFdqRlhqaVdkcDJxMnNpalltb0ZfT2ktNW1WalJ2SXV4bGJfUFhGRmFSWTl0Nk5BSzZ6Tkt5aGxSNXJIRlMtd3dKWnVLZjV2Q2lYTWhydkZsT3RHVW1HS0VPUlhmSWFtRXBQajVTel9OOE1xWHliQ045RkUxN3pSbw?oc=5",
-      "published_at": "2026-08-13T07:00:00+00:00"
-    },
-    {
-      "id": "fcecac11956da8",
-      "title": "Rutas destrozadas y camiones más pesados: Una combinación peligrosa",
-      "summary": "Rutas destrozadas y camiones más pesados: Una combinación peligrosa Infobae",
-      "category": "Camiones",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUhOVjRiLTd2VFFKZnY5M2FnLUZtbDVGa0thXzlYUS1KSDJHU3dYMnVCSXhBM2RwRngyOUU5azh5cWlJS09QWG1tUXpXaU1feVFiV1k1YlczYWR2aWZ6emR0Qk13YW0tV09PZ2N2ZUdIU2F5amhCU1R5ZGpwWUR1VDdEbHN3NDFnSG5RbE5hcF9NakJMRlVmdy1NNmZWc0s4RWVFNXhTZmM5YlN1eURqeTZ0dWsyLVpiNUpIOUJIWmtlc2lvWC1YLUJHVDVxS1k?oc=5",
-      "published_at": "2026-08-13T07:00:00+00:00"
-    },
-    {
-      "id": "11bdf4f83bdb68",
-      "title": "Camiones varados en Neuquén: avanzan en tandas desde Zapala y se descomprime el corredor hacia Pino Hachado",
-      "summary": "Camiones varados en Neuquén: avanzan en tandas desde Zapala y se descomprime el corredor hacia Pino Hachado Diario Río Negro",
-      "category": "Camiones",
-      "source": "Diario Río Negro",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc2NaX1QxSTJDaGQ4b3lheW5TYmhuT0c2UGVHZVR5T3EweGZYYWhyNnZzdzY0bDlIeUJPa2RYQVp5WEN4cGc2NlBJZ1dVSjF4b3VjMmZzQklyTDB3ZkhBMzZSclZFX0tVdGZ4dThLSzQtQkR6VmptSUM3ZTNtWloxdTBZSUhUeXloc1otMmdWZlM4alFQaXpMZ2laRlZ6UjZ1dVBwQi1UT3BqanRvQk5UMjdkZjF5SmcyWVNkbk5uWk5GU1pELU41bTY2RUxIbGdjRUdWR2lPT05nREVVMDE1SWRiZzZkLW8?oc=5",
-      "published_at": "2026-08-13T07:00:00+00:00"
-    },
-    {
-      "id": "d74083fa1f0eb6",
-      "title": "Camiones varados en Neuquén: cómo es el operativo para avanzar en tandas hacia Pino Hachado",
-      "summary": "Camiones varados en Neuquén: cómo es el operativo para avanzar en tandas hacia Pino Hachado Diario Río Negro",
-      "category": "Camiones",
-      "source": "Diario Río Negro",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOVdvd0xmUGpCcWd0Y2FpdFJKVS1za3V5MDRGQlpHV2dQc2hsWTdPMUVHbkNxU0E4THpPWWJELTdOLU1BUmdoNlZVTU1RZWRDSFRRTzBhcTJvcXFBYTBxOEpVdjZXdEJ4T29GQUJhb2s5M2JIc0paVHZzVnYwQUgwWmxHSndncFhlQUEtRTZQbmp4UGVEbWREcHllRGJZR04tS0FXZG1FZHI5QTBlc25OaFNNVHptZVJFRWRKRW91QWNIRGFXbUFTc2puTnkwVzU3N2fSAdoBQVVfeXFMUE9LRjFCeTRHd2E3V0NCQnNsaXZYeGI4VExJS1RaWWNUM3VKX2J1blZNYWRXbldzTG9qVl9hWVZHWTY2dHZydjhTTkp6TjdQdy1WRFlfVE8yQmNqV1hocGt2dlV2NlhEanNfT0g2ZHNveHVybWRGZndaTFZkaE1Oa2dpV3ItTFAtVC15X2ZyS1lNOGhQUjNhd0xwSTZvaVR4MWc0VG1ocTZqdU8yZU5UWlZWVTN5NFhwVUFRckxfQ3VnZXpmeFBGVEw1WEtfU21wdTFVcjJ1YXkyNXc?oc=5",
-      "published_at": "2026-08-12T07:00:00+00:00"
-    },
-    {
-      "id": "71e7f397eab50a",
-      "title": "Polémica tras la decisión del Gobierno que habilita la circulación de camiones más pesados en las rutas nac...",
-      "summary": "Polémica tras la decisión del Gobierno que habilita la circulación de camiones más pesados en las rutas nac... Rosario3",
-      "category": "Rutas y normativa",
-      "source": "Rosario3",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcV9TbXVlcXlleFNuN296SDJVT0dhQlhuc3lFZjF3THk1RmdkS0l0TGF6M2RCU2psa3RzTUxoVGVpa21WQVZMcHY2ZkQwV1NnZjg1X3ZUbFBkdnRsdWxCVmNVVld6YWFWY05CS1czb1F6N0dudVNMZnlza3EwQUJWdkszX2otX1lNc1M5T1F2aXQ4TGlBN2xMYTFPNFVWQUVaR1RFa09CTHppa2ZmQmZ0MUUtMDBhZk53ZUFSYlVZMDUyaWpucXRNN2REbTBSSjk2a3Zvb2ZNc2t2SW95NlR1cmlYaTh5WERmZzl5Q3lkbXplRzdKM0RPb1FXYUpLYUxRd2tPcWlaLWjSAYgCQVVfeXFMUHFfU211ZXF5ZXhTbjdvekgyVU9HYUJYbnN5RWYxd0x5NUZnZEtJdExhejNkQlNqbGt0c01MaFRlaWttVkFWTHB2NmZEMFdTZ2Y4NV92VGxQZHZ0bHVsQlZjVVZXemFhVmNOQktXM29RejdHbnVTTGZ5c2txMEFCVnZLM19qLV9ZTXNTOU9Rdml0OExpQTdsTGExTzRVVkFFWkdURWtPQkx6aWtmZkJmdDFFLTAwYWZOd2VBUmJVWTA1MmlqbnF0TTdkRG0wUko5Nmt2b29mTXNrdklveTZUdXJpWGk4eVhEZmc5eUN5ZG16ZUc3SjNET29RV2FKS2FMUXdrT3FpWi1o?oc=5",
-      "published_at": "2026-08-11T07:00:00+00:00"
-    },
-    {
-      "id": "f9011f1dad302a",
-      "title": "El Gobierno actualizó las reglas para los transportes de carga",
-      "summary": "El Gobierno actualizó las reglas para los transportes de carga La Nación",
-      "category": "Rutas y normativa",
-      "source": "La Nación",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1NMcGJ4TmFGZVlxOW5PVzgxbU9FaGZPdWFWZDZ1QnloRmVuQnp1VUYtMVVzR1B1aWtCcVRPT3FGTG5DNks5UlVIdlVGYmpHbTJwS3hqV0pqM1lpSlIxYi1ZRXk3XzdzYUpaRUdsVWZrSGJfRXdWcG5KcHpmYmJxd1pqYlVvOVF0cHpaLVQ5cVZQczF4Z1M4NVl4U0NQVHZCTTZFdFVaLWtHS1ZyclNGaXpB?oc=5",
-      "published_at": "2026-08-11T07:00:00+00:00"
-    },
-    {
-      "id": "9378b74c20b5af",
-      "title": "Más de 1600 camiones varados en Neuquén por el complicado cruce a Chile: cuántos hay en cada ciudad este martes",
-      "summary": "Más de 1600 camiones varados en Neuquén por el complicado cruce a Chile: cuántos hay en cada ciudad este martes Diario Río Negro",
-      "category": "Camiones",
-      "source": "Diario Río Negro",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaHVqSk11SnNXaHZhQ0ZTcTJ6QjhsX1VVMnRsakxkN1hzdEtFQUQwVWRFbVJZMHAzTDZZdmE2dUJwTlhKRG9IVkNKcW5CZzN4cHkydjkxWldLREdwb0xsbzgwcFJUMHBIXy1LcHRfNHBzczJNYVRHQXhWN0drQ1pzX0FvejdOeVY2NXdaWTd4Zk5xTGJUSXhoaUZPaW1uQ1g5MTJjWWVjZVBtRTV3TVJLY0t3bDNRV0kzTWVHQ2k0Y1p3QUliM3FLQklPMGQ2VjZXVGtJV0V4YU1najBQX1c0Y2VxcGtyOUVVaWkw0gHzAUFVX3lxTE1OTkVVc05tVmdPQ2NJbV9fNkhXcTREQkVPMnhMOWpPNUVSMXBsREVRZm92YjFHWmZfdlhraW1nVnItNGtwbDY2NnV4ODRKLUpPZjVnYjdTSHhHR0xpMlNpcS1SaDhoV1plbEtIejhOYWhTa1dpa1J5NWE5ZUdhU0pDYmdQMUx4OXFqNUljMjFqNklwYnd5Q1FwZHlzenhMRk9yTTdBc1ppazM2aVpwLVBQXzZmLWhIXzUzNmhTbU95TjRYSXQ5dDBjZFhyY0RtREtNWExRcHhNNEV2SjVjVU9yRG9rbnFOaV9udTNfNElJYmhSaw?oc=5",
-      "published_at": "2026-08-11T07:00:00+00:00"
-    },
-    {
-      "id": "133e26de8cb70b",
-      "title": "Más peso, bitrenes y ventajas para camiones a GNC: qué cambia con las nuevas reglas del transporte de cargas",
-      "summary": "Más peso, bitrenes y ventajas para camiones a GNC: qué cambia con las nuevas reglas del transporte de cargas Diario Neuquino",
-      "category": "Rutas y normativa",
-      "source": "Diario Neuquino",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc0pmUk9EMmFMaXYya0cyRjIxbDVZbEpGaXYzWXdsR1pIVVA2MXhKeWg5S3JxZ2ZFeWlGTnVtLXFOdVBFam1pZ2dfcDQ5T2trTnZYZ041Rks5WVh3bXc3akY0RWZjLXJhTkJxR1VpelFYd1Y0Rkh5enFYa3pnRkNkUnFkUjVraENUOG9UcUd1S1VoT0J1anNzbVdzeWFPVFpQQjRPRzJxSmJMVVhOdHlKN3I0cWt0NjJEZ0xlSWVZMFpQS3hMMzQ4amdlS25LU0xnTkMw?oc=5",
-      "published_at": "2026-08-10T23:03:13+00:00"
-    },
-    {
-      "id": "d7de51af05b483",
-      "title": "El Gobierno amplía pesos y medidas para camiones y bitrenes",
-      "summary": "El Gobierno amplía pesos y medidas para camiones y bitrenes Diario El Norte - San Nicolás",
-      "category": "Rutas y normativa",
-      "source": "Diario El Norte - San Nicolás",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQUtpUWw2ZWc3ZlBVc3JtZ2pTODJPcXEyb05Dc2pQbjhic0tJdmdZWWZqaHdGZWV1RW1FZEtGbnNicGFBOGJNSWRxcEF6a0JCYTltR0ktTWdfRE03eWQzRTdNblUybWx5dHlkaWVXYXYtRHgzNEg3YVdmREJ2Q0toY3JDNkMwZlNFNE96WE9pSE5SRjA?oc=5",
-      "published_at": "2026-08-10T17:18:22+00:00"
-    },
-    {
-      "id": "f3609590c278ef",
-      "title": "El Gobierno actualiza las reglas de pesos y dimensiones para modernizar el transporte y reducir costos",
-      "summary": "El Gobierno actualiza las reglas de pesos y dimensiones para modernizar el transporte y reducir costos Argentina.gob.ar",
-      "category": "Rutas y normativa",
-      "source": "Argentina.gob.ar",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaTFMMDdvYWY1RTY4RkoxdC16R09CTXVxMVNUZ0FuUVMxem42RFpVNnRKVHpRb1dJTW5KanNBTlpOWThNOW5HM3dEeDFYczZYc3lFSjRCWWVPMHFtNGZYM3BqTjBRVGlsVEJ0c1pBeUpHUnNZNm1EQk1ZbFlzTXNlaGhUeE1fRzRLZGxzRW5MNTJsTk1uUjJLWlg4eW5mbzhMa3JtZFBSdmd5Ti1RWEZjQjkyTzN5Q3pmT0JWZnNUUE9hcDQ?oc=5",
-      "published_at": "2026-08-10T07:00:00+00:00"
-    },
-    {
-      "id": "6d254fef6e7595",
-      "title": "El Gobierno cambió por decreto las reglas para el transporte de cargas: más peso, bitrenes y guiño al GNC de Vaca Muerta",
-      "summary": "El Gobierno cambió por decreto las reglas para el transporte de cargas: más peso, bitrenes y guiño al GNC de Vaca Muerta Diario Río Negro",
-      "category": "Rutas y normativa",
-      "source": "Diario Río Negro",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcVJMWnE3SnhldEdtaW1TX3JiOGVjMWJISGlEYkwtdWFJaU44Wk9RVkdMazVqME90bWEwLVRMd05ndHdHZ041V0NraXAwYUdpbWRtbXRITjNXZV9SSHZkQjd6ZVg3Ynp0Z3l5VU96Q1E2dzNOSXlicmtJdUFhY2prSVRNUzR4SDBkWTJpaVhGeXN1NHBaOUhIVkpfblIwSUIzdVd2UjZvSHVTMWZteE11RC0yWEs5MW1vbTAwZEsxaVl2dUhtQUNuY3NhTGRVclhBMzkxWXJIT3NkdHYxSERvS3RUNXhyVVY5LUZqZlhNZmFSUHZwYVVJ0gH_AUFVX3lxTE1FWkRjTlhZN0VLaWdqNXNBcjJINnJMR2U5TE02TWFsaVNuVWNiNmM3aVAxSDZsWThSOGhacFhIdklNZDdJZ19XX1hWenQxNDNtcFlvZmlwVVFrd2pYYklBUGx6enU3anZzTFJfdEpzWWs2Y05FZzNfa0tGdklaZ0pYc0NaOURPbEo3VTZTbWR5bHBYZ1NDM0lmTV96THN6UUxlSHkybks2NzRTWWlfZE9kUGNvMENGY28tMkZpMTg0d2pTRDFGOTZ5ZFVlcUtEYXFEd3dCYTY0YVNlcUo1NFVYNHJlMGd2X1VDdGdUUmhpN1FhbWZCUUhPejhBbVhzaw?oc=5",
-      "published_at": "2026-08-10T07:00:00+00:00"
-    },
-    {
-      "id": "6393d8ec3e14d9",
-      "title": "El blooper del ministro y el Presidente: Sturzenegger y Milei celebran la integración con Brasil usando camion...",
-      "summary": "El blooper del ministro y el Presidente: Sturzenegger y Milei celebran la integración con Brasil usando camion... Perfil",
-      "category": "Camiones",
-      "source": "Perfil",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSEhwMEloeDY5QW1vaUJqZzktdHZwSnlOSjNYU2stLXkwQnJNbzJhLUU4VkxCVWRLTzEzbXgtNDlvNE5SM0YwbzRSaDBneFpjU1RlYlhkVXlFbjVmRGo1c2dwZVM5UmUwbFpWSE5tR1pSWEZZYzBXNlVYc2Q1NGhlVXN2MGNLRElFLTFGRXZ6ZWNOZW1VSldoUnloZi02eTZ0dk1JanJkVngtUG14X01LZTRSWkVwcHF2WElBSWxweEV0NG1GUi05VVFRMnQ5MmhEUTAzQzZvZVpmekg4cWR2TThvRFB2WEZhOWFUQUs4QmJwWXdleldEbW56NHZpLW9fSVHSAYcCQVVfeXFMTzBZNGo0bllNNjRKdW4xSWZtUkVRVEdoSkhIUVNILUF5R0VKVWNBYm9CeUstQV9WX2U0TElqcjNzUlZwdy0zUmxFUFR5dGt6YjlfRDVZVjZNZ0UyRjVrdnhhT3ZaVTl0RXBDelZoNS0xV2dTUVB6ZWMzYXdVYl9fQXpEbVlROW91NFJpMGJ2NzdGTHZ0dWFFdkoxZzdIRk1lZENjTXQ2TnlIRENKNWstT0xWTjhLYkVPVlVGOEF4SkMta2t4NEg3VkdLUWgxWkduRHlVOU9wbXNvWGZpSzFYY2J6T0cxQW4tMEpKXy1XM0I1Rml2Y2tzbFk1MWpOYTY0bENlWjh1T1E?oc=5",
-      "published_at": "2026-08-10T07:00:00+00:00"
-    },
-    {
       "id": "bd79d356be0e54",
       "title": "Esto es lo que cambiaría en materia económica para el bolsillo de los colombianos con la nueva administración, según análisis",
       "summary": "Esto es lo que cambiaría en materia económica para el bolsillo de los colombianos con la nueva administración, según análisis Infobae",
-      "category": "Economía",
+      "category": "Economía y costos",
       "source": "Infobae",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRDF5Mzh1T0NPamhwTjk1QWVJOG9fSTh6OEdIUEZJbXNxdWJ2anI2Z1Z3ekJXMW1xWFUzQWIyNnotYnJXalQ2bW4wZzFUOFhLclhFZjAzdWhWSkxwTVNoNXBsTlZiRE9kd3E5VlpsSjdqYm0zS3FjQkRXRWZQWHVIbEE0U0RvR1lHRUFJX3ZLWWNoVC13a25XUEowalNBdDFONGNUTUgyVHFlZ0xqd1dSRU5VTzFWLV9nRS1yX1JQWGJVNkNLRWlPeEtaLVVyV2hKS0dUYU1YaUZuakllM1BHdGFYQmhwRDV0ckFBT2FrMDhNcG0wUkxsSUhtTkVaUdIBmAJBVV95cUxNVzFEaHYwZWNsNlphTmdjSFFHMGFnc2ZHSHRFSll4MndBOEJtLTBfQUFBMVA5Y1dvQjYzZ2dzeEVWdGptbk5VRC03RUt3ekdqVk5RR3Z6YVFCdzluOGE5U0phdmdCQk5IazMzUWZZUnBGdmQteGZPclFTaDVsSDVlSW1tNjJxMXNfZUg1OXF2RDU4OS1hREplcktkYWNCb2prYTFsdjlXdjJVVGRlY2QxbGVKb0JOZjFWOXItck5DZFV6YlhORXFCRXBZZk9VcGdpWjVBOXBZdHNUMVQ1eldEUTFMWjVSd25pdjFGMEx2TnVZa3A1N2NoLUZ1bWpyeDVIZTVGZWJwN3Z0Nk5JN0VlVjBTYTFFTWFn?oc=5",
       "published_at": "2026-08-08T07:00:00+00:00"
     },
     {
-      "id": "3ce35941e86028",
-      "title": "Colombia exige por primera vez revisión técnica a remolques de carga",
-      "summary": "Colombia exige por primera vez revisión técnica a remolques de carga Infobae",
-      "category": "Remolques",
+      "id": "155747cd6045e8",
+      "title": "La Ruta Bioceánica se fortalece como conexión logística entre Brasil y el Sudeste Asiático",
+      "summary": "La Ruta Bioceánica se fortalece como conexión logística entre Brasil y el Sudeste Asiático Infobae",
+      "category": "Región",
       "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU1ZuX3lHcWdySGxoMTZteFpnOE1TNngyT2lCVzUwNWxXalBoVVJmYXUwMVdIX1Q2WERONEpHV3ZBNWxaSUdGVjgtZk85VUw0QktUcDdSQ0dUQnRWSnFIQ19lUUZCTnBvY3BfYnotTkhIU2stRVZIRmJpQ1pPaVpSQjZocGlobDhDLVBSRHFCdGpPNFZrbTRidTRUWkI4OFN2eHRNN0lXQTlrR3VMUWIyT9IBywFBVV95cUxPdlB1ZjZnVW1mejY4R3g5a21fcmlnRDNRS3RVN291dmxZMkNHNzl2aXp1dUFQRjc0aXFWODlSdDY4WjJQWjV5NlFLczVldkJYSk0tOHY5aGEzVGVNekpESTJSNGY3Yk51OHRJRHJZSTZxYi14WXExNmdWMmljQjBfbVpsd1F4LUJaVG9rRFlCRTFnQ3cxaEJBM2lPRUR4VU5ES2hiandCck1NWGZpUFduaWotVTk2N21vb3hOYVFXMVlUTUdGTVQ2Z2laVQ?oc=5",
-      "published_at": "2026-08-07T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYWJubjViQ1g0UHY5cS1Mcy1YamZKNjJleTNPVV95UUQxc2sxck1JS0tPSGZveFRxbXZpTkFRNEljWEhBQno2NVpjTEVMaFNycnJoNDJ6SDA5b3hqS1ZSYnltT21rTE1BR2hjTTFHTUhPaUlrb19SVWhjaUVkbmxLYnZjdEg0eFJuNElCR3JlcVBQeW9YZWxkazNkWlljZE1hdEdiMEQzMTFZZHp2NEFaX2F1OW9ZanJjMTQ3VXdydnF4cjRRS21PMGhmUdIB5gFBVV95cUxNemk0VjllOTRqYjFNQnFlbmpQaGI3bE9mdmtuV2NBb191QktYLVVSbTJnd0tSa19IdVMwd2hXUjE4aDFTRTB2X0cyNFhsVUN4aFg4Rzh1NGJtT1N4WXZjc3lfQjR5MDFlcGNxbzVxNTdzRFhLMF9Gc1BORXB5RTM0MTdWRThQLUZqWXBkeHBDY3hXaDdVOUpqY19oY016enJ3R1BSSUthUm05TTJRWE9JSG9vekhES0VQLUU2YTFmeUN2eDVfR2pac0NLX0Z2NE1TaEMyVURqUTFKQzFGMXM1YVEtVE9yUQ?oc=5",
+      "published_at": "2026-08-24T15:30:03+00:00"
     },
     {
-      "id": "f3d2f18a49e870",
-      "title": "Adiós cuerdas: MTT anuncia cambios en normativa de remolque de autos averiados en Chile",
-      "summary": "Adiós cuerdas: MTT anuncia cambios en normativa de remolque de autos averiados en Chile Rutamotor",
-      "category": "Remolques",
-      "source": "Rutamotor",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOGxuOEYtUlVwWmxaUHA4a20xVC1XaG9kLW5nTloxWVVjbHhDdkV1UnN2dk0wY1ZKUll1dEhHQUZ1M0ZBZzhHZ1J0WHdnNGh3S0N4Q182YWVVa2VHZFlrNFJSRmU0T29tMUFOeHkxcnQzWU9yQlJkdmh6WnNYRWZmYmQ5NmhWeHRnN3R1cjNUdXhva25mdkZGbTBzd1ZpQUk1cjJkRFMzSHlBdHBWd0dEWA?oc=5",
-      "published_at": "2026-08-07T07:00:00+00:00"
+      "id": "9b64f06753267c",
+      "title": "Crisis en Camioneros: los despidos y el deterioro de la salud exponen la falta de respuestas del gremio",
+      "summary": "Crisis en Camioneros: los despidos y el deterioro de la salud exponen la falta de respuestas del gremio Tucumán Despierta",
+      "category": "Ruta, salud y seguridad",
+      "source": "Tucumán Despierta",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOUk2Zkx3MVpuaW9rSWoteDhjeWROUklPNnZnUFF1R3FnUDRhTEZ0Nm5EMk1vZ29xSVFiOHFmUVExMHZJN1dQdW9fdFpNY3ZNUnJjRWM2TmpsV1dJRFhsWXZxNWhFVU0zZGtUbDYxaXdhR0JIOTVBeU5qSDBlQV9sTnV2R0NxcF95a2hWbHlFY1REVmdMNVdZaGEwTVpRbVl6em4wODI1aUdNZzlQTk85TGh0ZmxFWURfOWZvVnBtOWtHUFJQVnFOQkFMVmw?oc=5",
+      "published_at": "2026-08-26T16:13:19+00:00"
     },
     {
-      "id": "19e682611395ac",
-      "title": "Colombia exigirá revisión técnico-mecánica anual para remolques y semirremolques: habrá multas e inmovilización por incumplir",
-      "summary": "Colombia exigirá revisión técnico-mecánica anual para remolques y semirremolques: habrá multas e inmovilización por incumplir Infobae",
-      "category": "Remolques",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQXhtRUlRTnJaT2hLTkRQUDI4dDVzMlZfNmRweUV3NG5WWGQ2bENjZXdtaHdCZWhfdVVyZ3FaVlZ0ZDJmQ3d5b2hVYWdudkV5TXRIT1VIMjRpRmNCTU1lZWZoWUtjU2RsMmJJV3c4NUtmRDlKNG9NcnhDcjU4TV8yLWctTzV5SlRFdTIxZkpwNVJhMUZGaTVuZnFKNWpVemNkVllyY255b0s4VEs0Qm94RkFXMDhyRjFFRG03Q004bEozcExZcG16Z3NDNmc4V3l0RXFFS215UUdzMEpFWl9Fek9NS0FnV0l5X3hYVXQzVDF0RVFlYXUza3ZSZmVEZ9IBmAJBVV95cUxOWmRIY2t3R0xTQ0ZrNkF0WnQ5VHZVM0tYUGpHUHBnR0tfYXBYNGNLMC1xbi14c2xMRF81TzJod2wxbmpoSndyd2NHdlFLSno2T1c3SnllMzN4QWxwTmZjb2FGYlZ0ekMyQ0ZDNS1FYmhvNTMxYUI3SC0zYi1HRVRiSjNWQmNxMURlTi1TR3o1TU1iSjUta2hoYk04SEFfd2pDQkI3bVlibkZxWnBwdG9CYVlnb3JLNzFLUlRQUTE2eUN3dmVLTDRPSUpZVkRwVi11MlBaNUZ6WmlxTzUwcHZmTHJCWXMyZEg4TC1DNUdOTGl0V1duREtjS3pkd3JpbGFJbUZnTk11ME94YjV5d2hZMGxsRXpyd0h6?oc=5",
-      "published_at": "2026-08-04T07:00:00+00:00"
+      "id": "f9fd82602735d2",
+      "title": "Electromovilidad: Chile lidera en buses y enfrenta el desafío de la carga",
+      "summary": "Electromovilidad: Chile lidera en buses y enfrenta el desafío de la carga Agenda Logística",
+      "category": "Camiones y mercado",
+      "source": "Agenda Logística",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZTlUVlp6aWpnaEptQzNwVDFBZHJYaE5LWnMxUFVtUEN3OG1oMlJmUkVBUkR0dDlxem43ZUZXVGZRbElodnZQT3hYekdpb1EyTGJhT0xsOUNzaW1JN0lENFB0cks2a1ZTdHVrRk1fWE45cW1EUWFrX3dnYTVtdm5NSWVWN3VaYXYxMWF0TUxEQkFsYXJqaWJPc1E2MmFnMXl0LVIyYzNScUVQVVNhWFlsQ2x2eklLZ0JRVGlmRXFEOXFRZlpMTG5NYWJQdUY5UHBOeFN6anFsRFllRVpFVUxjbVBtajF6bFFKNEE?oc=5",
+      "published_at": "2026-08-25T09:40:00+00:00"
     },
     {
-      "id": "b17a8beda966ce",
-      "title": "Argentina y Chile: el cierre de pasos fronterizos reabre el debate sobre la resiliencia de los corredores bioceánicos",
-      "summary": "Argentina y Chile: el cierre de pasos fronterizos reabre el debate sobre la resiliencia de los corredores bioceánicos Aduana News",
-      "category": "Logística",
-      "source": "Aduana News",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORkd5QTg5TC1kcFRqYVhkX0hLY3lvX0l0Z19iQWV2MVBUU3BVYjhfcmY1aDlIN3gxalFuRnUwUUtvVGc1Umk2bHZtWVplQ1hkSFVLT0Y3dTkzS0ZMZllfZGxDUGtlSWtURmtDTTBTU0hYMXdlT1FfNlhyeE1oSmctcU96Zi11RHlWZWZCT184eEpmZGFvM0VCVFg1ZlNTVXRfLTloZFc2VW1scmdvWklmdmd3YnlJX00ybERTT1ZONmlKMnVyS1FJUUJTUzJwd2tHd1dlOFJQcw?oc=5",
-      "published_at": "2026-08-04T07:00:00+00:00"
+      "id": "3507d9395aa5b3",
+      "title": "Argentina modifica el RIGI ante la privatización de los trenes de carga: qué inversiones podrán ingresar",
+      "summary": "Argentina modifica el RIGI ante la privatización de los trenes de carga: qué inversiones podrán ingresar Bloomberg Línea",
+      "category": "Logística y puertos",
+      "source": "Bloomberg Línea",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdENXSHROeTZPVG4zVFR3UHNyQXZJbVNFSXM0SDlrTWtkSEJ0Z0Z2cXBWU201TGtzTDlJYk50RXBsd2dTOWNCUDJFNGlHSUplRmpxVDJRMDJnRzJGbkl3enU3Zy1mSHE3ellCemM3Vy1NeG9FanV5S3NOeHZnUVlJcGlGeVRqczVfVzYyRmxQaHktMllJRlVOdDVacFZ0a2w0Njg5LWw2RG00bGJqRFhGQkZ6c2I2Mm1hMVY1ZzhEQ1N4NnRPTTNteFU5TDktMXM2OGdGd04wWUtYTHZyYkxURHN1SG03cFBRaFlDN0c4N3rSAYQCQVVfeXFMUHIwOThHc0h0ZnU2VzE5WUhpeGJ0U3gwLWtjT2FUdkIwaU1VQzJCVk82WmhURlIzWmc1cW5zUkdFWWc5czY0S2F3YlBrQXVTVC1hNzBLVFNHMlZ1aDZsSzk0Q21vMDJwREF4ekoyOFJHcWJjbnJvMEhwQXF1WFowdzNqa0oyWGpDX19VNzNYSmdZY09Gcm90OGlnV3JaMXA4QXhRY3haZC1CaXNKYXVrSWtDSXNNRGxWWXNqR1VJMTIyZHl1V1dCZTdBSkppVGRuLThFS2oxcWE0dWhUXzI0d1d2NXR3aDVpYU96UDJBTlBIR1lzODByXzRjNkFuNWtNeXhiLS0?oc=5",
+      "published_at": "2026-08-18T07:00:00+00:00"
     },
     {
-      "id": "7b9503487c1a19",
-      "title": "Pesos y dimensiones del transporte de cargas: todas las nuevas medidas para camiones, bitrenes y equipos especiales",
-      "summary": "Pesos y dimensiones del transporte de cargas: todas las nuevas medidas para camiones, bitrenes y equipos especiales SuperTruck.com.ar",
-      "category": "Argentina",
+      "id": "aa76e654d8e4e0",
+      "title": "Seguridad vial en Argentina: los desafíos de la movilidad federal y el rol de las soluciones tecnológicas loca...",
+      "summary": "Seguridad vial en Argentina: los desafíos de la movilidad federal y el rol de las soluciones tecnológicas loca... Revista Noticias",
+      "category": "Técnica y equipos",
+      "source": "Revista Noticias",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQd1pYT3l6bGlrY2l6S2pnWHZpNTI4WGJiRDlDUDdVYmFqZkFjZElKVVdvUzFKaUNXN0tEUkswR0VoTUxDQkFZQkt4UzY2VF9TbDgwdUJieEJWMWlqTmw2czROWnNLT1ZfUFhfdGE0ekVxa05rbkdqVmx0Q2pvTndCZjVOYkNNY19PaFd3bHJYRGtGSWp6a3ZibWcyN1lvdjBVTjFKN2NjMUN2X2hDUHZxaVBYN3JiWVJHYlcwcWlpelV5M0FMMjI2RmZCRHBvYVdKcVZhdmFaOWdGMWtLby14TXVIUjQ4VFhJdWhocm1kdzlTQzRyUkc3ZmYyaEZPYkxJT1NfRlNaakxVNVFo0gGSAkFVX3lxTFBpTHI4ZDRiaW14NXpkUU1VRXJiTVl6MnpZMTVSb2RlMDMwX0thNFhlWVdvZVo3YUZPdF9rTEVaUm45VE9HWnBiRFJfdVV3ZnJWQzlLQWZySUJaalZKWDN1U3FjWk51QjJxVjY3V2NVcWQ0MlFsN3V6bkxJclROMkFwenRxRXAydUFhOENYczExNkFrd0hmUnEzc3hJTmFqb2ZCN2J4QV91eUdIc25jcVVEQmlIOGU3NE5xaldLNm44R1FJcks5SFBMb05TdFN4MlRVX3pGSF9kVnp4RHdJbDEtRjhnbXp5Mjk2NGM1QWFlVEs2UF9ZV2kyUkszdVJFZnJLZkpsYUprZDNSVHE0ajRneUE?oc=5",
+      "published_at": "2026-08-19T15:54:06+00:00"
+    },
+    {
+      "id": "047a04aa3aeaad",
+      "title": "Costos de transporte suben 2,25% en julio en Argentina",
+      "summary": "Costos de transporte suben 2,25% en julio en Argentina Webpicking",
+      "category": "Economía y costos",
+      "source": "Webpicking",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOExra2V3QnZvcWJKZG9iTy1SQVJxck1rdkNiakVSelNVMVc2b0Vvd2RmWkJJNkNHT2Y4bG1kRk9TS2ZhenA0ak4zSy00ZUo5SHkyTE1HbW9JQ2dCTk1tME42XzJEZ1BOcUs5NUlZU040MkpPWW9FdkE1VVpQNXI3VVln?oc=5",
+      "published_at": "2026-08-06T07:00:00+00:00"
+    },
+    {
+      "id": "d49d00b203c958",
+      "title": "Mercosur se enfrenta a numerosos obstáculos para la construcción de un mercado común.",
+      "summary": "Mercosur se enfrenta a numerosos obstáculos para la construcción de un mercado común. Vietnam.vn",
+      "category": "Región",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQkJnRVE1YlNkLVVzSk5qSEZwWS0xanVfUVNqSUxOMEFrbVU2OWZRdnZzOU95UUdXMnBucFViVlJGcUd3VHo3aGNwMGtDdkhtOTNhYnNXbjhIV3ktY2duMGpUYUI0WUpMV1RVTEY4V3JvYkNhbnM0ODB0QU1TZnNVLWpXU3gxMUdKUlQ2Yk9nakhSSDQ?oc=5",
+      "published_at": "2026-08-24T02:04:01+00:00"
+    },
+    {
+      "id": "5133eb16c61514",
+      "title": "CUCAI Chubut participó de la reunión de la Comisión Federal de Trasplante",
+      "summary": "CUCAI Chubut participó de la reunión de la Comisión Federal de Trasplante Radio de Camioneros",
+      "category": "Ruta, salud y seguridad",
+      "source": "Radio de Camioneros",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2diMWhRVVpIZ0NDcW1RY1YzZ0huM2U0XzVsRVVxUjVrYzlINHhGVnNmU0Y4cmJYdkZIdFcxUVBiVUFOYllpTlJnTEJkRUNKYkplc3hmMG9nSl9xLUJrOWhreDdTLTRsXzFYZ2tGUGFkZEFUSjlSc1hhLTd3VVFEbTNSdHd0TkNCRmR4OEFkLVdLMGZHVlh5UUtvQTdLbEpnbzBRVHVfcUM0Nlk?oc=5",
+      "published_at": "2026-08-23T19:41:06+00:00"
+    },
+    {
+      "id": "eeb9dd1dc25109",
+      "title": "Vehículos utilitarios eléctricos: cuáles son los modelos de trabajo que se ofrecen en Argentina",
+      "summary": "Vehículos utilitarios eléctricos: cuáles son los modelos de trabajo que se ofrecen en Argentina Clarin.com",
+      "category": "Camiones y mercado",
+      "source": "Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODNHa2F1RnZJT3R5ak5yMldrNlgxZUc2LU9IOXBpcWI2cVl2OC15VFhwLVROVUFUNWZ3Mi0yZEpHQ2QwOVY0NjZnOGtjMG56dU80c1VsUmg1MFJMelZLd256XzNtYTdTQnpRSGtjOFFza0NnYWpKX29sZVNRNkNFMnRjUURyeWlUS1ZVbVlSLUtHd3dRNEdhM2VPSjNiQUxtRk9LajJpVVk1ei1Jd3dFSlFpTdIBuAFBVV95cUxPN0IwY1ZndmRITkpKQnQyS1pYWmVnUUFtYnpDMlhGOTNmRW1LbzZUbHlJdXVKeUxZZG11Nmg3YWdsUzZlMk9KdHB5WUZyM2ZibmRNdW1ITC1VYmdhYjhiY1BNTmZ3Q19iSVB2OEpoMU1feHh3X2NfTTB2V0p4cGtza21yLWpScDllVHdSYUJJbHVXRzRJTG1xWGk0MTJOWGxCY2RacHExUkh5eV94M1FEYnRoSENkRlFo?oc=5",
+      "published_at": "2026-08-24T09:01:23+00:00"
+    },
+    {
+      "id": "f287b3ee05905f",
+      "title": "Logística de la arena en Vaca Muerta: con unos 4.300 camiones y viajes de hasta 75 horas, la infraestructura vial entra en tensión",
+      "summary": "Logística de la arena en Vaca Muerta: con unos 4.300 camiones y viajes de hasta 75 horas, la infraestructura vial entra en tensión Mejor Energía",
+      "category": "Logística y puertos",
+      "source": "Mejor Energía",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPV0xOUEJ1cUZpOG1vRGpNcm05Z3lwODlabEVXc1JyRzNJek5ieDFZRVlvczRpd2d1SzBQUFY2cWpjSmpka1BwZm9vMXBBbnNhUlUwbFdkWlA4cFVFMjhMd1NXWjdlZWhobzJMUGJCTjFQeHVmbmdYVmtVQlZ5UVFWem4xWE1DNktjTlJVNjhqR2s5TWhuYWpEQ0hzZVdpMF9BVGZoQkZDd3VIMFlVWXIzRktVUVh3T3RhOFBXanI0c3UxZDM5RmNzTF9KTS0tVEtPM2RTX2RsQzhrY2U3Qk13UXEtb1BfQU51bmFsM2xBX2x2R0NvSENfM1JRbGVLSGhwMDFXZ2Q3eENOTVVPT01ia3dB0gGXAkFVX3lxTE5tbTFTWGtoUk9TeVJnOHV6b25WWElidEM4bVRCOHBiTExJejB1Um1QTmF3T0NiOEZXLTVJS0EyRGc2X0FZa1ZtV3FFaWxFcGxWcng3aVJqWjhmV3Z1QU1LMm10bmNDdHVKRDB5UWlHYnU1WmNnVHk1bWt4REJvS1UzcU1TdGlYVjU1NC1xRmV5dXltUVlPbDZzWExNX2xDT2lWQjRfVVJlVVhhOVVtU1FpU09XR3czVm1qeFhuZ0lha0NocVA5UmF1ZjZiZ2NHTlBOMEdfSlFlOGt4TEhIcVBEQXl0azNkdXp3N1ZlN1Y1ZVBKektoTDNUMElhOWw5OW1vUEpITEFPTnlxV00wTldFejF0SmVTdw?oc=5",
+      "published_at": "2026-08-18T05:32:13+00:00"
+    },
+    {
+      "id": "bbd89cbd526b34",
+      "title": "Colombia reglamenta por primera vez la revisión técnico-mecánica de remolques",
+      "summary": "Colombia reglamenta por primera vez la revisión técnico-mecánica de remolques Webpicking",
+      "category": "Técnica y equipos",
+      "source": "Webpicking",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTENpT2ZWMjhkM0pQSlp3T1ZpRGlGTjkya000X0N3VFlRcjNwNVdwRlNZLWdqdlFXTXJfZV9ydC10cWdvTkdHYm94OEdKY0d1T05uSVgzYnVLS2xiU3dOaWQ5SkpXT0pZWEhLY2hPcXQ5Qjc1WTctbEZjd1pHNktPazhRZ2ZycUNERlhoTUJpd0M1eDBoRUlkX0lWdVV5dTJCOHBN?oc=5",
+      "published_at": "2026-08-19T12:47:26+00:00"
+    },
+    {
+      "id": "539814e48b2150",
+      "title": "Costos del transporte: julio no dio respiro y la logística sufrió un aumento de más del 2%",
+      "summary": "Costos del transporte: julio no dio respiro y la logística sufrió un aumento de más del 2% SuperTruck.com.ar",
+      "category": "Economía y costos",
       "source": "SuperTruck.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWI1TWxBNFd3Ry13Y1RsWmVoNWd1UGNYVGY5dXM1Z0dVVUJROFJjU1Y1T3lkOEY3bzBVNC1CMExVZmZERHNYOGlmLUFPTWhRUVE5dzFNcFNEWTQ5MHR0NzkyMVdQdF9ES1dNUlpoN0ZZSWVjemcxNExlRjdad2hoTXpjLTdCN1BPOGlhdFJPdUxXWEtIR05nZWF6WTBRRmR2UW1FY3RIX1FUZw?oc=5",
-      "published_at": "2026-08-03T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80VDZvbXQ4S2hzQTJQV1lJRFc2c1Qyejd6NmYzNktzREdWMkJveXU4ZmV1QVVWN001YkFvRi1UajdZbmFhWnlHbUNNR0QzT2luc3BRZmtVN2JlT21hWGZEY2p3Ri03OWptR0RHazF6bVR3UmozTVZN?oc=5",
+      "published_at": "2026-08-05T07:00:00+00:00"
     },
     {
-      "id": "79a61ed32bfdec",
-      "title": "Formar choferes, mover un país: el desafío de la logística argentina",
-      "summary": "Formar choferes, mover un país: el desafío de la logística argentina Infobae",
-      "category": "Logística",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR0dRRm5mM0RobWRobDgxV1kyLW42dXhpbUVIR1RrQjdlNjZ0eUk2V0E2dGpmTlczeVJEaTRvdFFaVEVxczZ1MEI0WXdIdVZnZEhLT3NuQVVMa3YzRk5aZ1ZBazhJUWxuNjMxMjZ1T2cwZGl5U2ZTNW03N1BHaU0yRzNjdzMwMkZ6dEhkVDNJNllCX09yajBJcTdJZFZkdWptN3dMOURzTmZPaU5WRVHSAcgBQVVfeXFMUHNlN200dktmRV9QUlFIc2JKbklndzhoN0hzRm5JbjdKTGFvZUp3Rl9tTGV0V0pWQWdpYlFCSWhQb3g1WlJ6bDNVWEFRTGNDTGk2bkJiWEVieGM5R21DMHBDaE9BbUVrVmVZa2Y1dFptZ184aC0wSkl3NmJ6T25Dbl9WVUpBRVlYZi1YXzZicUVQT2NnZncxc3RaUGRRVEhFbnVra0pNVVE1djFGLWx3ZTRwM3RJR0JwdWJnM3JaVWJPdGFQblA0RlM?oc=5",
-      "published_at": "2026-08-02T07:00:00+00:00"
+      "id": "4a9e45936ae751",
+      "title": "Argentina: 31.000 corredores convierten las calles de Buenos Aires en una gran fiesta deportiva",
+      "summary": "Argentina: 31.000 corredores convierten las calles de Buenos Aires en una gran fiesta deportiva Prensa Mercosur",
+      "category": "Región",
+      "source": "Prensa Mercosur",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ2ZXT0ZLSmlDZDl5LVFfOWFCZnhPbHRTWWViRE9ZUDFLYWlYeHc5R0NFenhmc0Z3VGlQNDFtcTVsN3ZjN3RreWJLalVtU2d3Y2xJNjZXVzNHN3J3dTZ0b2pYcnNISHhCbXZXdkxWMFhVV05ndkhqNWhfSDd6MjhvUnJmUWlDOG15RnU4MEJnLVdKdVg3ZzJmZk5pWVRSdU9QRE1LWW4tTkZVX3hxT0Z4WThvSVJlcVMyZHIzdElCSzViTVF3azJhbWhWRld4QQ?oc=5",
+      "published_at": "2026-08-24T01:39:50+00:00"
     },
     {
-      "id": "03405c715f7bf7",
-      "title": "Actualizan las reglas para camiones y bitrenes y amplían las configuraciones permitidas",
-      "summary": "Actualizan las reglas para camiones y bitrenes y amplían las configuraciones permitidas Infobae",
-      "category": "Rutas y normativa",
+      "id": "eb7c0049f20cbb",
+      "title": "Grave accidente en la ruta 3: un camionero quedó atrapado y fue rescatado por otros transportistas",
+      "summary": "Grave accidente en la ruta 3: un camionero quedó atrapado y fue rescatado por otros transportistas examedia.com.ar",
+      "category": "Ruta, salud y seguridad",
+      "source": "examedia.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JdnBTY1A3YzdQZ2xHTzhkRmFLeG1idURCNlBOcWc3VGtWN3lvamJsdnRSbDlhZEt5VnphdHptSWFUTGJJMHBsVWVETUktUnF5RVJ4bDF4Y2hZazhlcUE?oc=5",
+      "published_at": "2026-08-21T13:13:32+00:00"
+    },
+    {
+      "id": "d83ec031349677",
+      "title": "FOTON e-Galaxus 5 y 9: los nuevos camiones eléctricos pesados llegaron a Sudamérica",
+      "summary": "FOTON e-Galaxus 5 y 9: los nuevos camiones eléctricos pesados llegaron a Sudamérica SuperTruck.com.ar",
+      "category": "Camiones y mercado",
+      "source": "SuperTruck.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT0FuYXFPUVdoenRPeGJNUnRZRFNPV0k3dHZDaDdEX0JfTVZnLWptdWpYVFhxWWpQVk9ER1lTVHNTanQ3cWRkaHBfLVZCMkZnaUNRLUJDUmtObzE4Slo5SGtjM1dCVnRLUndoanZyY21DaHE0NmMwSlY0WTVNd2FCTTZPZFY1b0lKZmFOMm1Rd3U1bWZ3MTBtSkxEREQya1g3dEViTVhaa3ZpUQ?oc=5",
+      "published_at": "2026-08-21T13:00:30+00:00"
+    },
+    {
+      "id": "970db6190ccfc8",
+      "title": "Caos operacional dispara los fletes entre Asia y Sudamérica y deja buques sin espacios",
+      "summary": "Caos operacional dispara los fletes entre Asia y Sudamérica y deja buques sin espacios MasContainer",
+      "category": "Logística y puertos",
+      "source": "MasContainer",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYkRCMnRDMDltYXlweDNXaGRpZTZ2a29KSlp2TVFleVMycGczTTNFVHpxRjUzaVZEQVFOd09aVzJKeTIwLXJTeC1aZzZXMmsyOXVNN3ZuMzM3RGxqNG9ob1RVeDlUdDdhZlppUWd5eHA0WGZwbjJULWhiS2ZqQzA3UzVQSUw4SW9uU01uSmV4RU5hcmk1WG9oOGY5c2t3MTBxQTUzT2sxWUk2RHFUaDBn?oc=5",
+      "published_at": "2026-08-17T07:00:00+00:00"
+    },
+    {
+      "id": "dd38f91d70acc4",
+      "title": "La tecnología que puede cambiar para siempre una industria clave de la economía argentina",
+      "summary": "La tecnología que puede cambiar para siempre una industria clave de la economía argentina El Cronista",
+      "category": "Técnica y equipos",
+      "source": "El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHlCSHdwWXJ3ZmlqdUszS21GTFh1TGJ0ZGNQVzN5TVc4YUNGNzR1SU0wS1JzV09VMzJkaGk2dURDc2hQRXk2RkZCc1N0UVc2VkpVN3E4ZUVDcHVhS2poZzBlNGd6VjNKcW5aUnV5SVJUaW1QS0lGMGVVbmc5bFBNMEhvdlpPcGFSQW04dkVSMlQ2Q1U4Nmdsb1lZNThibnltcm1uSzI5U2RxeGtEWC1seHo4ck9oYzlqOGVRMDgyVnNzOVFvZzFlcDRR?oc=5",
+      "published_at": "2026-08-19T07:00:00+00:00"
+    },
+    {
+      "id": "a5a0ac46947013",
+      "title": "Vaca Muerta llega a los colectivos: la apuesta de Metrogas para abrir un nuevo negocio millonario",
+      "summary": "Vaca Muerta llega a los colectivos: la apuesta de Metrogas para abrir un nuevo negocio millonario Transporte y Energia",
+      "category": "Economía y costos",
+      "source": "Transporte y Energia",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOXzhGdXVkNXRNb0NBZmoyTy1yRXhCUnB1ZGJrMEl1dmloWjJyTTI4elBDeEVfOUlpcXZOUWhmUUFERTVfUlQtM0F6QmY1SVJVOFNPTnlqWXdBdy1BVVZ5M3dUQXJLZlplR2VONGsyVUZ4RG1xN3RNVjVpaEZlYWxkWm9aRkNTSDUwV2dXbEYxMU9KcGJkdVBnRV9WVEV5b1NHZnNZUktmT3hwTWtValk4TUJLaXFiSDQxS3N2dkZjOFNWTjRaVndCVkM2ZzdheTBlSE5Uaw?oc=5",
+      "published_at": "2026-07-28T07:00:00+00:00"
+    },
+    {
+      "id": "f2c114a1c8951a",
+      "title": "Brasil: nueva concesión ferroviaria en Paraná puede transformar el transporte de cargas y fortalecer la integración del Mercosur",
+      "summary": "Brasil: nueva concesión ferroviaria en Paraná puede transformar el transporte de cargas y fortalecer la integración del Mercosur Prensa Mercosur",
+      "category": "Región",
+      "source": "Prensa Mercosur",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUGZaY2JnTmtKVENBQzdveXFmRGU4RHpwMFZ3dWRjRHg2SWZiUWw4V2h1VF9xU0JrWWlkMkFTa2wtOXFiQ2ZEQUQwWmtUUXY5cWNFbE96akNoSWkzeGRpdnE1aGZURHl3Mm5jNmNvaWM3LVZBclNCNE1rY2V0VDNsaDU3T3A5azNMS1J0ZTVPRWFCR3BYd2xfcFVBcHdfRmM2ZmJ4WlhBcTZKREZDdW4tWUxIT291NEpaMUZTVHFnU053UVhJSnVkS2JNWWtXUFUtUUtqSkxVU1pnM3BqU1JsSERvMlFCbjBjUjlPdHZsRGQxb3FwbUhfUkpR?oc=5",
+      "published_at": "2026-08-23T01:03:35+00:00"
+    },
+    {
+      "id": "1a4e60b0dbaa0d",
+      "title": "Más de 250 camiones varados en el paso de Jama generan preocupación por la salud de los camioneros",
+      "summary": "Más de 250 camiones varados en el paso de Jama generan preocupación por la salud de los camioneros Cadena 3 Argentina",
+      "category": "Ruta, salud y seguridad",
+      "source": "Cadena 3 Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYl8wSk9KOGtkNlk4MmNjTmNpQ3VBWUI3YVRRUVNmT0tzYXNxSTVHSG5yOVJqSGt5TmwtYXN3N3pISlJxS29XLXZBZWRZT1BVc1NBMHJscHYyLUlueGRxTGlBbE9ySDYyMnBGVlA4V0VvazhUUU5PSUdLSWFTdkdvYjI0QmNFdGt3UW8yLTd0aTdEekFkVWFNZ3lrSHFxd2dQdWJFcHpwRHNYOFRwcU12OGIwa05oMkFYdnIyYm02dDFCVWV1RmdGVmdrbXZKdVd5NG0tY21pa2N4SlB1ZktoeGlwU3o0UzNKY3fSAe8BQVVfeXFMUHR6dkZVM3otblFUV0FjS005U0hLb0k0Q1BlWlNGNU5WUVQ1cGFsS2NYbmdDbzcwOE1rS1ZFanpydkh1S1E1VG5qU1RVQ0pvSy03enEtR214di1Fb2RTUkVZN0Mxd2psZ1NMS29VYlIwVXV2eFU4bVhhbG4wQXl3WlNmSldQaWkwZjhSUlEzejh6VzBJSW53VHFsQl9FOGJRaG1KSi1wQl9FZWRwcVF1ZzNiV1hMS29ILURnalh1bm1LS0V2WFlMb25Ya1loaThUdXVxTVdnTGFqeGs0X2xGSk5kdzQwSk9FNTJEM1FZMjA?oc=5",
+      "published_at": "2026-08-20T07:00:00+00:00"
+    },
+    {
+      "id": "d1c621bb65183c",
+      "title": "Los camiones más vendidos de Volvo: ¿qué premio ganaron y por qué?",
+      "summary": "Los camiones más vendidos de Volvo: ¿qué premio ganaron y por qué? autotest.com.ar",
+      "category": "Camiones y mercado",
+      "source": "autotest.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVUdnZHVrdFdZZFg5UXlFZ3VMMlRuZVlEM2NvY1VURzRJTHRRb0hIRTMxRmRuQlE5VFkyejJCREVaTVNMUVJ4MkluRkM3V2puV3phU0h6VlROQXZMa0dBTGVGYV9tMTJ4bl9sS2dDV3dZQnRwUU1tYmxIeUpuLVppa0prZlVaaTlPdHgweDJSNElSOGl4SXdVQjJXN08wanpNVlE?oc=5",
+      "published_at": "2026-08-21T10:40:13+00:00"
+    },
+    {
+      "id": "c81c9ecd6ef139",
+      "title": "Santa Fe busca convertir a Rosario en un nodo logístico para la minería argentina",
+      "summary": "Santa Fe busca convertir a Rosario en un nodo logístico para la minería argentina Agroempresario",
+      "category": "Logística y puertos",
+      "source": "Agroempresario",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdVZwQmJFeVlfcnN5NVZhQUY4ZEJjWjM5cjVBbXNudWF1VTJUZE5KdFAwOHhJR1RaMWM5UWJCTmxTVmhiVHdHdllGTzV5WkkwYlQzSWs1VUZqbmJ4VlB6X2lJMEljTkd2dXp6VXhQS0FGeXdVbmVSSnhIZ0o0ZTBhRTF3SGY1UllOQWVhaHc2UnJHaXdBSUZHMTlYZ0xWTXJfQWtpS0xWQ0JXSjE3eEo5TE5Gd3VWV2x2WXZYUHh0VVVFQllHbnlR?oc=5",
+      "published_at": "2026-08-14T14:20:10+00:00"
+    },
+    {
+      "id": "7e6cb3a7f870ee",
+      "title": "Scania contribuye con la eficiencia de Transporte Andreu",
+      "summary": "Scania contribuye con la eficiencia de Transporte Andreu motormagazine.com.ar",
+      "category": "Técnica y equipos",
+      "source": "motormagazine.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUXFrS01WbXZ6VzJqM1J0cWhlTWN2ZFdhWHBEQWppcnNuSjdMZXZsRERmaDJvR3g5U2pnMm5vRXhUSlZYc2ZxZWtMWmZxdW0xLXF5ZkVqX2w0NTRQRVBiOFFEMkhtXzFFT29qdWdJWnVRcm02WENCczJhOVVPeUJ4RGgyVWI4d1ZOeFZFMjhn?oc=5",
+      "published_at": "2026-08-19T07:00:00+00:00"
+    },
+    {
+      "id": "227e07f32595c9",
+      "title": "Transporte en camiones, entre la suba de costos y la caída del traslado de cargas",
+      "summary": "Transporte en camiones, entre la suba de costos y la caída del traslado de cargas InfoYa",
+      "category": "Economía y costos",
+      "source": "InfoYa",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVjdwN3RGUXQ4S3ZQV2c5SzZLUXZNbWhDZXl1RC16Y0tUcW9vTl9wZFF3WGZockZ5Rzh5eUdyN1JrTkdXV01ReUdWUTFFNHhoYzhkLTNxUkItdElYanNPamlibEhZY2JTSWdjVmphUzVrWDVrVTVHVHRTeVNkdmYtWjRISElfeW40YlV2UVdldEJ3VUY2TWNuWTdHeXR4WnZFRzJ0UFgtQXBUYU4xa3VJUGZaR3lOQ0M4ZzdELWRaN3FvME55azJZWA?oc=5",
+      "published_at": "2026-07-20T07:00:00+00:00"
+    },
+    {
+      "id": "c3c33fa68ea4c3",
+      "title": "Reabrieron el paso Cristo Redentor tras el cruce masivo de transporte de carga",
+      "summary": "Reabrieron el paso Cristo Redentor tras el cruce masivo de transporte de carga MendoVoz",
+      "category": "Región",
+      "source": "MendoVoz",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN21tbEpDaElxbVQ5d1dkeDJYNTVkSEJHRk5saEFXVlRLZWdRMXkzLTNkbG9yWG9xMGVCU0hlTnRrb0RvT1pTRERSWXdJeDV2OURvNDJCQzVZQ0Y1aGhfMjF4YXZ4UkZsVEt3NWZPX19JMVhXT0pvbUpHWnZscjBTVzVic29IUktMNzBGMnVWZE5PZ0M1NktSd2FXMFFpWGFONVQ4MF9Xc3ctZnNrZF9fQUZqajBPTEplTGthd0M0MTRULUVLMlItU05adnRPWmFiOVZz0gHTAUFVX3lxTE03bW1sSkNoSXFtVDl3V2R4Mlg1NWRIQkdGTmxoQVdWVEtlZ1ExeTMtM2Rsb3JYb3EwZUJTSGVOdGtvRG9PWlNERFJZd0l4NXY5RG80MkJDNVlDRjVoaF8yMXhhdnhSRmxUS3c1Zk9fX0kxWFdPSm9tSkdadmxyMFNXNWJzb0hSS0w3MEYydVZkTk9nQzU2S1J3YVcwUWlYYU41VDgwX1dzdy1mc2tkX19BRmpqME9MSmVMa2F3QzQxNFQtRUsyUi1TTlp2dE9aYWI5VnM?oc=5",
+      "published_at": "2026-08-22T13:24:55+00:00"
+    },
+    {
+      "id": "27d5443f60c3e8",
+      "title": "UN CAMIONERO MURIÓ TRAS UN CHOQUE FRONTAL CONTRA OTRO CAMIÓN EN LA RUTA 33 KM 341 (PUENTE VIDANIA) Y ESTÁ CORTADO EL TRÁNSITO",
+      "summary": "UN CAMIONERO MURIÓ TRAS UN CHOQUE FRONTAL CONTRA OTRO CAMIÓN EN LA RUTA 33 KM 341 (PUENTE VIDANIA) Y ESTÁ CORTADO EL TRÁNSITO Impacto Castex",
+      "category": "Ruta, salud y seguridad",
+      "source": "Impacto Castex",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EYXJNMzNmQWF3eW56RWx5MDd5Tmx6NUpLU1YxLWJqb0p2ZWdnQ1RZVC1xb1g0bW5DOE9CVFFPSnVCZjVEajdtRHFjcTVLQTBabUhwZUhR?oc=5",
+      "published_at": "2026-08-20T00:54:00+00:00"
+    },
+    {
+      "id": "4f0115bae755c1",
+      "title": "El mercado eléctrico global de camiones y autobuses roza el medio millón de unidades en 2025",
+      "summary": "El mercado eléctrico global de camiones y autobuses roza el medio millón de unidades en 2025 Review Energy",
+      "category": "Camiones y mercado",
+      "source": "Review Energy",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMmg5aEhmak1aLTh5REpBZ19pSmdHRTFNd3FnQXdaeUQ4YV94anV5eEZaSXNqLVMtR2ZBQU9QNXRxeEZTTHBScUJPdnB2b2R1cUZQVmdYNndMc080WlRxWFNHOUdhc0tMTHMyUGZlYjhSbE0zZWxZYXBMMUNudHlPb2h6YmVzVERRRUdnX0pQeVUyU0RmOWlsUGtRLWMyU1A1VGJaWGswSXNfQ1ZKYnVaM0dPYnRDYml0aWk0TmZsX25xZVRvenEyeG93Smk?oc=5",
+      "published_at": "2026-08-21T03:17:00+00:00"
+    },
+    {
+      "id": "aa0412ee9abe91",
+      "title": "Scania ve una fuerte demanda de camiones por el avance de la minería y Vaca Muerta",
+      "summary": "Scania ve una fuerte demanda de camiones por el avance de la minería y Vaca Muerta Comex Online",
+      "category": "Logística y puertos",
+      "source": "Comex Online",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM0I1ZnRIeGdMbUlGNDBINWdVanN4eUFIdFFDZ1lYYzNEQktZb0NDSkd6SGFzOGJ6Z01BQ3BEUzlsc1ZNRWcwRkpQaFFTWUxROV8zSHVxLXUyQ21RbkFFdFFIUXhUVGwwaDU2WThWVTRlejZmSmtpWXZCdXQ5NkI5X1JDSWo0YXdUQ1haajlDYzVsMTlCRW1kSzR4N3F0NVVBbkdRRWdFOVBRMzFkX0Y3TWhJMmVpOEVRXy1hZ3YzUVhYLUl4amt0ZVFnTVRJUQ?oc=5",
+      "published_at": "2026-08-12T15:25:34+00:00"
+    },
+    {
+      "id": "746665bbe8ddc5",
+      "title": "Volvo Buses en Lat.Bus 2026: qué mostró y por qué la feria anticipa el futuro del transporte de pasajeros en Argentina",
+      "summary": "Volvo Buses en Lat.Bus 2026: qué mostró y por qué la feria anticipa el futuro del transporte de pasajeros en Argentina SuperTruck.com.ar",
+      "category": "Técnica y equipos",
+      "source": "SuperTruck.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1h5R0VqdmNiaDdFQ3QzY2NCck9EM2pGS2Jfd3JhTmdRaklnM25JbndOWnFqLXRPLU9RLWMzcG1zN1JuZU9laW1ndG5DTDFDWmZFSnVBSVQzZDRwcFdWcC1yTjB2VUE5UjVrMWxad0RXT0NwVmdhSlVaNkZnY0pqRFBPYVZSQWtYa2NKT3hnWnk3Y2dlVElaaVlfeUlDZ1hUN1FR?oc=5",
+      "published_at": "2026-08-18T17:18:50+00:00"
+    },
+    {
+      "id": "30157e5d52eb7d",
+      "title": "Otra empresa argentina incorporó dos Scania bitren para transportar hasta 75 toneladas",
+      "summary": "Otra empresa argentina incorporó dos Scania bitren para transportar hasta 75 toneladas SuperTruck.com.ar",
+      "category": "Región",
+      "source": "SuperTruck.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT3ZIN1NFLUgwaFIwaFBXZzJieEk2N2hjemRvS19hRG9LZmtTazY4Zlp2MndFMGkwTFd5TTQ0cm5YY0NoWEQ0TVRMOXZhNTZOdWtQRlJBbFlhOFJEX2tDNHozWDJrblI2WnpYc2hid0N1QnJaYUx3NVVRS3R5b2QydTJnRGI4ZTlqV2NjU3BNX0wxRm43SHRyanFzRE1mOTgtV2psaHNTeVMxY05ZdnpRUQ?oc=5",
+      "published_at": "2026-08-22T11:00:24+00:00"
+    },
+    {
+      "id": "1568e1a7858223",
+      "title": "Tecnología logística: un \"Gran Hermano\" con IA en el camión, para reducir los riesgos de accidentes",
+      "summary": "Tecnología logística: un \"Gran Hermano\" con IA en el camión, para reducir los riesgos de accidentes Infocampo",
+      "category": "Ruta, salud y seguridad",
+      "source": "Infocampo",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWjgwR25IbDRSejJVdW1UMG5NZWwxeUJFYkY0Z2hxY2FhQ2I5UFZGRF9ZMV9pdTBuRzZiTGVyWWtjSmZkWE5kZHJzalhEQ1pFak5jWUt5bW5qSWZXcWtsVjJ6aFpSdE9yRnp4RFh1QW4wZGoxcngzbDFlZFFHTmJYcy1BUDNjRUNEUGY4WGFyOVVLLWlfNnRsc2hWUUt0NFBXLXdjZnc0c2JWYWdCcHhNeTY4bXJOQUhSVllyNkRqaUMzTlU?oc=5",
+      "published_at": "2026-08-19T14:03:24+00:00"
+    },
+    {
+      "id": "4d58e4d43c7675",
+      "title": "Chile lidera el salto global de los buses eléctricos mientras el mundo supera el medio millón de unidades cero emisiones",
+      "summary": "Chile lidera el salto global de los buses eléctricos mientras el mundo supera el medio millón de unidades cero emisiones The Clinic",
+      "category": "Camiones y mercado",
+      "source": "The Clinic",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQam9oYXRxLXFmSUtKMDR2UU80VDBaenp3Q3dwY3ZNZTRoS2pHajFOd1pFR3h2Mmt2WTJjeC10OU51VFljWUhhc1VSaU1BazNUcjk0Z1hJb0QtSEttNTlySVYxUTZSMkdRdHo1aE83S1JKMExYYWg1aTMzUVFZa0VYdXFXeFFMenFENjRIYXpqVmszTWNwZXNzSVg4bEpndF9qY1pCUlFqSkw5M0FtQm5mQXM2MmhBNnNOc2tsaFd5T1NoRURqNHRCT094Wk1Bd2xsTFJ1NUhxVEMxOVlUa0VlR3FDMzcxOEYzRnk3N2NB0gHzAUFVX3lxTE00Mm5xaHM5MWlDbTZMaWZSTWpnTjdoc2ZOR1FXM01kM1llZXcwRm5UX2RjRkU0dmRHX1JsTjkwdm0zZVNya0tSZ1poX0hESXRVRU0zdmxyNHhIMDAtaFczNTR0ZGRwZGNrczE5elpidXV1ZDRIOU5GeGZHdU5zZnZTZS1mbUZjaTRZT1c2ZU9FTXVySHdpTWJ4M24xcVJuNnlGTm9GMUxKOHRuZHlSdkdmSE4wS0dKUG9kWnVKNG5wUmtweDFsZnZSYzl0NHZTY2poXzR1WlZua0kya0ktRFl4NVRmQkxDYkViTmg5TEdXMWxvZw?oc=5",
+      "published_at": "2026-08-20T20:03:01+00:00"
+    },
+    {
+      "id": "7856058f45156c",
+      "title": "Arenas para Vaca Muerta: El Niño pone a prueba la logística y el abastecimiento para la fractura hidráulica",
+      "summary": "Arenas para Vaca Muerta: El Niño pone a prueba la logística y el abastecimiento para la fractura hidráulica Ambito",
+      "category": "Logística y puertos",
+      "source": "Ambito",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNXzFGdFJBVkM0VW5RdEpQeXZyTzl4MHpfNHN2Q2lMaldCMFlpeXlnTHl6eHVLdzlJOVFCTHVlN1pyOVBvdFFfdVJRQ0xzUmt1RC1MdDJvUThVTzFxUWthaVd3YTVlSk5reEhINW1QOWpxYUw3VEdDZE93ZHB5QzVkSlRMT1JtM1lqSDBmaGN0bUdPb3FhLVdIbEYwUllpZzBjOFhUUmVzd1Z3VWFiVHgyQ19QVG5sbTVBeUhfWlJfX1Y3eHQ4cDZpaUxrYzhHTG8?oc=5",
+      "published_at": "2026-08-10T07:00:00+00:00"
+    },
+    {
+      "id": "65072331cae690",
+      "title": "El sector del transporte reclamó más infraestructura y financiamiento",
+      "summary": "El sector del transporte reclamó más infraestructura y financiamiento rm-forwarding.com",
+      "category": "Técnica y equipos",
+      "source": "rm-forwarding.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTlVzX3hqVG5vR2dFbmZ2dHhiVHNzTlZabEZJSVRacU5fMzNtUHRZY3NBTWh3enZrLWprT3BWVm9KOEQwalZWOU5CV0JoZVJKQjdDa3o0RWliSDN6NlhSaVNsc0FwSmk0MnprYTFBeEhSNnI1a3RzOURJVUNxZW95Y2FjeVRGWjRKSy0yYW51RzZPN2V1MFJub0RjM3pRRVZiT2VFbmtRRTRnZw?oc=5",
+      "published_at": "2026-08-15T07:00:00+00:00"
+    },
+    {
+      "id": "3d6ac952ec4de4",
+      "title": "El paro de transportistas de cereales paralizará mañana a 180 mil camiones",
+      "summary": "El paro de transportistas de cereales paralizará mañana a 180 mil camiones El diario de Tandil",
+      "category": "Región",
+      "source": "El diario de Tandil",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVHVOVXJsRGhfWHVSd1Y2OTl3bnJ5WXY2eFdrd0FzTUFCcTFaWFY3aGxEcmMwekJSUy12TUJIdkpCVDN1MHZrU0VQSHlENUVpYjhMWGNNYjFrbkFqWTZkRzh2WHhIQVI0U21pLUhZRnRfVnQtVk80c0Nrclp5bm53WVBIelhIVFpyWXJPa1lwSFpROVZnQm1FUjFvZWlCMTZmNEdra3hvM0l6TmhEOVF2UU5scmhESGsxWGc?oc=5",
+      "published_at": "2026-08-21T07:00:00+00:00"
+    },
+    {
+      "id": "9c7f27bed98c46",
+      "title": "Paso Cristo Redentor: La frontera entre Argentina - Chile habilitada para tránsito de camiones",
+      "summary": "Paso Cristo Redentor: La frontera entre Argentina - Chile habilitada para tránsito de camiones Urgente24",
+      "category": "Ruta, salud y seguridad",
+      "source": "Urgente24",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa2ZnM3hURDRjQnM0NWpiUFVxdnIxdUtLRG5CX1kxYmhxZm9qNmVNUFhqYnJqVXpxWkpMY3c4V3FPaUloSkZIRC11eTRiVzNUbldkWUJMaVAyWVNGbllZVWxPaWhHMVpocGIzM1g5cTByTlpaUnN3ZUJsVGVzS1lZYUprTWx5WUpIXzE3eVdFSW5YaVBheWRFSzRmUWc4aFVNUXI1bHY0M0Zla3VPRFNpQXRBVVRpZHFPWFHSAb8BQVVfeXFMTUVCRzVGQzlya215cmFfWEpoSlF3a0UwLVBrSWZKdjBjQm9MWU03eVpFU1V1VEViRG9VSk5yWlZMOVVNYk9uYXJwUVVNWVpqbTlSVlJIR2RTekltcUdBRmJXa0hWLXlHTTFsTUNCZ09jaF93aHlMYXdQUHNBeXpLRjBBZ1Z2a2UtcG1OMW5uS19SaFlxamVsaTNzVURjU3F0eU5hZWpvTEVXT1hqR1hKZ2RzeFRoMUVXWjVlSDFnZXc?oc=5",
+      "published_at": "2026-08-19T00:30:00+00:00"
+    },
+    {
+      "id": "175f8afacd13ee",
+      "title": "Paso Cristo Redentor: comenzó la segunda etapa de reapertura con foco exclusivo en camiones desde Chile hacia Argentina",
+      "summary": "Paso Cristo Redentor: comenzó la segunda etapa de reapertura con foco exclusivo en camiones desde Chile hacia Argentina Tiempo de San Juan",
+      "category": "Camiones y mercado",
+      "source": "Tiempo de San Juan",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNY0pUOFR1WUxIMDh0UGtWd3dfTTR3U0pwaWIyMW9rcHVFNlhiSXE1Um1pX05OSmtxbGY5UFZJa1dKN3VaU25MZy03cnVGNTUtVUN2UDJvMEhuaUxfdmZqYlpYaGhNY2pDSllNQWp4bUR1bnFKUHNseS1NQVNobWhxU3BMVFpHWHBMbi1CRFRodXZIT3BISHZvd3dpZnFRMGhrbHNZWDJ2Y0pMUkt5X3EyMXM1RGE3b0RvYmlPNFBPY1AtNlhyemJhQmJzQWltMmx4bDBFeVVMaURURDQ5MGdTMlhFNzhHbVQ5bVYxRTNONkJpTDcxQmNlckNobG9rdw?oc=5",
+      "published_at": "2026-08-20T15:16:00+00:00"
+    },
+    {
+      "id": "e6e2e0ec3bf86b",
+      "title": "Santa Fe mira el modelo de puertos mineros de Chile",
+      "summary": "Santa Fe mira el modelo de puertos mineros de Chile rm-forwarding.com",
+      "category": "Logística y puertos",
+      "source": "rm-forwarding.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT1JMN0ZDZzlmQUgybTlteHJxVEVlcVg0RGlpS01oYUVWRlVKVUhVdTBJQ3lQTm5HVVFpV2I0bkp4bS1zZFBKYnZPaWRGREQzWnRuZUJxQmtPR2xOVEJpX3o5TllUWW5xcWU4OTBhVXBsWXdnVnFtRzVYc01iNjkydnN4a3lnblF0VXJDUWVzSFNRQQ?oc=5",
+      "published_at": "2026-08-07T07:00:00+00:00"
+    },
+    {
+      "id": "5a557bb0728b18",
+      "title": "Infraestructura, tecnología y capacitación marcan la agenda para la logística argentina",
+      "summary": "Infraestructura, tecnología y capacitación marcan la agenda para la logística argentina Infobae",
+      "category": "Técnica y equipos",
       "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQzZjemZKbHVVQjNlV3B1eXBEUUFYNXJzVTFLVEliRmt6akFpQXRNemZweUhvTGhnaEhhVzN2Y1JHX2ZQS2JUaDFRdlBNTXhsOGZDUGRoZG84d2NsZGFkRzBVRUNuRjBqR0VJYUZzb3dNSGRxeUdqX2dDUU83bGo0REtFeWpOWGFJS3pfQWZSQ1pyT1N6dzRfWkV2ZkZsNjZVTkljVFJtQ2RCWGNXN1gzVHRYUWs3Y2xucXdUUkdPRHNCZDRNdF9mc1p30gHkAUFVX3lxTE9wbldvS2w4d3ZuSXk1V2xTU0VJZjJaRXZETFgxRkhwcVhFcUQ3dDVVREdVMXQ3SFpjcmVTTkc3WlBvV0V0ekRtM29RNjBzM0RvOVpBa09nNmhfTFBrWmN1b3libW15S0NrSkg0QmNlV3VwWDNLTVBVM3hhMGlsdm1XUzZiVXVfcENabGZoV2k3c05UVFYzRy03QWdDcmxGazBLMzNTS1oxUEZlei1rRDlHVmJCdi1uTlZaYks5czV1MnJmcV9Gb2t4MnQ3dTU0MHR6c3pscnUxd3VWbjhFSzA2a2gwOQ?oc=5",
-      "published_at": "2026-07-31T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcF9QeDVubmZWZEJTMmZzQTJ0MWVQUkFrT0lISm9zMFJDS01aNm1HMnBTVFdzM09XZ2Zhbk1OajVZQk9uX19YNk5RZEdBaXV6ZnBVbFVQYW5ESHQ4RjduV2o2UHN5cTgwNFVNTFU2N0RXdTVqY1R6UGVQeVFvZ3JVdzRlWGtnWVFCRGRBdlZxMXpNRG9pSlFKUV9GS1UxRGdMbEctRExJTUxJQU1vUjZHRG9senZ3U2F0M0ZFOVBZb0hxY19BZjcyZNIB4wFBVV95cUxNa2xoaEpzV2pORFBDWW9aamZZbldpVEd6TnVtRUVqcjd6T1ZRLVdQdTZfVVlWSUlqNGlhQkx3RmIzV2pmbUZWekZYZkxrLUFyRXVFbEFEOWx1STN5S2k2cG1BTlpqcDBTOFA5eFdqRlhqaVdkcDJxMnNpalltb0ZfT2ktNW1WalJ2SXV4bGJfUFhGRmFSWTl0Nk5BSzZ6Tkt5aGxSNXJIRlMtd3dKWnVLZjV2Q2lYTWhydkZsT3RHVW1HS0VPUlhmSWFtRXBQajVTel9OOE1xWHliQ045RkUxN3pSbw?oc=5",
+      "published_at": "2026-08-13T07:00:00+00:00"
     }
   ],
   "health": {
     "status": "ok",
-    "successful_queries": 6,
-    "total_queries": 7,
-    "failed_queries": [
-      {
-        "category": "Región",
-        "error": "fuente sin resultados"
-      }
-    ],
-    "new_candidates": 60,
+    "successful_queries": 14,
+    "total_queries": 14,
+    "failed_queries": [],
+    "new_candidates": 152,
     "published_items": 80
   }
 }
