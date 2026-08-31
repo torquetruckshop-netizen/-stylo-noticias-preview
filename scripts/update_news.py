@@ -12,13 +12,22 @@ from pathlib import Path
 import feedparser
 
 QUERIES = [
-    ("Ruta, salud y seguridad", "camioneros salud sedentarismo estrés sobrepeso alimentación descanso conducción accidentes paradores Argentina when:45d"),
-    ("Camiones y mercado", "camiones Argentina patentamientos ventas lanzamientos camiones chinos crédito financiación when:45d"),
-    ("Logística y puertos", "logística última milla puertos descarga Vaca Muerta transporte cargas Argentina when:45d"),
-    ("Técnica y equipos", "neumáticos repuestos remolques semirremolques tecnología transporte Argentina Sudamérica when:45d"),
-    ("Economía y costos", "FADEEAC índice costos combustible tarifas tasas crédito camiones Argentina when:45d"),
-    ("Región", "transporte cargas Sudamérica fronteras puertos corredores Mercosur when:30d"),
+    ("Ruta, salud y seguridad", "(camioneros OR transportistas) (salud OR sedentarismo OR estrés OR sobrepeso) Argentina when:90d"),
+    ("Ruta, salud y seguridad", "(fatiga OR descanso OR alimentación) (camioneros OR conducción) Argentina when:90d"),
+    ("Ruta, salud y seguridad", "(accidente camión OR paradores camioneros) Argentina when:45d"),
+    ("Camiones y mercado", "(camiones patentamientos OR camiones ventas) Argentina ACARA when:60d"),
+    ("Camiones y mercado", "(camiones chinos OR lanzamiento camiones) Argentina when:90d"),
+    ("Camiones y mercado", "(crédito camiones OR financiación camiones) Argentina when:120d"),
+    ("Logística y puertos", "(puertos OR terminales portuarias) Argentina cargas when:60d"),
+    ("Logística y puertos", "(logística última milla OR Vaca Muerta transporte) Argentina when:60d"),
+    ("Técnica y equipos", "(neumáticos camiones OR repuestos camiones) Argentina when:90d"),
+    ("Técnica y equipos", "(remolques OR semirremolques OR tecnología transporte) Argentina when:90d"),
+    ("Economía y costos", "(FADEEAC OR índice costos transporte) Argentina when:90d"),
+    ("Economía y costos", "(combustible OR tarifas OR tasas) transporte cargas Argentina when:60d"),
+    ("Región", "(transporte cargas OR logística) (Chile OR Brasil OR Uruguay OR Paraguay OR Bolivia OR Perú) when:45d"),
+    ("Región", "(fronteras OR corredores OR puertos) Mercosur transporte when:45d"),
 ]
+CATEGORIES = list(dict.fromkeys(category for category, _query in QUERIES))
 
 BLOCKED_TERMS = ["europa", "europeo", "alemania", "francia", "reino unido", "españa", "italia"]
 BLOCKED_SOURCES = ["www1.ru"]
@@ -42,7 +51,7 @@ LEGACY_CATEGORY_MAP = {
 }
 MAX_AGE_DAYS = 45
 MAX_ITEMS_PER_CATEGORY = 14
-MIN_SUCCESSFUL_QUERIES = 3
+MIN_SUCCESSFUL_QUERIES = 4
 MIN_NEW_ITEMS = 8
 MAX_ITEMS = 80
 FETCH_RETRIES = 3
@@ -267,7 +276,7 @@ def main():
         reverse=True,
     )
 
-    accepted_by_category = {category: [] for category, _query in QUERIES}
+    accepted_by_category = {category: [] for category in CATEGORIES}
     accepted_ids = set()
     accepted_titles = []
     for item in candidates:
@@ -283,7 +292,7 @@ def main():
 
     accepted = []
     while any(accepted_by_category.values()) and len(accepted) < MAX_ITEMS:
-        for category, _query in QUERIES:
+        for category in CATEGORIES:
             if accepted_by_category[category]:
                 accepted.append(accepted_by_category[category].pop(0))
             if len(accepted) >= MAX_ITEMS:
