@@ -172,3 +172,76 @@ jobs:
 
           echo "No se pudo publicar la edición después de 3 intentos"
           exit 1
+
+      - name: Verificar producción
+        run: |
+          set -euo pipefail
+          version_file="$(mktemp)"
+          trap 'rm -f "$version_file"' EXIT
+
+          for attempt in $(seq 1 30); do
+            if curl \
+              --fail \
+              --silent \
+              --show-error \
+              --max-time 20 \
+              --user-agent 'StyloCamionHealthCheck/1.0' \
+              --header 'Cache-Control: no-cache' \
+              "https://noticias.stylocamion.com/version.json?check=$(date +%s)" \
+              --output "$version_file"; then
+              if VERSION_FILE="$version_file" python - <<'PY'
+          import json
+          import os
+          from datetime import datetime
+          from pathlib import Path
+          from zoneinfo import ZoneInfo
+
+          def parse_timestamp(value):
+              if not isinstance(value, str) or not value:
+                  return None
+              try:
+                  return datetime.fromisoformat(value.replace("Z", "+00:00"))
+              except ValueError:
+                  return None
+
+          candidate = json.loads(Path("data/news.json").read_text(encoding="utf-8"))
+          published = json.loads(Path(os.environ["VERSION_FILE"]).read_text(encoding="utf-8"))
+          feed = published.get("feed") or {}
+
+          candidate_at = parse_timestamp(candidate.get("updated_at"))
+          published_at = parse_timestamp(feed.get("updated_at"))
+          item_count = feed.get("item_count", published.get("item_count", 0))
+          argentina = ZoneInfo("America/Argentina/Cordoba")
+          today = datetime.now(argentina).date()
+
+          checks = (
+              candidate_at is not None,
+              published_at is not None,
+              published_at is not None and published_at.astimezone(argentina).date() == today,
+              published_at is not None and candidate_at is not None and published_at >= candidate_at,
+              feed.get("origin") == "published-feed",
+              isinstance(item_count, int) and not isinstance(item_count, bool) and item_count > 0,
+          )
+          if not all(checks):
+              raise SystemExit(
+                  "Producción todavía no refleja la edición esperada: "
+                  f"fecha={feed.get('updated_at')}, origen={feed.get('origin')}, "
+                  f"cantidad={item_count}"
+              )
+
+          print(
+              f"Producción verificada: {published_at.isoformat()} · "
+              f"{feed.get('origin')} · {item_count} noticias"
+          )
+          PY
+              then
+                exit 0
+              fi
+            fi
+
+            echo "Producción pendiente (intento $attempt/30)"
+            sleep 10
+          done
+
+          echo "Producción no reflejó la edición nueva dentro de 5 minutos"
+          exit 1
