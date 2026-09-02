@@ -1,11 +1,13 @@
 import hashlib
 import html
 import json
+import random
 import re
 import sys
 import time
 import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -28,11 +30,34 @@ QUERIES = [
     ("Región", "(fronteras OR corredores OR puertos) Mercosur transporte when:45d"),
 ]
 CATEGORIES = list(dict.fromkeys(category for category, _query in QUERIES))
+BING_QUERIES = [
+    ("Ruta, salud y seguridad", "camioneros rutas Argentina"),
+    ("Camiones y mercado", "camiones Argentina"),
+    ("Camiones y mercado", "mercado camiones Argentina"),
+    ("Logística y puertos", "transporte de cargas Argentina"),
+    ("Logística y puertos", "logística transporte Argentina"),
+    ("Técnica y equipos", "remolques camiones Argentina"),
+    ("Economía y costos", "costos transporte de cargas Argentina"),
+    ("Región", "caminhões Brasil"),
+    ("Región", "transporte rodoviário de cargas Brasil"),
+    ("Región", "transporte de carga Chile"),
+    ("Región", "transporte de cargas Uruguay"),
+    ("Región", "camiones Paraguay"),
+    ("Región", "transporte de carga Bolivia"),
+    ("Región", "transporte de carga Perú"),
+]
+DIRECT_FEEDS = [
+    ("Camiones y mercado", "Transporte Mundial", "https://transportemundial.com.ar/feed/"),
+    ("Logística y puertos", "ARLOG", "https://arlog.org/feed/"),
+    ("Región", "Carga Pesada", "https://cargapesada.com.br/feed/"),
+    ("Región", "O Carreteiro", "https://ocarreteiro.com.br/feed/"),
+    ("Región", "Transporte Moderno", "https://transportemoderno.com.br/feed/"),
+]
 
 BLOCKED_TERMS = ["europa", "europeo", "alemania", "francia", "reino unido", "españa", "italia"]
 BLOCKED_SOURCES = ["www1.ru"]
 REGIONAL_TERMS = [
-    "argentina", "brasil", "chile", "uruguay", "paraguay", "bolivia", "perú", "peru",
+    "argentina", "brasil", "brazil", "chile", "uruguay", "paraguay", "bolivia", "perú", "peru",
     "colombia", "sudamérica", "sudamerica", "mercosur", "latinoamérica", "latinoamerica",
 ]
 TRUSTED_SOURCE_TERMS = [
@@ -54,8 +79,10 @@ MAX_ITEMS_PER_CATEGORY = 14
 MIN_SUCCESSFUL_QUERIES = 4
 MIN_NEW_ITEMS = 8
 MAX_ITEMS = 80
-FETCH_RETRIES = 3
-FETCH_TIMEOUT_SECONDS = 20
+FETCH_RETRIES = 2
+FETCH_TIMEOUT_SECONDS = 15
+QUERY_WORKERS = 5
+FALLBACK_WORKERS = 3
 OUT = Path(__file__).resolve().parents[1] / "data" / "news.json"
 
 
@@ -107,6 +134,9 @@ def is_relevant(title, summary, source):
         or "camión" in haystack
         or "logística" in haystack
         or "logistica" in haystack
+        or "truck" in haystack
+        or "freight" in haystack
+        or "logistics" in haystack
     )
 
 
@@ -140,12 +170,22 @@ def rss(query):
     return f"https://news.google.com/rss/search?q={q}&hl=es-419&gl=AR&ceid=AR:es-419"
 
 
-def fetch_entries(query):
+def fallback_rss(query):
+    params = urllib.parse.urlencode({
+        "q": query,
+        "format": "rss",
+        "setlang": "es",
+        "cc": "AR",
+    })
+    return f"https://www.bing.com/news/search?{params}"
+
+
+def fetch_rss(url, provider):
     last_error = None
     for attempt in range(1, FETCH_RETRIES + 1):
         try:
             request = urllib.request.Request(
-                rss(query),
+                url,
                 headers={
                     "User-Agent": "StyloCamionNewsBot/1.0 (+https://noticias.stylocamion.com)",
                     "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
@@ -161,8 +201,69 @@ def fetch_entries(query):
         except Exception as exc:
             last_error = exc
             if attempt < FETCH_RETRIES:
-                time.sleep(attempt * 2)
-    raise RuntimeError(str(last_error) if last_error else "error desconocido")
+                # El jitter evita que todas las consultas vuelvan a golpear al
+                # proveedor exactamente al mismo tiempo después de una caída.
+                time.sleep((2 ** attempt) + random.uniform(0.2, 1.4))
+    raise RuntimeError(f"{provider}: {last_error or 'error desconocido'}")
+
+
+def fetch_entries(query):
+    return fetch_rss(rss(query), "Google News")
+
+
+def fetch_fallback_entries(query):
+    return fetch_rss(fallback_rss(query), "Bing News")
+
+
+def fetch_direct_entries(url, source):
+    return fetch_rss(url, source)
+
+
+def article_link(entry):
+    link = clean(entry.get("link", ""))
+    parsed = urllib.parse.urlparse(link)
+    if parsed.hostname in {"bing.com", "www.bing.com"} and parsed.path == "/news/apiclick.aspx":
+        target = urllib.parse.parse_qs(parsed.query).get("url", [""])[0]
+        if target.startswith("https://"):
+            return target
+    return link
+
+
+def source_name(entry, link):
+    source = entry.get("news_source") or entry.get("source") or {}
+    if hasattr(source, "get"):
+        source = source.get("title", "")
+    source = clean(str(source or ""))
+    if source:
+        return source
+    hostname = urllib.parse.urlparse(link).hostname or "Fuente externa"
+    return hostname.removeprefix("www.")
+
+
+def items_from_entries(entries, category, cutoff):
+    items = []
+    for entry in entries[:250]:
+        link = article_link(entry)
+        source = source_name(entry, link)
+        title = clean_title(entry.get("title", ""), source)
+        summary = clean(entry.get("summary", ""))
+        published = published_datetime(entry)
+        item_category = category
+        if not title or not link.startswith("https://") or not published:
+            continue
+        if published < cutoff or not is_relevant(title, summary, source):
+            continue
+        items.append({
+            "id": article_id(title, source),
+            "title": title,
+            "summary": useful_summary(title, summary, item_category),
+            "category": item_category,
+            "source": source,
+            "url": link,
+            "published_at": published.isoformat(),
+            "_score": score(title, summary, source, published),
+        })
+    return items
 
 
 def valid_item(item):
@@ -227,41 +328,111 @@ def main():
     successful_queries = 0
     failed_queries = []
 
-    for category, query in QUERIES:
-        try:
-            entries = fetch_entries(query)
-            successful_queries += 1
-        except RuntimeError as exc:
-            failed_queries.append({"category": category, "error": str(exc)[:180]})
-            continue
-
-        for entry in entries[:25]:
-            source = clean((entry.get("source") or {}).get("title", "Fuente externa"))
-            title = clean_title(entry.get("title", ""), source)
-            summary = clean(entry.get("summary", ""))
-            link = clean(entry.get("link", ""))
-            published = published_datetime(entry)
-            if not title or not link.startswith("https://") or not published:
+    # Consultar en paralelo evita que una caída temporal del proveedor acumule
+    # hasta varios minutos de espera por cada búsqueda. Cada consulta conserva
+    # sus propios reintentos y timeout.
+    with ThreadPoolExecutor(max_workers=min(QUERY_WORKERS, len(QUERIES))) as executor:
+        pending = {
+            executor.submit(fetch_entries, query): (category, query)
+            for category, query in QUERIES
+        }
+        for future in as_completed(pending):
+            category, _query = pending[future]
+            try:
+                entries = future.result()
+                successful_queries += 1
+            except Exception as exc:
+                failed_queries.append({"category": category, "error": str(exc)[:180]})
                 continue
-            if published < cutoff or not is_relevant(title, summary, source):
-                continue
-            new_items.append({
-                "id": article_id(title, source),
-                "title": title,
-                "summary": useful_summary(title, summary, category),
-                "category": category,
-                "source": source,
-                "url": link,
-                "published_at": published.isoformat(),
-                "_score": score(title, summary, source, published),
-            })
 
-    if successful_queries < MIN_SUCCESSFUL_QUERIES or len(new_items) < MIN_NEW_ITEMS:
+            new_items.extend(items_from_entries(entries[:25], category, cutoff))
+
+    primary_sufficient = (
+        successful_queries >= MIN_SUCCESSFUL_QUERIES
+        and len(new_items) >= MIN_NEW_ITEMS
+    )
+    fallback_used = False
+    fallback_failures = []
+    fallback_successful_queries = 0
+    fallback_candidates = 0
+    direct_failures = []
+    direct_successful_feeds = 0
+    direct_candidates = 0
+    if not primary_sufficient:
         print(
-            f"Actualización rechazada: {successful_queries}/{len(QUERIES)} fuentes correctas, "
-            f"{len(new_items)} noticias nuevas. Se conserva la última edición válida.",
+            f"Fuente principal insuficiente: {successful_queries}/{len(QUERIES)} consultas correctas, "
+            f"{len(new_items)} noticias. Se intenta Bing News.",
             file=sys.stderr,
         )
+        with ThreadPoolExecutor(max_workers=min(FALLBACK_WORKERS, len(BING_QUERIES))) as executor:
+            pending = {
+                executor.submit(fetch_fallback_entries, query): (category, query)
+                for category, query in BING_QUERIES
+            }
+            for future in as_completed(pending):
+                category, _query = pending[future]
+                try:
+                    entries = future.result()
+                    fallback_successful_queries += 1
+                except Exception as exc:
+                    fallback_failures.append({"category": category, "error": str(exc)[:180]})
+                    continue
+
+                fallback_items = items_from_entries(entries, category, cutoff)
+                fallback_candidates += len(fallback_items)
+                new_items.extend(fallback_items)
+
+        if fallback_successful_queries == 0 or len(new_items) < MIN_NEW_ITEMS:
+            print(
+                f"Bing News insuficiente: {fallback_successful_queries}/{len(BING_QUERIES)} "
+                f"consultas correctas, {fallback_candidates} candidatas. "
+                "Se intentan fuentes editoriales directas.",
+                file=sys.stderr,
+            )
+            with ThreadPoolExecutor(max_workers=min(FALLBACK_WORKERS, len(DIRECT_FEEDS))) as executor:
+                pending = {
+                    executor.submit(fetch_direct_entries, url, source): (category, source)
+                    for category, source, url in DIRECT_FEEDS
+                }
+                for future in as_completed(pending):
+                    category, source = pending[future]
+                    try:
+                        entries = future.result()
+                        direct_successful_feeds += 1
+                    except Exception as exc:
+                        direct_failures.append({"source": source, "error": str(exc)[:180]})
+                        continue
+
+                    direct_items = items_from_entries(entries, category, cutoff)
+                    direct_candidates += len(direct_items)
+                    new_items.extend(direct_items)
+
+        fallback_used = (
+            fallback_candidates + direct_candidates > 0
+            and len(new_items) >= MIN_NEW_ITEMS
+        )
+
+    if not primary_sufficient and not fallback_used:
+        print(
+            f"Actualización rechazada: fuente principal y respaldo insuficientes "
+            f"({len(new_items)} noticias). Se conserva la última edición válida.",
+            file=sys.stderr,
+        )
+        for failure in failed_queries:
+            print(
+                f"- {failure['category']}: {failure['error']}",
+                file=sys.stderr,
+            )
+        for failure in fallback_failures:
+            print(
+                f"- Respaldo {failure['category']}: {failure['error']}",
+                file=sys.stderr,
+            )
+        for failure in direct_failures:
+            print(
+                f"- Fuente directa {failure['source']}: {failure['error']}",
+                file=sys.stderr,
+            )
         sys.exit(1)
 
     previous_items = load_previous_items(cutoff)
@@ -307,6 +478,22 @@ def main():
         "items": accepted,
         "health": {
             "status": "ok",
+            "source": (
+                "direct-feeds-fallback"
+                if fallback_used and direct_candidates > 0
+                else "bing-news-fallback"
+                if fallback_used
+                else "google-news"
+            ),
+            "fallback_used": fallback_used,
+            "fallback_successful_queries": fallback_successful_queries,
+            "fallback_total_queries": len(BING_QUERIES),
+            "fallback_failures": fallback_failures,
+            "fallback_candidates": fallback_candidates,
+            "direct_successful_feeds": direct_successful_feeds,
+            "direct_total_feeds": len(DIRECT_FEEDS),
+            "direct_failures": direct_failures,
+            "direct_candidates": direct_candidates,
             "successful_queries": successful_queries,
             "total_queries": len(QUERIES),
             "failed_queries": failed_queries,
@@ -318,10 +505,15 @@ def main():
     temporary = OUT.with_suffix(".json.tmp")
     temporary.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     temporary.replace(OUT)
-    print(
-        f"Noticias guardadas: {len(accepted)} · fuentes correctas: "
-        f"{successful_queries}/{len(QUERIES)}"
-    )
+    if direct_candidates > 0:
+        source_label = (
+            f"fuentes editoriales directas (respaldo, {direct_candidates} candidatas)"
+        )
+    elif fallback_used:
+        source_label = f"Bing News (respaldo, {fallback_candidates} candidatas)"
+    else:
+        source_label = f"Google News ({successful_queries}/{len(QUERIES)} consultas)"
+    print(f"Noticias guardadas: {len(accepted)} · origen: {source_label}")
 
 
 if __name__ == "__main__":
