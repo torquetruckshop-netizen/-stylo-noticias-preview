@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T08:31:53.687366+00:00",
+  "updated_at": "2026-09-03T12:36:01.029590+00:00",
   "items": [
     {
       "id": "4c0e03fcdba046",
@@ -668,11 +668,11 @@
       "published_at": "2026-08-25T17:28:00+00:00"
     },
     {
-      "id": "b314b0168f6cfc",
+      "id": "87c7f1f09dd719",
       "title": "Argentina puso a la venta Belgrano Cargas, la empresa ferroviaria clave para transportar commodities a los puertos para la exportación",
-      "summary": "Argentina puso a la venta Belgrano Cargas, la empresa ferroviaria clave para transportar commodities a los puertos para la exportación laopinionaustral.com.ar",
+      "summary": "Argentina puso a la venta Belgrano Cargas, la empresa ferroviaria clave para transportar commodities a los puertos para la exportación La Opinión Austral",
       "category": "Logística y puertos",
-      "source": "laopinionaustral.com.ar",
+      "source": "La Opinión Austral",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUndTV1lIa0VkWXE0QzkxVVFIWXViT1NPdk5aeGEtYklmUTNPU0ZsX3htelNEOU1BSHM1NC1BcVFkc2FuOVphbjNUejBkR18xUVlqT0N5a3o5WjN5NWNvRXRlWUJtWkROZ2cyV0JtYk5LYllDZzRCSTVvNnpDLWM3SkpWQUtiMDJpeElHcWFZT1dkUm1Bb0hXYkI0b0xuM0J6Q0RwdVczWFFFSmxISnFYMFR3T2VCVE1NbjNhWWZuUGpLQ2NmUnRrV0Y0YXd0STlLZWNOUERIRWpwaVd1QnM1d1RQVU5jRkxpV3pZdkJVMGNqLXBuTE9wVHBnWVFCWE9uMnd2NmZpeElwT2RZNzIwSjE0YTJnUQ?oc=5",
       "published_at": "2026-08-20T12:03:16+00:00"
     },
@@ -734,10 +734,51 @@
     "direct_total_feeds": 5,
     "direct_failures": [],
     "direct_candidates": 0,
-    "successful_queries": 14,
+    "successful_queries": 4,
     "total_queries": 14,
-    "failed_queries": [],
-    "new_candidates": 136,
+    "failed_queries": [
+      {
+        "category": "Camiones y mercado",
+        "error": "Google News: fuente sin resultados"
+      },
+      {
+        "category": "Camiones y mercado",
+        "error": "Google News: fuente sin resultados"
+      },
+      {
+        "category": "Ruta, salud y seguridad",
+        "error": "Google News: fuente sin resultados"
+      },
+      {
+        "category": "Ruta, salud y seguridad",
+        "error": "Google News: fuente sin resultados"
+      },
+      {
+        "category": "Logística y puertos",
+        "error": "Google News: fuente sin resultados"
+      },
+      {
+        "category": "Técnica y equipos",
+        "error": "Google News: fuente sin resultados"
+      },
+      {
+        "category": "Técnica y equipos",
+        "error": "Google News: fuente sin resultados"
+      },
+      {
+        "category": "Economía y costos",
+        "error": "Google News: fuente sin resultados"
+      },
+      {
+        "category": "Economía y costos",
+        "error": "Google News: fuente sin resultados"
+      },
+      {
+        "category": "Región",
+        "error": "Google News: fuente sin resultados"
+      }
+    ],
+    "new_candidates": 27,
     "published_items": 80
   }
 }
