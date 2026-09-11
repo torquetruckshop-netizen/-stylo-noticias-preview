@@ -84,6 +84,7 @@ FETCH_TIMEOUT_SECONDS = 15
 QUERY_WORKERS = 5
 FALLBACK_WORKERS = 3
 OUT = Path(__file__).resolve().parents[1] / "data" / "news.json"
+EDITORIAL_OUT = Path(__file__).resolve().parents[1] / "data" / "editorial-news.json"
 
 
 def clean(text):
@@ -300,6 +301,23 @@ def load_previous_items(cutoff):
     return accepted
 
 
+def load_editorial_items(cutoff):
+    if not EDITORIAL_OUT.exists():
+        return []
+    try:
+        payload = json.loads(EDITORIAL_OUT.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return []
+    accepted = []
+    for item in payload.get("items", []):
+        if not valid_item(item):
+            continue
+        published = parse_iso(item["published_at"])
+        if published and published >= cutoff:
+            accepted.append(item)
+    return accepted
+
+
 def headline_signature(title):
     stopwords = {
         "para", "como", "este", "esta", "desde", "sobre", "entre", "tras", "hacia",
@@ -438,7 +456,8 @@ def main():
     previous_items = load_previous_items(cutoff)
     for item in previous_items:
         item["category"] = LEGACY_CATEGORY_MAP.get(item["category"], item["category"])
-    candidates = new_items + [{**item, "_score": 0} for item in previous_items]
+    editorial_items = load_editorial_items(cutoff)
+    candidates = [{**item, "_score": 1000} for item in editorial_items] + new_items + [{**item, "_score": 0} for item in previous_items]
     candidates.sort(
         key=lambda item: (
             parse_iso(item["published_at"]) or datetime.min.replace(tzinfo=timezone.utc),
