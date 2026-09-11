@@ -1,15 +1,6 @@
 {
-  "updated_at": "2026-09-11T12:59:51.403003+00:00",
+  "updated_at": "2026-09-11T19:10:48.737430+00:00",
   "items": [
-    {
-      "id": "stylo-fadeeac-ict-2026-08",
-      "title": "FADEEAC: el costo del transporte subió 1,66% en agosto y acumuló 27% en 2026",
-      "summary": "El índice oficial registró en agosto la menor suba mensual de 2026: 1,66%. El acumulado enero-agosto fue 27% y la variación de los últimos 12 meses, 42%; en julio había aumentado 2,25%.",
-      "category": "Economía y costos",
-      "source": "Stylo Camión · FADEEAC",
-      "url": "https://noticias.stylocamion.com/indice-costos-transporte-agosto-2026.html",
-      "published_at": "2026-09-11T12:30:00+00:00"
-    },
     {
       "id": "186f2c74998216",
       "title": "Trelew destacó la importancia del acompañamiento y la prevención en salud mental",
@@ -29,22 +20,31 @@
       "published_at": "2026-09-10T20:01:00+00:00"
     },
     {
-      "id": "9ec27492c863dd",
-      "title": "Hidrovía: comenzó a operar Vía Navegable Argentina, la empresa que ganó la licitación por los próximos 25 años",
-      "summary": "Hidrovía: comenzó a operar Vía Navegable Argentina, la empresa que ganó la licitación por los próximos 25 años Infobae",
+      "id": "d607a4b637a343",
+      "title": "Logística, puertos y energía: los proyectos que China analiza en Puerto General San Martín",
+      "summary": "Logística, puertos y energía: los proyectos que China analiza en Puerto General San Martín Portal ON24",
       "category": "Logística y puertos",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORHMyMkpxZ0FEODcyTEFhbDh4Z0NyVGhkRVQ5TUtkNlNPOE9jcG1fRUM3SDNyUVFZcXVZVEtSOVRDaHQwcHlvZXRGSW15SHZya2ppd0JTNG9kZGg4Mmt6NXJwZklrdjFaRHNSQTNQeHB2Z2tqMDRzUzlwLWVYOVozVUI1X2JJeTdGNmo2ZmFNT3pNdWhUUTFLc0FBcGpNTHFHbkl1RFNyNHB1SW9yRWNsNnlMNEc1SGdGR2dYSmE4Nk4xRDN4bmVEd1VWT2Q2dWhhQlBzWlhmU2xDNk44YnhTSmdmbHFsTnl50gGDAkFVX3lxTE40cVBfa3FZZElOMnE0dFg5WnF5blZaNnVrVjUwX1JaRVFkNE9jcEdhWVl4Q3dJMWFCaHdISFJMSlE5OWc3X0NXNFV0NksyY18xdi01bmRBQ0R0eVZYZDZ0ZnZVRjU0NVktTlJiOVowTmMwdE1zYzNfRnBoZlZ2SDFzTFRlS1N1THVMdjI5RDZpNXBaZ2NmZVNWelJOLWdnRi1scUYwQXlKQjhTUm4tZmFOdU8xeWVCd1F5Y3pVaDVlMVNNcmg5Tk1CUnNIekI3RHhoakFsOGR6SWlxMGlvRjVJMjNpLUIwNHNvNmxZSnlUWTRmaVRsUVQtdEdYSVVuSi1OZ1k?oc=5",
-      "published_at": "2026-09-10T13:48:00+00:00"
+      "source": "Portal ON24",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWDNVRy1ValhmaXZkdHZFWjB2YXR1YUd3cnNjbUdTdVdtQVQwM2ZUdWxNQVg4N3pKSEFGN3R1VTFCQW40aDNUMXBzejlNSGRGUDgzU3hacG85ZDdMc040bE1Fdk9qZWZ4MEZxeHpVeFljcmozS05jRkpkVF9sMEVyaWtKdUI0SHRCbEhQYjF4Vy03bzZEdFE2N3ZnN3JIUU4wbWZ4VmFDZWRJNFdQSTdlUlFDNldITVJhTEUxTmdKVWhPZGlJV3c?oc=5",
+      "published_at": "2026-09-10T22:10:00+00:00"
     },
     {
-      "id": "0c497bbbfad489",
-      "title": "Bariloche reguló el ingreso y circulación de camiones y colectivos",
-      "summary": "Bariloche reguló el ingreso y circulación de camiones y colectivos NoticiasNQN",
+      "id": "3b2e0fb15cf0a7",
+      "title": "Volkswagen Camiones y Buses anuncia a Pablo Princich como nuevo gerente General en Argentina",
+      "summary": "Volkswagen Camiones y Buses anuncia a Pablo Princich como nuevo gerente General en Argentina SuperTruck.com.ar",
       "category": "Técnica y equipos",
-      "source": "NoticiasNQN",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGZYaTBhNUM4RUNNeDRMRjloWDJTSWdTUVJTek5RVnZXb0NGcTQwWHBCZmxPYm1MUHREX0ZOSFBuVUd6MnpBX2p2aVFtOFlNV2hqR1gwVUV0RHhsZEx4Y0FjRzVEM2FRUU1jbklocmVBYWVwTnM2Y1otYmYyRnViR21ZZDJVWFZFYVJXNnVLUE1sb0ZvTzNXaDhRZnNBd3dLWTZlYktSbEtfS3BoR3F3VGpPd3VHZW81OWJrSy14Z3ZTQdIBxwFBVV95cUxPX2w0VjN6NElQWDhLNTZvYVkzTlgyRlhCUzVaaHFtd050M1lfVUNfSEE1RS1haGhZWjZwVV9GVVNCa0FWN1VEeGI5bG5oYlp6UzVuRWZTVWVJUmVxa2xEa0hmOWJFcWVjb0hDUXJSRUN1TURtbWx0RzFFcm9qZGFTQW9xdWRBYXpqYnlSSkZzcmxqNHNKaFNoVGd0eTJzUXNzR1g3WTdjVWh4TWZmVlVPVVhUVW5jS0xkT2YwUDZJOUp6T041d3RR?oc=5",
-      "published_at": "2026-09-09T01:20:51+00:00"
+      "source": "SuperTruck.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUGJDcUlJU3A2ZzNwcjNETUpKeFBiRUxxVnFhYklJMDh5WUdsM1puR1Bpa25CaFVuNENSNDhackxJWl9NcmNCWndvR1NaNVNidlllLTd2Z1gyckNtX1hHdm9ybUhYUXZvRlpYUkFYNU4zWGhQVW40Vy1PSjRvYk9uR0hNMm8wVlp6b1YzcnJ4WGZ3LXhmbTZDbGtudm1ETU9qRkE?oc=5",
+      "published_at": "2026-09-11T18:00:30+00:00"
+    },
+    {
+      "id": "stylo-fadeeac-ict-2026-08",
+      "title": "FADEEAC: el costo del transporte subió 1,66% en agosto y acumuló 27% en 2026",
+      "summary": "El índice oficial registró en agosto la menor suba mensual de 2026: 1,66%. El acumulado enero-agosto fue 27% y la variación de los últimos 12 meses, 42%; en julio había aumentado 2,25%.",
+      "category": "Economía y costos",
+      "source": "Stylo Camión · FADEEAC",
+      "url": "https://noticias.stylocamion.com/indice-costos-transporte-agosto-2026.html",
+      "published_at": "2026-09-11T12:30:00+00:00"
     },
     {
       "id": "37dfbcfb86bb28",
@@ -74,22 +74,22 @@
       "published_at": "2026-09-10T10:55:00+00:00"
     },
     {
-      "id": "fa82f12d175e4a",
-      "title": "Management Logístico 2026 pone en agenda los desafíos que están transformando la logística en Argentina",
-      "summary": "Costos, velocidad de entrega, e-commerce, tecnología y nuevas exigencias de los consumidores están obligando a las empresas a repensar sus operaciones. Referentes de algunas de las principales compañí ...",
+      "id": "9ec27492c863dd",
+      "title": "Hidrovía: comenzó a operar Vía Navegable Argentina, la empresa que ganó la licitación por los próximos 25 años",
+      "summary": "Hidrovía: comenzó a operar Vía Navegable Argentina, la empresa que ganó la licitación por los próximos 25 años Infobae",
       "category": "Logística y puertos",
-      "source": "Perfil on MSN",
-      "url": "https://www.msn.com/es-ar/noticias/argentina/management-log%C3%ADstico-2026-pone-en-agenda-los-desaf%C3%ADos-que-est%C3%A1n-transformando-la-log%C3%ADstica-en-argentina/ar-AA2bY6di",
-      "published_at": "2026-09-10T12:21:36+00:00"
+      "source": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORHMyMkpxZ0FEODcyTEFhbDh4Z0NyVGhkRVQ5TUtkNlNPOE9jcG1fRUM3SDNyUVFZcXVZVEtSOVRDaHQwcHlvZXRGSW15SHZya2ppd0JTNG9kZGg4Mmt6NXJwZklrdjFaRHNSQTNQeHB2Z2tqMDRzUzlwLWVYOVozVUI1X2JJeTdGNmo2ZmFNT3pNdWhUUTFLc0FBcGpNTHFHbkl1RFNyNHB1SW9yRWNsNnlMNEc1SGdGR2dYSmE4Nk4xRDN4bmVEd1VWT2Q2dWhhQlBzWlhmU2xDNk44YnhTSmdmbHFsTnl50gGDAkFVX3lxTE40cVBfa3FZZElOMnE0dFg5WnF5blZaNnVrVjUwX1JaRVFkNE9jcEdhWVl4Q3dJMWFCaHdISFJMSlE5OWc3X0NXNFV0NksyY18xdi01bmRBQ0R0eVZYZDZ0ZnZVRjU0NVktTlJiOVowTmMwdE1zYzNfRnBoZlZ2SDFzTFRlS1N1THVMdjI5RDZpNXBaZ2NmZVNWelJOLWdnRi1scUYwQXlKQjhTUm4tZmFOdU8xeWVCd1F5Y3pVaDVlMVNNcmg5Tk1CUnNIekI3RHhoakFsOGR6SWlxMGlvRjVJMjNpLUIwNHNvNmxZSnlUWTRmaVRsUVQtdEdYSVVuSi1OZ1k?oc=5",
+      "published_at": "2026-09-10T13:48:00+00:00"
     },
     {
-      "id": "d875ec61757199",
-      "title": "Mercedes-Benz Camiones y Buses Argentina cumple 75 años: del mítico 1114 a la nueva era en Zárate",
-      "summary": "Mercedes-Benz Camiones y Buses Argentina cumple 75 años: del mítico 1114 a la nueva era en Zárate SuperTruck.com.ar",
+      "id": "0c497bbbfad489",
+      "title": "Bariloche reguló el ingreso y circulación de camiones y colectivos",
+      "summary": "Bariloche reguló el ingreso y circulación de camiones y colectivos NoticiasNQN",
       "category": "Técnica y equipos",
-      "source": "SuperTruck.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSG5wRll0YUlpNEN4RDU2aDk3TGMtWTJiUXBiUWNITGlCLTNFVnkwREJsVDUydXVmYWpSLVZ5NXowQVBrRUFXTnhhYlpCZFhyUFJiMFdxWDhyR0VlU3N3NjRSb1dYajlhY0N6UkN3eFFmRmdiUmxIUDdQQnpzTWVWVU10NHlvUEpfcnFqLWxmYTZTTDJYamc?oc=5",
-      "published_at": "2026-09-08T17:08:47+00:00"
+      "source": "NoticiasNQN",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGZYaTBhNUM4RUNNeDRMRjloWDJTSWdTUVJTek5RVnZXb0NGcTQwWHBCZmxPYm1MUHREX0ZOSFBuVUd6MnpBX2p2aVFtOFlNV2hqR1gwVUV0RHhsZEx4Y0FjRzVEM2FRUU1jbklocmVBYWVwTnM2Y1otYmYyRnViR21ZZDJVWFZFYVJXNnVLUE1sb0ZvTzNXaDhRZnNBd3dLWTZlYktSbEtfS3BoR3F3VGpPd3VHZW81OWJrSy14Z3ZTQdIBxwFBVV95cUxPX2w0VjN6NElQWDhLNTZvYVkzTlgyRlhCUzVaaHFtd050M1lfVUNfSEE1RS1haGhZWjZwVV9GVVNCa0FWN1VEeGI5bG5oYlp6UzVuRWZTVWVJUmVxa2xEa0hmOWJFcWVjb0hDUXJSRUN1TURtbWx0RzFFcm9qZGFTQW9xdWRBYXpqYnlSSkZzcmxqNHNKaFNoVGd0eTJzUXNzR1g3WTdjVWh4TWZmVlVPVVhUVW5jS0xkT2YwUDZJOUp6T041d3RR?oc=5",
+      "published_at": "2026-09-09T01:20:51+00:00"
     },
     {
       "id": "8dc5df37166cd4",
@@ -128,22 +128,22 @@
       "published_at": "2026-09-10T06:50:00+00:00"
     },
     {
-      "id": "35af8ea14ceeb7",
-      "title": "Nodos logísticos: la apuesta por federalizar el comercio exterior argentino",
-      "summary": "Federico Rozenek, presidente de un estudio aduanero especializado en comercio internacional y logística, explica cómo la eficiencia y las alianzas potencian el desarrollo del sector en las provincias ...",
+      "id": "fa82f12d175e4a",
+      "title": "Management Logístico 2026 pone en agenda los desafíos que están transformando la logística en Argentina",
+      "summary": "Costos, velocidad de entrega, e-commerce, tecnología y nuevas exigencias de los consumidores están obligando a las empresas a repensar sus operaciones. Referentes de algunas de las principales compañí ...",
       "category": "Logística y puertos",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/movant/2026/09/10/nodos-logisticos-la-apuesta-por-federalizar-el-comercio-exterior-argentino/",
-      "published_at": "2026-09-09T23:47:00+00:00"
+      "source": "Perfil on MSN",
+      "url": "https://www.msn.com/es-ar/noticias/argentina/management-log%C3%ADstico-2026-pone-en-agenda-los-desaf%C3%ADos-que-est%C3%A1n-transformando-la-log%C3%ADstica-en-argentina/ar-AA2bY6di",
+      "published_at": "2026-09-10T12:21:36+00:00"
     },
     {
-      "id": "066f46ca0d72f9",
-      "title": "Choque de camiones y derrame de combustible complicaron la Ruta 151",
-      "summary": "Choque de camiones y derrame de combustible complicaron la Ruta 151 Diario Neuquino",
+      "id": "d875ec61757199",
+      "title": "Mercedes-Benz Camiones y Buses Argentina cumple 75 años: del mítico 1114 a la nueva era en Zárate",
+      "summary": "Mercedes-Benz Camiones y Buses Argentina cumple 75 años: del mítico 1114 a la nueva era en Zárate SuperTruck.com.ar",
       "category": "Técnica y equipos",
-      "source": "Diario Neuquino",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3lpcndFbFpuMUp0VUpMOXBxS1dSQzZqMlktUkc3RDlpbmh4b05TdEJZSkNkZGs1V3RTX09SYjdlSmVDaGwwQzFnQWVpMGtjWk40ZGlKekJxV2NrQ25XOWRjVllSbmRrSTVlcUJITlZzR3VuRDlTdHQ4S0RsUG8xMlhOYWF5UmZhME1oZUd2cThMdzlYTVZGSU9FblJIZTA?oc=5",
-      "published_at": "2026-09-08T08:15:19+00:00"
+      "source": "SuperTruck.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSG5wRll0YUlpNEN4RDU2aDk3TGMtWTJiUXBiUWNITGlCLTNFVnkwREJsVDUydXVmYWpSLVZ5NXowQVBrRUFXTnhhYlpCZFhyUFJiMFdxWDhyR0VlU3N3NjRSb1dYajlhY0N6UkN3eFFmRmdiUmxIUDdQQnpzTWVWVU10NHlvUEpfcnFqLWxmYTZTTDJYamc?oc=5",
+      "published_at": "2026-09-08T17:08:47+00:00"
     },
     {
       "id": "6b133d1b8ee166",
@@ -182,22 +182,22 @@
       "published_at": "2026-09-10T05:54:00+00:00"
     },
     {
-      "id": "0655618802cc59",
-      "title": "Oldelval mueve las fichas para Vaca Muerta: 207 kilómetros listos para ampliar el transporte",
-      "summary": "Oldelval mueve las fichas para Vaca Muerta: 207 kilómetros listos para ampliar el transporte El Economista - Últimas noticias económicas y financieras",
+      "id": "35af8ea14ceeb7",
+      "title": "Nodos logísticos: la apuesta por federalizar el comercio exterior argentino",
+      "summary": "Federico Rozenek, presidente de un estudio aduanero especializado en comercio internacional y logística, explica cómo la eficiencia y las alianzas potencian el desarrollo del sector en las provincias ...",
       "category": "Logística y puertos",
-      "source": "El Economista - Últimas noticias económicas y financieras",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdnJxVndCSWl6TjdfSmExM1Z4UlB2a3Y2ZF9jT2FwNDRGMUlfUVdpRkJxNFp5T2hJUVJPSXA5NDA1U3dyc0R5Zm9xYk5DUjNWUTE3NTFFZ3V3bWRGTWtwZ05BbGRHbVhvNGNLa3o3MVdNd0cwMGsxZ3VXcEpfQXZRLVdmRDRfd1pPVHBCVHJVMFBVOFdMbTBuZFZ3bTlkTU5UQnc3WUpQcS03SmszZ3ZlMmZ1N2pObXRJ0gG-AUFVX3lxTFBXd2tDLVFWekRCd1lUNlVnakprMW85SU91SWhFV1JDb2F0ai1NTENSQ1c0LVBkZkhranFaLUlhV2x6aTQxTjNpekFlNHhxZkdramIyMUdWT09YX3NEXzFfN1ROV3BjaENVSXZJQTI3Nm1ZdVhVOHhlbHlHbXQxSnlQbWtIT25MRlVBdHB6UWZoX3J2RTJjR1BDcEl1QXNPb0gwTndPR3ZNMEVVNlZFY3d1WXdUNzRybXZjYTRObkE?oc=5",
-      "published_at": "2026-09-09T19:52:00+00:00"
+      "source": "Infobae",
+      "url": "https://www.infobae.com/movant/2026/09/10/nodos-logisticos-la-apuesta-por-federalizar-el-comercio-exterior-argentino/",
+      "published_at": "2026-09-09T23:47:00+00:00"
     },
     {
-      "id": "9809e91964f58d",
-      "title": "Tensión en la Ruta 91: comerciantes cortaron el tránsito con quema de cubiertas porque no dejan parar a los camiones",
-      "summary": "Tensión en la Ruta 91: comerciantes cortaron el tránsito con quema de cubiertas porque no dejan parar a los camiones SL24",
+      "id": "066f46ca0d72f9",
+      "title": "Choque de camiones y derrame de combustible complicaron la Ruta 151",
+      "summary": "Choque de camiones y derrame de combustible complicaron la Ruta 151 Diario Neuquino",
       "category": "Técnica y equipos",
-      "source": "SL24",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYUVaU25YZExkTjg1R2VLRTFTekZTZ3J2Z1VDMUJzbzR1WDBnVktCdmVoUWZWRWpYeTBOU0RiLXoyUzM5UnJYYnZXMzVlUTR5TzQ2SFFpdzltTjlOdk5XcmhtM2RNbDhEYzZsZ091Z0xINUNBamwxdjJBTTVad1FCdDUtQnFYbXJRYk04dnpxazB2QldCS2ZRY0s1aGk5bHkzZTBuaVV4VQ?oc=5",
-      "published_at": "2026-09-07T18:34:00+00:00"
+      "source": "Diario Neuquino",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3lpcndFbFpuMUp0VUpMOXBxS1dSQzZqMlktUkc3RDlpbmh4b05TdEJZSkNkZGs1V3RTX09SYjdlSmVDaGwwQzFnQWVpMGtjWk40ZGlKekJxV2NrQ25XOWRjVllSbmRrSTVlcUJITlZzR3VuRDlTdHQ4S0RsUG8xMlhOYWF5UmZhME1oZUd2cThMdzlYTVZGSU9FblJIZTA?oc=5",
+      "published_at": "2026-09-08T08:15:19+00:00"
     },
     {
       "id": "d5dd25750b03d4",
@@ -236,22 +236,22 @@
       "published_at": "2026-09-09T20:28:20+00:00"
     },
     {
-      "id": "405c6952cfcafe",
-      "title": "Argentina: nueva planta frigorífica en Mar del Plata mejora la logística para la exportación de papa procesada",
-      "summary": "Argentina: nueva planta frigorífica en Mar del Plata mejora la logística para la exportación de papa procesada PotatoPro",
+      "id": "0655618802cc59",
+      "title": "Oldelval mueve las fichas para Vaca Muerta: 207 kilómetros listos para ampliar el transporte",
+      "summary": "Oldelval mueve las fichas para Vaca Muerta: 207 kilómetros listos para ampliar el transporte El Economista - Últimas noticias económicas y financieras",
       "category": "Logística y puertos",
-      "source": "PotatoPro",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSnJtWU5MVVFZZDlnNWJiekR2Tk41dTVycG9UU3pwbWVjY3pYbnMwZXlFalN6UnpiYlNXNkRzWW5zMGJUMkQzWnc1Y2FFY3F0LUFZcFo4bGRSaUtIRkVmWGtmVXlGN2hmNnIybzZRS1VhaC1rcEFHdlpjOWJiSjI2aXZaMU90aE5HV09kMkVZUER5SHFfYURCSk50aTYzV1lLZ29vVjNSVTNSYWJHbHFVS2tqV2xJVW1fVGVBNHpjQUxKM1BueWtj?oc=5",
-      "published_at": "2026-09-09T19:15:18+00:00"
+      "source": "El Economista - Últimas noticias económicas y financieras",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdnJxVndCSWl6TjdfSmExM1Z4UlB2a3Y2ZF9jT2FwNDRGMUlfUVdpRkJxNFp5T2hJUVJPSXA5NDA1U3dyc0R5Zm9xYk5DUjNWUTE3NTFFZ3V3bWRGTWtwZ05BbGRHbVhvNGNLa3o3MVdNd0cwMGsxZ3VXcEpfQXZRLVdmRDRfd1pPVHBCVHJVMFBVOFdMbTBuZFZ3bTlkTU5UQnc3WUpQcS03SmszZ3ZlMmZ1N2pObXRJ0gG-AUFVX3lxTFBXd2tDLVFWekRCd1lUNlVnakprMW85SU91SWhFV1JDb2F0ai1NTENSQ1c0LVBkZkhranFaLUlhV2x6aTQxTjNpekFlNHhxZkdramIyMUdWT09YX3NEXzFfN1ROV3BjaENVSXZJQTI3Nm1ZdVhVOHhlbHlHbXQxSnlQbWtIT25MRlVBdHB6UWZoX3J2RTJjR1BDcEl1QXNPb0gwTndPR3ZNMEVVNlZFY3d1WXdUNzRybXZjYTRObkE?oc=5",
+      "published_at": "2026-09-09T19:52:00+00:00"
     },
     {
-      "id": "77439b959d477b",
-      "title": "Mercedes-Benz Camiones y Buses fue recertificada bajo ISO 14001 por su Sistema de Gestión Ambiental",
-      "summary": "Mercedes-Benz Camiones y Buses fue recertificada bajo ISO 14001 por su Sistema de Gestión Ambiental SuperTruck.com.ar",
+      "id": "9809e91964f58d",
+      "title": "Tensión en la Ruta 91: comerciantes cortaron el tránsito con quema de cubiertas porque no dejan parar a los camiones",
+      "summary": "Tensión en la Ruta 91: comerciantes cortaron el tránsito con quema de cubiertas porque no dejan parar a los camiones SL24",
       "category": "Técnica y equipos",
-      "source": "SuperTruck.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdHE2V3lLSWVtNEYxMUZMOTVsVmhNZGtOSF85VXg5TTVGdjBWVmVTNnYyb2taMWppTktjQ2g0aTViT3cwTUd6OHZVMGRTdFRpSER5bk1WQWsxUGtwLWJJaHpLek9rclBOcUlUNDhOT1llbnJRaEhRRTc0cXY4Y0JFaTUyTUhKeFBkREVJZGM3Z3dVVjVFcTlWSlpnb244U0Jnd042cW8xMVowX0NJMk4tSDlqR2ZvXzN6cjd4Tg?oc=5",
-      "published_at": "2026-09-07T15:04:01+00:00"
+      "source": "SL24",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYUVaU25YZExkTjg1R2VLRTFTekZTZ3J2Z1VDMUJzbzR1WDBnVktCdmVoUWZWRWpYeTBOU0RiLXoyUzM5UnJYYnZXMzVlUTR5TzQ2SFFpdzltTjlOdk5XcmhtM2RNbDhEYzZsZ091Z0xINUNBamwxdjJBTTVad1FCdDUtQnFYbXJRYk04dnpxazB2QldCS2ZRY0s1aGk5bHkzZTBuaVV4VQ?oc=5",
+      "published_at": "2026-09-07T18:34:00+00:00"
     },
     {
       "id": "78220bd98d453a",
@@ -290,22 +290,31 @@
       "published_at": "2026-09-09T08:08:00+00:00"
     },
     {
-      "id": "83267d0b900d9a",
-      "title": "Buenos Aires dará prioridad de ingreso a los buques de bandera argentina en sus puertos",
-      "summary": "Buenos Aires dará prioridad de ingreso a los buques de bandera argentina en sus puertos Comex Online",
+      "id": "405c6952cfcafe",
+      "title": "Argentina: nueva planta frigorífica en Mar del Plata mejora la logística para la exportación de papa procesada",
+      "summary": "Argentina: nueva planta frigorífica en Mar del Plata mejora la logística para la exportación de papa procesada PotatoPro",
       "category": "Logística y puertos",
-      "source": "Comex Online",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWXNGQ2RzYjRpQkliVE1RLXJUcV8zV0h3M0dnekNkZWwxX3NSX2FvVGVxblNEWjlYbnRYUUd3UF9tTDJUQzlUY0JHeC1IM3dvMU5pTDN6Y3E4MHJlTUd1b2QtWkF5RXZhZmg0cHl2MmhvWFBvT25hSHljdmtlT1B6d3lEX3NPcmhHalVQcTVncUlCcktoZUFPRDc0bkVsQnh1Y3dFdnhaOU1DY1ZJcFF2elByVG1NYWZUaGxOWWxqTkdZT0dDSmJzaENBRDctWGw0bGZoOQ?oc=5",
-      "published_at": "2026-09-09T12:22:12+00:00"
+      "source": "PotatoPro",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSnJtWU5MVVFZZDlnNWJiekR2Tk41dTVycG9UU3pwbWVjY3pYbnMwZXlFalN6UnpiYlNXNkRzWW5zMGJUMkQzWnc1Y2FFY3F0LUFZcFo4bGRSaUtIRkVmWGtmVXlGN2hmNnIybzZRS1VhaC1rcEFHdlpjOWJiSjI2aXZaMU90aE5HV09kMkVZUER5SHFfYURCSk50aTYzV1lLZ29vVjNSVTNSYWJHbHFVS2tqV2xJVW1fVGVBNHpjQUxKM1BueWtj?oc=5",
+      "published_at": "2026-09-09T19:15:18+00:00"
     },
     {
-      "id": "564829fda54121",
-      "title": "El Superintendente de Seguros de la Nación participó del Seminario Internacional de Seguros de Vida y Retiro organizado por AVIRA",
-      "summary": "El Superintendente de Seguros de la Nación participó del Seminario Internacional de Seguros de Vida y Retiro organizado por AVIRA Argentina.gob.ar",
+      "id": "77439b959d477b",
+      "title": "Mercedes-Benz Camiones y Buses fue recertificada bajo ISO 14001 por su Sistema de Gestión Ambiental",
+      "summary": "Mercedes-Benz Camiones y Buses fue recertificada bajo ISO 14001 por su Sistema de Gestión Ambiental SuperTruck.com.ar",
       "category": "Técnica y equipos",
-      "source": "Argentina.gob.ar",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQenZnTGx4dEEwMUc3Ym5TMmRVWjBRb3FZdFdfd0RtU3daZ1MzZURTT1VYSG9zTXJNUlRPTlhRT1A3bFBObHBKaFp5Wm1FallRa2lURGlobkx3T0ZsTEsyWVBPSHJwRVNocjBKV2FPRU52LUQwNlI3WTNaa3lPZ2tveDZtMnVmT1c5SzYxTGcyMjJMTnhDdVBkZFZCM2lXTXJkTlZTeWpwUXVBSEtheWJyUXlLV3VvLWpOZzVKZWRqSGpsZHIwYkVINQ?oc=5",
-      "published_at": "2026-09-04T14:01:28+00:00"
+      "source": "SuperTruck.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdHE2V3lLSWVtNEYxMUZMOTVsVmhNZGtOSF85VXg5TTVGdjBWVmVTNnYyb2taMWppTktjQ2g0aTViT3cwTUd6OHZVMGRTdFRpSER5bk1WQWsxUGtwLWJJaHpLek9rclBOcUlUNDhOT1llbnJRaEhRRTc0cXY4Y0JFaTUyTUhKeFBkREVJZGM3Z3dVVjVFcTlWSlpnb244U0Jnd042cW8xMVowX0NJMk4tSDlqR2ZvXzN6cjd4Tg?oc=5",
+      "published_at": "2026-09-07T15:04:01+00:00"
+    },
+    {
+      "id": "70346dc94d3d2e",
+      "title": "Informe FADEEAC: el costo del transporte de cargas aumentó 1,66% en agosto, la menor suba del año",
+      "summary": "Informe FADEEAC: el costo del transporte de cargas aumentó 1,66% en agosto, la menor suba del año camionesybuses.com.ar",
+      "category": "Economía y costos",
+      "source": "camionesybuses.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMHg4dU5PV01ya3BXS0htYlRrUzMxOGxRT2xRaF9laERHRTV1ZHJPZHZ2MndwdkhzYVFEQXN5UlRpNmtnTVpSUDE3ZVNtRHdsczI3dDJhMmllNlk5R1dYdG4yNGhxMFV1ejZ1cGlqRnlCS3R5NF9FbFlRSjFqMUp1UktRc1FWLVJKV1c2VUc2REh2d0pLVl9ZTUhCcDVJM2REVnNIOVhUWE4xRHBsQXhHT2FPV0RMWFRlclFaelpwVi1nRDhrdGtqMHRoNXYtRnN1dl9LQw?oc=5",
+      "published_at": "2026-09-09T09:59:30+00:00"
     },
     {
       "id": "1dc25393cb0360",
@@ -335,22 +344,22 @@
       "published_at": "2026-09-08T13:26:00+00:00"
     },
     {
-      "id": "ef92e06608b826",
-      "title": "Guillermo Dietrich y el futuro del transporte argentino: la revolución y los desafíos de la movilidad",
-      "summary": "Hablamos con Guillermo Dietrich sobre autos autónomos, vehículos eléctricos y drones capaces de transportar personas que anticipan el futuro de la movilidad.",
+      "id": "83267d0b900d9a",
+      "title": "Buenos Aires dará prioridad de ingreso a los buques de bandera argentina en sus puertos",
+      "summary": "Buenos Aires dará prioridad de ingreso a los buques de bandera argentina en sus puertos Comex Online",
       "category": "Logística y puertos",
-      "source": "MDZ Online",
-      "url": "https://www.mdzol.com/sociedad/guillermo-dietrich-y-el-futuro-del-transporte-argentino-la-revolucion-y-los-desafios-la-movilidad-n1600009",
-      "published_at": "2026-09-08T02:38:00+00:00"
+      "source": "Comex Online",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWXNGQ2RzYjRpQkliVE1RLXJUcV8zV0h3M0dnekNkZWwxX3NSX2FvVGVxblNEWjlYbnRYUUd3UF9tTDJUQzlUY0JHeC1IM3dvMU5pTDN6Y3E4MHJlTUd1b2QtWkF5RXZhZmg0cHl2MmhvWFBvT25hSHljdmtlT1B6d3lEX3NPcmhHalVQcTVncUlCcktoZUFPRDc0bkVsQnh1Y3dFdnhaOU1DY1ZJcFF2elByVG1NYWZUaGxOWWxqTkdZT0dDSmJzaENBRDctWGw0bGZoOQ?oc=5",
+      "published_at": "2026-09-09T12:22:12+00:00"
     },
     {
-      "id": "8f9f6317ca342c",
-      "title": "Volkswagen en Argentina Mining Norte 2026: fuerte presencia con sus camiones y pick ups",
-      "summary": "Volkswagen en Argentina Mining Norte 2026: fuerte presencia con sus camiones y pick ups SuperTruck.com.ar",
+      "id": "564829fda54121",
+      "title": "El Superintendente de Seguros de la Nación participó del Seminario Internacional de Seguros de Vida y Retiro organizado por AVIRA",
+      "summary": "El Superintendente de Seguros de la Nación participó del Seminario Internacional de Seguros de Vida y Retiro organizado por AVIRA Argentina.gob.ar",
       "category": "Técnica y equipos",
-      "source": "SuperTruck.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT1RKejlxeFU1SXNlMEM3TTJwVXlXT3FNemtjMHBIZlpILWtQaUJCb1lhdnJpZGtoRF9ZbnZqTFk2MXFDOUJpTC1BcmN3TW1MZW1kZXJZVGtaRzNaTlJyRXdiUmZEVkxPTU05dUZuMmNoSnZqVUpuLW5IQTJMdjlLenNqZncxOFhPT0Rfaw?oc=5",
-      "published_at": "2026-09-03T17:51:47+00:00"
+      "source": "Argentina.gob.ar",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQenZnTGx4dEEwMUc3Ym5TMmRVWjBRb3FZdFdfd0RtU3daZ1MzZURTT1VYSG9zTXJNUlRPTlhRT1A3bFBObHBKaFp5Wm1FallRa2lURGlobkx3T0ZsTEsyWVBPSHJwRVNocjBKV2FPRU52LUQwNlI3WTNaa3lPZ2tveDZtMnVmT1c5SzYxTGcyMjJMTnhDdVBkZFZCM2lXTXJkTlZTeWpwUXVBSEtheWJyUXlLV3VvLWpOZzVKZWRqSGpsZHIwYkVINQ?oc=5",
+      "published_at": "2026-09-04T14:01:28+00:00"
     },
     {
       "id": "250f1033b6b658",
@@ -389,22 +398,22 @@
       "published_at": "2026-09-08T12:36:11+00:00"
     },
     {
-      "id": "8031b927e603b7",
-      "title": "Vaca Muerta: por qué necesita combinar camiones, trenes y barcos para seguir aumentando la producción",
-      "summary": "Vaca Muerta: por qué necesita combinar camiones, trenes y barcos para seguir aumentando la producción El Cronista",
+      "id": "ef92e06608b826",
+      "title": "Guillermo Dietrich y el futuro del transporte argentino: la revolución y los desafíos de la movilidad",
+      "summary": "Hablamos con Guillermo Dietrich sobre autos autónomos, vehículos eléctricos y drones capaces de transportar personas que anticipan el futuro de la movilidad.",
       "category": "Logística y puertos",
-      "source": "El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdWpWVlR5MlNUaEl0V0xMeEN2TGU1TXEzdVphUDFGTXh0OFhJdFJycmRPRWhQUExkNm9UMi0xd1I0VVZab3pBcjZ5b0VBMkNaUm9Nc1RIS095b3g4ejhWd0I1eDRXbFNMQ1k5N3NHY1h1UTdTLVpWNnFFRVQxWGZmQjRhbXlMNXk5ekdudW9PMjJyQzduSkhEY1FENnhRMnBXREs3UmppT0ZHcUlTaWJKR3F5NlFFVEJ6Um1rNnBpNmVhQ2JtbkxoTnFobHV4NFpfLVF3a29mYVo?oc=5",
-      "published_at": "2026-09-04T17:34:04+00:00"
+      "source": "MDZ Online",
+      "url": "https://www.mdzol.com/sociedad/guillermo-dietrich-y-el-futuro-del-transporte-argentino-la-revolucion-y-los-desafios-la-movilidad-n1600009",
+      "published_at": "2026-09-08T02:38:00+00:00"
     },
     {
-      "id": "ba457606ca43fa",
-      "title": "Una marca de city cars chinos llega a la Argentina",
-      "summary": "Una marca de city cars chinos llega a la Argentina El Economista - Últimas noticias económicas y financieras",
+      "id": "8f9f6317ca342c",
+      "title": "Volkswagen en Argentina Mining Norte 2026: fuerte presencia con sus camiones y pick ups",
+      "summary": "Volkswagen en Argentina Mining Norte 2026: fuerte presencia con sus camiones y pick ups SuperTruck.com.ar",
       "category": "Técnica y equipos",
-      "source": "El Economista - Últimas noticias económicas y financieras",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2Z5dEFQN3g1dHBONXNReHdSa0RXYndYSlZCUGZrVC15OTcxTmJ5VXBMUHRoQnA3TU1sUVBYRlNHNWRTeWFQX0xseGxxTS1OOTY4RkJwNmJvaEN2VjcxS2JoQktXTm1lSFJvS1NTdkUwcE5tRlpRd3NmbEZ6V0c2S2VTNmRHM3NSUVBn0gGQAUFVX3lxTE9jVGVydmNEUVJHRVdzN1k0ZDRjdFhvNDdLczBnbGUySW9mSGV3YmFRMi1MYTZHQkE4WFBtR0tvY29nZVpYNmZNSVF0dklTall5dlJ5ZUxCNFdKSEJ3THU2amh3Zkt3cjF2Ql9GV0VOX0w3a0Q0UmdJbzUyOW1lZTNWN1pHcmJmaUdZLXhYYXVTRA?oc=5",
-      "published_at": "2026-09-03T11:40:00+00:00"
+      "source": "SuperTruck.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT1RKejlxeFU1SXNlMEM3TTJwVXlXT3FNemtjMHBIZlpILWtQaUJCb1lhdnJpZGtoRF9ZbnZqTFk2MXFDOUJpTC1BcmN3TW1MZW1kZXJZVGtaRzNaTlJyRXdiUmZEVkxPTU05dUZuMmNoSnZqVUpuLW5IQTJMdjlLenNqZncxOFhPT0Rfaw?oc=5",
+      "published_at": "2026-09-03T17:51:47+00:00"
     },
     {
       "id": "30a687cb5396c6",
@@ -416,13 +425,13 @@
       "published_at": "2026-09-08T03:08:01+00:00"
     },
     {
-      "id": "d6a98137f69ca4",
-      "title": "Valdés: Necesitamos una logística razonable para poder competir",
-      "summary": "Valdés: Necesitamos una logística razonable para poder competir Radio Sudamericana",
+      "id": "cc036b0103b4a3",
+      "title": "La logística que la minería necesita para consolidarse como potencia exportadora",
+      "summary": "La logística que la minería necesita para consolidarse como potencia exportadora Infobae",
       "category": "Región",
-      "source": "Radio Sudamericana",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd2R5NXNpMXpXNXR6ZVVCQTVCaWJXcGFwSEd0d2QxWVBtblhoZ0xJMjhKRGxJaDZBa1RoQktNME1MY3BrUHNIdGh4WlR3bjRWeEl4UHBtT04xZVpXZWFjN2xjMnFOOHRHX0dWLWlycmNub1owR181NkxqdmZTUTlZVEtOdW9PajV2UDljYkRNbS1vQWtDZFpQaExWWEQ2QU94M0M1Mi00UEtCTVpQeWdzR1V0NWF0YkFPYzduOXVB0gG-AUFVX3lxTE53ZHk1c2kxelc1dHplVUJBNUJpYldwYXBIR3R3ZDFZUG1uWGhnTEkyOEpEbEloNkFrVGhCS00wTUxjcGtQc0h0aHhaVHduNFZ4SXhQcG1PTjFlWldlYWM3bGMycU44dEdfR1YtaXJyY25vWjBHXzU2TGp2ZlNROVlUS051b09qNXZQOWNiRE1tLW9Ba0NkWlBoTFZYRDZBT3gzQzUyLTRQS0JNWlB5Z3NHVXQ1YXRiQU9jN245dUE?oc=5",
-      "published_at": "2026-09-08T22:14:46+00:00"
+      "source": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR1BGQzZjUlQwZGt0RzF3RmVPV2gydUx2UnROZG84d0dxWnh0TDFtaDZxcFZrTnBIYWJpbkExYVN6Zk12ZV9BanNkQzRNUmNBa2FJMXR0YWZzMTNNVDhsQUNwZUUtM2FiUTYzdERDWTdDcklKcDJpZXFmS2xnOHFaMV9lOU9BOEcwT0EtME5wTktUTkxxdWlGMi1uT1owaWQyWHl6UUdqRnhuTjVmNVgwdnhNeS1MX1JlZlhZUl9WbDTSAdsBQVVfeXFMTmlZa2ZxbV80RllvUkFHOEJFSllFN1g4Y0MyaWh2bWg1YkJoX0RaME1WaWd4elZLdmZMeVNKTGwyWm5JRXhZbldkU3I1U0dlNmhxMlNRQzVITkt6eE9oSGhnTGpLN0Y5Rjd5SHEyc2ZDOHVDSllkNmk1Yk1MTnlDcnBVN1l6dUgyMFIzN0tIX1NJUFZaN3NySzdsVTJYMGczdWg0SWtBWnRWcGt0ZkNLVDNYNmtWeFFSZGZuLWhhVmoxME11TFJZWFdQVnlHTEMzLW10X3hoSEZONHpR?oc=5",
+      "published_at": "2026-09-09T01:46:38+00:00"
     },
     {
       "id": "64fa5a60ed1b10",
@@ -443,40 +452,40 @@
       "published_at": "2026-09-08T11:54:00+00:00"
     },
     {
-      "id": "208e5c53acd582",
-      "title": "La empresa Belgrano Cargas destacó el interés de inversores por participar en la privatización del ramal ferroviario que une Posadas con Buenos Aires",
-      "summary": "Durante el 21° Congreso y Exposición LatinRieles Argentina 2026, Leandro Ostuni, director de Belgrano Cargas, destacó la necesidad de inversiones para ...",
+      "id": "8031b927e603b7",
+      "title": "Vaca Muerta: por qué necesita combinar camiones, trenes y barcos para seguir aumentando la producción",
+      "summary": "Vaca Muerta: por qué necesita combinar camiones, trenes y barcos para seguir aumentando la producción El Cronista",
       "category": "Logística y puertos",
-      "source": "MisionesOnline",
-      "url": "https://misionesonline.net/2026/09/03/belgrano-cargas-misiones-1/",
-      "published_at": "2026-09-03T07:00:00+00:00"
+      "source": "El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdWpWVlR5MlNUaEl0V0xMeEN2TGU1TXEzdVphUDFGTXh0OFhJdFJycmRPRWhQUExkNm9UMi0xd1I0VVZab3pBcjZ5b0VBMkNaUm9Nc1RIS095b3g4ejhWd0I1eDRXbFNMQ1k5N3NHY1h1UTdTLVpWNnFFRVQxWGZmQjRhbXlMNXk5ekdudW9PMjJyQzduSkhEY1FENnhRMnBXREs3UmppT0ZHcUlTaWJKR3F5NlFFVEJ6Um1rNnBpNmVhQ2JtbkxoTnFobHV4NFpfLVF3a29mYVo?oc=5",
+      "published_at": "2026-09-04T17:34:04+00:00"
     },
     {
-      "id": "8ed2d22dfd4151",
-      "title": "Detectaron dos camiones descargando escombros y neumáticos en la autopista a Córdoba",
-      "summary": "Detectaron dos camiones descargando escombros y neumáticos en la autopista a Córdoba Rosario3",
+      "id": "ba457606ca43fa",
+      "title": "Una marca de city cars chinos llega a la Argentina",
+      "summary": "Una marca de city cars chinos llega a la Argentina El Economista - Últimas noticias económicas y financieras",
       "category": "Técnica y equipos",
-      "source": "Rosario3",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaDA5cm1ZZ1VESjJOVHlGZnNjS3N4Q05tNDg0cThUWFVkX3IyTUZuUVpDZFE3TVNGd25FRFhJTFJvc01rUzFuTGdqV3B3dUV6d2xfUkl3XzlhVTlZVlFMSHV3Q1l2cnp4eHJDSUJBdG5tOFJDNm41dGY0TEY2QVlRMGtucGJkWVBnTlJiU0V5d3RCWHo0cDFVeVVpaVl1Unduc0hReVh2UnV4bzV2TjBnZDVQTGlRWGpheTQxMWdqdTl4d3ZfaFE2b1ZBYVlCWEtpTkh3ZDBEU0MwQW5oazhhbdIB4AFBVV95cUxNaDA5cm1ZZ1VESjJOVHlGZnNjS3N4Q05tNDg0cThUWFVkX3IyTUZuUVpDZFE3TVNGd25FRFhJTFJvc01rUzFuTGdqV3B3dUV6d2xfUkl3XzlhVTlZVlFMSHV3Q1l2cnp4eHJDSUJBdG5tOFJDNm41dGY0TEY2QVlRMGtucGJkWVBnTlJiU0V5d3RCWHo0cDFVeVVpaVl1Unduc0hReVh2UnV4bzV2TjBnZDVQTGlRWGpheTQxMWdqdTl4d3ZfaFE2b1ZBYVlCWEtpTkh3ZDBEU0MwQW5oazhhbQ?oc=5",
-      "published_at": "2026-09-01T10:59:29+00:00"
+      "source": "El Economista - Últimas noticias económicas y financieras",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2Z5dEFQN3g1dHBONXNReHdSa0RXYndYSlZCUGZrVC15OTcxTmJ5VXBMUHRoQnA3TU1sUVBYRlNHNWRTeWFQX0xseGxxTS1OOTY4RkJwNmJvaEN2VjcxS2JoQktXTm1lSFJvS1NTdkUwcE5tRlpRd3NmbEZ6V0c2S2VTNmRHM3NSUVBn0gGQAUFVX3lxTE9jVGVydmNEUVJHRVdzN1k0ZDRjdFhvNDdLczBnbGUySW9mSGV3YmFRMi1MYTZHQkE4WFBtR0tvY29nZVpYNmZNSVF0dklTall5dlJ5ZUxCNFdKSEJ3THU2amh3Zkt3cjF2Ql9GV0VOX0w3a0Q0UmdJbzUyOW1lZTNWN1pHcmJmaUdZLXhYYXVTRA?oc=5",
+      "published_at": "2026-09-03T11:40:00+00:00"
     },
     {
-      "id": "2b413536cdc51b",
+      "id": "4e8281ad6d2b03",
       "title": "El transporte de cargas moderó su aumento en agosto, pero acumula una suba del 27% en 2026",
-      "summary": "El transporte de cargas moderó su aumento en agosto, pero acumula una suba del 27% en 2026 Agroempresario",
+      "summary": "El transporte de cargas moderó su aumento en agosto, pero acumula una suba del 27% en 2026 agroempresario.com",
       "category": "Economía y costos",
-      "source": "Agroempresario",
+      "source": "agroempresario.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbkUtSTJEREhmRjBNN18zTEprSjNWM0t2OG9vS0ktNFh3cG1ZNjUwZ1NEdV94MFVQYzYxWVBsLWpwZTg1eC01S0t1NTJsZGhkNEhqU0hsc1k1WHhUYUVQZkZlVTVkTlJ5MjlyNlk2U2t6RDhaUnE1ellPal9kdlVXQzVFRmNKUi1FTTlXR1hpTzVDYlIyVVdMWGJncC1NX2JkbkQ1cF92Y2tiTHBLdzdGWWNuVXluX2F6WUdTRm4wcVV2Y3ZYSllQRjc4VU9BcDJp?oc=5",
       "published_at": "2026-09-07T11:04:28+00:00"
     },
     {
-      "id": "cc036b0103b4a3",
-      "title": "La logística que la minería necesita para consolidarse como potencia exportadora",
-      "summary": "La logística que la minería necesita para consolidarse como potencia exportadora Infobae",
+      "id": "522ae599b6224f",
+      "title": "Valdés: Necesitamos una logística razonable para poder competir",
+      "summary": "Valdés: Necesitamos una logística razonable para poder competir radiosudamericana.com",
       "category": "Región",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR1BGQzZjUlQwZGt0RzF3RmVPV2gydUx2UnROZG84d0dxWnh0TDFtaDZxcFZrTnBIYWJpbkExYVN6Zk12ZV9BanNkQzRNUmNBa2FJMXR0YWZzMTNNVDhsQUNwZUUtM2FiUTYzdERDWTdDcklKcDJpZXFmS2xnOHFaMV9lOU9BOEcwT0EtME5wTktUTkxxdWlGMi1uT1owaWQyWHl6UUdqRnhuTjVmNVgwdnhNeS1MX1JlZlhZUl9WbDTSAdsBQVVfeXFMTmlZa2ZxbV80RllvUkFHOEJFSllFN1g4Y0MyaWh2bWg1YkJoX0RaME1WaWd4elZLdmZMeVNKTGwyWm5JRXhZbldkU3I1U0dlNmhxMlNRQzVITkt6eE9oSGhnTGpLN0Y5Rjd5SHEyc2ZDOHVDSllkNmk1Yk1MTnlDcnBVN1l6dUgyMFIzN0tIX1NJUFZaN3NySzdsVTJYMGczdWg0SWtBWnRWcGt0ZkNLVDNYNmtWeFFSZGZuLWhhVmoxME11TFJZWFdQVnlHTEMzLW10X3hoSEZONHpR?oc=5",
-      "published_at": "2026-09-08T18:45:00+00:00"
+      "source": "radiosudamericana.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd2R5NXNpMXpXNXR6ZVVCQTVCaWJXcGFwSEd0d2QxWVBtblhoZ0xJMjhKRGxJaDZBa1RoQktNME1MY3BrUHNIdGh4WlR3bjRWeEl4UHBtT04xZVpXZWFjN2xjMnFOOHRHX0dWLWlycmNub1owR181NkxqdmZTUTlZVEtOdW9PajV2UDljYkRNbS1vQWtDZFpQaExWWEQ2QU94M0M1Mi00UEtCTVpQeWdzR1V0NWF0YkFPYzduOXVB0gG-AUFVX3lxTE53ZHk1c2kxelc1dHplVUJBNUJpYldwYXBIR3R3ZDFZUG1uWGhnTEkyOEpEbEloNkFrVGhCS00wTUxjcGtQc0h0aHhaVHduNFZ4SXhQcG1PTjFlWldlYWM3bGMycU44dEdfR1YtaXJyY25vWjBHXzU2TGp2ZlNROVlUS051b09qNXZQOWNiRE1tLW9Ba0NkWlBoTFZYRDZBT3gzQzUyLTRQS0JNWlB5Z3NHVXQ1YXRiQU9jN245dUE?oc=5",
+      "published_at": "2026-09-08T22:14:46+00:00"
     },
     {
       "id": "885c434176419c",
@@ -497,29 +506,29 @@
       "published_at": "2026-09-08T11:40:00+00:00"
     },
     {
-      "id": "1ff13597ae6eef",
-      "title": "Comercio globalizado: cuando un cierre portuario en Asia impacta en la logística argentina",
-      "summary": "En el comercio internacional, las distancias pueden hacer pensar que los problemas ocurridos en un puerto del otro lado del mundo tardarán en llegar.",
+      "id": "208e5c53acd582",
+      "title": "La empresa Belgrano Cargas destacó el interés de inversores por participar en la privatización del ramal ferroviario que une Posadas con Buenos Aires",
+      "summary": "Durante el 21° Congreso y Exposición LatinRieles Argentina 2026, Leandro Ostuni, director de Belgrano Cargas, destacó la necesidad de inversiones para ...",
       "category": "Logística y puertos",
-      "source": "Revista Mercado",
-      "url": "https://mercado.com.ar/negocios/comercio-globalizado-cuando-un-cierre-portuario-en-asia-impacta-en-la-logistica-argentina",
-      "published_at": "2026-09-03T03:30:00+00:00"
+      "source": "MisionesOnline",
+      "url": "https://misionesonline.net/2026/09/03/belgrano-cargas-misiones-1/",
+      "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
-      "id": "f2136472cbc820",
-      "title": "Atrapados in fraganti: secuestraron dos camiones que tiraban basura al costado de la autopista a Córdoba",
-      "summary": "Atrapados in fraganti: secuestraron dos camiones que tiraban basura al costado de la autopista a Córdoba Versión Rosario",
+      "id": "8ed2d22dfd4151",
+      "title": "Detectaron dos camiones descargando escombros y neumáticos en la autopista a Córdoba",
+      "summary": "Detectaron dos camiones descargando escombros y neumáticos en la autopista a Córdoba Rosario3",
       "category": "Técnica y equipos",
-      "source": "Versión Rosario",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa1JrcDN1cXRleldFbDdORzE1OFRsb1F5d3d1aTVsU194ZklHcVFTTkk2bjdpLVdsRGlleUNxcWMxVVREalI1MWhFbTJ5cEVVOU1oaEJfOHl2alVwZFB2aHkxZnVTY2pDMGZtRDRrNEFfUEcwZnJMNURRT21sbjF6VE1DMW5maHpyZVBlUWV2UWdxR2RNOEhZS29zRTlzN0JkOVVKeXY1MmpNbjMycTh6X2tRM0xmZTVILV9oejMtczJWUWRfbFlNamhrRExILWM4OWpOadIB2gFBVV95cUxQUllyMXB0eEk1RW13MkNPeFE1anpKVlRMUWctSVlNVnhMZ05pdVdOcjgyQnd4NDEzMThpTEhiblpDU0lNQmdVMk5mRExLbjFYMnozTTgyblBOdEFqSUluRHhOeU5fZVdfUDU0WGJnVVF0cFN3MGRrTF9wVkpsV3dDbTBNOFlrQmpBdS1oMllzeVoyb1pRMTBBQTFmVXZDbGs2RmNIV1VIblVjYlpWbXQzS1lVUXFnVmVfcmdPZHNXZjFhbU56ZjJOU1lSZHllQ3hJNk81LTEtMUExUQ?oc=5",
-      "published_at": "2026-08-31T19:18:29+00:00"
+      "source": "Rosario3",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaDA5cm1ZZ1VESjJOVHlGZnNjS3N4Q05tNDg0cThUWFVkX3IyTUZuUVpDZFE3TVNGd25FRFhJTFJvc01rUzFuTGdqV3B3dUV6d2xfUkl3XzlhVTlZVlFMSHV3Q1l2cnp4eHJDSUJBdG5tOFJDNm41dGY0TEY2QVlRMGtucGJkWVBnTlJiU0V5d3RCWHo0cDFVeVVpaVl1Unduc0hReVh2UnV4bzV2TjBnZDVQTGlRWGpheTQxMWdqdTl4d3ZfaFE2b1ZBYVlCWEtpTkh3ZDBEU0MwQW5oazhhbdIB4AFBVV95cUxNaDA5cm1ZZ1VESjJOVHlGZnNjS3N4Q05tNDg0cThUWFVkX3IyTUZuUVpDZFE3TVNGd25FRFhJTFJvc01rUzFuTGdqV3B3dUV6d2xfUkl3XzlhVTlZVlFMSHV3Q1l2cnp4eHJDSUJBdG5tOFJDNm41dGY0TEY2QVlRMGtucGJkWVBnTlJiU0V5d3RCWHo0cDFVeVVpaVl1Unduc0hReVh2UnV4bzV2TjBnZDVQTGlRWGpheTQxMWdqdTl4d3ZfaFE2b1ZBYVlCWEtpTkh3ZDBEU0MwQW5oazhhbQ?oc=5",
+      "published_at": "2026-09-01T10:59:29+00:00"
     },
     {
-      "id": "e6e29442f60e4b",
+      "id": "fc421128d53efb",
       "title": "Se modera la suba de costos del transporte en camiones",
-      "summary": "Se modera la suba de costos del transporte en camiones Dinamicarg",
+      "summary": "Se modera la suba de costos del transporte en camiones dinamicarg.com",
       "category": "Economía y costos",
-      "source": "Dinamicarg",
+      "source": "dinamicarg.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90VnNjckdlVFR0YkliVHh1WUZBWE5GcHJUanFVMGlaaW4tRFRxS0FOYURCNFlDQU1TMlBIUFprbVY0QTRSRFdiZkg4TlpZNENsUVpKUHRyQ29sN1R5X1IyZUNJbUEtTkFKOXQ2OGk0Skh2LXZBWnc?oc=5",
       "published_at": "2026-09-04T14:00:46+00:00"
     },
@@ -551,22 +560,22 @@
       "published_at": "2026-09-07T14:08:00+00:00"
     },
     {
-      "id": "dad3f895413e1c",
-      "title": "Vaca Muerta acelera su logística: quieren recuperar un tren que lleva 20 años parado",
-      "summary": "Vaca Muerta acelera su logística: quieren recuperar un tren que lleva 20 años parado Minuto Neuquen",
+      "id": "1ff13597ae6eef",
+      "title": "Comercio globalizado: cuando un cierre portuario en Asia impacta en la logística argentina",
+      "summary": "En el comercio internacional, las distancias pueden hacer pensar que los problemas ocurridos en un puerto del otro lado del mundo tardarán en llegar.",
       "category": "Logística y puertos",
-      "source": "Minuto Neuquen",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLXpGSkRNYVFZLW1UeTdOYUVRaWJFVUNtU0Fib2dFLUVfbFNHMXFDWjVEVGNpb21VMkJhQjl6STVlSExsV0t1MjlHZnMzNE92OEx1VUJWb2dpdmZYeVF2UndrTDY4TDRFNDBfdG9kbkpGdmdva0QwdnFaN0pwSEtzeWc1RzhhaFk4bnRST2VXWGV6M2JabEh4V1NhcS1kXzlENDdKcHlhYlJ3TjNDbVRBTjRVM0FsaTMzNlZHUDBXT1BFeklNZzZkWWlMYThCek54LTItdUJnT3N6Zw?oc=5",
-      "published_at": "2026-09-02T17:56:38+00:00"
+      "source": "Revista Mercado",
+      "url": "https://mercado.com.ar/negocios/comercio-globalizado-cuando-un-cierre-portuario-en-asia-impacta-en-la-logistica-argentina",
+      "published_at": "2026-09-03T03:30:00+00:00"
     },
     {
-      "id": "f33641a2ee5852",
-      "title": "Remiten al corralón municipal dos camiones que arrojaban residuos al lado de la autopista a Córdoba",
-      "summary": "Remiten al corralón municipal dos camiones que arrojaban residuos al lado de la autopista a Córdoba Noticias MR",
+      "id": "f2136472cbc820",
+      "title": "Atrapados in fraganti: secuestraron dos camiones que tiraban basura al costado de la autopista a Córdoba",
+      "summary": "Atrapados in fraganti: secuestraron dos camiones que tiraban basura al costado de la autopista a Córdoba Versión Rosario",
       "category": "Técnica y equipos",
-      "source": "Noticias MR",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQOXJabUl3OEFCbWg3bDhLQjVzNDhWVlRldkNaelVta25QVk1LME9Pc2E2X2F6R3BSaHFsemRVNmxWcDY0alZwZXV6UXo2LWFHRlA1VW41OW16cS1LS0lIeWVfaXRrTHIzMWhCN1BLWTZyZklUS1RUVjZpMkNIdExxYXdJbS1aRmsxRFp6NmpaUFhxVzhtSEZIanRUalNSbS1jNTFvMVpQVnpHTllWV1Vxc1RWM1ZoOHJCM01nTjJiREtwQ1Fhd1R0cXNfdUs2M1k3SVd3MkR3ZHJod0JwZ3Bqd2tDTjNwS1ljbFhVWEJ3TTFjQWpDR0w4Z21SNlh1SUhVSWtaTg?oc=5",
-      "published_at": "2026-08-31T16:41:50+00:00"
+      "source": "Versión Rosario",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa1JrcDN1cXRleldFbDdORzE1OFRsb1F5d3d1aTVsU194ZklHcVFTTkk2bjdpLVdsRGlleUNxcWMxVVREalI1MWhFbTJ5cEVVOU1oaEJfOHl2alVwZFB2aHkxZnVTY2pDMGZtRDRrNEFfUEcwZnJMNURRT21sbjF6VE1DMW5maHpyZVBlUWV2UWdxR2RNOEhZS29zRTlzN0JkOVVKeXY1MmpNbjMycTh6X2tRM0xmZTVILV9oejMtczJWUWRfbFlNamhrRExILWM4OWpOadIB2gFBVV95cUxQUllyMXB0eEk1RW13MkNPeFE1anpKVlRMUWctSVlNVnhMZ05pdVdOcjgyQnd4NDEzMThpTEhiblpDU0lNQmdVMk5mRExLbjFYMnozTTgyblBOdEFqSUluRHhOeU5fZVdfUDU0WGJnVVF0cFN3MGRrTF9wVkpsV3dDbTBNOFlrQmpBdS1oMllzeVoyb1pRMTBBQTFmVXZDbGs2RmNIV1VIblVjYlpWbXQzS1lVUXFnVmVfcmdPZHNXZjFhbU56ZjJOU1lSZHllQ3hJNk81LTEtMUExUQ?oc=5",
+      "published_at": "2026-08-31T19:18:29+00:00"
     },
     {
       "id": "7e7bc6b674b880",
@@ -605,22 +614,22 @@
       "published_at": "2026-09-06T21:07:50+00:00"
     },
     {
-      "id": "94b87ec524d30a",
-      "title": "El Puerto de Posadas operó cargas de té y prepara nuevos despachos de cuero a Paraguay",
-      "summary": "El Puerto de Posadas operó cargas de té y prepara nuevos despachos de cuero a Paraguay Data Portuaria",
+      "id": "dad3f895413e1c",
+      "title": "Vaca Muerta acelera su logística: quieren recuperar un tren que lleva 20 años parado",
+      "summary": "Vaca Muerta acelera su logística: quieren recuperar un tren que lleva 20 años parado Minuto Neuquen",
       "category": "Logística y puertos",
-      "source": "Data Portuaria",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV3MzZzRLTFRfRHo4anowX0N5dGQ0blZ6cURkRUZBSUk0YWtGSFF6NVoycC1sLVBMZnU2VmNmQXNaTEZpWjZrRlQtMXhFOGVsNENaOFAzckpHTTR1ZjVuSHBoLUhUdVI3QjJKa3QzSkpkbXZhakJwQmF6b3JZV0YwQlJ0TU9lX1dVMktsWFZZdldnMlRHbnNLYk1zUGxMYjFoemxhNHVacW9MVnhaZ0FkeTdTSGJHNUQzNmZUaVNSYTZWR0NaQUN4NjA5YS1ldw?oc=5",
-      "published_at": "2026-09-02T13:44:39+00:00"
+      "source": "Minuto Neuquen",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLXpGSkRNYVFZLW1UeTdOYUVRaWJFVUNtU0Fib2dFLUVfbFNHMXFDWjVEVGNpb21VMkJhQjl6STVlSExsV0t1MjlHZnMzNE92OEx1VUJWb2dpdmZYeVF2UndrTDY4TDRFNDBfdG9kbkpGdmdva0QwdnFaN0pwSEtzeWc1RzhhaFk4bnRST2VXWGV6M2JabEh4V1NhcS1kXzlENDdKcHlhYlJ3TjNDbVRBTjRVM0FsaTMzNlZHUDBXT1BFeklNZzZkWWlMYThCek54LTItdUJnT3N6Zw?oc=5",
+      "published_at": "2026-09-02T17:56:38+00:00"
     },
     {
-      "id": "1930136fcd0c9f",
-      "title": "BYD marca un nuevo hito en Argentina: alcanza las 10.000 unidades vendidas",
-      "summary": "BYD marca un nuevo hito en Argentina: alcanza las 10.000 unidades vendidas BYD",
+      "id": "f33641a2ee5852",
+      "title": "Remiten al corralón municipal dos camiones que arrojaban residuos al lado de la autopista a Córdoba",
+      "summary": "Remiten al corralón municipal dos camiones que arrojaban residuos al lado de la autopista a Córdoba Noticias MR",
       "category": "Técnica y equipos",
-      "source": "BYD",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQlRnNDBfdVhXUzNINFdNOUoxdkI2cGREdFVIc1c0WmdhR1kyWFExclZtMWRvaUdVS3VwS3dHb3NEbVR4TEhOSjExdmlsUk1lTkQ2M1lkWjVnNEZWVzlvRFJDeXh4ZlcxWW1Xck5qRHZFRlhudGNrMzdJOEhBVjFjVWFiWjNjamxqU19IOGIwOHp3TlNadUt0bXRtcThiUU0yVHp6OWtSeVhMZw?oc=5",
-      "published_at": "2026-08-26T07:00:00+00:00"
+      "source": "Noticias MR",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQOXJabUl3OEFCbWg3bDhLQjVzNDhWVlRldkNaelVta25QVk1LME9Pc2E2X2F6R3BSaHFsemRVNmxWcDY0alZwZXV6UXo2LWFHRlA1VW41OW16cS1LS0lIeWVfaXRrTHIzMWhCN1BLWTZyZklUS1RUVjZpMkNIdExxYXdJbS1aRmsxRFp6NmpaUFhxVzhtSEZIanRUalNSbS1jNTFvMVpQVnpHTllWV1Vxc1RWM1ZoOHJCM01nTjJiREtwQ1Fhd1R0cXNfdUs2M1k3SVd3MkR3ZHJod0JwZ3Bqd2tDTjNwS1ljbFhVWEJ3TTFjQWpDR0w4Z21SNlh1SUhVSWtaTg?oc=5",
+      "published_at": "2026-08-31T16:41:50+00:00"
     },
     {
       "id": "1a3c5962269a1e",
@@ -659,22 +668,22 @@
       "published_at": "2026-09-06T14:35:45+00:00"
     },
     {
-      "id": "d983207a728a42",
-      "title": "El gasoil argentino quedó entre los más caros de Sudamérica y presiona sobre los costos productivos",
-      "summary": "Un informe de Montamat y Asociados ubica al gasoil argentino como el segundo más caro de Sudamérica, detrás de ...",
+      "id": "94b87ec524d30a",
+      "title": "El Puerto de Posadas operó cargas de té y prepara nuevos despachos de cuero a Paraguay",
+      "summary": "El Puerto de Posadas operó cargas de té y prepara nuevos despachos de cuero a Paraguay Data Portuaria",
       "category": "Logística y puertos",
-      "source": "Primera Edición",
-      "url": "https://www.primeraedicion.com.ar/nota/101138513/gasoil-argentino-segundo-mas-caro-sudamerica-2026/",
-      "published_at": "2026-09-02T13:19:00+00:00"
+      "source": "Data Portuaria",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV3MzZzRLTFRfRHo4anowX0N5dGQ0blZ6cURkRUZBSUk0YWtGSFF6NVoycC1sLVBMZnU2VmNmQXNaTEZpWjZrRlQtMXhFOGVsNENaOFAzckpHTTR1ZjVuSHBoLUhUdVI3QjJKa3QzSkpkbXZhakJwQmF6b3JZV0YwQlJ0TU9lX1dVMktsWFZZdldnMlRHbnNLYk1zUGxMYjFoemxhNHVacW9MVnhaZ0FkeTdTSGJHNUQzNmZUaVNSYTZWR0NaQUN4NjA5YS1ldw?oc=5",
+      "published_at": "2026-09-02T13:44:39+00:00"
     },
     {
-      "id": "056230fe219323",
-      "title": "Argentina avanza en la incorporación de 235 nuevos vehículos blindados Stryker para el Ejército Argentino",
-      "summary": "Argentina avanza en la incorporación de 235 nuevos vehículos blindados Stryker para el Ejército Argentino Argentina.gob.ar",
+      "id": "1930136fcd0c9f",
+      "title": "BYD marca un nuevo hito en Argentina: alcanza las 10.000 unidades vendidas",
+      "summary": "BYD marca un nuevo hito en Argentina: alcanza las 10.000 unidades vendidas BYD",
       "category": "Técnica y equipos",
-      "source": "Argentina.gob.ar",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcWpHR2hOWDNOMkRpYTd0UHpKbGdxbUZpNnRlcEhiNWF3X2lFOFJfM255dEtENGxlSDB3VEZSNGRRc0pNMmcxb3lUZ29Cay1XUFk2R0ZjRS1EQ3E1NTFFUUVqeG9wcWRld2dqWWVnY2RJQXU2bVl4M0xZaTJ5MGFjdmxuUHl0TEJzNVM4MXNScklUVlNreDFqdjgwLWxYSGx5QU8zMU9SazU0RHNHRzZXY0NYQXQtM3dzNXd3M21qSzBrUQ?oc=5",
-      "published_at": "2026-08-21T07:00:00+00:00"
+      "source": "BYD",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQlRnNDBfdVhXUzNINFdNOUoxdkI2cGREdFVIc1c0WmdhR1kyWFExclZtMWRvaUdVS3VwS3dHb3NEbVR4TEhOSjExdmlsUk1lTkQ2M1lkWjVnNEZWVzlvRFJDeXh4ZlcxWW1Xck5qRHZFRlhudGNrMzdJOEhBVjFjVWFiWjNjamxqU19IOGIwOHp3TlNadUt0bXRtcThiUU0yVHp6OWtSeVhMZw?oc=5",
+      "published_at": "2026-08-26T07:00:00+00:00"
     },
     {
       "id": "fe0caeebdf6814",
@@ -728,7 +737,7 @@
     "successful_queries": 14,
     "total_queries": 14,
     "failed_queries": [],
-    "new_candidates": 164,
-    "published_items": 79
+    "new_candidates": 168,
+    "published_items": 80
   }
 }
