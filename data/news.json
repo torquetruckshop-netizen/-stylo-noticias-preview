@@ -2,6 +2,15 @@
   "updated_at": "2026-09-11T12:59:51.403003+00:00",
   "items": [
     {
+      "id": "stylo-fadeeac-ict-2026-08",
+      "title": "FADEEAC: el costo del transporte subió 1,66% en agosto y acumuló 27% en 2026",
+      "summary": "El índice oficial registró en agosto la menor suba mensual de 2026: 1,66%. El acumulado enero-agosto fue 27% y la variación de los últimos 12 meses, 42%; en julio había aumentado 2,25%.",
+      "category": "Economía y costos",
+      "source": "Stylo Camión · FADEEAC",
+      "url": "https://noticias.stylocamion.com/indice-costos-transporte-agosto-2026.html",
+      "published_at": "2026-09-11T12:30:00+00:00"
+    },
+    {
       "id": "186f2c74998216",
       "title": "Trelew destacó la importancia del acompañamiento y la prevención en salud mental",
       "summary": "Trelew destacó la importancia del acompañamiento y la prevención en salud mental Radio de Camioneros",
@@ -36,15 +45,6 @@
       "source": "NoticiasNQN",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGZYaTBhNUM4RUNNeDRMRjloWDJTSWdTUVJTek5RVnZXb0NGcTQwWHBCZmxPYm1MUHREX0ZOSFBuVUd6MnpBX2p2aVFtOFlNV2hqR1gwVUV0RHhsZEx4Y0FjRzVEM2FRUU1jbklocmVBYWVwTnM2Y1otYmYyRnViR21ZZDJVWFZFYVJXNnVLUE1sb0ZvTzNXaDhRZnNBd3dLWTZlYktSbEtfS3BoR3F3VGpPd3VHZW81OWJrSy14Z3ZTQdIBxwFBVV95cUxPX2w0VjN6NElQWDhLNTZvYVkzTlgyRlhCUzVaaHFtd050M1lfVUNfSEE1RS1haGhZWjZwVV9GVVNCa0FWN1VEeGI5bG5oYlp6UzVuRWZTVWVJUmVxa2xEa0hmOWJFcWVjb0hDUXJSRUN1TURtbWx0RzFFcm9qZGFTQW9xdWRBYXpqYnlSSkZzcmxqNHNKaFNoVGd0eTJzUXNzR1g3WTdjVWh4TWZmVlVPVVhUVW5jS0xkT2YwUDZJOUp6T041d3RR?oc=5",
       "published_at": "2026-09-09T01:20:51+00:00"
-    },
-    {
-      "id": "stylo-fadeeac-ict-2026-08",
-      "title": "FADEEAC: el costo del transporte subió 1,66% en agosto y acumuló 27% en 2026",
-      "summary": "El índice oficial registró en agosto la menor suba mensual de 2026: 1,66%. El acumulado enero-agosto fue 27% y la variación de los últimos 12 meses, 42%; en julio había aumentado 2,25%.",
-      "category": "Economía y costos",
-      "source": "Stylo Camión · FADEEAC",
-      "url": "https://noticias.stylocamion.com/indice-costos-transporte-agosto-2026.html",
-      "published_at": "2026-09-11T12:30:00+00:00"
     },
     {
       "id": "37dfbcfb86bb28",
@@ -306,15 +306,6 @@
       "source": "Argentina.gob.ar",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQenZnTGx4dEEwMUc3Ym5TMmRVWjBRb3FZdFdfd0RtU3daZ1MzZURTT1VYSG9zTXJNUlRPTlhRT1A3bFBObHBKaFp5Wm1FallRa2lURGlobkx3T0ZsTEsyWVBPSHJwRVNocjBKV2FPRU52LUQwNlI3WTNaa3lPZ2tveDZtMnVmT1c5SzYxTGcyMjJMTnhDdVBkZFZCM2lXTXJkTlZTeWpwUXVBSEtheWJyUXlLV3VvLWpOZzVKZWRqSGpsZHIwYkVINQ?oc=5",
       "published_at": "2026-09-04T14:01:28+00:00"
-    },
-    {
-      "id": "70346dc94d3d2e",
-      "title": "Informe FADEEAC: el costo del transporte de cargas aumentó 1,66% en agosto, la menor suba del año",
-      "summary": "Informe FADEEAC: el costo del transporte de cargas aumentó 1,66% en agosto, la menor suba del año camionesybuses.com.ar",
-      "category": "Economía y costos",
-      "source": "camionesybuses.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMHg4dU5PV01ya3BXS0htYlRrUzMxOGxRT2xRaF9laERHRTV1ZHJPZHZ2MndwdkhzYVFEQXN5UlRpNmtnTVpSUDE3ZVNtRHdsczI3dDJhMmllNlk5R1dYdG4yNGhxMFV1ejZ1cGlqRnlCS3R5NF9FbFlRSjFqMUp1UktRc1FWLVJKV1c2VUc2REh2d0pLVl9ZTUhCcDVJM2REVnNIOVhUWE4xRHBsQXhHT2FPV0RMWFRlclFaelpwVi1nRDhrdGtqMHRoNXYtRnN1dl9LQw?oc=5",
-      "published_at": "2026-09-09T09:59:30+00:00"
     },
     {
       "id": "1dc25393cb0360",
@@ -738,6 +729,6 @@
     "total_queries": 14,
     "failed_queries": [],
     "new_candidates": 164,
-    "published_items": 80
+    "published_items": 79
   }
 }
