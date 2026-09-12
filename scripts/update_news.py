@@ -339,6 +339,28 @@ def near_duplicate(title, accepted_titles):
     return False
 
 
+def editorial_duplicate(item, editorial_items):
+    item_title = normalize(item.get("title", ""))
+    months = (
+        "enero", "febrero", "marzo", "abril", "mayo", "junio",
+        "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre",
+    )
+    for editorial in editorial_items:
+        editorial_title = normalize(editorial.get("title", ""))
+        same_fadeeac_period = (
+            "fadeeac" in item_title
+            and "fadeeac" in editorial_title
+            and "costo" in item_title
+            and "costo" in editorial_title
+            and any(month in item_title and month in editorial_title for month in months)
+        )
+        if same_fadeeac_period:
+            return True
+        if near_duplicate(item.get("title", ""), [headline_signature(editorial_title)]):
+            return True
+    return False
+
+
 def main():
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=MAX_AGE_DAYS)
@@ -457,6 +479,8 @@ def main():
     for item in previous_items:
         item["category"] = LEGACY_CATEGORY_MAP.get(item["category"], item["category"])
     editorial_items = load_editorial_items(cutoff)
+    new_items = [item for item in new_items if not editorial_duplicate(item, editorial_items)]
+    previous_items = [item for item in previous_items if not editorial_duplicate(item, editorial_items)]
     candidates = [{**item, "_score": 1000} for item in editorial_items] + new_items + [{**item, "_score": 0} for item in previous_items]
     candidates.sort(
         key=lambda item: (
