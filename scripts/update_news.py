@@ -331,7 +331,7 @@ def illustrated_items(entries, config, now):
         if (not title or not link.startswith("https://") or not published
                 or urllib.parse.urlparse(link).hostname != urllib.parse.urlparse(feed_url).hostname
                 or published > now or published < now - timedelta(days=14)
-                or not is_relevant(title, summary, source)):
+                or not illustrated_relevant(title, summary, source)):
             continue
         image = entry_photo(entry, link)
         result.append({"id": link, "title": title, "summary": useful_summary(title, summary, category),
@@ -339,6 +339,12 @@ def illustrated_items(entries, config, now):
                        "published_at": published.isoformat(), "country": country, "language": language,
                        "image": image, "image_credit": source, "image_source_url": link})
     return result
+
+
+def illustrated_relevant(title, summary, source):
+    text = clean(f"{title} {summary}").lower()
+    overseas = re.search(r"europ|sueci|suec[ao]|bélgica|belgica|alemania|españa|francia|estados unidos|ee\.\s?uu|michigan|california|tailandia|reino unido", text)
+    return is_relevant(title, summary, source) and (not overseas or any(term in text for term in REGIONAL_TERMS))
 
 
 def collect_illustrated_edition(now):
@@ -349,7 +355,8 @@ def collect_illustrated_edition(now):
         pass
     retained = {item["url"]: item for item in previous if valid_item(item)
                 and now - timedelta(days=14) <= parse_iso(item["published_at"]) <= now
-                and public_photo_url(item.get("image"), item["url"])}
+                and public_photo_url(item.get("image"), item["url"])
+                and illustrated_relevant(item["title"], item["summary"], item["source"])}
     failures, successes, current = [], 0, []
     with ThreadPoolExecutor(max_workers=4) as executor:
         pending = {executor.submit(fetch_direct_entries, config[2], config[1]): config for config in PHOTO_FEEDS}
