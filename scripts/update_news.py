@@ -9,6 +9,7 @@ import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone, timedelta
+from html.parser import HTMLParser
 from pathlib import Path
 
 import feedparser
@@ -52,6 +53,15 @@ DIRECT_FEEDS = [
     ("Región", "Carga Pesada", "https://cargapesada.com.br/feed/"),
     ("Región", "O Carreteiro", "https://ocarreteiro.com.br/feed/"),
     ("Región", "Transporte Moderno", "https://transportemoderno.com.br/feed/"),
+]
+
+# Collect the illustrated edition on every scheduled run, even when Google News
+# succeeds. This persists the original publisher's photo beside its own story.
+PHOTO_FEEDS = [
+    ("Camiones y mercado", "Camiones y Buses", "https://www.camionesybuses.com.ar/feed/", "argentina", "es"),
+    ("Logística y puertos", "ARLOG", "https://arlog.org/feed/", "argentina", "es"),
+    ("Región", "Carga Pesada", "https://cargapesada.com.br/feed/", "brasil", "pt"),
+    ("Región", "Transporte Moderno", "https://transportemoderno.com.br/feed/", "brasil", "pt"),
 ]
 
 BLOCKED_TERMS = ["europa", "europeo", "alemania", "francia", "reino unido", "españa", "italia"]
@@ -228,6 +238,106 @@ def article_link(entry):
         if target.startswith("https://"):
             return target
     return link
+
+
+def public_photo_url(value, base):
+    if not isinstance(value, str) or not value.strip():
+        return ""
+    url = urllib.parse.urljoin(base, html.unescape(value))
+    parsed = urllib.parse.urlparse(url)
+    host = parsed.hostname or ""
+    if (parsed.scheme != "https" or parsed.username or parsed.password or ":" in host
+            or "." not in host or re.fullmatch(r"[\d.]+", host)
+            or re.search(r"(?:^|\.)(?:localhost|local|internal|test|invalid)$", host)):
+        return ""
+    if re.search(r"chatgpt|dall.?e|midjourney|inteligencia.artificial|(?:^|[/_.-])(?:logo|banner|avatar|placeholder|pixel)(?:[/_.-]|$)|\.svg(?:\?|$)", url, re.I):
+        return ""
+    return url
+
+
+class ArticleImages(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.urls = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag != "img":
+            return
+        attrs = dict(attrs)
+        width = attrs.get("width", "") or ""
+        if width.isdigit() and int(width) < 300:
+            return
+        self.urls.append(attrs.get("src") or attrs.get("data-src") or "")
+
+
+def entry_photo(entry, link):
+    candidates = []
+    for item in entry.get("media_content", []) + entry.get("media_thumbnail", []) + entry.get("enclosures", []):
+        if item.get("type", "").startswith("image/") or re.search(r"\.(?:jpe?g|png|webp|avif)(?:\?|$)", item.get("url", item.get("href", "")), re.I):
+            candidates.append(item.get("url", item.get("href", "")))
+    parser = ArticleImages()
+    for content in entry.get("content", []):
+        parser.feed(content.get("value", ""))
+    parser.feed(entry.get("summary", ""))
+    candidates.extend(parser.urls)
+    for candidate in candidates:
+        image = public_photo_url(candidate, link)
+        if image:
+            return image
+    return ""
+
+
+def illustrated_items(entries, config, now):
+    category, source, feed_url, country, language = config
+    result = []
+    for entry in entries[:30]:
+        link = article_link(entry)
+        published = published_datetime(entry)
+        title = clean_title(entry.get("title", ""), source)
+        summary = clean(entry.get("summary", ""))
+        if (not title or not link.startswith("https://") or not published
+                or urllib.parse.urlparse(link).hostname != urllib.parse.urlparse(feed_url).hostname
+                or published > now or published < now - timedelta(days=14)
+                or not is_relevant(title, summary, source)):
+            continue
+        image = entry_photo(entry, link)
+        if not image:
+            continue
+        result.append({"id": link, "title": title, "summary": useful_summary(title, summary, category),
+                       "category": category, "source": source, "url": link,
+                       "published_at": published.isoformat(), "country": country, "language": language,
+                       "image": image, "image_credit": source, "image_source_url": link})
+    return result
+
+
+def collect_illustrated_edition(now):
+    previous = []
+    try:
+        previous = json.loads(OUT.read_text(encoding="utf-8")).get("photo_items", [])
+    except (OSError, json.JSONDecodeError):
+        pass
+    retained = {item["url"]: item for item in previous if valid_item(item)
+                and now - timedelta(days=14) <= parse_iso(item["published_at"]) <= now
+                and public_photo_url(item.get("image"), item["url"])}
+    failures, successes, current = [], 0, []
+    with ThreadPoolExecutor(max_workers=4) as executor:
+        pending = {executor.submit(fetch_direct_entries, config[2], config[1]): config for config in PHOTO_FEEDS}
+        for future in as_completed(pending):
+            config = pending[future]
+            try:
+                current.extend(illustrated_items(future.result(), config, now))
+                successes += 1
+            except Exception as exc:
+                failures.append({"source": config[1], "error": str(exc)[:180]})
+    for item in current:
+        retained[item["url"]] = item
+    items = sorted(retained.values(), key=lambda item: item["published_at"], reverse=True)[:48]
+    health = {"status": "ok" if successes == len(PHOTO_FEEDS) else "partial" if successes else "unavailable",
+              "checked_at": now.isoformat(), "successful_sources": successes,
+              "total_sources": len(PHOTO_FEEDS), "failures": failures,
+              "current_candidates": len(current), "retained_items": len(items),
+              "latest_published_at": items[0]["published_at"] if items else None}
+    return items, health
 
 
 def source_name(entry, link):
@@ -516,10 +626,13 @@ def main():
         print("Actualización rechazada: el resultado validado es insuficiente.", file=sys.stderr)
         sys.exit(1)
 
+    photo_items, photo_health = collect_illustrated_edition(now)
     payload = {
-        "updated_at": now.isoformat(),
+        "updated_at": datetime.now(timezone.utc).isoformat(),
         "items": accepted,
+        "photo_items": photo_items,
         "health": {
+            "photos": photo_health,
             "status": "ok",
             "source": (
                 "direct-feeds-fallback"
