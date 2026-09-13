@@ -270,6 +270,39 @@ class ArticleImages(HTMLParser):
         self.urls.append(attrs.get("src") or attrs.get("data-src") or "")
 
 
+class ArticleHead(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.images = []
+
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        if tag == "meta" and (attrs.get("property") or attrs.get("name")) in ("og:image", "twitter:image"):
+            self.images.append(attrs.get("content", ""))
+
+
+def enrich_article_photo(item):
+    if item.get("image"):
+        return item
+    try:
+        request = urllib.request.Request(item["url"], headers={"User-Agent": "StyloCamionNewsBot/1.0 (+https://noticias.stylocamion.com)", "Accept": "text/html"})
+        with urllib.request.urlopen(request, timeout=8) as response:
+            if urllib.parse.urlparse(response.url).hostname != urllib.parse.urlparse(item["url"]).hostname:
+                return item
+            body = response.read(1_500_001)
+        if len(body) > 1_500_000:
+            return item
+        parser = ArticleHead()
+        parser.feed(body.decode("utf-8", errors="replace"))
+        for candidate in parser.images:
+            image = public_photo_url(candidate, item["url"])
+            if image:
+                return {**item, "image": image, "image_credit": item["source"], "image_source_url": item["url"]}
+    except Exception:
+        pass
+    return item
+
+
 def entry_photo(entry, link):
     candidates = []
     for item in entry.get("media_content", []) + entry.get("media_thumbnail", []) + entry.get("enclosures", []):
@@ -301,8 +334,6 @@ def illustrated_items(entries, config, now):
                 or not is_relevant(title, summary, source)):
             continue
         image = entry_photo(entry, link)
-        if not image:
-            continue
         result.append({"id": link, "title": title, "summary": useful_summary(title, summary, category),
                        "category": category, "source": source, "url": link,
                        "published_at": published.isoformat(), "country": country, "language": language,
@@ -329,6 +360,13 @@ def collect_illustrated_edition(now):
                 successes += 1
             except Exception as exc:
                 failures.append({"source": config[1], "error": str(exc)[:180]})
+    missing = []
+    for config in PHOTO_FEEDS:
+        missing.extend(sorted((item for item in current if item["source"] == config[1] and not item.get("image")), key=lambda item: item["published_at"], reverse=True)[:4])
+    with ThreadPoolExecutor(max_workers=4) as executor:
+        enriched = {item["url"]: item for item in executor.map(enrich_article_photo, missing)}
+    current = [enriched.get(item["url"], item) for item in current]
+    current = [item for item in current if item.get("image")]
     for item in current:
         retained[item["url"]] = item
     items = sorted(retained.values(), key=lambda item: item["published_at"], reverse=True)[:48]
