@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T05:59:18.935004+00:00",
+  "updated_at": "2026-10-10T14:30:06.070276+00:00",
   "items": [
     {
       "id": "29c0d4d6497f0b",
@@ -47,13 +47,13 @@
       "published_at": "2026-10-07T22:00:00+00:00"
     },
     {
-      "id": "26c21fb93f48c9",
-      "title": "Reabren el paso a Chile solo para transporte de cargas (mobile)",
-      "summary": "Reabren el paso a Chile solo para transporte de cargas (mobile) Mendoza 24",
+      "id": "b3c0130eb04fd4",
+      "title": "El paso a Chile continúa habilitado solo para el transporte de cargas",
+      "summary": "El paso a Chile continúa habilitado solo para el transporte de cargas MDZ Online",
       "category": "Región",
-      "source": "Mendoza 24",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR09VSEtxYzVxdUw5RGlNU3FFYTF3aUQyemlTaUhueF9wYzVSRUc4MkNRTmRuVjNub3dWUHBFcWlSU2hIZXJpRURRVEpjeXh0UmFJaTNkTUZOcHMwUEtVSnFoZG5FZC1ieC1fQW1iYm1Ea2dtX3M0ZUtyUnhJM0lDc29yNzVwdGNoVG10Vl8tTUFMUFFyRy1hT2ExQ0NLMHUtZVdMOA?oc=5",
-      "published_at": "2026-10-09T20:46:25+00:00"
+      "source": "MDZ Online",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVUU5elhna1FOSmF1LThUZTRMMjVENHNJRFNDRy10bjQzVVE0TUwzOHBrNlpCMVJXY1B1em05VEJkWXJZYnZiMFA4UTlKTUxObmQyQzc1TUxYLVFWMDRhdDJxRzY2Sk9nOFJxUVRNQXR6WWUySlpaWjU2TmkyNlc4Uzc2eTBnS0pRMHRybXVEZFRHQ2RVRmctV0txWjlEbGFweEhRNFM4bHZoQUpmQTVtX2JOLXlVQVlZekdCc2xlWTNlUQ?oc=5",
+      "published_at": "2026-10-10T12:31:19+00:00"
     },
     {
       "id": "bc8ff59bc34b6d",
@@ -1399,7 +1399,7 @@
   "health": {
     "photos": {
       "status": "ok",
-      "checked_at": "2026-10-10T05:59:12.294577+00:00",
+      "checked_at": "2026-10-10T14:29:59.594869+00:00",
       "successful_sources": 4,
       "total_sources": 4,
       "failures": [],
@@ -1421,7 +1421,7 @@
     "successful_queries": 14,
     "total_queries": 14,
     "failed_queries": [],
-    "new_candidates": 152,
+    "new_candidates": 147,
     "published_items": 80
   }
 }
