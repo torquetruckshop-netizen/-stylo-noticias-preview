@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T19:05:46.481239+00:00",
+  "updated_at": "2026-10-25T22:36:54.431013+00:00",
   "items": [
     {
       "id": "87c80e83637aa8",
@@ -53,7 +53,7 @@
       "category": "Región",
       "source": "NewsDigitales",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMmhmZ0tsR2pnNDlQNFpjU2NuLWFiTk9FT0R1dWV2Q2ltV29WR0FCaGctdzVhbWoza1E0VGJIc0NsNEtMUFRWLWZNcmJqWmNoRHBSa0FGUlFfU2NwbnFyM0h5Qk9Hakg5Y2VyZTdBT3hGN0RaVWEwb19EYWY4RUpmMl9UZUtpRnRselAyS1pjaU9QekVBOC1ZWGg4YW9wemh4dS1wZFNOOVJMZF9XNWtYdEU5SQ?oc=5",
-      "published_at": "2026-10-25T10:30:07+00:00"
+      "published_at": "2026-10-25T12:48:37+00:00"
     },
     {
       "id": "aeabe5f4f8092d",
@@ -1399,7 +1399,7 @@
   "health": {
     "photos": {
       "status": "ok",
-      "checked_at": "2026-10-25T19:05:40.151651+00:00",
+      "checked_at": "2026-10-25T22:36:48.588334+00:00",
       "successful_sources": 4,
       "total_sources": 4,
       "failures": [],
@@ -1421,7 +1421,7 @@
     "successful_queries": 14,
     "total_queries": 14,
     "failed_queries": [],
-    "new_candidates": 172,
+    "new_candidates": 174,
     "published_items": 80
   }
 }
