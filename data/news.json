@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T22:31:57.257243+00:00",
+  "updated_at": "2026-10-25T04:50:31.215544+00:00",
   "items": [
     {
       "id": "aeabe5f4f8092d",
@@ -1399,7 +1399,7 @@
   "health": {
     "photos": {
       "status": "ok",
-      "checked_at": "2026-10-24T22:31:51.879654+00:00",
+      "checked_at": "2026-10-25T04:50:26.297499+00:00",
       "successful_sources": 4,
       "total_sources": 4,
       "failures": [],
@@ -1421,7 +1421,7 @@
     "successful_queries": 14,
     "total_queries": 14,
     "failed_queries": [],
-    "new_candidates": 173,
+    "new_candidates": 170,
     "published_items": 80
   }
 }
