@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T15:15:20.331236+00:00",
+  "updated_at": "2026-11-01T20:33:47.371332+00:00",
   "items": [
     {
       "id": "7517f04b35f1fc",
@@ -47,13 +47,13 @@
       "published_at": "2026-10-29T11:45:00+00:00"
     },
     {
-      "id": "52d39e8114bf35",
-      "title": "YPFB articula una agenda de integración gasífera con Argentina y Brasil",
-      "summary": "YPFB articula una agenda de integración gasífera con Argentina y Brasil eju.tv",
+      "id": "f742f6eae24d15",
+      "title": "YPFB se reúne con Argentina y Brasil para fortalecer la integración gasífera regional",
+      "summary": "YPFB se reúne con Argentina y Brasil para fortalecer la integración gasífera regional Los Tiempos",
       "category": "Región",
-      "source": "eju.tv",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFlQQmZ3Z2NIZWtycks3eVlrVlRfTENLOXI1d1Y1ZkQxbE5Xd19qSkNVZWdTX2dKeXdyejc0NE5VQUZ1bmUzZWh1Ny16OGFCdE11WEU4NTdmUVpnUkNlLV9YQzV6YWw3ZEdRSzhydWwtLUxPUWZ6LTM0REU3VGxWdHJxeTR4bkp6bnZRWGR4SUZWdkhHcUUzSkpBbw?oc=5",
-      "published_at": "2026-10-31T16:14:03+00:00"
+      "source": "Los Tiempos",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd2hvTUlzdktOSVhTQVFHeUJ3Z25MSGI2YUlrdHI0QVktSXZyLTVkS1hSZkY3VWJZdEUwWndWWXRIbFpPak1uUEtVVTkwOFA2eDhwR2hWQ3B4N2VtV2I3SDEyQ3VyN3dYYmx4WGUwSHB4VmVNUnJHSE04SHM3S3JUWFVoenk2Wk5teHVxVFZVQ2ZfTjgtc3RFS3gzVHM5MEsxakRIcDE5WEt4Q3JnUzRERjZ4MDVUWDVDdjRHWUlNR3hENFpieFE?oc=5",
+      "published_at": "2026-11-01T15:48:48+00:00"
     },
     {
       "id": "8afee5b747b8b8",
@@ -1399,7 +1399,7 @@
   "health": {
     "photos": {
       "status": "ok",
-      "checked_at": "2026-11-01T15:15:12.813805+00:00",
+      "checked_at": "2026-11-01T20:33:24.648997+00:00",
       "successful_sources": 4,
       "total_sources": 4,
       "failures": [],
@@ -1421,7 +1421,7 @@
     "successful_queries": 14,
     "total_queries": 14,
     "failed_queries": [],
-    "new_candidates": 178,
+    "new_candidates": 170,
     "published_items": 80
   }
 }
