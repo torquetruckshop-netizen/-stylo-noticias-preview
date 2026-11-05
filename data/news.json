@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T12:26:55.090057+00:00",
+  "updated_at": "2026-11-05T12:40:40.086076+00:00",
   "items": [
     {
       "id": "2e8e8037726a10",
@@ -362,13 +362,16 @@
       "published_at": "2026-11-01T23:51:03+00:00"
     },
     {
-      "id": "7bbbb6c7f5305c",
-      "title": "Rutas deterioradas agregan horas de viaje y elevan los costos del transporte de cargas",
-      "summary": "Rutas deterioradas agregan horas de viaje y elevan los costos del transporte de cargas Infobae",
+      "id": "stylo-fadeeac-ict-2026-10",
+      "title": "FADEEAC: el costo del transporte subió 2,6% en octubre y acumuló 33,7% en 2026",
+      "summary": "El índice oficial aumentó 2,6% en octubre. En los primeros diez meses de 2026 acumuló 33,7% y la variación interanual fue 40,3%.",
       "category": "Economía y costos",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLXU3dUpka3NxcWl2RXR5MkNuaVNLazNjTkk2aDdRaUJHOG5kYUVWS21vUlQ4aWNyNEhaRGJEQURfeExQVnl2RGNLV19tS2NKUXpWMnNQNFNUYkVIR2xSY0RYNWxpUVJYQngwRU0wb242S0F2RmE3ano0aTgyYkZvWTVOZnQySE51TVVqaEE4bDlZbkE0Vjk4SzdMNTM0eDlFazBmNkM0UWN2TkUyQ3Z2RFE2ek03Z0pwajhxWVVPckxyLWQ3U0xZMdIB4wFBVV95cUxOdGNna1V3OUNsak9CNl95OXlTOXJrNUx2SzA4SzZoNXlXcjRpTVhXcmxIWGctS1ZkSDJUZVdINDFISXhPUFFPU3FaNEp4bVhCQ1BDbXUzRWs1NWZ6TkZvOFRwT3VWZmdHb3Fnblh2WlhxRnVGQy1mTWxMRFItTm9WbENfbXhJUEdoTGtMTlpuN1dXaHpoYXl1RDh2aVBFT0pldWQ5TG5reWhaQ0JWZERKOVlqelQ0Zy1XaUtDd0w2cHZJSldZdmtZbkFTbXc4RXY0ODFWSTJSYk0wSGhSdWIxRlF4Yw?oc=5",
-      "published_at": "2026-10-29T11:45:00+00:00"
+      "source": "Stylo Camión · FADEEAC",
+      "url": "https://noticias.stylocamion.com/noticia/costos-transporte-octubre-2026-fadeeac",
+      "published_at": "2026-11-03T12:00:00-03:00",
+      "image": "https://www.fadeeac.org.ar/wp-content/uploads/2026/11/2026.10-fadeeac-indice-de-costos-web-NUEVO-01.jpg",
+      "image_credit": "FADEEAC · Índice de Costos del Transporte, octubre de 2026",
+      "image_source_url": "https://www.fadeeac.org.ar/2026/11/03/el-costo-del-transporte-de-cargas-subio-26-en-octubre-y-acumula-337-en-diez-meses/"
     },
     {
       "id": "39be14b7da6166",
@@ -416,13 +419,13 @@
       "published_at": "2026-10-31T19:09:00+00:00"
     },
     {
-      "id": "8f5f45d011d073",
-      "title": "Los costos de transporte saltan un 10,15% en marzo: la cifra más alta en dos años",
-      "summary": "Los costos de transporte saltan un 10,15% en marzo: la cifra más alta en dos años Comex Online",
+      "id": "7bbbb6c7f5305c",
+      "title": "Rutas deterioradas agregan horas de viaje y elevan los costos del transporte de cargas",
+      "summary": "Rutas deterioradas agregan horas de viaje y elevan los costos del transporte de cargas Infobae",
       "category": "Economía y costos",
-      "source": "Comex Online",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdjNiMU5TQW1aYVBJc25neEVFc25DSXk5bGNVd0lmdzllaFR6LWgtT09UazR2UWxBOTA0Z2YtdEI4eXVYaFJaOFB1bUlSQjFFQ2RXQnJDcDJhcEFLRUgxQ1kxZlVpZVktallPWDBxbmt2MG5oLUFodkpVMVMtQVBpYW5vSTZmY1Z5dlJHYk1iVlktWHJvdkVyQTM4WlFDREJZdV9WTkM1S3lCU3hzTUtwdVJDaHNSeWZYQnM0TWktS1ltVDc3R0R5Zw?oc=5",
-      "published_at": "2026-10-27T07:30:43+00:00"
+      "source": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLXU3dUpka3NxcWl2RXR5MkNuaVNLazNjTkk2aDdRaUJHOG5kYUVWS21vUlQ4aWNyNEhaRGJEQURfeExQVnl2RGNLV19tS2NKUXpWMnNQNFNUYkVIR2xSY0RYNWxpUVJYQngwRU0wb242S0F2RmE3ano0aTgyYkZvWTVOZnQySE51TVVqaEE4bDlZbkE0Vjk4SzdMNTM0eDlFazBmNkM0UWN2TkUyQ3Z2RFE2ek03Z0pwajhxWVVPckxyLWQ3U0xZMdIB4wFBVV95cUxOdGNna1V3OUNsak9CNl95OXlTOXJrNUx2SzA4SzZoNXlXcjRpTVhXcmxIWGctS1ZkSDJUZVdINDFISXhPUFFPU3FaNEp4bVhCQ1BDbXUzRWs1NWZ6TkZvOFRwT3VWZmdHb3Fnblh2WlhxRnVGQy1mTWxMRFItTm9WbENfbXhJUEdoTGtMTlpuN1dXaHpoYXl1RDh2aVBFT0pldWQ5TG5reWhaQ0JWZERKOVlqelQ0Zy1XaUtDd0w2cHZJSldZdmtZbkFTbXc4RXY0ODFWSTJSYk0wSGhSdWIxRlF4Yw?oc=5",
+      "published_at": "2026-10-29T11:45:00+00:00"
     },
     {
       "id": "d79946a18ac574",
@@ -470,13 +473,13 @@
       "published_at": "2026-10-31T12:47:27+00:00"
     },
     {
-      "id": "2c53d59b2cc7da",
-      "title": "Costos del transporte de cargas: suben 30,3% y crece el foco en datos",
-      "summary": "Costos del transporte de cargas: suben 30,3% y crece el foco en datos mercado.com.ar",
+      "id": "8f5f45d011d073",
+      "title": "Los costos de transporte saltan un 10,15% en marzo: la cifra más alta en dos años",
+      "summary": "Los costos de transporte saltan un 10,15% en marzo: la cifra más alta en dos años Comex Online",
       "category": "Economía y costos",
-      "source": "mercado.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmJKS2RFR0ZfdFRVaWlRbVA2QkpsdG11dkY4bWdBQWhib0FRUk1pUkZBbUhtbE93RVlCYWpkXzVuTVozVndQdXZ6WmRtMGFIZ0Q5UXFmT3otQTdTVzVxSVlFSE5MWDhfTTNlaUZwWGl2NG5tMm9ua1J4MWQxWVBGWUdmMl9taFR1clFCcnF0cFpWY25rMHRjQ0x4N1U1VFlLTHJ5dg?oc=5",
-      "published_at": "2026-10-22T16:25:55+00:00"
+      "source": "Comex Online",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdjNiMU5TQW1aYVBJc25neEVFc25DSXk5bGNVd0lmdzllaFR6LWgtT09UazR2UWxBOTA0Z2YtdEI4eXVYaFJaOFB1bUlSQjFFQ2RXQnJDcDJhcEFLRUgxQ1kxZlVpZVktallPWDBxbmt2MG5oLUFodkpVMVMtQVBpYW5vSTZmY1Z5dlJHYk1iVlktWHJvdkVyQTM4WlFDREJZdV9WTkM1S3lCU3hzTUtwdVJDaHNSeWZYQnM0TWktS1ltVDc3R0R5Zw?oc=5",
+      "published_at": "2026-10-27T07:30:43+00:00"
     },
     {
       "id": "24e526bce20bc6",
@@ -524,13 +527,13 @@
       "published_at": "2026-10-30T20:59:08+00:00"
     },
     {
-      "id": "154281152c0855",
-      "title": "Transporte de cargas: los costos se aceleraron 2,55% en septiembre y acumulan 30,3% en el año",
-      "summary": "Transporte de cargas: los costos se aceleraron 2,55% en septiembre y acumulan 30,3% en el año 617 News",
+      "id": "2c53d59b2cc7da",
+      "title": "Costos del transporte de cargas: suben 30,3% y crece el foco en datos",
+      "summary": "Costos del transporte de cargas: suben 30,3% y crece el foco en datos mercado.com.ar",
       "category": "Economía y costos",
-      "source": "617 News",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96TGE2U3lJSUlYbjg5WWRYcWstdFlIbFJfMkI5VldQZFJXeXlCUkpSNnJXUGxrdEJLWU50LUYyQW4waGdYUUtUdjMwQQ?oc=5",
-      "published_at": "2026-10-22T10:45:45+00:00"
+      "source": "mercado.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmJKS2RFR0ZfdFRVaWlRbVA2QkpsdG11dkY4bWdBQWhib0FRUk1pUkZBbUhtbE93RVlCYWpkXzVuTVozVndQdXZ6WmRtMGFIZ0Q5UXFmT3otQTdTVzVxSVlFSE5MWDhfTTNlaUZwWGl2NG5tMm9ua1J4MWQxWVBGWUdmMl9taFR1clFCcnF0cFpWY25rMHRjQ0x4N1U1VFlLTHJ5dg?oc=5",
+      "published_at": "2026-10-22T16:25:55+00:00"
     },
     {
       "id": "ee8d37e72cd3a5",
@@ -578,13 +581,13 @@
       "published_at": "2026-10-30T17:25:49+00:00"
     },
     {
-      "id": "cea6e5afda9a5a",
-      "title": "El costo del transporte de cargas subió 2,55% en septiembre",
-      "summary": "El costo del transporte de cargas subió 2,55% en septiembre Revista Más Industrias",
+      "id": "154281152c0855",
+      "title": "Transporte de cargas: los costos se aceleraron 2,55% en septiembre y acumulan 30,3% en el año",
+      "summary": "Transporte de cargas: los costos se aceleraron 2,55% en septiembre y acumulan 30,3% en el año 617 News",
       "category": "Economía y costos",
-      "source": "Revista Más Industrias",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWFN3RWJ4LVE0a3I2cWU1eDR5cmdmNi00d1c0SEM5WU14ZWxQbFdzU2Z1SDhUREgyaE5tcFZsa2d1a3hTTVJQTWV2dHJIVUZtUGI5ejJkVHhMY0MtVC1vVzZ3RXBuaENycU9yRG1JRU9hVXB6MjNmRVB5WWNlNTVpclBjRl9LMGdudzNudlQ1aDQ?oc=5",
-      "published_at": "2026-10-22T07:00:00+00:00"
+      "source": "617 News",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96TGE2U3lJSUlYbjg5WWRYcWstdFlIbFJfMkI5VldQZFJXeXlCUkpSNnJXUGxrdEJLWU50LUYyQW4waGdYUUtUdjMwQQ?oc=5",
+      "published_at": "2026-10-22T10:45:45+00:00"
     },
     {
       "id": "41211de2da86b4",
@@ -632,13 +635,13 @@
       "published_at": "2026-10-30T13:05:24+00:00"
     },
     {
-      "id": "7f7a8a6bfa87d1",
-      "title": "Aerolíneas: ALTA cuestiona las tasas en Argentina y expone una brecha de 12 veces con Chile",
-      "summary": "Aerolíneas: ALTA cuestiona las tasas en Argentina y expone una brecha de 12 veces con Chile Ladevi",
+      "id": "cea6e5afda9a5a",
+      "title": "El costo del transporte de cargas subió 2,55% en septiembre",
+      "summary": "El costo del transporte de cargas subió 2,55% en septiembre Revista Más Industrias",
       "category": "Economía y costos",
-      "source": "Ladevi",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQXhyNExQMm5RYXhoNkV3U25kbnBBRUhHcXVGVGt4YjV5N2g1RG1FeDducnJkWVNtZHNjV1NqNFRkMHRHTFctN1ZQN2VqQ3Q1SGllZzY1Y0hvNTRwbG1wRzdmODNqd1pMcjlpREpJNldkSl9Md2Q3N1ZDNEZIamRqQTVwbUNUdFhrMWtHRUt0cURKaTNLVlpMc0s3SkVaMHNUQWNRMllYUzlGRzlPVW80bUxLNzZEU3VRZkp0ZU12Mk91YlA0TW12QWxOOE9DUHhSVlVjVGxROUlhNkxQUGcw0gHfAUFVX3lxTE9BeHI0TFAyblFheGg2RXdTbmRucEFFSEdxdUZUa3hiNXk3aDVEbUV4N25ycmRZU21kc2NXU2o0VGQwdEdMVy03VlA3ZWpDdDVIaWVnNjVjSG81NHBsbXBHN2Y4M2p3WkxyOWlESkk2V2RKX0x3ZDc3VkM0RkhqZGpBNXBtQ1R0WGsxa0dFS3RxREppM0tWWkxzSzdKRVowc1RBY1EyWVhTOUZHOU9VbzRtTEs3NkRTdVFmSnRlTXYyT3ViUDRNbXZBbE44T0NQeFJWVWNUbFE5SWE2TFBQZzA?oc=5",
-      "published_at": "2026-10-19T20:20:00+00:00"
+      "source": "Revista Más Industrias",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWFN3RWJ4LVE0a3I2cWU1eDR5cmdmNi00d1c0SEM5WU14ZWxQbFdzU2Z1SDhUREgyaE5tcFZsa2d1a3hTTVJQTWV2dHJIVUZtUGI5ejJkVHhMY0MtVC1vVzZ3RXBuaENycU9yRG1JRU9hVXB6MjNmRVB5WWNlNTVpclBjRl9LMGdudzNudlQ1aDQ?oc=5",
+      "published_at": "2026-10-22T07:00:00+00:00"
     },
     {
       "id": "e0dee5b43e63f0",
@@ -686,13 +689,13 @@
       "published_at": "2026-10-29T18:34:12+00:00"
     },
     {
-      "id": "51ea0a87a30bc8",
-      "title": "La industria aérea regional cuestiona los altos costos de tasas de navegación en Argentina",
-      "summary": "La industria aérea regional cuestiona los altos costos de tasas de navegación en Argentina LA17",
+      "id": "7f7a8a6bfa87d1",
+      "title": "Aerolíneas: ALTA cuestiona las tasas en Argentina y expone una brecha de 12 veces con Chile",
+      "summary": "Aerolíneas: ALTA cuestiona las tasas en Argentina y expone una brecha de 12 veces con Chile Ladevi",
       "category": "Economía y costos",
-      "source": "LA17",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGVwSEM5M2I0U0FqVXZjRFp2WXg2UWJuMThHT0E2N2xKMlF4SUVoT1ZVVXJSN19tN01nUXRQVXB0QVF3akp4Y2Z5NHRfbDhIckVYQ0NtQS1MclBHRGZpNFdrVmFkaXMxVGp5cU1wNzV4Qy1yQ3Y2TGc0NXNWZ21SR0RhZ3pnclhiRlpOWTd2WTVKX0c0MHRDNGF2Y1d0N3E2UUw3N3VFTm5tUmxuWWpOdG1JY0E0MVZ0WjJhWEZKMHlNQQ?oc=5",
-      "published_at": "2026-10-19T18:04:00+00:00"
+      "source": "Ladevi",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQXhyNExQMm5RYXhoNkV3U25kbnBBRUhHcXVGVGt4YjV5N2g1RG1FeDducnJkWVNtZHNjV1NqNFRkMHRHTFctN1ZQN2VqQ3Q1SGllZzY1Y0hvNTRwbG1wRzdmODNqd1pMcjlpREpJNldkSl9Md2Q3N1ZDNEZIamRqQTVwbUNUdFhrMWtHRUt0cURKaTNLVlpMc0s3SkVaMHNUQWNRMllYUzlGRzlPVW80bUxLNzZEU3VRZkp0ZU12Mk91YlA0TW12QWxOOE9DUHhSVlVjVGxROUlhNkxQUGcw0gHfAUFVX3lxTE9BeHI0TFAyblFheGg2RXdTbmRucEFFSEdxdUZUa3hiNXk3aDVEbUV4N25ycmRZU21kc2NXU2o0VGQwdEdMVy03VlA3ZWpDdDVIaWVnNjVjSG81NHBsbXBHN2Y4M2p3WkxyOWlESkk2V2RKX0x3ZDc3VkM0RkhqZGpBNXBtQ1R0WGsxa0dFS3RxREppM0tWWkxzSzdKRVowc1RBY1EyWVhTOUZHOU9VbzRtTEs3NkRTdVFmSnRlTXYyT3ViUDRNbXZBbE44T0NQeFJWVWNUbFE5SWE2TFBQZzA?oc=5",
+      "published_at": "2026-10-19T20:20:00+00:00"
     },
     {
       "id": "66bd3f8c0eab7a",
@@ -1399,7 +1402,7 @@
   "health": {
     "photos": {
       "status": "ok",
-      "checked_at": "2026-11-05T12:26:50.577400+00:00",
+      "checked_at": "2026-11-05T12:40:35.660003+00:00",
       "successful_sources": 4,
       "total_sources": 4,
       "failures": [],
@@ -1421,7 +1424,7 @@
     "successful_queries": 14,
     "total_queries": 14,
     "failed_queries": [],
-    "new_candidates": 192,
+    "new_candidates": 190,
     "published_items": 80
   }
 }
