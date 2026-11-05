@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "stylo-fadeeac-ict-2026-10",
+      "title": "FADEEAC: el costo del transporte subió 2,6% en octubre y acumuló 33,7% en 2026",
+      "summary": "El índice oficial aumentó 2,6% en octubre. En los primeros diez meses de 2026 acumuló 33,7% y la variación interanual fue 40,3%.",
+      "category": "Economía y costos",
+      "source": "Stylo Camión · FADEEAC",
+      "url": "https://noticias.stylocamion.com/noticia/costos-transporte-octubre-2026-fadeeac",
+      "published_at": "2026-11-03T12:00:00-03:00",
+      "image": "https://www.fadeeac.org.ar/wp-content/uploads/2026/11/2026.10-fadeeac-indice-de-costos-web-NUEVO-01.jpg",
+      "image_credit": "FADEEAC · Índice de Costos del Transporte, octubre de 2026",
+      "image_source_url": "https://www.fadeeac.org.ar/2026/11/03/el-costo-del-transporte-de-cargas-subio-26-en-octubre-y-acumula-337-en-diez-meses/"
+    },
+    {
       "id": "stylo-fadeeac-ict-2026-08",
       "title": "FADEEAC: el costo del transporte subió 1,66% en agosto y acumuló 27% en 2026",
       "summary": "El índice oficial registró en agosto la menor suba mensual de 2026: 1,66%. El acumulado enero-agosto fue 27% y la variación de los últimos 12 meses, 42%; en julio había aumentado 2,25%.",
