@@ -672,6 +672,12 @@ def main():
         sys.exit(1)
 
     photo_items, photo_health = collect_illustrated_edition(now)
+    # La edición ilustrada no debe reintroducir coberturas externas del mismo
+    # índice mensual que ya cuenta con una nota editorial propia y fuente oficial.
+    photo_items = [
+        item for item in photo_items
+        if not editorial_duplicate(item, editorial_items)
+    ]
     payload = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "items": accepted,
