@@ -495,26 +495,29 @@ def near_duplicate(title, accepted_titles):
 
 
 def editorial_duplicate(item, editorial_items):
+    item_text = clean(f"{item.get('title', '')} {item.get('summary', '')}").lower()
     item_title = normalize(item.get("title", ""))
-    months = (
-        "enero", "febrero", "marzo", "abril", "mayo", "junio",
-        "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre",
-    )
+    item_percentages = set(re.findall(r"\b\d{1,3},\d+\s*%", item_text))
     for editorial in editorial_items:
+        editorial_text = clean(
+            f"{editorial.get('title', '')} {editorial.get('summary', '')}"
+        ).lower()
         editorial_title = normalize(editorial.get("title", ""))
-        same_fadeeac_period = (
-            "fadeeac" in item_title
-            and "fadeeac" in editorial_title
-            and "costo" in item_title
-            and "costo" in editorial_title
-            and any(month in item_title and month in editorial_title for month in months)
+        editorial_percentages = set(
+            re.findall(r"\b\d{1,3},\d+\s*%", editorial_text)
         )
-        if same_fadeeac_period:
+        same_fadeeac_report = (
+            "fadeeac" in editorial_text
+            and "transporte" in editorial_text
+            and ("costo" in item_text or "cargas" in item_text)
+            and "transporte" in item_text
+            and bool(item_percentages & editorial_percentages)
+        )
+        if same_fadeeac_report:
             return True
         if near_duplicate(item.get("title", ""), [headline_signature(editorial_title)]):
             return True
     return False
-
 
 def main():
     now = datetime.now(timezone.utc)
