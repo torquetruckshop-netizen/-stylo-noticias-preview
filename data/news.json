@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T12:33:39.853904+00:00",
+  "updated_at": "2026-11-06T12:38:54.670905+00:00",
   "items": [
     {
       "id": "0af077b5d0106f",
@@ -731,20 +731,6 @@
   ],
   "photo_items": [
     {
-      "id": "https://www.camionesybuses.com.ar/informe-fadeeac-el-transporte-de-cargas-registro-un-aumento-de-costos-del-26-en-octubre-y-acumula-un-337-en-2026-202618347/",
-      "title": "Informe FADEEAC: el transporte de cargas registró un aumento de costos del 2,6% en octubre y acumula un 33,7% en 2026",
-      "summary": "Los gastos que deben afrontar las empresas de transporte de cargas volvieron a incrementarse durante octubre. De acuerdo con el relevamiento mensual de la Federación Argentina de Entidades Empresarias del Autotransporte de Cargas (FADEEAC), los costos de la ac",
-      "category": "Camiones y mercado",
-      "source": "Camiones y Buses",
-      "url": "https://www.camionesybuses.com.ar/informe-fadeeac-el-transporte-de-cargas-registro-un-aumento-de-costos-del-26-en-octubre-y-acumula-un-337-en-2026-202618347/",
-      "published_at": "2026-11-06T11:00:04+00:00",
-      "country": "argentina",
-      "language": "es",
-      "image": "https://www.camionesybuses.com.ar/wp-content/uploads/2026/07/Scania-Sanchez-Huerta-port.jpg",
-      "image_credit": "Camiones y Buses",
-      "image_source_url": "https://www.camionesybuses.com.ar/informe-fadeeac-el-transporte-de-cargas-registro-un-aumento-de-costos-del-26-en-octubre-y-acumula-un-337-en-2026-202618347/"
-    },
-    {
       "id": "https://transportemoderno.com.br/2026/11/05/foton-dobra-emplacamentos-no-brasil-antes-da-estreia-na-fenatran/",
       "title": "Foton dobra emplacamentos no Brasil antes da estreia na Fenatran",
       "summary": "Marca registrou 2.468 veículos até setembro e prevê chegar a 82 concessionárias no país até o fim do ano",
@@ -1406,7 +1392,7 @@
   "health": {
     "photos": {
       "status": "ok",
-      "checked_at": "2026-11-06T12:33:34.162304+00:00",
+      "checked_at": "2026-11-06T12:38:50.406743+00:00",
       "successful_sources": 4,
       "total_sources": 4,
       "failures": [],
@@ -1428,7 +1414,7 @@
     "successful_queries": 14,
     "total_queries": 14,
     "failed_queries": [],
-    "new_candidates": 185,
+    "new_candidates": 186,
     "published_items": 80
   }
 }
