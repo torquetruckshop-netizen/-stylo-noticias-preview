@@ -681,6 +681,10 @@ def main():
         item for item in photo_items
         if not editorial_duplicate(item, editorial_items)
     ]
+    photo_health["retained_items"] = len(photo_items)
+    photo_health["latest_published_at"] = (
+        photo_items[0]["published_at"] if photo_items else None
+    )
     payload = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "items": accepted,
