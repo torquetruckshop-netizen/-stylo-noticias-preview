@@ -250,7 +250,7 @@ def public_photo_url(value, base):
             or "." not in host or re.fullmatch(r"[\d.]+", host)
             or re.search(r"(?:^|\.)(?:localhost|local|internal|test|invalid)$", host)):
         return ""
-    if re.search(r"chatgpt|dall.?e|midjourney|inteligencia.artificial|(?:^|[/_.-])(?:logo|banner|avatar|placeholder|pixel)(?:[/_.-]|$)|\.svg(?:\?|$)", url, re.I):
+    if re.search(r"chatgpt|dall.?e|midjourney|inteligencia.artificial|(?:^|[/_.-])(?:com[-_]?ia|gerad[oa][-_ ]?por[-_ ]?ia|created[-_ ]?with[-_ ]?ai)(?:[/_.-]|$)|(?:^|[/_.-])(?:logo|banner|avatar|placeholder|pixel)(?:[/_.-]|$)|\.svg(?:\?|$)", url, re.I):
         return ""
     return url
 
