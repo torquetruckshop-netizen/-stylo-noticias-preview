@@ -1,14 +1,68 @@
 {
-  "updated_at": "2026-11-25T14:30:25.486932+00:00",
+  "updated_at": "2026-11-26T00:28:49.157482+00:00",
   "items": [
     {
-      "id": "fd88a069fda862",
-      "title": "Un camión de Tostado protagonizó un choque frontal con otro transporte en la Ruta 34. Ambos choferes fueron hospitalizados.",
-      "summary": "Un camión de Tostado protagonizó un choque frontal con otro transporte en la Ruta 34. Ambos choferes fueron hospitalizados. ReconquistaHOY",
+      "id": "2d2b3e5815758e",
+      "title": "Violento choque entre tres camiones terminó con uno terminó al borde del río Paraná",
+      "summary": "Violento choque entre tres camiones terminó con uno terminó al borde del río Paraná Cadena 3 Argentina",
       "category": "Ruta, salud y seguridad",
-      "source": "ReconquistaHOY",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLTNRQ3k0NHgzODJLT3lkQ1JxcF9HM0VQNGhrUlJkWmZpOVo1LVlsSkdWZDBMWDg4ZG8xVUd4YXNLNEI0ZHg0akdnVjJxa093YkM4ZEdBS0VVRWFwMWVqdmF3N0RnV3FZR0NINklpUXFoZTYyQ1ljRUlmb0I5bERhQXRLQUZsZ2pJNjJMMzgxRG1OZVhOQ3BhWmVtSTJ1Z242azlZNjJlcGhDZE9uTV9YY0tSd2o1cElrVUVUTXlSOXctc2lyWW5LdWtoSkZ1MGNIYzBMWThPSUw2bFN2UUQzTlc5eWF3RjVyR0xWZl9Oaw?oc=5",
-      "published_at": "2026-11-24T19:46:11+00:00"
+      "source": "Cadena 3 Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNazhZTVFTRXJEczk5MlkwMG14Rnl3V2Q2c1ZRTVRTTlVWNFg3eGYzOE1zYVI5T1lwZS1STVNuZzRuUWdyM0t5cFh2ZERHampvTU5tVGZndy1ONjc4b1RDQi1yaExaRkhMRlh1M0xMSnM5bFJsaFIxZm9FRnZZQ29xZ1dnSE9pSVNucUhYZlNrZ0pSTC1Yc2ZRcnpmbEc1REUzbGRVNVl0UFplWUtuWl9zUl9sQzJXbnZEQWlCTkRpUVhVSU1fZ1BpY19VbG5OUUdFNzh2N01UTEktaWM?oc=5",
+      "published_at": "2026-11-25T19:03:33+00:00"
+    },
+    {
+      "id": "b916d607fef2aa",
+      "title": "XCMG apuesta a los camiones eléctricos en Brasil",
+      "summary": "XCMG apuesta a los camiones eléctricos en Brasil Visión Auto",
+      "category": "Camiones y mercado",
+      "source": "Visión Auto",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeF9NVVpSMjNQOUtheXpZWFg3d01GaUFkZG5uSzJNaURhYWxmY0FVcG92Z25uSFBIZ0cxUC1RVmdKUWstcTB1Y0lVTDVPNVBIYjZ0aXR0NksybV81YmdCSkRwMlpiM0dIbXJxT0RJNXlLbWZlRFdpdHpIdlRvS0phaA?oc=5",
+      "published_at": "2026-11-25T10:48:31+00:00"
+    },
+    {
+      "id": "14c2d43480ce8b",
+      "title": "Más barcos, puertos y competitividad: más y mejor transporte para el agro",
+      "summary": "Más barcos, puertos y competitividad: más y mejor transporte para el agro Agrositio",
+      "category": "Logística y puertos",
+      "source": "Agrositio",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPc2xwVkgyRGNZSkZDMWRhbHA0MFJRbWlHSTFJUFN0RFBacFdfYkZNN0l2Y3p3R3N0dnByTWpjaE5Uc3dkUUdvbm9PYmJ0WVAwU0tQRHVMNC0ya3hVbnRWMk9EX2lmQzFJQ0lqdXcxUGJTM2JfUGxwdE9nMlZyR2kzSHFGSldFVS0tSnNvTVVyZEtUZFdjWjY4ZHc3TFBYVHk0M2xUMy1QTlBzM0ZLQ2RDVGpHLTFxM0w1WHZtX1ZZOEtzRjBSdWdfekRkYmRqNHR2MlBaUzZBa2FyTlUzVElnSWlicERNNFhZeVVmclRsVWZSelZTRkpha1NpMkNUVEtaZFYyZDBmYUR6NlJhd09taFZxMkN2Sm1qMTJV?oc=5",
+      "published_at": "2026-11-24T11:25:50+00:00"
+    },
+    {
+      "id": "4c1c00ddd734d5",
+      "title": "La calidad del gas y los costos de transporte, dos obstáculos para ampliar las exportaciones de Vaca Muerta a Brasil",
+      "summary": "La calidad del gas y los costos de transporte, dos obstáculos para ampliar las exportaciones de Vaca Muerta a Brasil econojournal.com.ar",
+      "category": "Técnica y equipos",
+      "source": "econojournal.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR25hMXY2enpZd0dZMlM1TnU1TFczT2IyR3NBdGpUVGdncXZTUDVxSWFKVTJoWWlfTkFfTGdoZHpscW1MNG1ROW92S1RYcmFhb1EyV01PdVNLc0c2enJsWnZjTWVWNWxnR052amhkdjA2Yl8yRThCTENIMUItZ3VHcC1JdFdvWnRCU2RMZS1tREJZa2ZPaVZuN1NEbTZrSDF0VmJV?oc=5",
+      "published_at": "2026-11-25T22:53:13+00:00"
+    },
+    {
+      "id": "5ba36390be0b2b",
+      "title": "Rutas en mal estado: más de 4.600 kilómetros deteriorados encarecen el transporte en Argentina",
+      "summary": "Rutas en mal estado: más de 4.600 kilómetros deteriorados encarecen el transporte en Argentina Diario Neuquino",
+      "category": "Economía y costos",
+      "source": "Diario Neuquino",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd21KaFRZcU5VVkE1M2RmVmNzWjhQWjFGUHRQQm1zemRzbWNqQ3A0bXVPWGM4V2hRN3RjaVZrSTJFNDkyMGNmVUFjNjk0bnBXY0NsYjU3NW1iX2ZiaVdiZFdJRk1rbGFrUTRXcW1uYjZobVRhUWlmMUVUSFZVa3Nub2R0eHNYOGxWOXNsT0xRUXpwbmpFR05pTDA0T1duQTd4dGRPQnpoN3BzQThyQTl4dGh4akhkY21LVlkxcnFCdlRIZw?oc=5",
+      "published_at": "2026-11-22T16:04:51+00:00"
+    },
+    {
+      "id": "08f57f99745109",
+      "title": "La ANP mantiene desde 2022 una política de incentivos para atraer empresas de transporte fluvial a Carmelo",
+      "summary": "La ANP mantiene desde 2022 una política de incentivos para atraer empresas de transporte fluvial a Carmelo Prensa Mercosur",
+      "category": "Región",
+      "source": "Prensa Mercosur",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb0NvNmlUT0ZSdHA5YXRhRDBiTXkzb2FrRnU2dmFkdjU1cHRIeWtTY3NwWW5xN0NPeFkyRmNDbnhMTHYxWm1DX0VKM3JCckI3LVpZOFV3TEhzMml6Vlh6VmlSMFBfSnRxeUNEdGQ2d0pPZnNnQy0ySmFuN1BFXzRuT1ZjM2JTTmtocGxMRmh3eFVIZG9qYVpzSi1KblNBTEVYRXQxcE9VTnFHZm5pbW1YWmVoa0M2NWw5WDJyLVgtZDhBWlNUbDN6bWJYQ0RDbFgwYU15MnVzOVVKWkxZR0E?oc=5",
+      "published_at": "2026-11-25T12:56:21+00:00"
+    },
+    {
+      "id": "5b1966ed86916b",
+      "title": "Dos camiones chocaron en la Ruta 35: un camionero quedó atrapado y debió ser rescatado",
+      "summary": "Dos camiones chocaron en la Ruta 35: un camionero quedó atrapado y debió ser rescatado En Boca de Todos HD",
+      "category": "Ruta, salud y seguridad",
+      "source": "En Boca de Todos HD",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQTNvUkNNbVRnMHhOVHA1MkVlZ09rNnlOTzVBSVplQW1HXzU2c1YyZnNWdzVXT0VJZXJ0WW43R0N3T3BUSmJubzN4V3FFQjZfZzhONVhTcGt5WDhhV0R2ZHFRYmFhV0JjODQ5MHhKbDdQRmNTRE5hT3J6b21JSmpMb2hOQVYza1BONmtOU21ZSWdPMkYyWHdFZ1ZXa0FYNFN2WmZqdWdwcUFWWGwwUFh3bkNJMldiY3NGdmw0UElCVC0xdzlucHJJTzBMbVBYUDBhaExqZk5ndkc0OW9LcjhYTVJhZVVkT1R6TGc?oc=5",
+      "published_at": "2026-11-25T03:00:00+00:00"
     },
     {
       "id": "ade5e90876236e",
@@ -34,35 +88,35 @@
       "summary": "\"En nuestras rutas ya no se rompen los neumáticos, se rompen los ejes de los camiones\" Urgente24",
       "category": "Técnica y equipos",
       "source": "Urgente24",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWFJNWWhXMmlVd1A0bHhWMVNhQlpXUk5tX1c0WTJtWFZpQ1Bvcllkd2dCbExYV1lhaFZDbDV1UF82Zmhlb1diUVdKN3Q3VEhPYzMtUEUyYmxmOUZkVVZxOEd0NGY2WDJKdEdFcUpPN0lrcXVtZGVDZGRtSl80a1JveWZrQ3E2MndQVE96dmhzalNib0cydHVCNHFXVk9YUDBGazRaeFhidHY5QVpmcDYzS2J6RmFQZzJjSGI2MlNR0gG-AUFVX3lxTE1YUk1ZaFcyaVV3UDRseFYxU2FCWldSTm1fVzRZMm1YVmlDUG9yWWR3Z0JsTFhXWWFoVkNsNXVQXzZmaGVvV2JRV0o3dDdUSE9jMy1QRTJibGY5RmRVVnE4R3Q0ZjZYMkp0R0VxSk83SWtxdW1kZUNkZG1KXzRrUm95ZmtDcTYyd1BUT3p2aHNqU2JvRzJ0dUI0cVdWT1hQMEZrNFp4WGJ0djlBWmZwNjNLYnpGYVBnMmNIYjYyU1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSnJxWjVLUUVadXJCemJSYXlSUElRaWJZTUpCdC1RdDB5TDRlVDBLYzJ1ZWRPZVpJLUZIS2Zod0sxRm91UEVEbWplQllnbFEtRnEzbTROVTF0V0EtRXVhUkFqQXZJUUI1Zm5mN2JKaXZScERrS051eUgxamgtNF9vMi1TY0hwR1V3T28wN3RiTjNyQnZmcm95a0dFVVZEOHcyWDVLWDhoOVpFelJFZ2JQOW5KdkZEVnRx0gG-AUFVX3lxTE1YUk1ZaFcyaVV3UDRseFYxU2FCWldSTm1fVzRZMm1YVmlDUG9yWWR3Z0JsTFhXWWFoVkNsNXVQXzZmaGVvV2JRV0o3dDdUSE9jMy1QRTJibGY5RmRVVnE4R3Q0ZjZYMkp0R0VxSk83SWtxdW1kZUNkZG1KXzRrUm95ZmtDcTYyd1BUT3p2aHNqU2JvRzJ0dUI0cVdWT1hQMEZrNFp4WGJ0djlBWmZwNjNLYnpGYVBnMmNIYjYyU1E?oc=5",
       "published_at": "2026-11-25T03:00:09+00:00"
     },
     {
-      "id": "5ba36390be0b2b",
-      "title": "Rutas en mal estado: más de 4.600 kilómetros deteriorados encarecen el transporte en Argentina",
-      "summary": "Rutas en mal estado: más de 4.600 kilómetros deteriorados encarecen el transporte en Argentina Diario Neuquino",
+      "id": "7105675ebebf60",
+      "title": "Rutas deterioradas: el costo invisible que paga la economía argentina",
+      "summary": "Rutas deterioradas: el costo invisible que paga la economía argentina Infobae",
       "category": "Economía y costos",
-      "source": "Diario Neuquino",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd21KaFRZcU5VVkE1M2RmVmNzWjhQWjFGUHRQQm1zemRzbWNqQ3A0bXVPWGM4V2hRN3RjaVZrSTJFNDkyMGNmVUFjNjk0bnBXY0NsYjU3NW1iX2ZiaVdiZFdJRk1rbGFrUTRXcW1uYjZobVRhUWlmMUVUSFZVa3Nub2R0eHNYOGxWOXNsT0xRUXpwbmpFR05pTDA0T1duQTd4dGRPQnpoN3BzQThyQTl4dGh4akhkY21LVlkxcnFCdlRIZw?oc=5",
-      "published_at": "2026-11-22T16:04:51+00:00"
+      "source": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONmt3RzZfVHk5TWRqZ3RUbnZhWU4tRTBXV3JWRGFuel9ncnRFRTJPUXktZnpEdFRObDlSX3Y5aUxMeE1mTWpjYy1wblE5UzVlVmJGSExiTnMyRkNwYTNJRFpTN1lXalV4Z3F3S0wtQmRLWkhWUmhPeEpQUmI0UE1QcnNaNEtOb1hDaFJJMWl2Wm1NbW5TLUV4WlAzQlUzRE1FMXRZYmxnWkxZRlUzZ0JjS3Z30gHMAUFVX3lxTE5LMVUzNHJ2WThQRS03Vy16UGtaWGhQcmhObG1sVmVVbU85N2IyVlBIS0RrdTZ4RWUwMlN1OFpGLVhyUC1CLXBtd1dwcU9yYnRKTVZLWlJfREhqemQ2YWhFTVNHNGJxSWg4Y05TRzcxaVJyWTVzNlZ1THEybmFhQ3psQjRyNUkzZEJaRFBoS0FzUHRBZEFtZllkU3ZzRm4zd3dOVmN4eTVoeG5zc0FkZnNWbEdFZmFrNHdMSXdheExNU3NxVVl4V01xcXUyaA?oc=5",
+      "published_at": "2026-11-22T04:30:00+00:00"
     },
     {
-      "id": "08f57f99745109",
-      "title": "La ANP mantiene desde 2022 una política de incentivos para atraer empresas de transporte fluvial a Carmelo",
-      "summary": "La ANP mantiene desde 2022 una política de incentivos para atraer empresas de transporte fluvial a Carmelo Prensa Mercosur",
+      "id": "233c5923edffb3",
+      "title": "Opinión | Tarragona, Asia, Mercosur",
+      "summary": "Opinión | Tarragona, Asia, Mercosur Expansión",
       "category": "Región",
-      "source": "Prensa Mercosur",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb0NvNmlUT0ZSdHA5YXRhRDBiTXkzb2FrRnU2dmFkdjU1cHRIeWtTY3NwWW5xN0NPeFkyRmNDbnhMTHYxWm1DX0VKM3JCckI3LVpZOFV3TEhzMml6Vlh6VmlSMFBfSnRxeUNEdGQ2d0pPZnNnQy0ySmFuN1BFXzRuT1ZjM2JTTmtocGxMRmh3eFVIZG9qYVpzSi1KblNBTEVYRXQxcE9VTnFHZm5pbW1YWmVoa0M2NWw5WDJyLVgtZDhBWlNUbDN6bWJYQ0RDbFgwYU15MnVzOVVKWkxZR0E?oc=5",
-      "published_at": "2026-11-25T12:56:21+00:00"
+      "source": "Expansión",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWHNhOHNDbVBkSWVWZWo4Sllqc0kyVVJJb2tjeXNySk1JOVJjS2JDRHRtNEJnV0NFX2RFNWx3R1pKVnUtWVRJOVhkRi1oSnJjSFpGaUZPSmdlbnBNOEpuX1g3TnRzdEszYkpWMnFfT0lvY0ZySmRGbHd0QVcweHdOb3h4RVFDeE9oOGtZ0gGLAUFVX3lxTE9LT2loemg1WkNDV3I4Nmtxc0pNRVVpWWl2WUFYcko0NmlNajVQTzJSOHJOd2JOWV96QXE1SWNEVzhOcDM3d0FjX2JTTHIta3JEYlZiRnh3U1VXcUtMSnd1RURyODlpRk5yUTU2ektBVHpkejM4dGpxeW9FaEFYekVmWGt2cVppaV9QYVE?oc=5",
+      "published_at": "2026-11-25T12:29:13+00:00"
     },
     {
-      "id": "b78dbdc2751ba0",
-      "title": "Corredor Bioceánico: sindicatos advierten por la falta de descanso, seguridad e infraestructura para los camioneros",
-      "summary": "Corredor Bioceánico: sindicatos advierten por la falta de descanso, seguridad e infraestructura para los camioneros Latam Gremial",
+      "id": "fd88a069fda862",
+      "title": "Un camión de Tostado protagonizó un choque frontal con otro transporte en la Ruta 34. Ambos choferes fueron hospitalizados.",
+      "summary": "Un camión de Tostado protagonizó un choque frontal con otro transporte en la Ruta 34. Ambos choferes fueron hospitalizados. ReconquistaHOY",
       "category": "Ruta, salud y seguridad",
-      "source": "Latam Gremial",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbDZEN1praXF0N1luMGJzejFsRkZvb3o0SkFPczhjcUptZThKYWgxYThMLWktc0JweWtSa0U1VGhvMWVTYzMwZ1JhZjQ0SkNjQ0NMUlFLZ1pKYk5jdUI5RXowOWp0M1Zla1dhZExuNnFIZmEzSzAxZjZaSzRLT2FSVzBhUV9hY2VWX0hsOXYweFBKS0wyd0p0STBXS1RLOFFFWHk0YjNhclFpZ1VReldXeGNOWE03Wm9iOUh3UERtT0hKbklmRmdleGs5cGJhelB5VzBlM0FB?oc=5",
-      "published_at": "2026-11-24T18:16:55+00:00"
+      "source": "ReconquistaHOY",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLTNRQ3k0NHgzODJLT3lkQ1JxcF9HM0VQNGhrUlJkWmZpOVo1LVlsSkdWZDBMWDg4ZG8xVUd4YXNLNEI0ZHg0akdnVjJxa093YkM4ZEdBS0VVRWFwMWVqdmF3N0RnV3FZR0NINklpUXFoZTYyQ1ljRUlmb0I5bERhQXRLQUZsZ2pJNjJMMzgxRG1OZVhOQ3BhWmVtSTJ1Z242azlZNjJlcGhDZE9uTV9YY0tSd2o1cElrVUVUTXlSOXctc2lyWW5LdWtoSkZ1MGNIYzBMWThPSUw2bFN2UUQzTlc5eWF3RjVyR0xWZl9Oaw?oc=5",
+      "published_at": "2026-11-24T19:46:11+00:00"
     },
     {
       "id": "f9d74599f1e789",
@@ -92,31 +146,31 @@
       "published_at": "2026-11-24T12:26:00+00:00"
     },
     {
-      "id": "7105675ebebf60",
-      "title": "Rutas deterioradas: el costo invisible que paga la economía argentina",
-      "summary": "Rutas deterioradas: el costo invisible que paga la economía argentina Infobae",
+      "id": "977635e2ce9dd4",
+      "title": "Argentina tiene el gasoil más caro de la región, mientras que la nafta ocupa un lugar intermedio",
+      "summary": "Argentina tiene el gasoil más caro de la región, mientras que la nafta ocupa un lugar intermedio ElBonaerense.news",
       "category": "Economía y costos",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONmt3RzZfVHk5TWRqZ3RUbnZhWU4tRTBXV3JWRGFuel9ncnRFRTJPUXktZnpEdFRObDlSX3Y5aUxMeE1mTWpjYy1wblE5UzVlVmJGSExiTnMyRkNwYTNJRFpTN1lXalV4Z3F3S0wtQmRLWkhWUmhPeEpQUmI0UE1QcnNaNEtOb1hDaFJJMWl2Wm1NbW5TLUV4WlAzQlUzRE1FMXRZYmxnWkxZRlUzZ0JjS3Z30gHMAUFVX3lxTE5LMVUzNHJ2WThQRS03Vy16UGtaWGhQcmhObG1sVmVVbU85N2IyVlBIS0RrdTZ4RWUwMlN1OFpGLVhyUC1CLXBtd1dwcU9yYnRKTVZLWlJfREhqemQ2YWhFTVNHNGJxSWg4Y05TRzcxaVJyWTVzNlZ1THEybmFhQ3psQjRyNUkzZEJaRFBoS0FzUHRBZEFtZllkU3ZzRm4zd3dOVmN4eTVoeG5zc0FkZnNWbEdFZmFrNHdMSXdheExNU3NxVVl4V01xcXUyaA?oc=5",
-      "published_at": "2026-11-22T04:30:00+00:00"
+      "source": "ElBonaerense.news",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS2sxSXljcUFENVdWaDhHYmdSRzFDSURmcmlLVUZva1l6UXRKUEd5UXdLNkl2RVF5eTJiSHhWdGt1UFBldlUwUHhKWUh4YjZsQUM4bUZ2TVRkQnFJeml1MG5iLVc4ZVF0UWFYOWhMbHNJZlJLd0cwSWhaZmNtWkwzSDJjc3JCZ0dSa0dKeFpEZnFpQkVwaW0wUXMyZkxFQUtBYmVidUt5aU1odXA2ckRlakRaTGR1Mk9FVDl6elFWVVZpX0ZxNHRCcGlpY3F4cy1VemZz?oc=5",
+      "published_at": "2026-11-20T00:27:13+00:00"
     },
     {
-      "id": "887b6d56ee1841",
-      "title": "Brasil pone el foco en tres desafíos clave para el transporte de cargas por carretera",
-      "summary": "Brasil pone el foco en tres desafíos clave para el transporte de cargas por carretera Infobae",
+      "id": "7930610b942de8",
+      "title": "“Solo el 8% de las cargas en Chile se transportan por ferrocarril. Es inaudito”",
+      "summary": "“Solo el 8% de las cargas en Chile se transportan por ferrocarril. Es inaudito” Agenda Logística",
       "category": "Región",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdWlBTWNuamxOMDVOakxqTEloQ3I0SF9OYmhXUnFGdHVoeGVSSmc0Tm9fYjl0QlRKb2VLMnZ4Wld5M3hmbFJTV0tJaDhnZG5xQV9iZV9Ld19QLWw0cFd5dXJoTzBxVlpqOUlXZEE2QjhoMkxBZVVkU0ItVUhPbEpfcTRhVGVEY1ZXMmh4Z2ZBbWV1U29FM2xLaFNoT2xlb1hySUE1UnRxXzZqbXpwZmZKcXg4WmhwT2lNbHBManNaRXgxNGF0OEUzVGNyNG9xX2ZYZ0NjSWFDbTJQZkFzMHNHa2d30gHiAUFVX3lxTE51aUFNY25qbE4wNU5qTGpMSWhDcjRIX05iaFdScUZ0dWh4ZVJKZzROb19iOXRCVEpvZUsydnhaV3kzeGZsUlNXS0loOGdkbnFBX2JlX0t3X1AtbDRwV3l1cmhPMHFWWmo5SVdkQTZCOGgyTEFlVWRTQi1VSE9sSl9xNGFUZURjVlcyaHhnZkFtZXVTb0UzbEtoU2hPbGVvWHJJQTVSdHFfNmptenBmZkpxeDhaaHBPaU1scExqc1pFeDE0YXQ4RTNUY3I0b3FfZlhnQ2NJYUNtMlBmQXMwc0drZ3c?oc=5",
-      "published_at": "2026-11-24T15:06:00+00:00"
+      "source": "Agenda Logística",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVmxNOVdBRW15ZWVKYUpHRVd4c2M0SU14OFRlak1QTkkwTHFZRVJpVnRLZVhCZXBQNjFXdWZiSl9wU0dvVWpWTEJSSGpqNU91MUlLY3FPdnItR3ZQY01INlVlNjlKRER4VV9pRkVsMEVTd1ZGT0JQaTdlM1ZXT3U5TGRUVWhFUFFfanR6enF1ZkJDRHpGQUxpY0tWYk9wemhScm05RXRzWU1YSVdwblFFUTh2ejY0RnQ2QnZYQVEybzZyMy11RGlwWGZfdmJwcDV6TjRVR1pqbklDZTJBNXBzU0hDY19rMzNlTHZ1OEx4OWZqTG5J?oc=5",
+      "published_at": "2026-11-25T09:00:00+00:00"
     },
     {
-      "id": "f640e58e1e4eab",
-      "title": "Comienza la Semana de Testeos en el marco del 1 de diciembre \"Día Mundial de Respuesta al VIH\"",
-      "summary": "Comienza la Semana de Testeos en el marco del 1 de diciembre \"Día Mundial de Respuesta al VIH\" Radio de Camioneros",
+      "id": "b78dbdc2751ba0",
+      "title": "Corredor Bioceánico: sindicatos advierten por la falta de descanso, seguridad e infraestructura para los camioneros",
+      "summary": "Corredor Bioceánico: sindicatos advierten por la falta de descanso, seguridad e infraestructura para los camioneros Latam Gremial",
       "category": "Ruta, salud y seguridad",
-      "source": "Radio de Camioneros",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUk5SZHFMRHJPNmQ2Mk5FTzRRTnd1X0lVd0IyazU4MmQtQ2ZoRFkydXlydFNlSm5yS04tdExhUlBPTFBBT1lzSFNEelBRdVJJZGdnZnVlbjJXQXBKWVNZQWFhRjY5STliYUdIcWtFMW4wVk1TWmEtYjlOOXMzYXZ0OVJMMHhxVlFlbEpUVDcxeFIxbGM0OUtrdVpqTVlSeEgtZGdaRjFReEZzUzh5YzBSbXFGMnlheWswdl9rejhvcHl5eU9h?oc=5",
-      "published_at": "2026-11-24T15:53:36+00:00"
+      "source": "Latam Gremial",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbDZEN1praXF0N1luMGJzejFsRkZvb3o0SkFPczhjcUptZThKYWgxYThMLWktc0JweWtSa0U1VGhvMWVTYzMwZ1JhZjQ0SkNjQ0NMUlFLZ1pKYk5jdUI5RXowOWp0M1Zla1dhZExuNnFIZmEzSzAxZjZaSzRLT2FSVzBhUV9hY2VWX0hsOXYweFBKS0wyd0p0STBXS1RLOFFFWHk0YjNhclFpZ1VReldXeGNOWE03Wm9iOUh3UERtT0hKbklmRmdleGs5cGJhelB5VzBlM0FB?oc=5",
+      "published_at": "2026-11-24T18:16:55+00:00"
     },
     {
       "id": "aaf3e691f5e385",
@@ -146,31 +200,31 @@
       "published_at": "2026-11-24T11:45:08+00:00"
     },
     {
-      "id": "977635e2ce9dd4",
-      "title": "Argentina tiene el gasoil más caro de la región, mientras que la nafta ocupa un lugar intermedio",
-      "summary": "Argentina tiene el gasoil más caro de la región, mientras que la nafta ocupa un lugar intermedio ElBonaerense.news",
+      "id": "4e43ba92ff7058",
+      "title": "Formosa: Controlaron un transporte de cargas peligrosas y hallaron en la cabina 15.000 atados de cigarrillos de origen extranjero",
+      "summary": "Formosa: Controlaron un transporte de cargas peligrosas y hallaron en la cabina 15.000 atados de cigarrillos de origen extranjero Argentina.gob.ar",
       "category": "Economía y costos",
-      "source": "ElBonaerense.news",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS2sxSXljcUFENVdWaDhHYmdSRzFDSURmcmlLVUZva1l6UXRKUEd5UXdLNkl2RVF5eTJiSHhWdGt1UFBldlUwUHhKWUh4YjZsQUM4bUZ2TVRkQnFJeml1MG5iLVc4ZVF0UWFYOWhMbHNJZlJLd0cwSWhaZmNtWkwzSDJjc3JCZ0dSa0dKeFpEZnFpQkVwaW0wUXMyZkxFQUtBYmVidUt5aU1odXA2ckRlakRaTGR1Mk9FVDl6elFWVVZpX0ZxNHRCcGlpY3F4cy1VemZz?oc=5",
-      "published_at": "2026-11-20T00:27:13+00:00"
+      "source": "Argentina.gob.ar",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdW5zUnB2SWZJSGUwRVlsT01mZEtyczhLLXktUUk1WWpLdVlmRXJsUG9MVmY2YXZZdjhnVFktNW1mdFJUSWl1bjk0S0ZNWUw3dXlLYXh2cDZlU1Z6ODQ5NE96TkRIZ2F6WGJJRW5qSlNwdkxReEc5bXAtRFp4LS1Kd0tEdDJ1NzZiWFAxaGNwdTZYX1JwV25ERkVSMHJ3cUxKU3pmb3FBR1V2aUlTNEJnSDJQX0JhV0pfNV9ZczBhcUZUTU9iZ3M3dw?oc=5",
+      "published_at": "2026-11-16T15:54:52+00:00"
     },
     {
-      "id": "628cb47a593bc4",
-      "title": "Avla Perú alerta sobre riesgos logísticos en la campaña navideña",
-      "summary": "Avla Perú alerta sobre riesgos logísticos en la campaña navideña Data Portuaria",
+      "id": "887b6d56ee1841",
+      "title": "Brasil pone el foco en tres desafíos clave para el transporte de cargas por carretera",
+      "summary": "Brasil pone el foco en tres desafíos clave para el transporte de cargas por carretera Infobae",
       "category": "Región",
-      "source": "Data Portuaria",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDBKSUVkWnpuQUQ1X2RBaHNwOG1VMkUyTUI2VzEwODNZVjVrZTFnbjBZc3N4Z2VfcGR5UW5ER1A2S0hrT0h0cFVLNU01V0x0ckE2OFgwMTVyOFlyX2FYck9QejZWZVlNMTNIY0FDZG50MGhyR0d6SThxako5bGkweTJkTW9lSUFiTS00Yno1UDM0YmxRVEJlUWZ0Zk1mZk9KajVyY1hGQzhwWURQbkRtUDFrcktpZw?oc=5",
-      "published_at": "2026-11-24T05:45:13+00:00"
+      "source": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdWlBTWNuamxOMDVOakxqTEloQ3I0SF9OYmhXUnFGdHVoeGVSSmc0Tm9fYjl0QlRKb2VLMnZ4Wld5M3hmbFJTV0tJaDhnZG5xQV9iZV9Ld19QLWw0cFd5dXJoTzBxVlpqOUlXZEE2QjhoMkxBZVVkU0ItVUhPbEpfcTRhVGVEY1ZXMmh4Z2ZBbWV1U29FM2xLaFNoT2xlb1hySUE1UnRxXzZqbXpwZmZKcXg4WmhwT2lNbHBManNaRXgxNGF0OEUzVGNyNG9xX2ZYZ0NjSWFDbTJQZkFzMHNHa2d30gHiAUFVX3lxTE51aUFNY25qbE4wNU5qTGpMSWhDcjRIX05iaFdScUZ0dWh4ZVJKZzROb19iOXRCVEpvZUsydnhaV3kzeGZsUlNXS0loOGdkbnFBX2JlX0t3X1AtbDRwV3l1cmhPMHFWWmo5SVdkQTZCOGgyTEFlVWRTQi1VSE9sSl9xNGFUZURjVlcyaHhnZkFtZXVTb0UzbEtoU2hPbGVvWHJJQTVSdHFfNmptenBmZkpxeDhaaHBPaU1scExqc1pFeDE0YXQ4RTNUY3I0b3FfZlhnQ2NJYUNtMlBmQXMwc0drZ3c?oc=5",
+      "published_at": "2026-11-24T15:06:00+00:00"
     },
     {
-      "id": "51394c2cd1ed2d",
-      "title": "Miriam, camionera argentina en España: “A las 19:30 cuesta encontrar un lugar para dormir en una estación”",
-      "summary": "Miriam, camionera argentina en España: “A las 19:30 cuesta encontrar un lugar para dormir en una estación” TN",
+      "id": "f640e58e1e4eab",
+      "title": "Comienza la Semana de Testeos en el marco del 1 de diciembre \"Día Mundial de Respuesta al VIH\"",
+      "summary": "Comienza la Semana de Testeos en el marco del 1 de diciembre \"Día Mundial de Respuesta al VIH\" Radio de Camioneros",
       "category": "Ruta, salud y seguridad",
-      "source": "TN",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRXpjY3JyRWNHQUxBdTh2RDJKNnFnTVVRaEN2V2gzYXV4VktaU2Q2NlVVbTBNMUVDYjBwNjQ1bWxHN1d3TmkzRjRpcjR6b0pCeGJhcmdJMGFvV1V3QWR5SGdIZlg0dW1aNkJOQ2tfVVgxRGF4REJwVU41bzlucldKYlY5NmdoSFpUTmZNMGNweUVKUm80N1E3NURoZ1RPVU9KZXc2a2NlRXA0Vm04TzJFRkJZQVNVeDBfc184UXJGUUdLMkM4eExhaTAzTm1IWWMxS3h1XzFOUdIB6wFBVV95cUxPUmg2aE9mMUxfVHNFRkxUNkJVUHVsUkZ1UjdwN25sN0doNVB0Vjc5V19pQkoySDhESFF6ZTd3c3Rwai1CS1diS3ZwMUd1V1BiTTc4NnFyb3p0QWlsRmF3ZDViczFjbUhHQklvZzl4MW5ubHVUeENwMVNGWmJUQUxCdHNYNkhrZjNQTWRuc2xuWEY4cGVHYTVVbEY2VHp2ZnlLMTl4N28yM2xGeWFsc2Y1VnIwdzZsZU1TZTB5MzN3QWE0aXhhWTU5N1Z3b3FjblRMbWhUMGpxS2NXcmFVaURabWpZMGRrVVBGRHdv?oc=5",
-      "published_at": "2026-11-24T12:46:39+00:00"
+      "source": "Radio de Camioneros",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUk5SZHFMRHJPNmQ2Mk5FTzRRTnd1X0lVd0IyazU4MmQtQ2ZoRFkydXlydFNlSm5yS04tdExhUlBPTFBBT1lzSFNEelBRdVJJZGdnZnVlbjJXQXBKWVNZQWFhRjY5STliYUdIcWtFMW4wVk1TWmEtYjlOOXMzYXZ0OVJMMHhxVlFlbEpUVDcxeFIxbGM0OUtrdVpqTVlSeEgtZGdaRjFReEZzUzh5YzBSbXFGMnlheWswdl9rejhvcHl5eU9h?oc=5",
+      "published_at": "2026-11-24T15:53:36+00:00"
     },
     {
       "id": "1a9abfb1634d66",
@@ -200,31 +254,31 @@
       "published_at": "2026-11-23T15:32:33+00:00"
     },
     {
-      "id": "4e43ba92ff7058",
-      "title": "Formosa: Controlaron un transporte de cargas peligrosas y hallaron en la cabina 15.000 atados de cigarrillos de origen extranjero",
-      "summary": "Formosa: Controlaron un transporte de cargas peligrosas y hallaron en la cabina 15.000 atados de cigarrillos de origen extranjero Argentina.gob.ar",
+      "id": "e7c76126c9edba",
+      "title": "Tarifas del Transporte de granos: manifiestan un malestar por un laudo del gobierno de la provincia de Buenos Aires",
+      "summary": "Tarifas del Transporte de granos: manifiestan un malestar por un laudo del gobierno de la provincia de Buenos Aires El Regional Digital",
       "category": "Economía y costos",
-      "source": "Argentina.gob.ar",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdW5zUnB2SWZJSGUwRVlsT01mZEtyczhLLXktUUk1WWpLdVlmRXJsUG9MVmY2YXZZdjhnVFktNW1mdFJUSWl1bjk0S0ZNWUw3dXlLYXh2cDZlU1Z6ODQ5NE96TkRIZ2F6WGJJRW5qSlNwdkxReEc5bXAtRFp4LS1Kd0tEdDJ1NzZiWFAxaGNwdTZYX1JwV25ERkVSMHJ3cUxKU3pmb3FBR1V2aUlTNEJnSDJQX0JhV0pfNV9ZczBhcUZUTU9iZ3M3dw?oc=5",
-      "published_at": "2026-11-16T15:54:52+00:00"
+      "source": "El Regional Digital",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNHgtNkduaEw0NlAxdnp2Y094eTJuLTlVYWdZcVVLb09kR1M2cHpCVHFIb3kxbTNWX0kxSTRYRTk5WHd2VTdwZlBOczdEZGM4c1FpUmxJaTZwV3loY0Jwa3lrbnlHWXVtOHp1bTltYlhMWUc2Q09vM29kUURyX2Flb25lekU5d0JpZmQxLU4tN1BfR0RnczE0YlJfN0FhLXlTc2FuQlRJODZnS1FMQnJEZmROamNxQ1ExVUNZMnR1bkpvazktckZaek1OLXhEc2dTdGhick95VGx5MGJIdTloVmJ3?oc=5",
+      "published_at": "2026-11-16T11:16:05+00:00"
     },
     {
-      "id": "27e9f933500982",
-      "title": "El nuevo desafío de Perú: dos puertos estratégicos podrían enfrentar un cuello de botella",
-      "summary": "El nuevo desafío de Perú: dos puertos estratégicos podrían enfrentar un cuello de botella AgroLatam",
+      "id": "628cb47a593bc4",
+      "title": "Avla Perú alerta sobre riesgos logísticos en la campaña navideña",
+      "summary": "Avla Perú alerta sobre riesgos logísticos en la campaña navideña Data Portuaria",
       "category": "Región",
-      "source": "AgroLatam",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc21Mb09LWTNFTlhLenBoZ1ZTSndPRnJUeXVqVGZCQTAyVXV3MFdIR3dnOTVwR0h2Slc5ZUZrRk5xV0RaMVQ5VXUtMjVjZmkzeEVzNy02M21ReEx6R2ttQmh4aUtYS1ZjVzBoNUtVU1VWMlJtcEtlWGUzZlBHNVpGSUJpRmEzZ3QycHFndExGN0tRN0NWcTI4WXVpLUc1eXMzOElEXzBmeldadzJrNGQzb1M0alJIUllaLUxYOGZVQlJQN0NidFhEcHU0S0ZSdXlDcmc?oc=5",
-      "published_at": "2026-11-23T12:03:39+00:00"
+      "source": "Data Portuaria",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDBKSUVkWnpuQUQ1X2RBaHNwOG1VMkUyTUI2VzEwODNZVjVrZTFnbjBZc3N4Z2VfcGR5UW5ER1A2S0hrT0h0cFVLNU01V0x0ckE2OFgwMTVyOFlyX2FYck9QejZWZVlNMTNIY0FDZG50MGhyR0d6SThxako5bGkweTJkTW9lSUFiTS00Yno1UDM0YmxRVEJlUWZ0Zk1mZk9KajVyY1hGQzhwWURQbkRtUDFrcktpZw?oc=5",
+      "published_at": "2026-11-24T05:45:13+00:00"
     },
     {
-      "id": "23d9d0cf9756c6",
-      "title": "Barrio Jardín se hizo fuerte en casa y consiguió su tercer triunfo en la Liga Argentina de Básquet",
-      "summary": "Barrio Jardín se hizo fuerte en casa y consiguió su tercer triunfo en la Liga Argentina de Básquet La Gaceta",
+      "id": "51394c2cd1ed2d",
+      "title": "Miriam, camionera argentina en España: “A las 19:30 cuesta encontrar un lugar para dormir en una estación”",
+      "summary": "Miriam, camionera argentina en España: “A las 19:30 cuesta encontrar un lugar para dormir en una estación” TN",
       "category": "Ruta, salud y seguridad",
-      "source": "La Gaceta",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWEhGaVpUbEYyR1ZJSUNUVE9ZZDE3RVlkSDZCMDkweEZrN1JtYXJITlRJZU5yVlZfYkxnUEVKVTVCaHpnOUNUVDFIYTJUeWdxS2xyTnd2MGVMRVdCckdQdXI4X0ZseFVUNWJGLWhPZUFfdVBLS2lUVXhUenJQeGFFNWk2WG5GdXlRcjdvODcxVnNVaTJRamxPZlRwOFZVV0x0QmNTczRqT0pHSC1TZFFKNnA5SGhyWkJxa0NLNUpJRnpBd3BlaGFxdVdjTG1ERmJ5X0HSAdcBQVVfeXFMUHJVLVRDREcxMFZjNFZTdlhkMl9PajBKb1RSZXYxdWozUEZGTnhuSEEtUlZnTmYzaVBVdV9tYlFRdkR5UzNJTXNkUnZ4clRrV3NZV2tnVVgyWVlzczN2NDRDalJpWkFhc3JPdFV2djJWRWszaUJqNW5MWkdEYTBHMzQxLUYzVjN6bVBXejZEcXpqd2xkRExzS1lvXy10VnpieElKTTY0T1JfTWFVeVpVbU9tOEdRMmtrWFEzZk4xOU0yTENsQ1FvU0Q2VnFYM2p6dVVZV2FUR3c?oc=5",
-      "published_at": "2026-11-21T23:37:27+00:00"
+      "source": "TN",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUmg2aE9mMUxfVHNFRkxUNkJVUHVsUkZ1UjdwN25sN0doNVB0Vjc5V19pQkoySDhESFF6ZTd3c3Rwai1CS1diS3ZwMUd1V1BiTTc4NnFyb3p0QWlsRmF3ZDViczFjbUhHQklvZzl4MW5ubHVUeENwMVNGWmJUQUxCdHNYNkhrZjNQTWRuc2xuWEY4cGVHYTVVbEY2VHp2ZnlLMTl4N28yM2xGeWFsc2Y1VnIwdzZsZU1TZTB5MzN3QWE0aXhhWTU5N1Z3b3FjblRMbWhUMGpxS2NXcmFVaURabWpZMGRrVVBGRHdv0gHrAUFVX3lxTE9SaDZoT2YxTF9Uc0VGTFQ2QlVQdWxSRnVSN3A3bmw3R2g1UHRWNzlXX2lCSjJIOERIUXplN3dzdHBqLUJLV2JLdnAxR3VXUGJNNzg2cXJvenRBaWxGYXdkNWJzMWNtSEdCSW9nOXgxbm5sdVR4Q3AxU0ZaYlRBTEJ0c1g2SGtmM1BNZG5zbG5YRjhwZUdhNVVsRjZUenZmeUsxOXg3bzIzbEZ5YWxzZjVWcjB3NmxlTVNlMHkzM3dBYTRpeGFZNTk3VndvcWNuVExtaFQwanFLY1dyYVVpRFptalkwZGtVUEZEd28?oc=5",
+      "published_at": "2026-11-24T12:46:39+00:00"
     },
     {
       "id": "e1762e42e836b5",
@@ -254,31 +308,31 @@
       "published_at": "2026-11-23T14:48:27+00:00"
     },
     {
-      "id": "e7c76126c9edba",
-      "title": "Tarifas del Transporte de granos: manifiestan un malestar por un laudo del gobierno de la provincia de Buenos Aires",
-      "summary": "Tarifas del Transporte de granos: manifiestan un malestar por un laudo del gobierno de la provincia de Buenos Aires El Regional Digital",
+      "id": "50c057733d5da3",
+      "title": "Transporte de cargas: aplicarán una suba del 16% en la tarifa nacional",
+      "summary": "Transporte de cargas: aplicarán una suba del 16% en la tarifa nacional https://www.noticiero9.com.ar/",
       "category": "Economía y costos",
-      "source": "El Regional Digital",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNHgtNkduaEw0NlAxdnp2Y094eTJuLTlVYWdZcVVLb09kR1M2cHpCVHFIb3kxbTNWX0kxSTRYRTk5WHd2VTdwZlBOczdEZGM4c1FpUmxJaTZwV3loY0Jwa3lrbnlHWXVtOHp1bTltYlhMWUc2Q09vM29kUURyX2Flb25lekU5d0JpZmQxLU4tN1BfR0RnczE0YlJfN0FhLXlTc2FuQlRJODZnS1FMQnJEZmROamNxQ1ExVUNZMnR1bkpvazktckZaek1OLXhEc2dTdGhick95VGx5MGJIdTloVmJ3?oc=5",
-      "published_at": "2026-11-16T11:16:05+00:00"
+      "source": "https://www.noticiero9.com.ar/",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVh4cHcteUZZLW02UnpxMTd1LVp0VE5pOHhtX0JGcFJJY0ttc3ZQRFY5M3dwZDZFQjFqck44a2k2cXNjWU03NGhwM1I3cmROU0R3Z2NHR1BDdWRNeUJYcjZxQThWNkt1ckhDNVNmaGk2YkxoVEljWWxUZlpsUEthdnlZVC1sUnp4dVZlb3VTWFBjcjlmaTVxYlFZd0VZMFdUSWRWOEZjcw?oc=5",
+      "published_at": "2026-11-15T21:11:44+00:00"
     },
     {
-      "id": "e9161c23bba65a",
-      "title": "Foro Nacional de Competitividad Logística busca impulsar agenda común",
-      "summary": "Foro Nacional de Competitividad Logística busca impulsar agenda común Agenda Logística",
+      "id": "27e9f933500982",
+      "title": "El nuevo desafío de Perú: dos puertos estratégicos podrían enfrentar un cuello de botella",
+      "summary": "El nuevo desafío de Perú: dos puertos estratégicos podrían enfrentar un cuello de botella AgroLatam",
       "category": "Región",
-      "source": "Agenda Logística",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTHpZZGxtZzFyd0J0aU9idDRGaEx6Y2lFenV6RXZIeUN2ZEFYV1V6NGg3M01HWncyN0pZRGlhdU9GRVJkNGVqVHM4d29rVnNvUDB3N2w5NGF2OVJnalBBdXRwYk5uUEg4SmlPaFFJWXRUODduUzVXMmgzSER1NnZoblFhS3hOSzJJbXlqVE1xNTBDdGZrbTZ2cXZzTFQya1hfWk5KUGFoRDhGV3hjMGd4Q1NGYzJQRTRPRFE1ZDN0U1Rlek5UcXFPbFBKYVRvVDNtY0NfdXdYY24zWF9RN3EyTUozS3dXX080R1otQk00clk3NDdkaXVsUzBfYlRveTRLZ2hPQzNaSkZETDRmSjN2dmhB?oc=5",
-      "published_at": "2026-11-23T08:50:00+00:00"
+      "source": "AgroLatam",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc21Mb09LWTNFTlhLenBoZ1ZTSndPRnJUeXVqVGZCQTAyVXV3MFdIR3dnOTVwR0h2Slc5ZUZrRk5xV0RaMVQ5VXUtMjVjZmkzeEVzNy02M21ReEx6R2ttQmh4aUtYS1ZjVzBoNUtVU1VWMlJtcEtlWGUzZlBHNVpGSUJpRmEzZ3QycHFndExGN0tRN0NWcTI4WXVpLUc1eXMzOElEXzBmeldadzJrNGQzb1M0alJIUllaLUxYOGZVQlJQN0NidFhEcHU0S0ZSdXlDcmc?oc=5",
+      "published_at": "2026-11-23T12:03:39+00:00"
     },
     {
-      "id": "526303d26c2e12",
-      "title": "Camioneros goleó a Villa Dálmine y clasificó a semifinales del reducido en la Primera B",
-      "summary": "Camioneros goleó a Villa Dálmine y clasificó a semifinales del reducido en la Primera B Vermouth Deportivo",
+      "id": "23d9d0cf9756c6",
+      "title": "Barrio Jardín se hizo fuerte en casa y consiguió su tercer triunfo en la Liga Argentina de Básquet",
+      "summary": "Barrio Jardín se hizo fuerte en casa y consiguió su tercer triunfo en la Liga Argentina de Básquet La Gaceta",
       "category": "Ruta, salud y seguridad",
-      "source": "Vermouth Deportivo",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSkNyaUVxZ0JOZUhIaHVpLUZuSVRrWjRzWEtJN0ZqRUxRZUhNRFNyT241RkthVzNLcEQxaXhqSHhlX1BHTkU3SG4tNTNLVWFaTEJZUEJhcFdtSTZ5aUVkQzZLYVZJaGl5RE1tRWdjcmxEcXhmdi1UY2dhLWVzX2dHMzJDci1wMFRuczFjZkFGNGVrSTJ0UGc3Vk5iT2V4Z3lYY1lnNDZYTVE0ZDNGaEZfbk9Saw?oc=5",
-      "published_at": "2026-11-21T19:54:33+00:00"
+      "source": "La Gaceta",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWEhGaVpUbEYyR1ZJSUNUVE9ZZDE3RVlkSDZCMDkweEZrN1JtYXJITlRJZU5yVlZfYkxnUEVKVTVCaHpnOUNUVDFIYTJUeWdxS2xyTnd2MGVMRVdCckdQdXI4X0ZseFVUNWJGLWhPZUFfdVBLS2lUVXhUenJQeGFFNWk2WG5GdXlRcjdvODcxVnNVaTJRamxPZlRwOFZVV0x0QmNTczRqT0pHSC1TZFFKNnA5SGhyWkJxa0NLNUpJRnpBd3BlaGFxdVdjTG1ERmJ5X0HSAdcBQVVfeXFMUHJVLVRDREcxMFZjNFZTdlhkMl9PajBKb1RSZXYxdWozUEZGTnhuSEEtUlZnTmYzaVBVdV9tYlFRdkR5UzNJTXNkUnZ4clRrV3NZV2tnVVgyWVlzczN2NDRDalJpWkFhc3JPdFV2djJWRWszaUJqNW5MWkdEYTBHMzQxLUYzVjN6bVBXejZEcXpqd2xkRExzS1lvXy10VnpieElKTTY0T1JfTWFVeVpVbU9tOEdRMmtrWFEzZk4xOU0yTENsQ1FvU0Q2VnFYM2p6dVVZV2FUR3c?oc=5",
+      "published_at": "2026-11-21T23:37:27+00:00"
     },
     {
       "id": "cb3bbf0a3d2059",
@@ -299,40 +353,40 @@
       "published_at": "2026-11-14T11:00:00+00:00"
     },
     {
-      "id": "8c35e844e482d9",
-      "title": "Argentina ante una oportunidad logística histórica",
-      "summary": "Argentina ante una oportunidad logística histórica Infobae",
+      "id": "3da6cc235d3137",
+      "title": "El Bienestar como nueva agenda del Desarrollo Urba...",
+      "summary": "El Bienestar como nueva agenda del Desarrollo Urba... https://inteligenciaargentina.ar/",
       "category": "Técnica y equipos",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT0syZ0FXRVVkSW5wVUJoY0dzNnRRVE1UaHJhVXJXbzdtZjFsWWFrNU01NjA1WVpRR212VExweXNCUFp5VDg5ZXlNYUZFbkJMQ2k0b2hlR3dSb0lySDN1bFcta1J6R0NOVXYxS0hpSmc4cGZJUGcxS1RzdzRsZWdNSlVTQUY0UHA5NWNzTk9ZLW45LUNxa3FJNVFB0gG0AUFVX3lxTE5JZVo4NHpuVjc2TjN5djlOV2VrRzV5b0xHcDQ0ODJxODFEQ2tEVXk2eU5pYnZjTFJuaEttZzFFSXlpV0EtX2txeWFaTGYtSVplYkpIanRwTkJEbW5lT1pBek1BR3hMNkE4cEY5cFNWRlRhaHlrRjlSeTRpWEZCcEVOa2hPWnlrRmRvdm1ldlZtZFN5aWVrX0ZEWDlOLVc1Y0dLQmd4bWNqNDVoN0NlWjdzNVNaeg?oc=5",
-      "published_at": "2026-11-23T06:24:00+00:00"
+      "source": "https://inteligenciaargentina.ar/",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTnQwOGlqYjRKc3laUEEzSXozeWFramhCZi1talR1Ym13TlB3aXBSN2kzbVVZTDVMQTBldlIzMUdZNDdTMnk0a19hWWkyTURpdE5EMzRETmZodElyUndEcGFGVEsxSnpvLWNNckowVlVsV0dBWl9QSEJ3b2hRc25rWmJUYWpNV0pXam1vWFp0elpLUmRXM0wyWmpsWDg?oc=5",
+      "published_at": "2026-11-21T18:21:18+00:00"
     },
     {
-      "id": "50c057733d5da3",
-      "title": "Transporte de cargas: aplicarán una suba del 16% en la tarifa nacional",
-      "summary": "Transporte de cargas: aplicarán una suba del 16% en la tarifa nacional https://www.noticiero9.com.ar/",
+      "id": "66e0a58a1f1927",
+      "title": "Diésel con menos de 10 ppm de azufre: qué aporta al transporte y al agro",
+      "summary": "Diésel con menos de 10 ppm de azufre: qué aporta al transporte y al agro Infobae",
       "category": "Economía y costos",
-      "source": "https://www.noticiero9.com.ar/",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVh4cHcteUZZLW02UnpxMTd1LVp0VE5pOHhtX0JGcFJJY0ttc3ZQRFY5M3dwZDZFQjFqck44a2k2cXNjWU03NGhwM1I3cmROU0R3Z2NHR1BDdWRNeUJYcjZxQThWNkt1ckhDNVNmaGk2YkxoVEljWWxUZlpsUEthdnlZVC1sUnp4dVZlb3VTWFBjcjlmaTVxYlFZd0VZMFdUSWRWOEZjcw?oc=5",
-      "published_at": "2026-11-15T21:11:44+00:00"
+      "source": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNk4zMWlpNUlZQ25KbGhzN0gzM2lKaC15V1pRV1ZyNkdzczNkRF8yR3JUTlRLYXo0cmxuX0hNZlR1c0RYTHNjTDJNeG1kMkVkaFV3WGFEWnNWaG1uMkFQbC1DSlVpOWhyYlB5THJuZ01SU0NhazdkSU01N3VMWXgyX3hmempHTE04RUg5UjVhdVV4S3lmcEhhaE4xQkRZUmxKWDk4UzRLbi1UY3BOU2Y1LVlXRjQxQdIB0AFBVV95cUxPaGJCWEdmMzNsS2JJbjQtX0JCbEdsUnNQWkllVnFpdjhJcnRPaUJPVHQxMnBwbGxkbEVKMUM2N3RxMHFET1NfM0hZOHIxVm04UndMVnljYzZmc09fQU1wXzdiNF9sYl9fNngyMGdkN0F2R0o2NXNHSkt0SWFuTzJnSWl1bDM5dlJabVFDODJoMW54dXR2SldGLW5NcG42YnYwMGdDcXBqOGZWY09VQ2tPQkVSU1ByRzR4SC1tNng4LWhudzB6SzdVdUptbk5IY0c1?oc=5",
+      "published_at": "2026-11-12T03:01:00+00:00"
     },
     {
-      "id": "948ca1f0776663",
-      "title": "Sudamérica simplifica el transporte internacional por carretera",
-      "summary": "Sudamérica simplifica el transporte internacional por carretera MasContainer",
+      "id": "e9161c23bba65a",
+      "title": "Foro Nacional de Competitividad Logística busca impulsar agenda común",
+      "summary": "Foro Nacional de Competitividad Logística busca impulsar agenda común Agenda Logística",
       "category": "Región",
-      "source": "MasContainer",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYm5vQm51c0d0dXBsUm9hbEVCZnJ2Y2dFR1V1M1dyV1lodmtyLVdPMUFDTXY5ZS1NQV8tVzhISDlpUmtMdFdoTHltVUVSdHlNMU9UenNOYW5GQmd2d2hlNHhJT0xObjdZNHFNQU9TcXdpbE44Nk5WYy1ud0xiQWJBeThVN0U3cU9wOTJXRXBjU0w2VUk?oc=5",
-      "published_at": "2026-11-21T23:02:41+00:00"
+      "source": "Agenda Logística",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTHpZZGxtZzFyd0J0aU9idDRGaEx6Y2lFenV6RXZIeUN2ZEFYV1V6NGg3M01HWncyN0pZRGlhdU9GRVJkNGVqVHM4d29rVnNvUDB3N2w5NGF2OVJnalBBdXRwYk5uUEg4SmlPaFFJWXRUODduUzVXMmgzSER1NnZoblFhS3hOSzJJbXlqVE1xNTBDdGZrbTZ2cXZzTFQya1hfWk5KUGFoRDhGV3hjMGd4Q1NGYzJQRTRPRFE1ZDN0U1Rlek5UcXFPbFBKYVRvVDNtY0NfdXdYY24zWF9RN3EyTUozS3dXX080R1otQk00clk3NDdkaXVsUzBfYlRveTRLZ2hPQzNaSkZETDRmSjN2dmhB?oc=5",
+      "published_at": "2026-11-23T08:50:00+00:00"
     },
     {
-      "id": "67b1a20fecb18a",
-      "title": "Grave accidente en San Pedro de Atacama deja un conductor fallecido y un camionero detenido",
-      "summary": "Grave accidente en San Pedro de Atacama deja un conductor fallecido y un camionero detenido Calama en Línea – Noticias",
+      "id": "526303d26c2e12",
+      "title": "Camioneros goleó a Villa Dálmine y clasificó a semifinales del reducido en la Primera B",
+      "summary": "Camioneros goleó a Villa Dálmine y clasificó a semifinales del reducido en la Primera B Vermouth Deportivo",
       "category": "Ruta, salud y seguridad",
-      "source": "Calama en Línea – Noticias",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS29DRWxEdE5wbjloNDVTaWxyYmxsOEJGNlBsOE5VVTRjN3pwWGpRRmQySnVFbS02T2RUTl9LSVBzYUU3RndoRVhfWlBMdVNHVVowc1lOWFFidjNXaUNfWG56bm9TSTN6SzgyOG1KV2RQZ3V3UFBKM1BXSTd6djRPYWlIWG5wTFAzQ3RJNlNLTy1ZNnNQeEltYmZlZm5oczNNLVUyREFwR3ZzR0J6YVFKc0FsVGNTZW9YaW5pZmlWM3p2RFlkTDFzTC1MREZHdm5w?oc=5",
-      "published_at": "2026-11-20T20:18:37+00:00"
+      "source": "Vermouth Deportivo",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSkNyaUVxZ0JOZUhIaHVpLUZuSVRrWjRzWEtJN0ZqRUxRZUhNRFNyT241RkthVzNLcEQxaXhqSHhlX1BHTkU3SG4tNTNLVWFaTEJZUEJhcFdtSTZ5aUVkQzZLYVZJaGl5RE1tRWdjcmxEcXhmdi1UY2dhLWVzX2dHMzJDci1wMFRuczFjZkFGNGVrSTJ0UGc3Vk5iT2V4Z3lYY1lnNDZYTVE0ZDNGaEZfbk9Saw?oc=5",
+      "published_at": "2026-11-21T19:54:33+00:00"
     },
     {
       "id": "ce079a9571ef66",
@@ -353,40 +407,40 @@
       "published_at": "2026-11-13T14:41:35+00:00"
     },
     {
-      "id": "3da6cc235d3137",
-      "title": "El Bienestar como nueva agenda del Desarrollo Urba...",
-      "summary": "El Bienestar como nueva agenda del Desarrollo Urba... https://inteligenciaargentina.ar/",
+      "id": "b2ef95905207f0",
+      "title": "Argentina LNG ingresó al RIGI con una inversión proyectada de US$ 50.750 millones y apunta a exportar GNL",
+      "summary": "Argentina LNG ingresó al RIGI con una inversión proyectada de US$ 50.750 millones y apunta a exportar GNL Economis",
       "category": "Técnica y equipos",
-      "source": "https://inteligenciaargentina.ar/",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTnQwOGlqYjRKc3laUEEzSXozeWFramhCZi1talR1Ym13TlB3aXBSN2kzbVVZTDVMQTBldlIzMUdZNDdTMnk0a19hWWkyTURpdE5EMzRETmZodElyUndEcGFGVEsxSnpvLWNNckowVlVsV0dBWl9QSEJ3b2hRc25rWmJUYWpNV0pXam1vWFp0elpLUmRXM0wyWmpsWDg?oc=5",
-      "published_at": "2026-11-21T18:21:18+00:00"
+      "source": "Economis",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZnBMX1NKOWl4eG5ZOGVkSk8ydERDaWlueXVfR21kR3dSb05vUHhJbXV2TUdYMUNvR2Q0SnlIYjZSVkkza01aMzBRVUxaODY0RkxTRDRFY2ROaUl6Ui1HOHNPQ1VpQ2lCS1hIZ3NkcVhSV1RMWHV2MXZMT2lXRVFVSVJHa0JQZ3pGbDBxZHZ3VHBlNGY0VXdHU3UwbFIzNkxzTklKMWk1TTRseHpIWHZpTkNBelFFSHp6eVFXN0NIVXpuWWFTQXYtMg?oc=5",
+      "published_at": "2026-11-20T20:51:58+00:00"
     },
     {
-      "id": "66e0a58a1f1927",
-      "title": "Diésel con menos de 10 ppm de azufre: qué aporta al transporte y al agro",
-      "summary": "Diésel con menos de 10 ppm de azufre: qué aporta al transporte y al agro Infobae",
+      "id": "e0600495c92c38",
+      "title": "Mendoza: Allanaron cuatro domicilios y desarticularon una red de comercialización ilegal de combustible",
+      "summary": "Mendoza: Allanaron cuatro domicilios y desarticularon una red de comercialización ilegal de combustible Argentina.gob.ar",
       "category": "Economía y costos",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNk4zMWlpNUlZQ25KbGhzN0gzM2lKaC15V1pRV1ZyNkdzczNkRF8yR3JUTlRLYXo0cmxuX0hNZlR1c0RYTHNjTDJNeG1kMkVkaFV3WGFEWnNWaG1uMkFQbC1DSlVpOWhyYlB5THJuZ01SU0NhazdkSU01N3VMWXgyX3hmempHTE04RUg5UjVhdVV4S3lmcEhhaE4xQkRZUmxKWDk4UzRLbi1UY3BOU2Y1LVlXRjQxQdIB0AFBVV95cUxPaGJCWEdmMzNsS2JJbjQtX0JCbEdsUnNQWkllVnFpdjhJcnRPaUJPVHQxMnBwbGxkbEVKMUM2N3RxMHFET1NfM0hZOHIxVm04UndMVnljYzZmc09fQU1wXzdiNF9sYl9fNngyMGdkN0F2R0o2NXNHSkt0SWFuTzJnSWl1bDM5dlJabVFDODJoMW54dXR2SldGLW5NcG42YnYwMGdDcXBqOGZWY09VQ2tPQkVSU1ByRzR4SC1tNng4LWhudzB6SzdVdUptbk5IY0c1?oc=5",
-      "published_at": "2026-11-12T03:01:00+00:00"
+      "source": "Argentina.gob.ar",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVFDU3VfS3lINERhSG0tNml2UnBHRmZyaS14TVFkV2FfM21CMXg5VkgyVjV1X0FJQlJvaEZlaTV5WndtVGRFdzZDSF82ODZOaU9VZVN6R1VZUWM3TkR2dkdRMHFqcVpKZWo2c2tiTGxRVE5kaDZhckd0ZXdSVWNyYmJhY0xyQjZTbWp1QUtzb1lsYUY0d1BTSTRtbTYxSHQ1RGRGSzF3TDhOenVneUFzS2JFNGZpWjExaktpOGR6ME9tNTA3LTFr?oc=5",
+      "published_at": "2026-11-11T20:09:54+00:00"
     },
     {
-      "id": "e6878d5b84df36",
-      "title": "Con inversión de más de US$ 100 millones se inauguró un nuevo servicio ferroviario de carga en Uruguay: los detalles",
-      "summary": "Con inversión de más de US$ 100 millones se inauguró un nuevo servicio ferroviario de carga en Uruguay: los detalles El Observador",
+      "id": "8c35e844e482d9",
+      "title": "Argentina ante una oportunidad logística histórica",
+      "summary": "Argentina ante una oportunidad logística histórica Infobae",
       "category": "Región",
-      "source": "El Observador",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX2ZwWGNLRjlsTW5DZldrdFBDVGpnWUxaOWoxdUlfV1RjN29xU052RDFiTWVRcFo2TGVSbktpZHZ2b1NDZEMxclV1MnpfRG5maTkzWXMzclZ3TjNjTEt5dkV1Mm9mQUpSYncyRG5mOXJ1c2ZjTjFDYXIzeTJCZ1ZWR1hmejF4WGsxUFYwSkxFQzBFdlRPRTQzOUxDejY1NzRFZ0RGajl1NkwwT180Y3RpdFlXUXVwb0EyWXNUTVdnaDAtamptdE43R0FpbWtucHhCOHFLSnBhV0taMFNjb3ZMS1A3aDFwR1lTUndOYjB6WFbSAfYBQVVfeXFMTkRJd3JfSFI5WGVFbWlhSlNQa1ptaGNZakhHWkYxS1dsZzR6SjdNNHFOTkp0dFlOUTRQVXVOdzlabnpRTTBpR2RTb0E1Sm9zMW4xcVM1YmIyTkRud3hsQ3BLWXM1Nk1lRTlMdE5yTnFpYVpRWS1qcFQ3aWRzRHpGRS1QVWpYdTdQb3hyWlM2Z2JPaHNRT1VWWUpsUUprT25aNEQ4cEtSblpQYS16MkpmM2RFMUlzWTVnRWc5aHpKMlBPNC1VaEZGUS16WXFFSGNJQnh3b1owT0hOeUtIbG16UEFtNXZ0NkJmRU5tNDBkekt2cGZHTk9n?oc=5",
-      "published_at": "2026-11-21T08:00:00+00:00"
+      "source": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT0syZ0FXRVVkSW5wVUJoY0dzNnRRVE1UaHJhVXJXbzdtZjFsWWFrNU01NjA1WVpRR212VExweXNCUFp5VDg5ZXlNYUZFbkJMQ2k0b2hlR3dSb0lySDN1bFcta1J6R0NOVXYxS0hpSmc4cGZJUGcxS1RzdzRsZWdNSlVTQUY0UHA5NWNzTk9ZLW45LUNxa3FJNVFB0gG0AUFVX3lxTE5JZVo4NHpuVjc2TjN5djlOV2VrRzV5b0xHcDQ0ODJxODFEQ2tEVXk2eU5pYnZjTFJuaEttZzFFSXlpV0EtX2txeWFaTGYtSVplYkpIanRwTkJEbW5lT1pBek1BR3hMNkE4cEY5cFNWRlRhaHlrRjlSeTRpWEZCcEVOa2hPWnlrRmRvdm1ldlZtZFN5aWVrX0ZEWDlOLVc1Y0dLQmd4bWNqNDVoN0NlWjdzNVNaeg?oc=5",
+      "published_at": "2026-11-23T06:24:00+00:00"
     },
     {
-      "id": "8ce9162679a5fc",
-      "title": "Un muerto y un herido grave en un choque frontal de dos camiones en Córdoba",
-      "summary": "Un muerto y un herido grave en un choque frontal de dos camiones en Córdoba LA17",
+      "id": "67b1a20fecb18a",
+      "title": "Grave accidente en San Pedro de Atacama deja un conductor fallecido y un camionero detenido",
+      "summary": "Grave accidente en San Pedro de Atacama deja un conductor fallecido y un camionero detenido Calama en Línea – Noticias",
       "category": "Ruta, salud y seguridad",
-      "source": "LA17",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVWNqSWMwZ3JHOGdpeUpITWVxVEVTQkRCd0dNNmtBeXV4VDVsdHN4ZTRXa2N0RzlaTVFOUFRRYU14UUNUcDYwaG5iTE9lRnJvSHNzTnhTRlFSUzFNd0xoZlRxY25PZ1FMV285Sk1uRVdBR1VVMFFMMTBMTW9XbDdFN0ZnNzhCSDE2Mjd0R2lfdjVwWWNmeDVwTk15Q0oxYlR1bXFqeFNXaWdtZDYya0E?oc=5",
-      "published_at": "2026-11-20T19:14:00+00:00"
+      "source": "Calama en Línea – Noticias",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS29DRWxEdE5wbjloNDVTaWxyYmxsOEJGNlBsOE5VVTRjN3pwWGpRRmQySnVFbS02T2RUTl9LSVBzYUU3RndoRVhfWlBMdVNHVVowc1lOWFFidjNXaUNfWG56bm9TSTN6SzgyOG1KV2RQZ3V3UFBKM1BXSTd6djRPYWlIWG5wTFAzQ3RJNlNLTy1ZNnNQeEltYmZlZm5oczNNLVUyREFwR3ZzR0J6YVFKc0FsVGNTZW9YaW5pZmlWM3p2RFlkTDFzTC1MREZHdm5w?oc=5",
+      "published_at": "2026-11-20T20:18:37+00:00"
     },
     {
       "id": "5dd8360044e944",
@@ -407,40 +461,40 @@
       "published_at": "2026-11-11T21:04:00+00:00"
     },
     {
-      "id": "b2ef95905207f0",
-      "title": "Argentina LNG ingresó al RIGI con una inversión proyectada de US$ 50.750 millones y apunta a exportar GNL",
-      "summary": "Argentina LNG ingresó al RIGI con una inversión proyectada de US$ 50.750 millones y apunta a exportar GNL Economis",
+      "id": "a025d5c68bbdfb",
+      "title": "Mercedes-Benz eligió al Mejor Conductor de Camiones 2026: quién es y a qué empresa pertenece",
+      "summary": "Mercedes-Benz eligió al Mejor Conductor de Camiones 2026: quién es y a qué empresa pertenece SuperTruck.com.ar",
       "category": "Técnica y equipos",
-      "source": "Economis",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZnBMX1NKOWl4eG5ZOGVkSk8ydERDaWlueXVfR21kR3dSb05vUHhJbXV2TUdYMUNvR2Q0SnlIYjZSVkkza01aMzBRVUxaODY0RkxTRDRFY2ROaUl6Ui1HOHNPQ1VpQ2lCS1hIZ3NkcVhSV1RMWHV2MXZMT2lXRVFVSVJHa0JQZ3pGbDBxZHZ3VHBlNGY0VXdHU3UwbFIzNkxzTklKMWk1TTRseHpIWHZpTkNBelFFSHp6eVFXN0NIVXpuWWFTQXYtMg?oc=5",
-      "published_at": "2026-11-20T20:51:58+00:00"
+      "source": "SuperTruck.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON1E0cnQ3eldUU2RvQkFtQUVUUEloTGZqcTYxaURNV3lJUTVyNE0zWHVGeG5YRWhCdW81TnJQQkFLdE9NRzU1WUl1YWVFVW5NZkpBWG53VEtwSzBrb1J5R3VZYzctWmIxb3pFbW95bG4wNnVsUFc5dTljeXJJT1BZS2wxWWxuVDRCV2V5aURsRVh1dUE?oc=5",
+      "published_at": "2026-11-20T19:27:07+00:00"
     },
     {
-      "id": "e0600495c92c38",
-      "title": "Mendoza: Allanaron cuatro domicilios y desarticularon una red de comercialización ilegal de combustible",
-      "summary": "Mendoza: Allanaron cuatro domicilios y desarticularon una red de comercialización ilegal de combustible Argentina.gob.ar",
+      "id": "5c61666b32db17",
+      "title": "Del campo al puerto, con baches: el deterioro de las rutas golpea los costos del transporte de cargas",
+      "summary": "Del campo al puerto, con baches: el deterioro de las rutas golpea los costos del transporte de cargas TN",
       "category": "Economía y costos",
-      "source": "Argentina.gob.ar",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVFDU3VfS3lINERhSG0tNml2UnBHRmZyaS14TVFkV2FfM21CMXg5VkgyVjV1X0FJQlJvaEZlaTV5WndtVGRFdzZDSF82ODZOaU9VZVN6R1VZUWM3TkR2dkdRMHFqcVpKZWo2c2tiTGxRVE5kaDZhckd0ZXdSVWNyYmJhY0xyQjZTbWp1QUtzb1lsYUY0d1BTSTRtbTYxSHQ1RGRGSzF3TDhOenVneUFzS2JFNGZpWjExaktpOGR6ME9tNTA3LTFr?oc=5",
-      "published_at": "2026-11-11T20:09:54+00:00"
+      "source": "TN",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVy1pS2xQU0NRU2hsUEVCcEp1bnBjNkZ3c2FWZWlwU1dqd3FENnZXd3EtZWFfbXlOa0FHck9uS3ZlbmFIMTdBZDZvM3hnNU56WkpzZFBnaFhHTTFHaU9SdVJFY1JLZUEtQXFEY3lpejV2SC1MdlV4LUl3Vkt3N2tWSU5faVI0SDN3S2JMcXFRdG9LM05tNnJnZzIxRG8zQm55b3ktcGFjNUYwcEcxRXJvNmhrZHRUQlNrRUk4ejdpS0o5eGRadFpjSzEwMXBWSUVf0gHkAUFVX3lxTFBGbm1DdWxad3YwaHV2YkdUaEt1bzFfU3dGX01UMkpmUWc5MkhGZlBhdk9LMEVvcGo4dFpLamV1M3REMFN3Zlp2dVRENHA0dFhnMkZuSzVuRGRXQk1WSnpEbGxnMjdValpuck40NmpPRWVYb29WbkpDdkVVbDhxckgtVjB0cE9DQkxpamxQMnVkRVFGXzcxeGpIYlBmMjBvUDJ5WGlob0drdEd3cTRxOHY4c2JTTzZGczFIZ0tHc2VTVEVVUVFGcFNfV3IybmJKUURGTU9GYmp1VDFyaFZMYmVzSUhBZQ?oc=5",
+      "published_at": "2026-11-11T13:25:54+00:00"
     },
     {
-      "id": "7e58167aab2fbb",
-      "title": "Los MINISTROS de Salud del Mercosur acordaron \"COORDINAR políticas\" contra el SARAMPIÓN",
-      "summary": "Los MINISTROS de Salud del Mercosur acordaron \"COORDINAR políticas\" contra el SARAMPIÓN El Destape",
+      "id": "948ca1f0776663",
+      "title": "Sudamérica simplifica el transporte internacional por carretera",
+      "summary": "Sudamérica simplifica el transporte internacional por carretera MasContainer",
       "category": "Región",
-      "source": "El Destape",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObHY0QjkzeUFsbktxRDNuZzBLaGNQM2pzQUg5aENHUDZucm1iaUNtQXJ4ZkZSLWp4ZnduSktaQmE0eERKTXFlV0RlbG52akQtVi1OX0E3Y1ItRE4xbXRFaHZfYlhhdjNqTnZtMFViYXRxNHh3MlV4alJmb1hNRE1iR2FaNDg5UTU2VVVmMWF3bjJZMVhwYnN5dVFzWmVlMGIxRTFlZW1BcTBvTDlROTlGM25LRldyZXpockNtb0ZsR1Z5Z9IB1gFBVV95cUxPQXFUcHNRYk91MUMtbFBpSFlub0hqYm91YTEwQldXX19EU092T3czNXRBVl9GRTZzbHZWTjVjVWhCVEI4UlFPMEpQZzdkbW5NM0FxbTV1UTNNMXQyVm1uUjJybUl0a2kyQ2huV09TMm1BdXZnNXN5cjZfT3dRc2pBcFRiRFQwNTgzSDR3MWQ5OC1FUXdGYUQ3aGxMeldIZEVGV0Rac2cyWHVzNVBfS0wtMHIwSHVFdjFGTlJ4ZVVqTTF2NWstSEJJN1VxZEg2bE1TeG5yd2RR?oc=5",
-      "published_at": "2026-11-20T21:24:10+00:00"
+      "source": "MasContainer",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYm5vQm51c0d0dXBsUm9hbEVCZnJ2Y2dFR1V1M1dyV1lodmtyLVdPMUFDTXY5ZS1NQV8tVzhISDlpUmtMdFdoTHltVUVSdHlNMU9UenNOYW5GQmd2d2hlNHhJT0xObjdZNHFNQU9TcXdpbE44Nk5WYy1ud0xiQWJBeThVN0U3cU9wOTJXRXBjU0w2VUk?oc=5",
+      "published_at": "2026-11-21T23:02:41+00:00"
     },
     {
-      "id": "b5b8e815d9411b",
-      "title": "Choque entre dos camiones en la Ruta Nacional 34 cerca de Real Sayana dejó choferes heridos",
-      "summary": "Choque entre dos camiones en la Ruta Nacional 34 cerca de Real Sayana dejó choferes heridos El Liberal",
+      "id": "8ce9162679a5fc",
+      "title": "Un muerto y un herido grave en un choque frontal de dos camiones en Córdoba",
+      "summary": "Un muerto y un herido grave en un choque frontal de dos camiones en Córdoba LA17",
       "category": "Ruta, salud y seguridad",
-      "source": "El Liberal",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLTBWT3JNVko2eDhtY25EdXRwSU1SNTU1LWlRNVBJZFNNUDVvZVV4NDdoc1pSWDc2TXJab1BGMm1udGNCWHRwQXQyTFVMRXhSelBDM192T2NlVEFQS2xuRkVTTUFyeHRSTGhuQXB6UmpvS3huUEllbUpXbHFvUmIxQTFyQjVmZkdfVGg1Y3A4eGVoYTFiSFYxTlpRTGpGcVNVSnQ2NVRJYXVHdUFTczVmN1h2MnFHZjQ2YzJ6SmhwekdMc3g4QTlCTExHdVBUYlBqSUFwM0RB0gHfAUFVX3lxTE9KeVdfVFdJMnctNnRwOVRhamt1N0NKbTc2Qlk3QkFqYnhnZlhZMjF6Y0NmTnRFSjZhQ2ZsSkRjT0V3OWZWRjI4V3g3dXk2RFJ2eVp0bXJjaHo5TTQ1OVk3clJQcERhbURMdlM4Nlh5NjBZUmxRaUh5dUFvTl9WblNhclpWU2RoY1NzV1dqbnktTGtJNU9Cblh2S3dyM0hGalpyNnhFVVVxdUp6ZnB6NjJjQ2RSNkM1SEZvZS05R25nRENFNEtFZ004cEhEWm9LbzlURFkzTE1lTzRENXRwcHM?oc=5",
-      "published_at": "2026-11-20T17:15:00+00:00"
+      "source": "LA17",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVWNqSWMwZ3JHOGdpeUpITWVxVEVTQkRCd0dNNmtBeXV4VDVsdHN4ZTRXa2N0RzlaTVFOUFRRYU14UUNUcDYwaG5iTE9lRnJvSHNzTnhTRlFSUzFNd0xoZlRxY25PZ1FMV285Sk1uRVdBR1VVMFFMMTBMTW9XbDdFN0ZnNzhCSDE2Mjd0R2lfdjVwWWNmeDVwTk15Q0oxYlR1bXFqeFNXaWdtZDYya0E?oc=5",
+      "published_at": "2026-11-20T19:14:00+00:00"
     },
     {
       "id": "d50937cf518f9a",
@@ -461,40 +515,40 @@
       "published_at": "2026-11-10T20:01:16+00:00"
     },
     {
-      "id": "a025d5c68bbdfb",
-      "title": "Mercedes-Benz eligió al Mejor Conductor de Camiones 2026: quién es y a qué empresa pertenece",
-      "summary": "Mercedes-Benz eligió al Mejor Conductor de Camiones 2026: quién es y a qué empresa pertenece SuperTruck.com.ar",
+      "id": "95fa2da0db9abc",
+      "title": "Las plataformas de movilidad y delivery en Argentina merecen desregulación libertaria",
+      "summary": "Las plataformas de movilidad y delivery en Argentina merecen desregulación libertaria DPL News",
       "category": "Técnica y equipos",
-      "source": "SuperTruck.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON1E0cnQ3eldUU2RvQkFtQUVUUEloTGZqcTYxaURNV3lJUTVyNE0zWHVGeG5YRWhCdW81TnJQQkFLdE9NRzU1WUl1YWVFVW5NZkpBWG53VEtwSzBrb1J5R3VZYzctWmIxb3pFbW95bG4wNnVsUFc5dTljeXJJT1BZS2wxWWxuVDRCV2V5aURsRVh1dUE?oc=5",
-      "published_at": "2026-11-20T19:27:07+00:00"
+      "source": "DPL News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZER1UDJlWjJpYVBmQVVMN1ZFdl9iVjRPUXM4WDA5SWpTaElud3JOck5nZWphc2doa3VnemllX1ZQaHcwNEk5UTRPdEdJNWwxMnF6Qkt1am9qRFRSRXBzbmdhQVRYbVY2SGlJeFc5OGRwcWxWNC0zLUNvNWdZN2FpT1Y5bHFVM2U5VElybHpVc0hNT2FRSGdPWjNzTF9uclVNQXRFeDd0WVNkQQ?oc=5",
+      "published_at": "2026-11-20T18:04:20+00:00"
     },
     {
-      "id": "5c61666b32db17",
-      "title": "Del campo al puerto, con baches: el deterioro de las rutas golpea los costos del transporte de cargas",
-      "summary": "Del campo al puerto, con baches: el deterioro de las rutas golpea los costos del transporte de cargas TN",
+      "id": "7ff34ea6ca0d17",
+      "title": "Rutas destruidas y costos en alza: transportar en Argentina puede demandar más de cuatro horas adicionales",
+      "summary": "Rutas destruidas y costos en alza: transportar en Argentina puede demandar más de cuatro horas adicionales Economis",
       "category": "Economía y costos",
-      "source": "TN",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVy1pS2xQU0NRU2hsUEVCcEp1bnBjNkZ3c2FWZWlwU1dqd3FENnZXd3EtZWFfbXlOa0FHck9uS3ZlbmFIMTdBZDZvM3hnNU56WkpzZFBnaFhHTTFHaU9SdVJFY1JLZUEtQXFEY3lpejV2SC1MdlV4LUl3Vkt3N2tWSU5faVI0SDN3S2JMcXFRdG9LM05tNnJnZzIxRG8zQm55b3ktcGFjNUYwcEcxRXJvNmhrZHRUQlNrRUk4ejdpS0o5eGRadFpjSzEwMXBWSUVf0gHkAUFVX3lxTFBGbm1DdWxad3YwaHV2YkdUaEt1bzFfU3dGX01UMkpmUWc5MkhGZlBhdk9LMEVvcGo4dFpLamV1M3REMFN3Zlp2dVRENHA0dFhnMkZuSzVuRGRXQk1WSnpEbGxnMjdValpuck40NmpPRWVYb29WbkpDdkVVbDhxckgtVjB0cE9DQkxpamxQMnVkRVFGXzcxeGpIYlBmMjBvUDJ5WGlob0drdEd3cTRxOHY4c2JTTzZGczFIZ0tHc2VTVEVVUVFGcFNfV3IybmJKUURGTU9GYmp1VDFyaFZMYmVzSUhBZQ?oc=5",
-      "published_at": "2026-11-11T13:25:54+00:00"
+      "source": "Economis",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbVNVOHBsR29zYjN1bmY5cXJqaTRKY2pRMnI3bDA0YzdUd3F1Y2pma29tZXJPLTVmZ1E0SUVMMExvMHBhMVg0TWdDLUo5SkdKLTVpTFJsb0ZueTlvSktFOWFUOXo1b3RwYnp6UVdDLUxZZ3l5cHZkVy1wek5uOWhVLWlfLVFsS0M5Z0xOdEVTREtMeVFIUHhzaTl0WW1zNjFlNjQ4anJRRXdWQVBzU0ZIeXdYRW9Cc1RnQjBoTUJhdTNjdWU0d1pOZHd3?oc=5",
+      "published_at": "2026-11-10T12:19:55+00:00"
     },
     {
-      "id": "aa844cc05714a3",
-      "title": "Ministros del Mercosur acuerdan fortalecer las fronteras para prevenir el sarampión",
-      "summary": "Ministros del Mercosur acuerdan fortalecer las fronteras para prevenir el sarampión Yahoo",
+      "id": "e6878d5b84df36",
+      "title": "Con inversión de más de US$ 100 millones se inauguró un nuevo servicio ferroviario de carga en Uruguay: los detalles",
+      "summary": "Con inversión de más de US$ 100 millones se inauguró un nuevo servicio ferroviario de carga en Uruguay: los detalles El Observador",
       "category": "Región",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQelNaTjlpbGRuaU4zel9YMlVLSDdnVjhSUzQyY01Ma1hMTl9ybHVaWHpQc0NvOUxPUFJDekZFOEV5SHhvUjBCUWtleDZ5TUJKdXZKV09GOVUxM1l6S1JuZGpwa1VCVmVBdHZCLXdXMVBFVk85OWwydlVqVG9yZFNrREJ3TDdqNFVsbkgxZlVacmExbGYybjl2Vmd4dF8?oc=5",
-      "published_at": "2026-11-20T20:58:39+00:00"
+      "source": "El Observador",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX2ZwWGNLRjlsTW5DZldrdFBDVGpnWUxaOWoxdUlfV1RjN29xU052RDFiTWVRcFo2TGVSbktpZHZ2b1NDZEMxclV1MnpfRG5maTkzWXMzclZ3TjNjTEt5dkV1Mm9mQUpSYncyRG5mOXJ1c2ZjTjFDYXIzeTJCZ1ZWR1hmejF4WGsxUFYwSkxFQzBFdlRPRTQzOUxDejY1NzRFZ0RGajl1NkwwT180Y3RpdFlXUXVwb0EyWXNUTVdnaDAtamptdE43R0FpbWtucHhCOHFLSnBhV0taMFNjb3ZMS1A3aDFwR1lTUndOYjB6WFbSAfYBQVVfeXFMTkRJd3JfSFI5WGVFbWlhSlNQa1ptaGNZakhHWkYxS1dsZzR6SjdNNHFOTkp0dFlOUTRQVXVOdzlabnpRTTBpR2RTb0E1Sm9zMW4xcVM1YmIyTkRud3hsQ3BLWXM1Nk1lRTlMdE5yTnFpYVpRWS1qcFQ3aWRzRHpGRS1QVWpYdTdQb3hyWlM2Z2JPaHNRT1VWWUpsUUprT25aNEQ4cEtSblpQYS16MkpmM2RFMUlzWTVnRWc5aHpKMlBPNC1VaEZGUS16WXFFSGNJQnh3b1owT0hOeUtIbG16UEFtNXZ0NkJmRU5tNDBkekt2cGZHTk9n?oc=5",
+      "published_at": "2026-11-21T08:00:00+00:00"
     },
     {
-      "id": "e093423a507e2b",
-      "title": "Siniestro vial. Choque fatal entre dos camiones en Córdoba: murió uno de los conductores y el otro fue hospitalizado",
-      "summary": "Siniestro vial. Choque fatal entre dos camiones en Córdoba: murió uno de los conductores y el otro fue hospitalizado Mirá El Norte",
+      "id": "b5b8e815d9411b",
+      "title": "Choque entre dos camiones en la Ruta Nacional 34 cerca de Real Sayana dejó choferes heridos",
+      "summary": "Choque entre dos camiones en la Ruta Nacional 34 cerca de Real Sayana dejó choferes heridos El Liberal",
       "category": "Ruta, salud y seguridad",
-      "source": "Mirá El Norte",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbjJBWU1uaDdsRUJ6dldBZUp3ejJDMVUtUDJGX2hGY2VROV91Nm9aaHVWN3M3R3ZBNzgyRUZJQmVsOTFwUHd5eC1OR1JPY2lKMjJ6ZmE5X2xIQ2t3X2M1V292MVR3TGxDbzNhN21teFVGd3dBOW5RbjhOa01NVzdmUzhJY0FON3lrTzU4cnFvX2FJdWlpblY2VlNfcmxoSDZPVnp0Wm1HMkpQeXdLV0RtUnlmZXhnVF9zUVlfYllianFacGVqVFVta1l3WTlJRm0xN2dsSFptcXVhZUk?oc=5",
-      "published_at": "2026-11-20T12:50:38+00:00"
+      "source": "El Liberal",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLTBWT3JNVko2eDhtY25EdXRwSU1SNTU1LWlRNVBJZFNNUDVvZVV4NDdoc1pSWDc2TXJab1BGMm1udGNCWHRwQXQyTFVMRXhSelBDM192T2NlVEFQS2xuRkVTTUFyeHRSTGhuQXB6UmpvS3huUEllbUpXbHFvUmIxQTFyQjVmZkdfVGg1Y3A4eGVoYTFiSFYxTlpRTGpGcVNVSnQ2NVRJYXVHdUFTczVmN1h2MnFHZjQ2YzJ6SmhwekdMc3g4QTlCTExHdVBUYlBqSUFwM0RB0gHfAUFVX3lxTE9KeVdfVFdJMnctNnRwOVRhamt1N0NKbTc2Qlk3QkFqYnhnZlhZMjF6Y0NmTnRFSjZhQ2ZsSkRjT0V3OWZWRjI4V3g3dXk2RFJ2eVp0bXJjaHo5TTQ1OVk3clJQcERhbURMdlM4Nlh5NjBZUmxRaUh5dUFvTl9WblNhclpWU2RoY1NzV1dqbnktTGtJNU9Cblh2S3dyM0hGalpyNnhFVVVxdUp6ZnB6NjJjQ2RSNkM1SEZvZS05R25nRENFNEtFZ004cEhEWm9LbzlURFkzTE1lTzRENXRwcHM?oc=5",
+      "published_at": "2026-11-20T17:15:00+00:00"
     },
     {
       "id": "db5e766a9dbdcd",
@@ -515,40 +569,40 @@
       "published_at": "2026-11-06T16:41:00+00:00"
     },
     {
-      "id": "95fa2da0db9abc",
-      "title": "Las plataformas de movilidad y delivery en Argentina merecen desregulación libertaria",
-      "summary": "Las plataformas de movilidad y delivery en Argentina merecen desregulación libertaria DPL News",
+      "id": "b99e7a1ac432d0",
+      "title": "Argentina busca reforzar su poder de fuego naval con tecnología italiana",
+      "summary": "Argentina busca reforzar su poder de fuego naval con tecnología italiana NotiPress",
       "category": "Técnica y equipos",
-      "source": "DPL News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZER1UDJlWjJpYVBmQVVMN1ZFdl9iVjRPUXM4WDA5SWpTaElud3JOck5nZWphc2doa3VnemllX1ZQaHcwNEk5UTRPdEdJNWwxMnF6Qkt1am9qRFRSRXBzbmdhQVRYbVY2SGlJeFc5OGRwcWxWNC0zLUNvNWdZN2FpT1Y5bHFVM2U5VElybHpVc0hNT2FRSGdPWjNzTF9uclVNQXRFeDd0WVNkQQ?oc=5",
-      "published_at": "2026-11-20T18:04:20+00:00"
+      "source": "NotiPress",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRENuUWxPQUJnT2pSeEpndFJXeGVWNzFhN3BNNVF2OXpJdFVZUU9UZzVvZ2tqVmp6a0Jzd2NuUmwzSFViOHprcDEtVG5rczM4V3pBcTktaXFVTUtMb2R0QldBTDhZcUo3NlJGalNoSE81TXNGM2NhYnI3cDdvanRQWjVRM1U3Wk44aEhWUnNUOHo3RVJ3TkpiamJqOTNRR1BkNDdjcdIBqgFBVV95cUxNZ0xQS2FHYi1ZenQ5QVBPSWNwQlF6TnF3aUw5NXhLaTFpR0VPdnViQjB6a3lLOVhNOG5wVzZScjNhS2x5aFVCRFVzNXRTcHVxMnN2QzFXUzZQdVNxUTd2Ui1XR3R0NE5PdGNycGNaM3BfOGlhdWlGTUFVa0NJQmdYdkdSUDFrQnBQT1ZPM01HUTVpWHN0MGhuQWprZFBvd3lSRFo5aFNrekhkZw?oc=5",
+      "published_at": "2026-11-20T17:45:00+00:00"
     },
     {
-      "id": "7ff34ea6ca0d17",
-      "title": "Rutas destruidas y costos en alza: transportar en Argentina puede demandar más de cuatro horas adicionales",
-      "summary": "Rutas destruidas y costos en alza: transportar en Argentina puede demandar más de cuatro horas adicionales Economis",
+      "id": "8f5f45d011d073",
+      "title": "Los costos de transporte saltan un 10,15% en marzo: la cifra más alta en dos años",
+      "summary": "Los costos de transporte saltan un 10,15% en marzo: la cifra más alta en dos años Comex Online",
       "category": "Economía y costos",
-      "source": "Economis",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbVNVOHBsR29zYjN1bmY5cXJqaTRKY2pRMnI3bDA0YzdUd3F1Y2pma29tZXJPLTVmZ1E0SUVMMExvMHBhMVg0TWdDLUo5SkdKLTVpTFJsb0ZueTlvSktFOWFUOXo1b3RwYnp6UVdDLUxZZ3l5cHZkVy1wek5uOWhVLWlfLVFsS0M5Z0xOdEVTREtMeVFIUHhzaTl0WW1zNjFlNjQ4anJRRXdWQVBzU0ZIeXdYRW9Cc1RnQjBoTUJhdTNjdWU0d1pOZHd3?oc=5",
-      "published_at": "2026-11-10T12:19:55+00:00"
+      "source": "Comex Online",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdjNiMU5TQW1aYVBJc25neEVFc25DSXk5bGNVd0lmdzllaFR6LWgtT09UazR2UWxBOTA0Z2YtdEI4eXVYaFJaOFB1bUlSQjFFQ2RXQnJDcDJhcEFLRUgxQ1kxZlVpZVktallPWDBxbmt2MG5oLUFodkpVMVMtQVBpYW5vSTZmY1Z5dlJHYk1iVlktWHJvdkVyQTM4WlFDREJZdV9WTkM1S3lCU3hzTUtwdVJDaHNSeWZYQnM0TWktS1ltVDc3R0R5Zw?oc=5",
+      "published_at": "2026-11-09T15:38:23+00:00"
     },
     {
-      "id": "eb3697f5ffd74d",
-      "title": "Argentina avanza con nuevas privatizaciones de rutas nacionales en Corrientes",
-      "summary": "Argentina avanza con nuevas privatizaciones de rutas nacionales en Corrientes Corrientes Hoy",
+      "id": "7e58167aab2fbb",
+      "title": "Los MINISTROS de Salud del Mercosur acordaron \"COORDINAR políticas\" contra el SARAMPIÓN",
+      "summary": "Los MINISTROS de Salud del Mercosur acordaron \"COORDINAR políticas\" contra el SARAMPIÓN El Destape",
       "category": "Región",
-      "source": "Corrientes Hoy",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTVAxbXpPVm9VNkoxeUNtZVJYc3JMTm82SW5iOGY1N0JtMXhxS0tVR0xORTg0TmR4XzRWRHp5Rkxmal9SVXJBN3BjdFk5SFE3TXZnWWNmZGVsRElJbEVMT19reFZXLWZ5R0VwSVhTZG1vVVBqLWdhSlJKRUl4TXJmQkV5eGdKbl85NjVON1F0UmFTT2Y4LU5abGtJOUF4WmNGREExT01ZbHdKeUFzTXFSNzZ1V1VNcU01dHlBbVVJOFludw?oc=5",
-      "published_at": "2026-11-20T14:20:05+00:00"
+      "source": "El Destape",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObHY0QjkzeUFsbktxRDNuZzBLaGNQM2pzQUg5aENHUDZucm1iaUNtQXJ4ZkZSLWp4ZnduSktaQmE0eERKTXFlV0RlbG52akQtVi1OX0E3Y1ItRE4xbXRFaHZfYlhhdjNqTnZtMFViYXRxNHh3MlV4alJmb1hNRE1iR2FaNDg5UTU2VVVmMWF3bjJZMVhwYnN5dVFzWmVlMGIxRTFlZW1BcTBvTDlROTlGM25LRldyZXpockNtb0ZsR1Z5Z9IB1gFBVV95cUxPQXFUcHNRYk91MUMtbFBpSFlub0hqYm91YTEwQldXX19EU092T3czNXRBVl9GRTZzbHZWTjVjVWhCVEI4UlFPMEpQZzdkbW5NM0FxbTV1UTNNMXQyVm1uUjJybUl0a2kyQ2huV09TMm1BdXZnNXN5cjZfT3dRc2pBcFRiRFQwNTgzSDR3MWQ5OC1FUXdGYUQ3aGxMeldIZEVGV0Rac2cyWHVzNVBfS0wtMHIwSHVFdjFGTlJ4ZVVqTTF2NWstSEJJN1VxZEg2bE1TeG5yd2RR?oc=5",
+      "published_at": "2026-11-20T21:24:10+00:00"
     },
     {
-      "id": "ba05ad3c51a743",
-      "title": "La Unión de Ex Combatientes homenajeó a las Enfermeras de 1982 y al personal sanitario del Hospital Regional",
-      "summary": "La Unión de Ex Combatientes homenajeó a las Enfermeras de 1982 y al personal sanitario del Hospital Regional Radio de Camioneros",
+      "id": "e093423a507e2b",
+      "title": "Siniestro vial. Choque fatal entre dos camiones en Córdoba: murió uno de los conductores y el otro fue hospitalizado",
+      "summary": "Siniestro vial. Choque fatal entre dos camiones en Córdoba: murió uno de los conductores y el otro fue hospitalizado Mirá El Norte",
       "category": "Ruta, salud y seguridad",
-      "source": "Radio de Camioneros",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV1lJQlFhZDgtZllYTlZKN2xiNjhNbTJSWlBYYm9RUmRqdUV5YW1kb0hGbi1mRGQtTHVoMThYSW1wdUl6QWVkY1lhWWF3NExwQzk3bHRlWGh0UFpuSUg2eTdRdWV2MEZTU2ZsVHE5cjdWMjhIMVFyTGdwUmg0MFRkRE15ZmNFLU5MX2NYWDBqRVIwb0g0TlhnRHpRRDRuU0d3NzVZYzc5YnJNNFZLVFZKeWV6SzJfcmZEVmVMellfMXJ5RV9LZWE5VVN5NDhJbXlvRHVkWGNsSm9sUQ?oc=5",
-      "published_at": "2026-11-20T11:24:08+00:00"
+      "source": "Mirá El Norte",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbjJBWU1uaDdsRUJ6dldBZUp3ejJDMVUtUDJGX2hGY2VROV91Nm9aaHVWN3M3R3ZBNzgyRUZJQmVsOTFwUHd5eC1OR1JPY2lKMjJ6ZmE5X2xIQ2t3X2M1V292MVR3TGxDbzNhN21teFVGd3dBOW5RbjhOa01NVzdmUzhJY0FON3lrTzU4cnFvX2FJdWlpblY2VlNfcmxoSDZPVnp0Wm1HMkpQeXdLV0RtUnlmZXhnVF9zUVlfYllianFacGVqVFVta1l3WTlJRm0xN2dsSFptcXVhZUk?oc=5",
+      "published_at": "2026-11-20T12:50:38+00:00"
     },
     {
       "id": "bc90004ab2e360",
@@ -569,40 +623,40 @@
       "published_at": "2026-11-05T20:51:01+00:00"
     },
     {
-      "id": "b99e7a1ac432d0",
-      "title": "Argentina busca reforzar su poder de fuego naval con tecnología italiana",
-      "summary": "Argentina busca reforzar su poder de fuego naval con tecnología italiana NotiPress",
+      "id": "33165d0401a352",
+      "title": "Camiones, logística y minería: más de 40 empresas participarán de la primera Expo Provincial de Transporte",
+      "summary": "Camiones, logística y minería: más de 40 empresas participarán de la primera Expo Provincial de Transporte Punto a Punto - Mendoza",
       "category": "Técnica y equipos",
-      "source": "NotiPress",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRENuUWxPQUJnT2pSeEpndFJXeGVWNzFhN3BNNVF2OXpJdFVZUU9UZzVvZ2tqVmp6a0Jzd2NuUmwzSFViOHprcDEtVG5rczM4V3pBcTktaXFVTUtMb2R0QldBTDhZcUo3NlJGalNoSE81TXNGM2NhYnI3cDdvanRQWjVRM1U3Wk44aEhWUnNUOHo3RVJ3TkpiamJqOTNRR1BkNDdjcdIBqgFBVV95cUxNZ0xQS2FHYi1ZenQ5QVBPSWNwQlF6TnF3aUw5NXhLaTFpR0VPdnViQjB6a3lLOVhNOG5wVzZScjNhS2x5aFVCRFVzNXRTcHVxMnN2QzFXUzZQdVNxUTd2Ui1XR3R0NE5PdGNycGNaM3BfOGlhdWlGTUFVa0NJQmdYdkdSUDFrQnBQT1ZPM01HUTVpWHN0MGhuQWprZFBvd3lSRFo5aFNrekhkZw?oc=5",
-      "published_at": "2026-11-20T17:45:00+00:00"
+      "source": "Punto a Punto - Mendoza",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3ZYYnotUzJMcDJMRVpGeEJETlhUR0NCb3ZkMGljN2hDaHJ1WWdkWklTZHdPSVRxVEs5RVdhMlQtdTc1WTFDZW84QkhaTVJyNjIzU1I2QUkwTmxXeTlQVGoteGxSOFA2eEZYWDBOaEs1c3A1Q3NPaW9QeTdXZHFoYzBHaXdTTk9uQXNkYXR0SjdHSDkyVjUySnYzekl3QnB6MkZVQUI3QXRSMVVZbDFDSVh6TXFYcFVwQWVDUmNmOHlUZXYwb1d3d09RWXJwSi1jMGFRWEJMMA?oc=5",
+      "published_at": "2026-11-20T12:19:00+00:00"
     },
     {
-      "id": "8f5f45d011d073",
-      "title": "Los costos de transporte saltan un 10,15% en marzo: la cifra más alta en dos años",
-      "summary": "Los costos de transporte saltan un 10,15% en marzo: la cifra más alta en dos años Comex Online",
+      "id": "f74efb47ad89e6",
+      "title": "Axion energy refuerza su propuesta para transporte y agro con Axion Diesel X10",
+      "summary": "Axion energy refuerza su propuesta para transporte y agro con Axion Diesel X10 Webpicking",
       "category": "Economía y costos",
-      "source": "Comex Online",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdjNiMU5TQW1aYVBJc25neEVFc25DSXk5bGNVd0lmdzllaFR6LWgtT09UazR2UWxBOTA0Z2YtdEI4eXVYaFJaOFB1bUlSQjFFQ2RXQnJDcDJhcEFLRUgxQ1kxZlVpZVktallPWDBxbmt2MG5oLUFodkpVMVMtQVBpYW5vSTZmY1Z5dlJHYk1iVlktWHJvdkVyQTM4WlFDREJZdV9WTkM1S3lCU3hzTUtwdVJDaHNSeWZYQnM0TWktS1ltVDc3R0R5Zw?oc=5",
-      "published_at": "2026-11-09T15:38:23+00:00"
+      "source": "Webpicking",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdnNtaFUxcER0aGF2bHZRVi12NThQbmlwOHFzV1ltaFROTEU5elBCaDJOZkYtZHpjVFVLeWNOYlhqcW13WFpxSF9tZlN5MG5GMDNOZHFWRUs0dk9EOEFPTThaT2xfWTUzVFE1WUVCYS1xUnhKVktULUdfRC1uZ2xMU0xBUi1NNFpnbHBQMm9uWEFMTnRBMUhBQkwzZFE1SmxFWktaZg?oc=5",
+      "published_at": "2026-11-07T14:29:57+00:00"
     },
     {
-      "id": "5181b225a4e2c3",
-      "title": "Perú golpea la logística aérea que sostiene al narcotráfico en la Amazonía",
-      "summary": "Perú golpea la logística aérea que sostiene al narcotráfico en la Amazonía Diálogo Americas",
+      "id": "aa844cc05714a3",
+      "title": "Ministros del Mercosur acuerdan fortalecer las fronteras para prevenir el sarampión",
+      "summary": "Ministros del Mercosur acuerdan fortalecer las fronteras para prevenir el sarampión Yahoo",
       "category": "Región",
-      "source": "Diálogo Americas",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV2JpMTNnRjU0MjZrR1NWMWdmbUo2UEtTZGdlU0J4RjlfX1kzTjFySzAxcGpzYU5NMjdNOHBqQmhqVnB3WlVxNVliRWRBLWN6dHJYSUtDZlh0dHc0blN4NjJxakhjZ0dCZjc5SVBBMTg5bTU4MUVMV2tiMXROdldDNmhQNUJocWFiaThPYkJpcEJ5Qkl4VDRwNUtBVDlNQXZGZ3kxRWlHd2Nobm5JSDUteER1RFdSZ3c?oc=5",
-      "published_at": "2026-11-20T11:45:47+00:00"
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQelNaTjlpbGRuaU4zel9YMlVLSDdnVjhSUzQyY01Ma1hMTl9ybHVaWHpQc0NvOUxPUFJDekZFOEV5SHhvUjBCUWtleDZ5TUJKdXZKV09GOVUxM1l6S1JuZGpwa1VCVmVBdHZCLXdXMVBFVk85OWwydlVqVG9yZFNrREJ3TDdqNFVsbkgxZlVacmExbGYybjl2Vmd4dF8?oc=5",
+      "published_at": "2026-11-20T20:58:39+00:00"
     },
     {
-      "id": "c2e65b0c9a512c",
-      "title": "Tras años de abandono, Provincia terminó el Pro.Cre.Ar. de Trelew y Torres entregó 68 viviendas a familias policiales",
-      "summary": "Tras años de abandono, Provincia terminó el Pro.Cre.Ar. de Trelew y Torres entregó 68 viviendas a familias policiales Radio de Camioneros",
+      "id": "ba05ad3c51a743",
+      "title": "La Unión de Ex Combatientes homenajeó a las Enfermeras de 1982 y al personal sanitario del Hospital Regional",
+      "summary": "La Unión de Ex Combatientes homenajeó a las Enfermeras de 1982 y al personal sanitario del Hospital Regional Radio de Camioneros",
       "category": "Ruta, salud y seguridad",
       "source": "Radio de Camioneros",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY0tVcEVKU3JTNVpmekFFeGE1dXZ5MVlTU1ZQQ1VUd0toc1NlRnZsUHdqcEladWxfdFlsdHU1Qk9QSFk4UTVrYXFGQnZMajhRZnFqZ3JGWDFoeFlhR0FCd3k3VnNxZ2ZhNVlfRWFZTFpqTnliMFZGR2phWWdjTUhwWGpGVHc4UlJqeG1kdng4TlV1YUpGV3BBZDBjZWhrd0R0M2xtY1JLUWFIR1lRaFE2a0FibkVaV3cxNXZYVU9rSXdHODh3dEhwaGx6bGd3M0dDUUoyMGZMT0RqTGh4emMxRkhIVQ?oc=5",
-      "published_at": "2026-11-19T22:56:54+00:00"
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV1lJQlFhZDgtZllYTlZKN2xiNjhNbTJSWlBYYm9RUmRqdUV5YW1kb0hGbi1mRGQtTHVoMThYSW1wdUl6QWVkY1lhWWF3NExwQzk3bHRlWGh0UFpuSUg2eTdRdWV2MEZTU2ZsVHE5cjdWMjhIMVFyTGdwUmg0MFRkRE15ZmNFLU5MX2NYWDBqRVIwb0g0TlhnRHpRRDRuU0d3NzVZYzc5YnJNNFZLVFZKeWV6SzJfcmZEVmVMellfMXJ5RV9LZWE5VVN5NDhJbXlvRHVkWGNsSm9sUQ?oc=5",
+      "published_at": "2026-11-20T11:24:08+00:00"
     },
     {
       "id": "d6dbb7ae998793",
@@ -623,60 +677,6 @@
       "published_at": "2026-11-01T21:08:01+00:00"
     },
     {
-      "id": "33165d0401a352",
-      "title": "Camiones, logística y minería: más de 40 empresas participarán de la primera Expo Provincial de Transporte",
-      "summary": "Camiones, logística y minería: más de 40 empresas participarán de la primera Expo Provincial de Transporte Punto a Punto - Mendoza",
-      "category": "Técnica y equipos",
-      "source": "Punto a Punto - Mendoza",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3ZYYnotUzJMcDJMRVpGeEJETlhUR0NCb3ZkMGljN2hDaHJ1WWdkWklTZHdPSVRxVEs5RVdhMlQtdTc1WTFDZW84QkhaTVJyNjIzU1I2QUkwTmxXeTlQVGoteGxSOFA2eEZYWDBOaEs1c3A1Q3NPaW9QeTdXZHFoYzBHaXdTTk9uQXNkYXR0SjdHSDkyVjUySnYzekl3QnB6MkZVQUI3QXRSMVVZbDFDSVh6TXFYcFVwQWVDUmNmOHlUZXYwb1d3d09RWXJwSi1jMGFRWEJMMA?oc=5",
-      "published_at": "2026-11-20T12:19:00+00:00"
-    },
-    {
-      "id": "f74efb47ad89e6",
-      "title": "Axion energy refuerza su propuesta para transporte y agro con Axion Diesel X10",
-      "summary": "Axion energy refuerza su propuesta para transporte y agro con Axion Diesel X10 Webpicking",
-      "category": "Economía y costos",
-      "source": "Webpicking",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdnNtaFUxcER0aGF2bHZRVi12NThQbmlwOHFzV1ltaFROTEU5elBCaDJOZkYtZHpjVFVLeWNOYlhqcW13WFpxSF9tZlN5MG5GMDNOZHFWRUs0dk9EOEFPTThaT2xfWTUzVFE1WUVCYS1xUnhKVktULUdfRC1uZ2xMU0xBUi1NNFpnbHBQMm9uWEFMTnRBMUhBQkwzZFE1SmxFWktaZg?oc=5",
-      "published_at": "2026-11-07T14:29:57+00:00"
-    },
-    {
-      "id": "ddb660a41cbf34",
-      "title": "La advertencia de CATLEC por beneficio tributario a camioneros",
-      "summary": "La advertencia de CATLEC por beneficio tributario a camioneros MasContainer",
-      "category": "Región",
-      "source": "MasContainer",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmN5aVBNLTh3Z2lIa3lpMVhnSXNfcXdZX2k0Z3JYY0VqeGdNVTlZUHVmWWI4Tklpc1VuX21vOE1vUU9sUkl2Nm0wSW5xSF8xcXNoLVZpdWhDU0E5cGpCV2Z2RkZJenFpcVlDa0UyNFVzWXI2VnEwS1dPWFZycEx1YzFBVmJZS2N1TDRnQjJQR2RPZw?oc=5",
-      "published_at": "2026-11-20T11:16:43+00:00"
-    },
-    {
-      "id": "482a2d3b007075",
-      "title": "\"Se están quedando encerradas en sus casas sin un futuro\": el drama de las personas con discapacidad afectadas por las políticas de Milei en Argentina",
-      "summary": "\"Se están quedando encerradas en sus casas sin un futuro\": el drama de las personas con discapacidad afectadas por las políticas de Milei en Argentina BBC",
-      "category": "Ruta, salud y seguridad",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZYURNUmJzMTVMQ09GR2trWE1DWGw2TXpQT0pNRkx2WFJqdHFLb1VDUkx3Si1HMnZvSGl4TFpyYzVwc0k4bW5pYTJCT09MNUtiYnpVOHN1eXBoMFct0gFiQVVfeXFMUHlnb1NPbmVzRXVpSThHVjFVMlZpTFJKZG5EYmlXN1Rla2FyY3dlUUNYaV8wMmR2RzlaZ3BWZHFocGVxYWZhMTNmd3dmd1l6dktHMXljRWg0dVA3RmNZZ3VldEE?oc=5",
-      "published_at": "2026-11-19T12:27:18+00:00"
-    },
-    {
-      "id": "7b897bd34d2ab0",
-      "title": "Los autos más vendidos en Argentina en octubre",
-      "summary": "Los autos más vendidos en Argentina en octubre Mega Autos",
-      "category": "Camiones y mercado",
-      "source": "Mega Autos",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NQVk3NUFBWXZNUlRZeERzVWpjOWJBd1RFRmJtN05CS01NOV8yY0VfQ2R4N2pES0NpZ3Z2d25fRi13ZzZiaTRXM3RTZURkVTJDQ1VteEo5ZUxoQ3lWeFNwU0hwQ3lIQQ?oc=5",
-      "published_at": "2026-11-03T18:34:09+00:00"
-    },
-    {
-      "id": "30f93888447b1a",
-      "title": "“Puertos, hidrovía y Aduana: el desafío de hacer más eficiente la cadena logística”",
-      "summary": "“Puertos, hidrovía y Aduana: el desafío de hacer más eficiente la cadena logística” Data Portuaria",
-      "category": "Logística y puertos",
-      "source": "Data Portuaria",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYjlVTXBPV1BuYmdKa3hIWVM0NVZteDh2TlV0MVpEc0dQQy1pZEtjeGE0cDA4UVBfV3YxSXQxRzFtc2VVa2s2MmlYVHZBeXd5Vi1JbWQ4azJBRlFUODVyOW1Mc1FVdFF3Qko1bk9jbl84YUZxSktMdGhsaEh1OHpJVkQ1bHRlZjBqdXR3QS1qZ1VIQjU1QnE1RWZZd3QyUlJtcEk1bTFISUJmVFF4LXdxbGpzWVZ4S3JnUXFkRW1CZ3dZQ1VwN3JjeQ?oc=5",
-      "published_at": "2026-10-31T15:06:00+00:00"
-    },
-    {
       "id": "2176fe68075fb6",
       "title": "Mercedes-Benz Camiones y Buses consagró al ganador del Concurso Nacional de Conductores 2026.",
       "summary": "Mercedes-Benz Camiones y Buses consagró al ganador del Concurso Nacional de Conductores 2026. Motores a Pleno",
@@ -695,34 +695,202 @@
       "published_at": "2026-11-05T08:00:00+00:00"
     },
     {
-      "id": "41d8d77be2bd27",
-      "title": "Primer año de gobierno: entre promesas de cambio y la realidad del transporte y logística y el comercio exterior de Bolivia",
-      "summary": "Primer año de gobierno: entre promesas de cambio y la realidad del transporte y logística y el comercio exterior de Bolivia Urgentebo",
+      "id": "eb3697f5ffd74d",
+      "title": "Argentina avanza con nuevas privatizaciones de rutas nacionales en Corrientes",
+      "summary": "Argentina avanza con nuevas privatizaciones de rutas nacionales en Corrientes Corrientes Hoy",
       "category": "Región",
-      "source": "Urgentebo",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUVvS2Vsb2NBRWxZakZtOUdPRUZoNXRmeFE0WGc3N2xhcEJOU1REcEMxYTd0YU1FNFA1OGVXeWNQZ05SeTk3M2NUUElURGNWeWt6dV95UDREOEQzUHpacTFvNzBTZUFHdVdKbDVWbkstSDA1ajRQR2xEZExIY0lyczVhRS1XQUVsdkNZazBSaU5pakxKT2VENzFobFZrT1QxamVJM2xfTFpwcG94U2JOSm9xNXBTR2pBVW56SHJ3?oc=5",
-      "published_at": "2026-11-20T11:16:04+00:00"
+      "source": "Corrientes Hoy",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTVAxbXpPVm9VNkoxeUNtZVJYc3JMTm82SW5iOGY1N0JtMXhxS0tVR0xORTg0TmR4XzRWRHp5Rkxmal9SVXJBN3BjdFk5SFE3TXZnWWNmZGVsRElJbEVMT19reFZXLWZ5R0VwSVhTZG1vVVBqLWdhSlJKRUl4TXJmQkV5eGdKbl85NjVON1F0UmFTT2Y4LU5abGtJOUF4WmNGREExT01ZbHdKeUFzTXFSNzZ1V1VNcU01dHlBbVVJOFludw?oc=5",
+      "published_at": "2026-11-20T14:20:05+00:00"
     },
     {
-      "id": "7d5befc0a18f5a",
-      "title": "Camioneros acordó premio por presentismo en Quilmes y quiere extenderlo a Coca-Cola",
-      "summary": "Camioneros acordó premio por presentismo en Quilmes y quiere extenderlo a Coca-Cola iProfesional",
+      "id": "c2e65b0c9a512c",
+      "title": "Tras años de abandono, Provincia terminó el Pro.Cre.Ar. de Trelew y Torres entregó 68 viviendas a familias policiales",
+      "summary": "Tras años de abandono, Provincia terminó el Pro.Cre.Ar. de Trelew y Torres entregó 68 viviendas a familias policiales Radio de Camioneros",
       "category": "Ruta, salud y seguridad",
-      "source": "iProfesional",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa2FHNTFHTEx4YU1LTFJfcmRUTjNBX1hUbktYclRlR1M3Qzh0cC1QSjRjaC00UVdkMGs3aURvS3NDU2tzbjdER1p2UFF2dUJad1dWbjEzX2lyUUJSWlZDc0ZscG5GQ2pZdVQ5WUtFN2VEZGN2YjYwbnNrUHBpT0tXQ3R3aGZoZ3I1UTM2U1JsbV85dFZRYl9fTU1ZYkprQWhub2ZkbmFHN2JGQWF6b05RVnFUWHJOd1laOVlhNG42ZFB6TXgwOXFZ0gHMAUFVX3lxTE5va19LSVRXLTZXM2NvWTlaV2ZhdnFDdXBvajJpM3FDRmNGdzBDOXFyR1NTTkZZc3Z6VGQ2bkM2aXljVTk4TDdWQ1p3Zi01WHV2T25ia0g5aDZrRGNFd01ERGxFc1ZQNXF2eDRGMVZsd1hUMjFCQVZxNTlRcTZXSDktNmtrdE9lMTJhb010U3ZEcDVQVHlZbnJERUlWcFBqWVJ3cEt0aFZpdDA4a3pWd2xsUVpkWmVsWFVjR01yRnNweVhXR2phQXQwSUQ1eA?oc=5",
-      "published_at": "2026-11-19T10:30:00+00:00"
+      "source": "Radio de Camioneros",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY0tVcEVKU3JTNVpmekFFeGE1dXZ5MVlTU1ZQQ1VUd0toc1NlRnZsUHdqcEladWxfdFlsdHU1Qk9QSFk4UTVrYXFGQnZMajhRZnFqZ3JGWDFoeFlhR0FCd3k3VnNxZ2ZhNVlfRWFZTFpqTnliMFZGR2phWWdjTUhwWGpGVHc4UlJqeG1kdng4TlV1YUpGV3BBZDBjZWhrd0R0M2xtY1JLUWFIR1lRaFE2a0FibkVaV3cxNXZYVU9rSXdHODh3dEhwaGx6bGd3M0dDUUoyMGZMT0RqTGh4emMxRkhIVQ?oc=5",
+      "published_at": "2026-11-19T22:56:54+00:00"
     },
     {
-      "id": "4a5de6bd1bdcdc",
-      "title": "Patentamientos octubre 2026: en un buen mes para los pesados, Scania se queda con el primer puesto",
-      "summary": "Patentamientos octubre 2026: en un buen mes para los pesados, Scania se queda con el primer puesto SuperTruck.com.ar",
+      "id": "7b897bd34d2ab0",
+      "title": "Los autos más vendidos en Argentina en octubre",
+      "summary": "Los autos más vendidos en Argentina en octubre Mega Autos",
       "category": "Camiones y mercado",
-      "source": "SuperTruck.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44cDEwb2lRUGFFVzRSS0p3b25kMU11Q0paQmxHODlwMXVzVkxPcGNaQlJ0WDdXNTZJSWFKRWNFR0liOEJjSmFBZDd3NmdsSVNWWVc1OU5WWldxb2RfUFlzY1J2dm5NQ2l6SHplWFVxVi1KdGxZdGM2VEY1aFpmZw?oc=5",
-      "published_at": "2026-11-02T16:31:41+00:00"
+      "source": "Mega Autos",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NQVk3NUFBWXZNUlRZeERzVWpjOWJBd1RFRmJtN05CS01NOV8yY0VfQ2R4N2pES0NpZ3Z2d25fRi13ZzZiaTRXM3RTZURkVTJDQ1VteEo5ZUxoQ3lWeFNwU0hwQ3lIQQ?oc=5",
+      "published_at": "2026-11-03T18:34:09+00:00"
     }
   ],
   "photo_items": [
+    {
+      "id": "https://transportemoderno.com.br/2026/11/25/ford-pro-cresce-em-mercado-desafiador-e-prepara-lancamentos-para-2027/",
+      "title": "Ford Pro cresce em mercado desafiador e prepara lançamentos para 2027",
+      "summary": "Montadora projeta alta de 9% em 2026, mira liderança nas picapes de trabalho e não descarta voltar aos caminhões O post Ford Pro cresce em mercado desafiador e prepara lançamentos para 2027 apareceu primeiro em Transporte Moderno .",
+      "category": "Región",
+      "source": "Transporte Moderno",
+      "url": "https://transportemoderno.com.br/2026/11/25/ford-pro-cresce-em-mercado-desafiador-e-prepara-lancamentos-para-2027/",
+      "published_at": "2026-11-25T18:57:54+00:00",
+      "country": "brasil",
+      "language": "pt",
+      "image": "https://storage.transportemoderno.com.br/uploads/2025/12/imagem-ford.jpg",
+      "image_credit": "Transporte Moderno",
+      "image_source_url": "https://transportemoderno.com.br/2026/11/25/ford-pro-cresce-em-mercado-desafiador-e-prepara-lancamentos-para-2027/"
+    },
+    {
+      "id": "https://cargapesada.com.br/cummins-amplia-centro-tecnologico-no-brasil-para-desenvolver-motores-a-gas-e-biometano/?utm_source=rss&utm_medium=rss&utm_campaign=cummins-amplia-centro-tecnologico-no-brasil-para-desenvolver-motores-a-gas-e-biometano",
+      "title": "Cummins amplia centro tecnológico no Brasil para desenvolver motores a gás e biometano",
+      "summary": "Investimento integra plano de R$ 600 milhões da companhia e prevê a adaptação de dois laboratórios para testes e validação de motores com combustíveis gasosos nos próximos dois anos Fonte: Assessoria de Imprensa O Cummins Centro Técnico Brasil (BTC), localizad",
+      "category": "Región",
+      "source": "Carga Pesada",
+      "url": "https://cargapesada.com.br/cummins-amplia-centro-tecnologico-no-brasil-para-desenvolver-motores-a-gas-e-biometano/?utm_source=rss&utm_medium=rss&utm_campaign=cummins-amplia-centro-tecnologico-no-brasil-para-desenvolver-motores-a-gas-e-biometano",
+      "published_at": "2026-11-25T17:41:30+00:00",
+      "country": "brasil",
+      "language": "pt",
+      "image": "https://cargapesada.com.br/wp-content/uploads/2026/11/cummins-amplia-centro-1.jpg",
+      "image_credit": "Carga Pesada",
+      "image_source_url": "https://cargapesada.com.br/cummins-amplia-centro-tecnologico-no-brasil-para-desenvolver-motores-a-gas-e-biometano/?utm_source=rss&utm_medium=rss&utm_campaign=cummins-amplia-centro-tecnologico-no-brasil-para-desenvolver-motores-a-gas-e-biometano"
+    },
+    {
+      "id": "https://transportemoderno.com.br/2026/11/25/cummins-vai-adaptar-motores-globais-ao-biometano-brasileiro/",
+      "title": "Cummins vai adaptar motores globais ao biometano brasileiro",
+      "summary": "Fabricante amplia centro tecnológico em Guarulhos para desenvolver e validar motores a gás com combustíveis nacionais O post Cummins vai adaptar motores globais ao biometano brasileiro apareceu primeiro em Transporte Moderno .",
+      "category": "Región",
+      "source": "Transporte Moderno",
+      "url": "https://transportemoderno.com.br/2026/11/25/cummins-vai-adaptar-motores-globais-ao-biometano-brasileiro/",
+      "published_at": "2026-11-25T17:35:24+00:00",
+      "country": "brasil",
+      "language": "pt",
+      "image": "https://storage.transportemoderno.com.br/uploads/2026/11/BTC_5_bx.jpg",
+      "image_credit": "Transporte Moderno",
+      "image_source_url": "https://transportemoderno.com.br/2026/11/25/cummins-vai-adaptar-motores-globais-ao-biometano-brasileiro/"
+    },
+    {
+      "id": "https://cargapesada.com.br/transportes-cavalinho-compra-35-caminhoes-actros-2553-6x2/?utm_source=rss&utm_medium=rss&utm_campaign=transportes-cavalinho-compra-35-caminhoes-actros-2553-6x2",
+      "title": "Transportes Cavalinho compra 35 caminhões Actros 2553 6×2",
+      "summary": "Veículo vem equipado com o motor OM 471 de 530 cv, o mais potente da marca Fonte: Assessoria de Imprensa A Transportes Cavalinho, de Vacaria, no Rio Grande do Sul, volta a contar com caminhões extrapesados Mercedes-Benz em sua frota. O cliente adquiriu 35 unid",
+      "category": "Región",
+      "source": "Carga Pesada",
+      "url": "https://cargapesada.com.br/transportes-cavalinho-compra-35-caminhoes-actros-2553-6x2/?utm_source=rss&utm_medium=rss&utm_campaign=transportes-cavalinho-compra-35-caminhoes-actros-2553-6x2",
+      "published_at": "2026-11-25T17:18:09+00:00",
+      "country": "brasil",
+      "language": "pt",
+      "image": "https://cargapesada.com.br/wp-content/uploads/2026/11/actros-2553.png",
+      "image_credit": "Carga Pesada",
+      "image_source_url": "https://cargapesada.com.br/transportes-cavalinho-compra-35-caminhoes-actros-2553-6x2/?utm_source=rss&utm_medium=rss&utm_campaign=transportes-cavalinho-compra-35-caminhoes-actros-2553-6x2"
+    },
+    {
+      "id": "https://transportemoderno.com.br/2026/11/25/congonhas-ganha-novo-espaco-de-valet-com-descontos-de-ate-30/",
+      "title": "Congonhas ganha novo espaço de valet com descontos de até 30%",
+      "summary": "Estapar e Porto renovam estrutura de atendimento no edifício-garagem do aeroporto, com serviço disponível a todos os motoristas O post Congonhas ganha novo espaço de valet com descontos de até 30% apareceu primeiro em Transporte Moderno .",
+      "category": "Región",
+      "source": "Transporte Moderno",
+      "url": "https://transportemoderno.com.br/2026/11/25/congonhas-ganha-novo-espaco-de-valet-com-descontos-de-ate-30/",
+      "published_at": "2026-11-25T17:03:25+00:00",
+      "country": "brasil",
+      "language": "pt",
+      "image": "https://storage.transportemoderno.com.br/uploads/2026/11/Untitled-1.jpg",
+      "image_credit": "Transporte Moderno",
+      "image_source_url": "https://transportemoderno.com.br/2026/11/25/congonhas-ganha-novo-espaco-de-valet-com-descontos-de-ate-30/"
+    },
+    {
+      "id": "https://transportemoderno.com.br/2026/11/25/dhl-acelera-em-ate-70-processamento-de-agendamentos-com-ia/",
+      "title": "DHL acelera em até 70% processamento de agendamentos com IA",
+      "summary": "Operadora testa automação no Brasil e monitoramento inteligente da cadeia fria no México, com planos de expansão regional O post DHL acelera em até 70% processamento de agendamentos com IA apareceu primeiro em Transporte Moderno .",
+      "category": "Región",
+      "source": "Transporte Moderno",
+      "url": "https://transportemoderno.com.br/2026/11/25/dhl-acelera-em-ate-70-processamento-de-agendamentos-com-ia/",
+      "published_at": "2026-11-25T16:43:08+00:00",
+      "country": "brasil",
+      "language": "pt",
+      "image": "https://storage.transportemoderno.com.br/uploads/2026/11/dhl.jpeg",
+      "image_credit": "Transporte Moderno",
+      "image_source_url": "https://transportemoderno.com.br/2026/11/25/dhl-acelera-em-ate-70-processamento-de-agendamentos-com-ia/"
+    },
+    {
+      "id": "https://transportemoderno.com.br/2026/11/25/novas-regras-de-seguranca-maritima-podem-levar-navios-aos-estaleiros/",
+      "title": "Novas regras de segurança marítima podem levar navios aos estaleiros",
+      "summary": "Exigências para embarque e desembarque de práticos entram em vigor em 2028 e podem demandar intervenções estruturais nas embarcações O post Novas regras de segurança marítima podem levar navios aos estaleiros apareceu primeiro em Transporte Moderno .",
+      "category": "Región",
+      "source": "Transporte Moderno",
+      "url": "https://transportemoderno.com.br/2026/11/25/novas-regras-de-seguranca-maritima-podem-levar-navios-aos-estaleiros/",
+      "published_at": "2026-11-25T16:27:35+00:00",
+      "country": "brasil",
+      "language": "pt",
+      "image": "https://storage.transportemoderno.com.br/uploads/2026/11/Maritime-Pilot-Transfer-at-Sunset.png",
+      "image_credit": "Transporte Moderno",
+      "image_source_url": "https://transportemoderno.com.br/2026/11/25/novas-regras-de-seguranca-maritima-podem-levar-navios-aos-estaleiros/"
+    },
+    {
+      "id": "https://transportemoderno.com.br/2026/11/25/aviacao-executiva-bate-recorde-e-pressiona-infraestrutura/",
+      "title": "Aviação executiva bate recorde e pressiona infraestrutura",
+      "summary": "Com 3,9 milhões decolagens em 2025, setor enfrenta restrições na oferta de hangares, estacionamento e serviços de manutenção O post Aviação executiva bate recorde e pressiona infraestrutura apareceu primeiro em Transporte Moderno .",
+      "category": "Región",
+      "source": "Transporte Moderno",
+      "url": "https://transportemoderno.com.br/2026/11/25/aviacao-executiva-bate-recorde-e-pressiona-infraestrutura/",
+      "published_at": "2026-11-25T16:16:04+00:00",
+      "country": "brasil",
+      "language": "pt",
+      "image": "https://storage.transportemoderno.com.br/uploads/2026/11/aviacao_executiva-1.jpg",
+      "image_credit": "Transporte Moderno",
+      "image_source_url": "https://transportemoderno.com.br/2026/11/25/aviacao-executiva-bate-recorde-e-pressiona-infraestrutura/"
+    },
+    {
+      "id": "https://transportemoderno.com.br/2026/11/25/dragagem-insuficiente-pode-encarecer-fretes-maritimos-no-brasil/",
+      "title": "Dragagem insuficiente pode encarecer fretes marítimos no Brasil",
+      "summary": "Setor articula mudanças nas operações portuárias, enquanto obra de R$ 617,9 milhões para aprofundar canal de Santos permanece suspensa O post Dragagem insuficiente pode encarecer fretes marítimos no Brasil apareceu primeiro em Transporte Moderno .",
+      "category": "Región",
+      "source": "Transporte Moderno",
+      "url": "https://transportemoderno.com.br/2026/11/25/dragagem-insuficiente-pode-encarecer-fretes-maritimos-no-brasil/",
+      "published_at": "2026-11-25T15:53:47+00:00",
+      "country": "brasil",
+      "language": "pt",
+      "image": "https://storage.transportemoderno.com.br/uploads/2026/09/porto-de-santos.jpg",
+      "image_credit": "Transporte Moderno",
+      "image_source_url": "https://transportemoderno.com.br/2026/11/25/dragagem-insuficiente-pode-encarecer-fretes-maritimos-no-brasil/"
+    },
+    {
+      "id": "https://transportemoderno.com.br/2026/11/25/rodonaves-expande-malha-nacional-e-prepara-novo-hub-logistico/",
+      "title": "Rodonaves expande malha nacional e prepara novo hub logístico",
+      "summary": "Grupo encerra 2026 com avanços em três regiões do país e amplia em 80% a área de cross-docking em Sorocaba O post Rodonaves expande malha nacional e prepara novo hub logístico apareceu primeiro em Transporte Moderno .",
+      "category": "Región",
+      "source": "Transporte Moderno",
+      "url": "https://transportemoderno.com.br/2026/11/25/rodonaves-expande-malha-nacional-e-prepara-novo-hub-logistico/",
+      "published_at": "2026-11-25T15:35:58+00:00",
+      "country": "brasil",
+      "language": "pt",
+      "image": "https://storage.transportemoderno.com.br/uploads/2026/11/rodonaves.jpg",
+      "image_credit": "Transporte Moderno",
+      "image_source_url": "https://transportemoderno.com.br/2026/11/25/rodonaves-expande-malha-nacional-e-prepara-novo-hub-logistico/"
+    },
+    {
+      "id": "https://transportemoderno.com.br/2026/11/25/jsl-abre-444-vagas-de-emprego-no-interior-paulista/",
+      "title": "JSL abre 444 vagas de emprego no interior paulista",
+      "summary": "Transportadora oferece 244 oportunidades para motoristas e 200 para profissionais de manutenção e operação; seleção termina em 27 de novembro O post JSL abre 444 vagas de emprego no interior paulista apareceu primeiro em Transporte Moderno .",
+      "category": "Región",
+      "source": "Transporte Moderno",
+      "url": "https://transportemoderno.com.br/2026/11/25/jsl-abre-444-vagas-de-emprego-no-interior-paulista/",
+      "published_at": "2026-11-25T15:26:06+00:00",
+      "country": "brasil",
+      "language": "pt",
+      "image": "https://storage.transportemoderno.com.br/uploads/2026/06/WhatsApp-Image-2026-06-24-at-5.21.44-PM-1.jpeg",
+      "image_credit": "Transporte Moderno",
+      "image_source_url": "https://transportemoderno.com.br/2026/11/25/jsl-abre-444-vagas-de-emprego-no-interior-paulista/"
+    },
+    {
+      "id": "https://transportemoderno.com.br/2026/11/25/quem-transporta-os-caminhoes-expostos-na-fenatran/",
+      "title": "Quem transporta os caminhões expostos na Fenatran?",
+      "summary": "Com 4 mil veículos comerciais movimentados por mês, SVD projeta crescimento de 15% na receita em 2026 O post Quem transporta os caminhões expostos na Fenatran? apareceu primeiro em Transporte Moderno .",
+      "category": "Región",
+      "source": "Transporte Moderno",
+      "url": "https://transportemoderno.com.br/2026/11/25/quem-transporta-os-caminhoes-expostos-na-fenatran/",
+      "published_at": "2026-11-25T15:21:27+00:00",
+      "country": "brasil",
+      "language": "pt",
+      "image": "https://storage.transportemoderno.com.br/uploads/2026/11/DJI-0011.JPG.jpeg",
+      "image_credit": "Transporte Moderno",
+      "image_source_url": "https://transportemoderno.com.br/2026/11/25/quem-transporta-os-caminhoes-expostos-na-fenatran/"
+    },
     {
       "id": "https://www.camionesybuses.com.ar/conductoras-egresaron-11-nuevas-participantes-del-programa-de-scania-y-ya-son-95-mujeres-que-se-sumaron-al-sector-del-transporte-202618447/",
       "title": "Conductoras: egresaron 11 nuevas participantes del programa de Scania y ya son 95 mujeres que se sumaron al sector del transporte",
@@ -808,20 +976,6 @@
       "image_source_url": "https://transportemoderno.com.br/2026/11/24/transporte-aereo-de-cargas-movimenta-443-mil-toneladas-em-outubro-gollog-lidera-mercado-domestico/"
     },
     {
-      "id": "https://transportemoderno.com.br/2026/11/24/suape-entra-na-rota-do-biocombustivel-maritimo-e-recebe-primeiro-abastecimento-de-bunker-b30-da-transpetro/",
-      "title": "Suape entra na rota do biocombustível marítimo e recebe primeiro abastecimento de bunker B30 da Transpetro",
-      "summary": "Operação de 520 toneladas coloca porto pernambucano como único do Norte e Nordeste a distribuir combustível marítimo renovável O post Suape entra na rota do biocombustível marítimo e recebe primeiro abastecimento de bunker B30 da Transpetro apareceu primeiro e",
-      "category": "Región",
-      "source": "Transporte Moderno",
-      "url": "https://transportemoderno.com.br/2026/11/24/suape-entra-na-rota-do-biocombustivel-maritimo-e-recebe-primeiro-abastecimento-de-bunker-b30-da-transpetro/",
-      "published_at": "2026-11-24T13:00:00+00:00",
-      "country": "brasil",
-      "language": "pt",
-      "image": "https://storage.transportemoderno.com.br/uploads/2026/11/tanspetro.jpg",
-      "image_credit": "Transporte Moderno",
-      "image_source_url": "https://transportemoderno.com.br/2026/11/24/suape-entra-na-rota-do-biocombustivel-maritimo-e-recebe-primeiro-abastecimento-de-bunker-b30-da-transpetro/"
-    },
-    {
       "id": "https://transportemoderno.com.br/2026/11/24/sao-paulo-preve-investir-r-25-bilhoes-na-modernizacao-de-14-travessias-aquaviarias/",
       "title": "São Paulo prevê investir R$ 2,5 bilhões na modernização de 14 travessias aquaviárias",
       "summary": "PPP prevê a aquisição de 45 embarcações, sendo 41 elétricas, e a redução de até 18 mil toneladas anuais de CO₂ nas operações litorâneas O post São Paulo prevê investir R$ 2,5 bilhões na modernização de 14 travessias aquaviárias apareceu primeiro em Transporte ",
@@ -834,20 +988,6 @@
       "image": "https://storage.transportemoderno.com.br/uploads/2026/11/Golden-Hour-Ferry-Cruise.jpg",
       "image_credit": "Transporte Moderno",
       "image_source_url": "https://transportemoderno.com.br/2026/11/24/sao-paulo-preve-investir-r-25-bilhoes-na-modernizacao-de-14-travessias-aquaviarias/"
-    },
-    {
-      "id": "https://transportemoderno.com.br/2026/11/24/hackers-exigem-us-5-milhoes-da-maersk-apos-ciberataque/",
-      "title": "Hackers exigem US$ 5 milhões da Maersk após ciberataque",
-      "summary": "Grupo WhiteArmor afirma ter roubado cerca de 30 mil registros de motoristas e ameaça divulgar informações; armadora confirma incidente, mas diz que operações seguem normais O post Hackers exigem US$ 5 milhões da Maersk após ciberataque apareceu primeiro em Tra",
-      "category": "Región",
-      "source": "Transporte Moderno",
-      "url": "https://transportemoderno.com.br/2026/11/24/hackers-exigem-us-5-milhoes-da-maersk-apos-ciberataque/",
-      "published_at": "2026-11-24T12:36:00+00:00",
-      "country": "brasil",
-      "language": "pt",
-      "image": "https://storage.transportemoderno.com.br/uploads/2026/11/Maersk-Port-Under-Cyberattack.jpg",
-      "image_credit": "Transporte Moderno",
-      "image_source_url": "https://transportemoderno.com.br/2026/11/24/hackers-exigem-us-5-milhoes-da-maersk-apos-ciberataque/"
     },
     {
       "id": "https://transportemoderno.com.br/2026/11/24/integracao-ferroviaria-no-porto-de-santos-vence-premio-do-bndes/",
@@ -1254,158 +1394,18 @@
       "image": "https://storage.transportemoderno.com.br/uploads/2026/02/diesel.jpg",
       "image_credit": "Transporte Moderno",
       "image_source_url": "https://transportemoderno.com.br/2026/11/19/diesel-fica-13-mais-barato-em-novembro-mas-retirada-de-subsidio-preocupa-transportadoras/"
-    },
-    {
-      "id": "https://cargapesada.com.br/setor-de-implementos-estima-r-3-bilhoes-em-negocios-na-fenatran/?utm_source=rss&utm_medium=rss&utm_campaign=setor-de-implementos-estima-r-3-bilhoes-em-negocios-na-fenatran",
-      "title": "Setor de implementos estima R$ 3 bilhões em negócios na Fenatran",
-      "summary": "Estimativa é que as negociações respondam pela venda de aproximadamente 15 mil equipamentos; Move Brasil passa a ser permanente e deve trazer reflexos positivos aos negócios A indústria de implementos rodoviários deverá realizar aproximadamente R$ 3 bilhões em",
-      "category": "Región",
-      "source": "Carga Pesada",
-      "url": "https://cargapesada.com.br/setor-de-implementos-estima-r-3-bilhoes-em-negocios-na-fenatran/?utm_source=rss&utm_medium=rss&utm_campaign=setor-de-implementos-estima-r-3-bilhoes-em-negocios-na-fenatran",
-      "published_at": "2026-11-19T13:08:46+00:00",
-      "country": "brasil",
-      "language": "pt",
-      "image": "https://cargapesada.com.br/wp-content/uploads/2026/10/librelato-graneleiro.jpg",
-      "image_credit": "Carga Pesada",
-      "image_source_url": "https://cargapesada.com.br/setor-de-implementos-estima-r-3-bilhoes-em-negocios-na-fenatran/?utm_source=rss&utm_medium=rss&utm_campaign=setor-de-implementos-estima-r-3-bilhoes-em-negocios-na-fenatran"
-    },
-    {
-      "id": "https://www.camionesybuses.com.ar/referente-en-eficiencia-el-motor-scania-super-11-litros-fue-elegido-truck-of-the-year-latin-america-2027-202618436/",
-      "title": "Referente en eficiencia: el motor Scania Super 11 litros fue elegido Truck of the Year Latin America 2027",
-      "summary": "Scania obtuvo uno de los principales reconocimientos de la industria regional al consagrarse ganadora del premio Truck of the Year Latin America 2027 con su nueva línea Super 11 litros. La distinción fue anunciada durante Fenatran 2026, en Brasil, y... La entr",
-      "category": "Camiones y mercado",
-      "source": "Camiones y Buses",
-      "url": "https://www.camionesybuses.com.ar/referente-en-eficiencia-el-motor-scania-super-11-litros-fue-elegido-truck-of-the-year-latin-america-2027-202618436/",
-      "published_at": "2026-11-19T11:16:24+00:00",
-      "country": "argentina",
-      "language": "es",
-      "image": "https://www.camionesybuses.com.ar/wp-content/uploads/2026/11/Scania-Super-Latin-Truck-of-the-Year-2027-port.jpg",
-      "image_credit": "Camiones y Buses",
-      "image_source_url": "https://www.camionesybuses.com.ar/referente-en-eficiencia-el-motor-scania-super-11-litros-fue-elegido-truck-of-the-year-latin-america-2027-202618436/"
-    },
-    {
-      "id": "https://cargapesada.com.br/moreflex-reune-rede-credenciada-do-brasil-e-da-argentina-em-convencao-em-curitiba/?utm_source=rss&utm_medium=rss&utm_campaign=moreflex-reune-rede-credenciada-do-brasil-e-da-argentina-em-convencao-em-curitiba",
-      "title": "Moreflex reúne rede credenciada do Brasil e da Argentina em convenção em Curitiba",
-      "summary": "MOREFLEX EXPERIENCE apresentou novos produtos e tecnologia que promete reduzir em até 52% o tempo de vulcanização em autoclave A Moreflex reuniu, no dia 12 de novembro, em Curitiba (PR), representantes de sua rede credenciada do Brasil e da Argentina para a se",
-      "category": "Región",
-      "source": "Carga Pesada",
-      "url": "https://cargapesada.com.br/moreflex-reune-rede-credenciada-do-brasil-e-da-argentina-em-convencao-em-curitiba/?utm_source=rss&utm_medium=rss&utm_campaign=moreflex-reune-rede-credenciada-do-brasil-e-da-argentina-em-convencao-em-curitiba",
-      "published_at": "2026-11-18T15:51:58+00:00",
-      "country": "brasil",
-      "language": "pt",
-      "image": "https://cargapesada.com.br/wp-content/uploads/2026/11/Eldon-Dresch-300x199.jpg",
-      "image_credit": "Carga Pesada",
-      "image_source_url": "https://cargapesada.com.br/moreflex-reune-rede-credenciada-do-brasil-e-da-argentina-em-convencao-em-curitiba/?utm_source=rss&utm_medium=rss&utm_campaign=moreflex-reune-rede-credenciada-do-brasil-e-da-argentina-em-convencao-em-curitiba"
-    },
-    {
-      "id": "https://transportemoderno.com.br/2026/11/18/novas-regras-do-ciot-ampliam-responsabilidades-de-embarcadores-no-transporte-de-cargas/",
-      "title": "Novas regras do CIOT ampliam responsabilidades de embarcadores no transporte de cargas",
-      "summary": "Vinculação do MDF-e ao CIOT amplia as exigências de controle sobre a contratação e o pagamento do transporte rodoviário de cargas O post Novas regras do CIOT ampliam responsabilidades de embarcadores no transporte de cargas apareceu primeiro em Transporte Mode",
-      "category": "Región",
-      "source": "Transporte Moderno",
-      "url": "https://transportemoderno.com.br/2026/11/18/novas-regras-do-ciot-ampliam-responsabilidades-de-embarcadores-no-transporte-de-cargas/",
-      "published_at": "2026-11-18T14:54:01+00:00",
-      "country": "brasil",
-      "language": "pt",
-      "image": "https://storage.transportemoderno.com.br/uploads/2026/11/Sem-titulo.jpg",
-      "image_credit": "Transporte Moderno",
-      "image_source_url": "https://transportemoderno.com.br/2026/11/18/novas-regras-do-ciot-ampliam-responsabilidades-de-embarcadores-no-transporte-de-cargas/"
-    },
-    {
-      "id": "https://transportemoderno.com.br/2026/11/18/juros-e-inadimplencia-devem-frear-mercado-de-caminhoes-em-2027-diz-executivo-da-volvo/",
-      "title": "Juros e inadimplência devem frear mercado de caminhões em 2027, diz executivo da Volvo",
-      "summary": "A cautela nas projeções contrasta com o resultado da fabricante na Fenatran 2026, onde movimentou R$ 3,5 bilhões em negócios O post Juros e inadimplência devem frear mercado de caminhões em 2027, diz executivo da Volvo apareceu primeiro em Transporte Moderno .",
-      "category": "Región",
-      "source": "Transporte Moderno",
-      "url": "https://transportemoderno.com.br/2026/11/18/juros-e-inadimplencia-devem-frear-mercado-de-caminhoes-em-2027-diz-executivo-da-volvo/",
-      "published_at": "2026-11-18T13:46:38+00:00",
-      "country": "brasil",
-      "language": "pt",
-      "image": "https://storage.transportemoderno.com.br/uploads/2022/11/Alcides-Volvo-Cavalcanti-e1668426989408.jpeg",
-      "image_credit": "Transporte Moderno",
-      "image_source_url": "https://transportemoderno.com.br/2026/11/18/juros-e-inadimplencia-devem-frear-mercado-de-caminhoes-em-2027-diz-executivo-da-volvo/"
-    },
-    {
-      "id": "https://transportemoderno.com.br/2026/11/18/conheca-o-projeto-que-pode-integrar-as-ferrovias-brasileiras-e-ampliar-o-transporte-de-cargas/",
-      "title": "Conheça o projeto que pode integrar as ferrovias brasileiras e ampliar o transporte de cargas",
-      "summary": "Estudo contratado pela MRS Logística e desenvolvido pela TÜV Rheinland vai mapear barreiras técnicas e regulatórias para permitir que diferentes concessionárias compartilhem a malha ferroviária O post Conheça o projeto que pode integrar as ferrovias brasileira",
-      "category": "Región",
-      "source": "Transporte Moderno",
-      "url": "https://transportemoderno.com.br/2026/11/18/conheca-o-projeto-que-pode-integrar-as-ferrovias-brasileiras-e-ampliar-o-transporte-de-cargas/",
-      "published_at": "2026-11-18T12:45:06+00:00",
-      "country": "brasil",
-      "language": "pt",
-      "image": "https://storage.transportemoderno.com.br/uploads/2026/03/mrs-logistica.jpeg",
-      "image_credit": "Transporte Moderno",
-      "image_source_url": "https://transportemoderno.com.br/2026/11/18/conheca-o-projeto-que-pode-integrar-as-ferrovias-brasileiras-e-ampliar-o-transporte-de-cargas/"
-    },
-    {
-      "id": "https://transportemoderno.com.br/2026/11/18/companhias-aereas-terao-de-cortar-emissoes-a-partir-de-janeiro/",
-      "title": "Companhias aéreas terão de cortar emissões a partir de janeiro",
-      "summary": "Anac estabelece redução obrigatória de CO₂ em voos domésticos e exige apresentação de planos de monitoramento até 15 de dezembro O post Companhias aéreas terão de cortar emissões a partir de janeiro apareceu primeiro em Transporte Moderno .",
-      "category": "Región",
-      "source": "Transporte Moderno",
-      "url": "https://transportemoderno.com.br/2026/11/18/companhias-aereas-terao-de-cortar-emissoes-a-partir-de-janeiro/",
-      "published_at": "2026-11-18T12:20:00+00:00",
-      "country": "brasil",
-      "language": "pt",
-      "image": "https://storage.transportemoderno.com.br/uploads/2026/03/aereo.jpg",
-      "image_credit": "Transporte Moderno",
-      "image_source_url": "https://transportemoderno.com.br/2026/11/18/companhias-aereas-terao-de-cortar-emissoes-a-partir-de-janeiro/"
-    },
-    {
-      "id": "https://www.camionesybuses.com.ar/ya-esta-en-la-region-volvo-presento-el-fh-100-anos-en-brasil-una-edicion-exclusiva-para-celebrar-su-centenario-202618431/",
-      "title": "Ya está en la región: Volvo presentó el FH 100 Años en Brasil, una edición exclusiva para celebrar su centenario",
-      "summary": "Volvo aprovechó su participación en Fenatran 2026 para presentar una edición conmemorativa de uno de sus productos más emblemáticos: el FH 100 Años. Se trata de una serie especial desarrollada para anticipar la celebración del centenario del Grupo Volvo, que..",
-      "category": "Camiones y mercado",
-      "source": "Camiones y Buses",
-      "url": "https://www.camionesybuses.com.ar/ya-esta-en-la-region-volvo-presento-el-fh-100-anos-en-brasil-una-edicion-exclusiva-para-celebrar-su-centenario-202618431/",
-      "published_at": "2026-11-18T12:16:29+00:00",
-      "country": "argentina",
-      "language": "es",
-      "image": "https://www.camionesybuses.com.ar/wp-content/uploads/2026/11/Volvo-FH-100-anos-BR-port.jpg",
-      "image_credit": "Camiones y Buses",
-      "image_source_url": "https://www.camionesybuses.com.ar/ya-esta-en-la-region-volvo-presento-el-fh-100-anos-en-brasil-una-edicion-exclusiva-para-celebrar-su-centenario-202618431/"
-    },
-    {
-      "id": "https://transportemoderno.com.br/2026/11/18/cabotagem-entre-nordeste-e-sul-promete-frete-ate-30-mais-barato/",
-      "title": "Cabotagem entre Nordeste e Sul promete frete até 30% mais barato",
-      "summary": "Nova rota entre Piauí e Santa Catarina deve começar em 2027, com viagens mensais; desafio será garantir cargas nos dois sentidos O post Cabotagem entre Nordeste e Sul promete frete até 30% mais barato apareceu primeiro em Transporte Moderno .",
-      "category": "Región",
-      "source": "Transporte Moderno",
-      "url": "https://transportemoderno.com.br/2026/11/18/cabotagem-entre-nordeste-e-sul-promete-frete-ate-30-mais-barato/",
-      "published_at": "2026-11-18T12:11:00+00:00",
-      "country": "brasil",
-      "language": "pt",
-      "image": "https://storage.transportemoderno.com.br/uploads/2026/06/itajai.jpg",
-      "image_credit": "Transporte Moderno",
-      "image_source_url": "https://transportemoderno.com.br/2026/11/18/cabotagem-entre-nordeste-e-sul-promete-frete-ate-30-mais-barato/"
-    },
-    {
-      "id": "https://transportemoderno.com.br/2026/11/18/quanto-custa-manter-um-caminhao-parado-por-dia/",
-      "title": "Quanto custa manter um caminhão parado por dia?",
-      "summary": "Além da perda de faturamento, despesas fixas continuam pesando no caixa das transportadoras; envelhecimento da frota e manutenção ampliam os desafios da gestão operacional O post Quanto custa manter um caminhão parado por dia? apareceu primeiro em Transporte M",
-      "category": "Región",
-      "source": "Transporte Moderno",
-      "url": "https://transportemoderno.com.br/2026/11/18/quanto-custa-manter-um-caminhao-parado-por-dia/",
-      "published_at": "2026-11-18T12:10:00+00:00",
-      "country": "brasil",
-      "language": "pt",
-      "image": "https://storage.transportemoderno.com.br/uploads/2026/11/Truck-Breakdown-at-Sunset.jpg",
-      "image_credit": "Transporte Moderno",
-      "image_source_url": "https://transportemoderno.com.br/2026/11/18/quanto-custa-manter-um-caminhao-parado-por-dia/"
     }
   ],
   "health": {
     "photos": {
       "status": "ok",
-      "checked_at": "2026-11-25T14:30:20.108573+00:00",
+      "checked_at": "2026-11-26T00:28:43.752120+00:00",
       "successful_sources": 4,
       "total_sources": 4,
       "failures": [],
-      "current_candidates": 18,
+      "current_candidates": 19,
       "retained_items": 48,
-      "latest_published_at": "2026-11-25T11:00:52+00:00"
+      "latest_published_at": "2026-11-25T18:57:54+00:00"
     },
     "status": "ok",
     "source": "google-news",
@@ -1421,7 +1421,7 @@
     "successful_queries": 14,
     "total_queries": 14,
     "failed_queries": [],
-    "new_candidates": 146,
+    "new_candidates": 137,
     "published_items": 80
   }
 }
